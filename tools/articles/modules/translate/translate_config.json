@@ -9,29 +9,29 @@
   "retry_attempts": 2,
   "retry_delay": 5,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["es", "pt", "ja", "ko", "fr", "de", "it"],
   "default_language": "en",
   "output_dir": "content/",
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "Reawakened",
+    "es": "Reawakened",
+    "pt": "Reawakened",
+    "ja": "Reawakened",
+    "ko": "Reawakened",
+    "fr": "Reawakened",
+    "de": "Reawakened",
+    "it": "Reawakened"
   },
 
   "lang_names": {
-    "ru": "Russian",
-    "pt": "Portuguese (Brazil)",
-    "de": "German",
     "es": "Spanish (Latin America)",
+    "pt": "Portuguese (Brazil)",
     "ja": "Japanese",
     "ko": "Korean",
-    "fr": "French"
+    "fr": "French",
+    "de": "German",
+    "it": "Italian"
   },
 
   "batch_size": 20,

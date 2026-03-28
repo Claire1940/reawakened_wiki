@@ -10,14 +10,7 @@
       "twitterDescription": "Reawakened Wiki covers active codes, best classes, traits, progression paths, and dungeons for this new Roblox RPG."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",

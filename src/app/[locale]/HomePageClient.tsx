@@ -300,6 +300,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               { id: 'fame-guide', label: 'Reawakened Fame' },
               { id: 'endgame-guide', label: 'Reawakened Endgame' },
               { id: 'character-import-guide', label: 'Character Import' },
+              { id: 'heirloom-guide', label: 'Reawakened Heirloom' },
+              { id: 'achievements-guide', label: 'Reawakened Achievements' },
+              { id: 'cheats-guide', label: 'Reawakened Cheats' },
+              { id: 'steam-deck-guide', label: 'Reawakened Steam Deck' },
             ].map(({ id, label }) => (
               <button
                 key={id}
@@ -347,7 +351,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 'beginner-guide', 'best-builds', 'hunter-ranks', 'game-faq',
                 'update-log', 'build-tips', 'community-links', 'early-tips',
                 'fishing-guide', 'side-quests-guide', 'weapons-guide', 'spells-guide',
-                'gems-guide', 'fame-guide', 'endgame-guide', 'character-import-guide'
+                'gems-guide', 'fame-guide', 'endgame-guide', 'character-import-guide',
+                'heirloom-guide', 'achievements-guide', 'cheats-guide', 'steam-deck-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -1166,6 +1171,128 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                   <h3 className="font-bold mb-1.5 leading-snug">{item.label}</h3>
                   <p className="text-sm text-muted-foreground">{item.content}</p>
                 </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 25: Reawakened Heirloom Guide */}
+      <section id="heirloom-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Star className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendHeirloomGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendHeirloomGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendHeirloomGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.reawakendHeirloomGuide.items.map((item: any, index: number) => (
+              <div key={index} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center font-bold text-[hsl(var(--nav-theme-light))] text-sm">
+                  {item.step}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <h3 className="font-bold mb-1.5 leading-snug">{item.label}</h3>
+                  <p className="text-sm text-muted-foreground">{item.content}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 26: Reawakened Achievements Guide */}
+      <section id="achievements-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Target className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendAchievementsGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendAchievementsGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendAchievementsGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-6">
+            {t.modules.reawakendAchievementsGuide.categories.map((cat: any, catIndex: number) => (
+              <div key={catIndex} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.4)] transition-colors">
+                <h3 className="font-bold text-base mb-4 pb-3 border-b border-border text-[hsl(var(--nav-theme-light))]">{cat.section}</h3>
+                <ul className="space-y-2.5">
+                  {cat.entries.map((entry: any, entryIndex: number) => (
+                    <li key={entryIndex} className="flex items-start gap-3">
+                      <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-0.5" />
+                      <div className="min-w-0">
+                        <span className="font-semibold text-sm">{entry.name}</span>
+                        <span className="text-sm text-muted-foreground"> — {entry.requirement}</span>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 27: Reawakened Cheats and Console Commands */}
+      <section id="cheats-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Settings className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendCheatsGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendCheatsGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendCheatsGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.reawakendCheatsGuide.cards.map((card: any, cardIndex: number) => (
+              <div key={cardIndex} className="flex flex-col p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <h3 className="font-bold text-base mb-2">{card.cardTitle}</h3>
+                <p className="text-xs text-muted-foreground mb-3 italic">{card.openInput}</p>
+                <ul className="space-y-2 mb-3 flex-1">
+                  {card.commands.map((cmd: any, cmdIndex: number) => (
+                    <li key={cmdIndex} className="flex flex-col gap-0.5">
+                      <code className="text-xs bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] px-2 py-0.5 rounded font-mono w-fit">{cmd.code}</code>
+                      <span className="text-xs text-muted-foreground pl-1">{cmd.effect}</span>
+                    </li>
+                  ))}
+                </ul>
+                <p className="text-xs text-muted-foreground border-t border-border pt-2 mt-auto italic">{card.note}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 28: Reawakened Steam Deck and Controller Guide */}
+      <section id="steam-deck-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Sparkles className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendSteamDeckGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendSteamDeckGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendSteamDeckGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-6">
+            {t.modules.reawakendSteamDeckGuide.sections.map((sec: any, secIndex: number) => (
+              <div key={secIndex} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.4)] transition-colors">
+                <h3 className="font-bold text-base mb-4 pb-3 border-b border-border text-[hsl(var(--nav-theme-light))]">{sec.section}</h3>
+                <ul className="space-y-3">
+                  {sec.entries.map((entry: any, entryIndex: number) => (
+                    <li key={entryIndex} className="flex items-start gap-3">
+                      <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-0.5" />
+                      <div className="min-w-0">
+                        <p className="text-sm font-semibold">{entry.label}</p>
+                        <p className="text-sm text-muted-foreground">{entry.detail}</p>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
               </div>
             ))}
           </div>

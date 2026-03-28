@@ -178,6 +178,26 @@
         "icon": "Download",
         "title": "Reawakened Character Import",
         "description": "How carry-over works across all four games"
+      },
+      {
+        "icon": "Star",
+        "title": "Reawakened Heirloom Guide",
+        "description": "Retire, pass down heirlooms, and power up descendants"
+      },
+      {
+        "icon": "Target",
+        "title": "Reawakened Achievements Guide",
+        "description": "Full achievement checklist by category"
+      },
+      {
+        "icon": "Settings",
+        "title": "Reawakened Cheats Guide",
+        "description": "Classic console command inputs and cheat reference"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Reawakened Steam Deck Guide",
+        "description": "Steam Deck setup, controller quirks, and workarounds"
       }
     ]
   },
@@ -1220,6 +1240,225 @@
           "step": 6,
           "label": "Do not plan around old original saves",
           "content": "Characters from the original pre-remaster games cannot be transferred into the remaster at launch. The import system to plan around is the forward carry path inside the remastered bundle itself."
+        }
+      ]
+    },
+    "reawakendHeirloomGuide": {
+      "title": "Reawakened Heirloom Guide",
+      "eyebrow": "Legacy System",
+      "intro": "After beating a campaign in Reawakened, you can retire your hero and create a descendant. During retirement you choose one item to pass down as a family heirloom, and its bonuses are increased. Planning sockets, gems, and future generations before you retire makes the system far more powerful.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Retire after clearing the campaign",
+          "content": "Retirement becomes available after beating the game. When you retire, your hero becomes an ancestor and you start the next run as a descendant instead of continuing with the same active character."
+        },
+        {
+          "step": 2,
+          "label": "Pass down one item only",
+          "content": "You choose a single heirloom item when retiring, so every slot choice matters. Pick a piece with bonuses you want to feel from the very start of a new run."
+        },
+        {
+          "step": 3,
+          "label": "Use sockets before you lock the item in",
+          "content": "Heirlooms gain stronger written bonuses, and socketed bonuses matter as part of that plan. Socket strategy is especially valuable because gem-boosted effects interact well with heirloom growth over multiple generations."
+        },
+        {
+          "step": 4,
+          "label": "Know the core stat rule",
+          "content": "Heirloom bonuses are increased by 25% each time the item is passed down. Even a small socketed bonus like +1 All Skills can round up to +2 after inheritance, which is why compact bonus-rich items scale so well."
+        },
+        {
+          "step": 5,
+          "label": "Plan for multiple generations",
+          "content": "A strong heirloom is built for repeat use, not just one descendant. Repeated inheritance compounds the item's current value, so long-term pieces with flexible stats, useful sockets, and broad build value outperform short-lived stopgaps."
+        },
+        {
+          "step": 6,
+          "label": "Understand what happens to the old hero",
+          "content": "Once retired, that hero is no longer your active character. In The Cursed King, the ancestor can later be hired again, but the normal expectation is that retirement is a handoff to the next generation."
+        }
+      ]
+    },
+    "reawakendAchievementsGuide": {
+      "title": "Reawakened Achievements Guide",
+      "eyebrow": "Completion",
+      "intro": "Reawakened spreads its achievement list across pets, fishing, quests, combat, economy, and long-run progression. Tracking them in clusters while you play is far more efficient than chasing them at the end.",
+      "categories": [
+        {
+          "section": "Town, Loot, and Economy",
+          "entries": [
+            { "name": "Researcher", "requirement": "Identify 10 items" },
+            { "name": "Treasure Hunter", "requirement": "Open 20 chests" },
+            { "name": "Let greed take over", "requirement": "Loot 100,000 gold" },
+            { "name": "I might have a problem", "requirement": "Gamble 30 times" },
+            { "name": "The Enchanter", "requirement": "Enchant an item" },
+            { "name": "The Merchant", "requirement": "Sell 50 items" },
+            { "name": "Upgraded Weaponry", "requirement": "Find and use a Magic Anvil" }
+          ]
+        },
+        {
+          "section": "Quests, Spells, and Survival",
+          "entries": [
+            { "name": "Hardworking Hero", "requirement": "Complete 10 side quests" },
+            { "name": "A spell for all occasions", "requirement": "Learn 5 spells" },
+            { "name": "Strategic Retreat", "requirement": "Use a town portal with less than 10% health left" },
+            { "name": "Cheating Death", "requirement": "Choose your FATE" },
+            { "name": "Dungeoneering Expert", "requirement": "Reach level 35 in each dungeon" },
+            { "name": "The Undying", "requirement": "Reach level 20 with a hardcore character" }
+          ]
+        },
+        {
+          "section": "Pets, Fishing, and Summons",
+          "entries": [
+            { "name": "Happy Pet, Happy Owner", "requirement": "Feed your pet 5 different fish" },
+            { "name": "There's no I in team", "requirement": "Let your pet kill enemies 25 times" },
+            { "name": "Master Angler", "requirement": "Catch all types of fish" },
+            { "name": "Grate Protector", "requirement": "Catch Peronto's Cheesehead of the Emerald Bay" },
+            { "name": "I choose you!", "requirement": "Summon 6 different monsters" }
+          ]
+        },
+        {
+          "section": "Combat, Gems, and Legacy",
+          "entries": [
+            { "name": "Gather 'round", "requirement": "Kill 5 enemies at the same time" },
+            { "name": "Swift Victory", "requirement": "Kill 10 enemies in 45 seconds" },
+            { "name": "Monster Hunter", "requirement": "Defeat 100 enemies" },
+            { "name": "Versatile Slayer", "requirement": "Defeat 10 bosses with 4 different weapon classes" },
+            { "name": "All the Shinies", "requirement": "Loot every type of gem" },
+            { "name": "The road goes on", "requirement": "Create a descendant" }
+          ]
+        }
+      ]
+    },
+    "reawakendCheatsGuide": {
+      "title": "Reawakened Cheats and Console Commands",
+      "eyebrow": "Legacy Commands",
+      "intro": "Reawakened inherits classic cheat inputs from the original FATE games. These commands cover the standard progression shortcuts, spawn tools, and map utilities most useful for testing builds or revisiting content without a full grind.",
+      "cards": [
+        {
+          "cardTitle": "Open the Input Prompt",
+          "openInput": "Original FATE & The Cursed King: Ctrl + Shift + ~  |  Undiscovered Realms: Ctrl + Shift + - then click the ? on the left side",
+          "commands": [
+            { "code": "Ctrl + Shift + ~", "effect": "Opens the cheat prompt in Original FATE and The Cursed King" },
+            { "code": "Ctrl + Shift + -", "effect": "Opens the prompt flow used by Undiscovered Realms" }
+          ],
+          "note": "In The Cursed King, the game keeps running while you type, so enter commands in a safe area."
+        },
+        {
+          "cardTitle": "Floor Control",
+          "openInput": "Use the matching prompt for the game you are in",
+          "commands": [
+            { "code": "Ascend #", "effect": "Go up a chosen number of dungeon floors" },
+            { "code": "Descend #", "effect": "Go down a chosen number of dungeon floors" }
+          ],
+          "note": "Replace # with a number."
+        },
+        {
+          "cardTitle": "Levels, Fame, and Fast Progression",
+          "openInput": "Use the matching prompt for the game you are in",
+          "commands": [
+            { "code": "Fame", "effect": "Add fame" },
+            { "code": "Experience", "effect": "Add experience in supported games" },
+            { "code": "Levelup", "effect": "Gain one level" },
+            { "code": "God", "effect": "Gain a large level jump and extra stat points in supported games" }
+          ],
+          "note": "Command names and exact rewards differ slightly between games."
+        },
+        {
+          "cardTitle": "Gold and Recovery",
+          "openInput": "Use the matching prompt for the game you are in",
+          "commands": [
+            { "code": "Gold", "effect": "Add a large amount of gold" },
+            { "code": "Heal", "effect": "Restore health" }
+          ],
+          "note": "Quickest utility commands for shopping, recovery, and low-friction testing."
+        },
+        {
+          "cardTitle": "Spawn Items and Monsters",
+          "openInput": "Use the matching prompt for the game you are in",
+          "commands": [
+            { "code": "[Item Name]", "effect": "Spawn an item near you in Original FATE" },
+            { "code": "[Creature Name]", "effect": "Spawn a creature near you in Original FATE" },
+            { "code": "spawn (itemname)", "effect": "Spawn an item in The Cursed King" },
+            { "code": "weapons", "effect": "Summon skeletons with weapons in The Cursed King" }
+          ],
+          "note": "In Original FATE, summoning Cat or Terrier creates a pet rather than a hostile enemy."
+        },
+        {
+          "cardTitle": "Map and World Utilities",
+          "openInput": "Original FATE: Ctrl + Shift + ~",
+          "commands": [
+            { "code": "discoverall", "effect": "Reveal the current dungeon map" },
+            { "code": "Dumpmap", "effect": "Write a text description of the current map to maze.txt" },
+            { "code": "Magic Anvil", "effect": "Create a magic anvil" },
+            { "code": "Fate Statue / Shrine Of Learning", "effect": "Create special interactable world objects" }
+          ],
+          "note": "Some spawned objects are practical tools, while others are mainly useful for experimentation."
+        },
+        {
+          "cardTitle": "Undiscovered Realms Admin Shortcuts",
+          "openInput": "Undiscovered Realms: Ctrl + Shift + - then click the ?",
+          "commands": [
+            { "code": "HEROITEMS", "effect": "Show what levels the Hero Items are on" },
+            { "code": "REQUEST 'name'", "effect": "Give that questgiver a new quest" },
+            { "code": "AMNESIA", "effect": "Return to town" }
+          ],
+          "note": "These are the most utility-heavy commands unique to Undiscovered Realms."
+        },
+        {
+          "cardTitle": "Cosmetic and Oddball Commands",
+          "openInput": "Original FATE: Ctrl + Shift + ~",
+          "commands": [
+            { "code": "Blood", "effect": "Use blood instead of stars" },
+            { "code": "Noblood", "effect": "Switch blood back to stars" },
+            { "code": "Weapon Rack / Small Chest / Large Chest", "effect": "Spawn prop objects with mixed functionality" }
+          ],
+          "note": "Some props cannot be activated or opened normally, especially in town."
+        }
+      ]
+    },
+    "reawakendSteamDeckGuide": {
+      "title": "Reawakened Steam Deck and Controller Guide",
+      "eyebrow": "Handheld Play",
+      "intro": "Reawakened officially supports Steam Deck and full controller play on PC. This guide combines the official support status with practical community findings on UI quirks, targeting behavior, and workarounds for the smoothest handheld session.",
+      "sections": [
+        {
+          "section": "Official Support",
+          "entries": [
+            { "label": "Steam Deck support", "detail": "Official FAQ confirms that Reawakened is playable on Steam Deck." },
+            { "label": "PC controller support", "detail": "Official FAQ confirms full controller support on PC." },
+            { "label": "Widescreen support", "detail": "Official FAQ confirms widescreen formats are supported." },
+            { "label": "UI optimized for small screens", "detail": "Many UI changes were made because the game was optimized for console controllers, Switch, and Steam Deck." }
+          ]
+        },
+        {
+          "section": "Controls and Layout",
+          "entries": [
+            { "label": "Steam Deck layout", "detail": "Steam Deck uses the same controller layout shown for gamepad play on PC." },
+            { "label": "Button prompts", "detail": "Controller prompts are shown as Xbox-style buttons." },
+            { "label": "In-game rebinding", "detail": "Controls cannot be remapped inside the game menus." },
+            { "label": "Where to check inputs", "detail": "Use the in-game controls menu first, then adjust anything extra through Steam input if needed." }
+          ]
+        },
+        {
+          "section": "Known Quirks on Deck and Controller",
+          "entries": [
+            { "label": "Small-text issue", "detail": "At 1280 x 800, text can be harder to read because there is no in-game UI size option." },
+            { "label": "Menu cursor drift", "detail": "Steam Deck players report the cursor can overshoot menu targets when using the trackpads." },
+            { "label": "Targeting feedback", "detail": "Target circles do not appear on enemies when using a controller." },
+            { "label": "Ranged and spell aiming", "detail": "Lock-on can engage very late, especially for spell or ranged play." },
+            { "label": "NPC interaction", "detail": "Close-together NPCs can be fidgety to target — walk away and approach again facing the NPC you want." }
+          ]
+        },
+        {
+          "section": "Useful Fixes and Habits",
+          "entries": [
+            { "label": "Steam input workaround", "detail": "Use the launch option: SteamDeck=0 %command% --force-grab-cursor" },
+            { "label": "Controller remap route", "detail": "Use the Steam Deck controller configuration menu rather than looking for an in-game remap menu." },
+            { "label": "Build choice tip", "detail": "Melee and general progression feel cleaner on controller than precision-heavy ranged or attack-spell setups." },
+            { "label": "Portal positioning", "detail": "When using a town portal, face away from staircases or traders to avoid awkward clipping near interactable NPCs." }
+          ]
         }
       ]
     }

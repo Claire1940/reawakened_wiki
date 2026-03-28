@@ -12,21 +12,25 @@ import {
   Clock,
   DoorOpen,
   ExternalLink,
+  Fish,
   Gamepad2,
   Gift,
   HelpCircle,
   Lightbulb,
   Map,
   MessageCircle,
+  ScrollText,
   Settings,
   Shield,
   Skull,
   Sparkles,
   Star,
+  Sword,
   Target,
   TrendingUp,
   Trophy,
   Users,
+  Wand2,
   Zap,
 } from 'lucide-react'
 import Link from 'next/link'
@@ -284,6 +288,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               { id: 'build-tips', label: 'Build Tips' },
               { id: 'community-links', label: 'Community' },
               { id: 'early-tips', label: 'Early Tips' },
+              { id: 'fishing-guide', label: 'Fishing Guide' },
+              { id: 'side-quests-guide', label: 'Side Quests' },
+              { id: 'weapons-guide', label: 'Weapons Guide' },
+              { id: 'spells-guide', label: 'Spells Guide' },
             ].map(({ id, label }) => (
               <button
                 key={id}
@@ -329,7 +337,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 'codes-guide', 'classes-guide', 'traits-guide', 'paths-guide',
                 'gates-guide', 'gear-guide', 'leveling-guide', 'bosses-guide',
                 'beginner-guide', 'best-builds', 'hunter-ranks', 'game-faq',
-                'update-log', 'build-tips', 'community-links', 'early-tips'
+                'update-log', 'build-tips', 'community-links', 'early-tips',
+                'fishing-guide', 'side-quests-guide', 'weapons-guide', 'spells-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -905,6 +914,139 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Module 17: Reawakened Fishing Guide */}
+      <section id="fishing-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Fish className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendFishingGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendFishingGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendFishingGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal space-y-4">
+            {t.modules.reawakendFishingGuide.steps.map((step: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex gap-4">
+                  <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
+                    <span className="text-base font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
+                  </div>
+                  <div className="flex-1">
+                    <h3 className="font-bold text-lg mb-2">{step.title}</h3>
+                    <p className="text-muted-foreground text-sm mb-3">{step.description}</p>
+                    <ul className="space-y-1">
+                      {step.highlights.map((h: string, hi: number) => (
+                        <li key={hi} className="flex items-start gap-2">
+                          <Fish className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                          <span className="text-xs text-muted-foreground">{h}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 18: Reawakened Side Quests Guide */}
+      <section id="side-quests-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <ScrollText className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendSideQuestsGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendSideQuestsGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendSideQuestsGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal space-y-2">
+            {t.modules.reawakendSideQuestsGuide.items.map((item: any, index: number) => (
+              <div key={index} className="border border-border rounded-xl overflow-hidden">
+                <div className="p-5 bg-white/5">
+                  <div className="flex items-start gap-3 mb-3">
+                    <ScrollText className="w-5 h-5 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-0.5" />
+                    <h3 className="font-bold">{item.title}</h3>
+                  </div>
+                  <p className="text-muted-foreground text-sm mb-3 pl-8">{item.content}</p>
+                  <ul className="pl-8 space-y-1">
+                    {item.bullets.map((b: string, bi: number) => (
+                      <li key={bi} className="flex items-start gap-2">
+                        <Check className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                        <span className="text-xs text-muted-foreground">{b}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 19: Reawakened Weapons Guide */}
+      <section id="weapons-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Sword className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendWeaponsGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendWeaponsGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendWeaponsGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.reawakendWeaponsGuide.items.map((item: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center gap-3 mb-3">
+                  <Sword className="w-5 h-5 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                  <h3 className="font-bold text-[hsl(var(--nav-theme-light))]">{item.weapon_class}</h3>
+                  <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] ml-auto">{item.speed}</span>
+                </div>
+                <p className="text-xs text-muted-foreground/70 mb-2 italic">Example: {item.example_unique}</p>
+                <p className="text-sm text-muted-foreground">{item.why}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 20: Reawakened Spells Guide */}
+      <section id="spells-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Wand2 className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendSpellsGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendSpellsGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendSpellsGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.reawakendSpellsGuide.categories.map((cat: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center gap-2 mb-1">
+                  <Wand2 className="w-5 h-5 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                  <h3 className="font-bold">{cat.title}</h3>
+                </div>
+                <p className="text-xs text-[hsl(var(--nav-theme-light))] mb-3 pl-7">{cat.kicker}</p>
+                <p className="text-sm text-muted-foreground mb-3">{cat.description}</p>
+                <ul className="space-y-1">
+                  {cat.examples.map((ex: string, ei: number) => (
+                    <li key={ei} className="flex items-start gap-2">
+                      <Check className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span className="text-xs text-muted-foreground">{ex}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
           </div>
         </div>
       </section>

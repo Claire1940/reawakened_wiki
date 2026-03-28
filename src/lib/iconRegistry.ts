@@ -39,6 +39,9 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Bell: LucideIcons.Bell,
   Lightbulb: LucideIcons.Lightbulb,
   Sword: LucideIcons.Sword,
+  Fish: LucideIcons.Fish,
+  ScrollText: LucideIcons.ScrollText,
+  Wand2: LucideIcons.Wand2,
   Layers: LucideIcons.Layers,
   Target: LucideIcons.Target,
 

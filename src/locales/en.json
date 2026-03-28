@@ -138,6 +138,26 @@
         "icon": "Lightbulb",
         "title": "Reawakened Early Tips",
         "description": "Key tips to get ahead fast"
+      },
+      {
+        "icon": "Fish",
+        "title": "Reawakened Fishing Guide",
+        "description": "Fish sizes, pet transformations, and early gold"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Reawakened Side Quests",
+        "description": "Quest routing, rewards, and floor strategy"
+      },
+      {
+        "icon": "Sword",
+        "title": "Reawakened Weapons Guide",
+        "description": "Weapon classes, uniques, and Elite/Legendary variants"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Reawakened Spells Guide",
+        "description": "Attack, Defense, Charm spells and summons"
       }
     ]
   },
@@ -721,6 +741,251 @@
         {
           "title": "Invest in Traits Early",
           "description": "Use gold to reroll traits after every few gate runs rather than saving up for gear. Two well-matched traits make every gate significantly easier, and the benefit compounds across all your future runs."
+        }
+      ]
+    },
+    "reawakendFishingGuide": {
+      "title": "Reawakened Fishing Guide",
+      "eyebrow": "Activity Guide",
+      "intro": "Fishing is more than a side activity in Reawakened. It powers up pets, creates early gold opportunities, and can produce gear that outperforms ordinary dungeon drops.",
+      "steps": [
+        {
+          "title": "Get a pole and find a fishing hole",
+          "description": "Buy a fishing pole from a town vendor and keep it in your inventory. In Grove, the easiest visible fishing spot is the golden sparkling hole just off the dock at the pond in the northern part of town.",
+          "highlights": [
+            "A fishing pole only needs to be in your inventory to enable fishing",
+            "Fishing holes appear in town and throughout dungeon levels",
+            "Town pond is the simplest place to learn the interaction"
+          ]
+        },
+        {
+          "title": "Cast, watch, and set the hook fast",
+          "description": "Left-click the fishing spot to cast. When the exclamation point appears above your character, hit Set the Hook quickly for a better chance to land the fish.",
+          "highlights": [
+            "You do not need a separate fishing skill tree to start",
+            "Reaction timing matters more than combat stats",
+            "Quick hook timing improves consistency"
+          ]
+        },
+        {
+          "title": "Know why fishing matters",
+          "description": "Fish can dramatically change your pet's attributes and resistances, which makes early dungeon runs easier. Fishing can also produce strong loot and gems.",
+          "highlights": [
+            "Pet transformations are the biggest early power spike",
+            "Fishing is a practical gold-making route",
+            "Selling yellow drops from fishing is a reliable early economy loop"
+          ]
+        },
+        {
+          "title": "Learn the four fish size tiers",
+          "description": "Fish are divided into four size tiers, and the size controls how long your pet transformation lasts.",
+          "highlights": [
+            "Fingerling: 120 seconds",
+            "Small: 300 seconds",
+            "Lunker: 600 seconds",
+            "Flawless: lasts until the next transformation replaces it"
+          ]
+        },
+        {
+          "title": "Remember the most useful transformation examples",
+          "description": "Different fish push pets into different forms with different stat packages and resistances.",
+          "highlights": [
+            "Archerfish transforms a pet into a Dire Wolf",
+            "Bass transforms a pet into a Unicorn",
+            "Dory transforms a pet into a Salamander with 100% Fire Resist",
+            "Dogfish returns the pet to its original form"
+          ]
+        },
+        {
+          "title": "Use fishing for progression goals too",
+          "description": "Fishing is tied into completion goals, not just utility. Reawakened includes the Master Angler achievement for catching every fish type.",
+          "highlights": [
+            "Useful for collection-focused players",
+            "Supports pet experimentation",
+            "Adds long-tail completion value beyond raw gold"
+          ]
+        }
+      ]
+    },
+    "reawakendSideQuestsGuide": {
+      "title": "Reawakened Side Quests Guide",
+      "eyebrow": "Progression Guide",
+      "intro": "Side quests are simple on the surface, but route management matters. Taking the right quests on the right floor saves time and avoids wasted exploration.",
+      "items": [
+        {
+          "title": "Quest slots and NPC behavior",
+          "content": "You can hold up to 3 side quests at a time. NPCs with available side quests will not tell you what they want unless you have an open quest slot.",
+          "bullets": [
+            "Maximum of 3 active side quests",
+            "Free slots matter because they reveal more town quest options",
+            "Check town NPCs before committing to a long dungeon stretch"
+          ]
+        },
+        {
+          "title": "The three side quest patterns",
+          "content": "Side quests repeatedly use three templates: recover a lost item on a level, kill a monster and its minions, or kill the monster that stole an item and recover it.",
+          "bullets": [
+            "Lost item quest",
+            "Kill target monster and minions",
+            "Recover stolen item from a target monster group"
+          ]
+        },
+        {
+          "title": "Take quests for the floor you are on",
+          "content": "Accept side quests only for the floor you are currently playing. That keeps objectives aligned with your immediate dungeon path instead of scattering them across different levels.",
+          "bullets": [
+            "Floor-by-floor play is cleaner than stockpiling mismatched quests",
+            "Helps reduce backtracking",
+            "Keeps rewards flowing steadily while leveling"
+          ]
+        },
+        {
+          "title": "Do not fully clear a floor too early",
+          "content": "Do not fully explore a floor before finishing that floor's side quests. Quest objectives can appear in unexplored sections.",
+          "bullets": [
+            "Finish side quest objectives before full exploration",
+            "Prioritize quest markers and unexplored branches first",
+            "This is the main routing mistake new players make"
+          ]
+        },
+        {
+          "title": "What side quests reward",
+          "content": "Side quests provide fame, experience, and gold. They also help pace early progression better than random wandering alone.",
+          "bullets": [
+            "Fame supports long-term progression",
+            "Experience helps smooth level gains",
+            "Gold supports shops, gambling, and utility purchases"
+          ]
+        },
+        {
+          "title": "Refresh and edge-case tricks",
+          "content": "Available quests can be refreshed by returning to level 1 and coming back up, or by saving and exiting and then returning.",
+          "bullets": [
+            "Quest list refresh: return to level 1 and back, or save and exit",
+            "Cancelable quest items can sometimes be kept",
+            "Always compare a quest reward against the item itself"
+          ]
+        }
+      ]
+    },
+    "reawakendWeaponsGuide": {
+      "title": "Reawakened Weapons Guide",
+      "eyebrow": "Gear Guide",
+      "intro": "Weapon choice is tied to speed, stat requirements, and the specific unique item pool. Elite and Legendary versions scale based on fame rank, making late-game weapon access a real progression goal.",
+      "items": [
+        {
+          "weapon_class": "Sword",
+          "example_unique": "Stinging Needle",
+          "speed": "Fastest",
+          "why": "Fast early sword with Attack +40 and Damage Bonus +4. Community build advice recommends sword-class weapons and dual wielding for early damage efficiency."
+        },
+        {
+          "weapon_class": "Axe",
+          "example_unique": "Le Chop",
+          "speed": "Fast",
+          "why": "Grants Critical Strike +5, Shield Battle +5, Magic Drop Rate +5, and Gold Drop Rate +20% — ideal for loot-focused builds."
+        },
+        {
+          "weapon_class": "Bow",
+          "example_unique": "Sentinel of the Glade",
+          "speed": "Normal",
+          "why": "Bow/Crossbow Skill +5, Damage +7%, Walk Speed +10%, and Dexterity +10% make this a strong ranged unique for mobile builds."
+        },
+        {
+          "weapon_class": "Crossbow",
+          "example_unique": "The Pincushion",
+          "speed": "Normal",
+          "why": "Comes with Strength +6, Fire Resistance +40, and Knockback +2 — a strong choice for players wanting survivability alongside ranged damage."
+        },
+        {
+          "weapon_class": "Hammer",
+          "example_unique": "Leadro's Finality",
+          "speed": "Slow",
+          "why": "Heavy early option with Damage Bonus Undead +10, flat Damage +7, and Magic Resistance +3% for tanky dungeon builds."
+        },
+        {
+          "weapon_class": "Spear",
+          "example_unique": "Shivering Tines",
+          "speed": "Normal",
+          "why": "A clean example of spear scaling with Dexterity rather than raw Strength — best for builds that prioritize agility over brute force."
+        },
+        {
+          "weapon_class": "Staff",
+          "example_unique": "Crushbar",
+          "speed": "Slow",
+          "why": "Hybrid staff with Attack Magic +4, Charm Magic +4, Mana Stolen +15%, and Attack +20 — covers both magic offense and mana sustain."
+        },
+        {
+          "weapon_class": "Elite & Legendary",
+          "example_unique": "Variant System",
+          "speed": "Varies",
+          "why": "Elite doubles base stats, Legendary quadruples them. Legendary variants require higher Renown rank — fame directly gates late-game weapon access."
+        }
+      ]
+    },
+    "reawakendSpellsGuide": {
+      "title": "Reawakened Spells Guide",
+      "eyebrow": "Magic Guide",
+      "intro": "Spells are divided into Attack, Defense, and Charm lines. Utility spells such as Town Portal, Identify, and Mental Map are just as important as raw damage for efficient play.",
+      "categories": [
+        {
+          "title": "Attack Spells",
+          "kicker": "Direct damage and control",
+          "description": "Attack Magic starts with efficient early spells and scales into stronger burst tools. Slow and Fireball are core early purchases.",
+          "examples": [
+            "Slow — slows target to 60% speed for 10 seconds",
+            "Fireball — projectile for 2-7 damage plus skill scaling",
+            "Frost — two ice projectiles and a 40% slow for 5 seconds",
+            "Lightning Strike — instant electric damage",
+            "Meteor Strike — area detonation in a 20-foot radius"
+          ]
+        },
+        {
+          "title": "Defense Spells",
+          "kicker": "Buffs, healing, resistance, and survival",
+          "description": "Defense Magic contains the sustain and speed tools most players rely on throughout the game. Haste and Dervish are standout utility options.",
+          "examples": [
+            "Minor Heal — heals the caster for 20 HP plus scaling",
+            "Spectral Armor — raises defense and reduces damage taken",
+            "Haste — increases speed for 15 seconds",
+            "Battle Fog — doubles Attack Rating while lowering Defense Rating",
+            "Dervish — increases Attack Speed by 80% for 10 seconds",
+            "Reflection — reflects 20% of damage back to attackers"
+          ]
+        },
+        {
+          "title": "Charm Spells",
+          "kicker": "Utility, crowd control, and map tools",
+          "description": "Charm Magic covers identification, map tools, and crowd control. Town Portal and Mental Map are essential for efficient dungeon routing.",
+          "examples": [
+            "Identify — identifies items, scales with skill level",
+            "Charm Monster — charms monsters of level 6 and below for 20 seconds",
+            "Mental Map — reveals a dungeon level from level 2 or deeper",
+            "Town Portal — opens a portal from level 2 or deeper",
+            "Dispel Summoned Monster — removes summoned creatures"
+          ]
+        },
+        {
+          "title": "Summon Spells",
+          "kicker": "Companion spells with scaling duration",
+          "description": "Summons scale with Charm skill and last 1 minute plus 10 seconds per skill level. The active summon cap is 6 creatures at once.",
+          "examples": [
+            "Summon Spider — summons 3 level 1 spiders",
+            "Summon Skeleton — summons 1 level 4 skeleton",
+            "Mystic Blade — summons 1 level 7 cursed sword",
+            "Summon Timberwolf — summons 2 level 7 timberwolves",
+            "Summon Wyvern — summons 1 level 28 venomous wyvern"
+          ]
+        },
+        {
+          "title": "Hotkeys and Spell Handling",
+          "kicker": "Spell management and key binding",
+          "description": "Once a spell is learned, expand the spell list from the HUD and bind spells directly to function keys for quick access during combat.",
+          "examples": [
+            "Hover a learned spell and press F1-F12 to bind it",
+            "Rotate buffs, heals, and utility without opening menus",
+            "Especially useful for Town Portal, Identify, and core combat buffs"
+          ]
         }
       ]
     }

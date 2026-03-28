@@ -842,125 +842,145 @@
     "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Leitfäden",
-      "description": "Vollständige Gameplay-Leitfäden von den Grundlagen für Anfänger bis hin zu fortgeschrittenen Apotheosis-Strategien. Meistern Sie Überleben und Handwerk.",
-      "metaTitle": "Lucid Blocks Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
-      "metaDescription": "Vollständige Lucid Blocks Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
-      "categoryLabel": "SPIEL-LEITFÄDEN",
-      "whatIs": "Was sind Leitfäden?",
-      "whatIsDescription": "Umfassende Leitfäden zu Spielmechaniken, Überlebensstrategien und dem Apotheosis-Handwerkssystem. Lernen Sie alles von den ersten Schritten bis hin zu fortgeschrittenen Techniken.",
-      "why": "Warum Leitfäden lesen?",
+    "codes": {
+      "title": "Reawakened Codes",
+      "description": "Alle aktiven Reawakened Codes mit Belohnungen, Ablaufdatum und Schritt-für-Schritt-Anleitungen zum Einlösen.",
+      "metaTitle": "Reawakened Codes - Aktive Codes & Belohnungen",
+      "metaDescription": "Vollständige Liste aktiver Reawakened Codes mit aufgelisteten Belohnungen. Erfahre, wie du Codes einlöst und wo du neue Drops für dieses Roblox RPG findest.",
+      "categoryLabel": "KOSTENLOSE CODES",
+      "whatIs": "Was sind Reawakened Codes?",
+      "whatIsDescription": "Reawakened Codes sind zeitlich begrenzt nutzbare Belohnungen, die von Vayron Studios während Updates und Events veröffentlicht werden. Löse sie im In-Game-Menü gegen kostenlose XP-Boosts, Stat-Chips und Klassenreserven ein, um deinen Fortschritt zu beschleunigen.",
+      "why": "Warum Reawakened Codes einlösen?",
+      "whySteps": {
+        "step1Title": "Kostenlose XP-Boosts",
+        "step1Description": "Codes enthalten oft XP-Multiplikatoren, die den frühen Rang-Fortschritt beschleunigen",
+        "step2Title": "Stat-Boni",
+        "step2Description": "Hol dir kostenlose Angriffs-, Verteidigungs- oder Utility-Stat-Buffs, um deinen Build zu stärken",
+        "step3Title": "Klassenreserven",
+        "step3Description": "Schalte Klassenwechsel-Token frei, damit du deinen Spielstil ändern kannst, ohne den Fortschritt zu verlieren"
+      },
+      "featured": "Vorgestellt & Aktiv",
+      "all": "Alle Codes"
+    },
+    "guide": {
+      "title": "Reawakened Guide",
+      "description": "Vollständige Reawakened Guides mit Tipps für Anfänger, den schnellsten Leveling-Routen, Klassenstrategien und dem Fortschritt im Early-Game für dieses Roblox RPG.",
+      "metaTitle": "Reawakened Guide - Tipps für Anfänger, Leveling & Fortschritt",
+      "metaDescription": "Meistere Reawakened mit umfassenden Guides zu Leveling, Klassenauswahl, Gate-Strategien und Trait-Optimierung für neue und erfahrene Spieler.",
+      "categoryLabel": "SPIEL-GUIDES",
+      "whatIs": "Was sind Reawakened Guides?",
+      "whatIsDescription": "Reawakened Guides decken alles ab, von deinem ersten Gate-Run bis zur fortgeschrittenen Build-Optimierung. Erfahre, wie Klassen, Trait, Path und Dungeon zusammenwirken, um den mächtigsten Hunter zu erschaffen.",
+      "why": "Warum Reawakened Guides lesen?",
       "whySteps": {
         "step1Title": "Kernmechaniken lernen",
-        "step1Description": "Verstehen Sie das Apotheosis-System und vermeiden Sie häufige Anfängerfehler",
+        "step1Description": "Verstehe, wie Gate, Trait und Ränge zusammenwirken, um häufige Fehler zu vermeiden",
         "step2Title": "Schneller Fortschritt",
-        "step2Description": "Folgen Sie bewährten Pfaden, um in der surrealen Welt zu überleben und erfolgreich zu sein",
-        "step3Title": "Strategien meistern",
-        "step3Description": "Entwickeln Sie fortgeschrittene Taktiken für Erkundung und Handwerk"
+        "step2Description": "Folge bewährten Leveling-Pfaden, um Endgame-Inhalte effizient zu erreichen",
+        "step3Title": "Meistere deinen Build",
+        "step3Description": "Entwickle fortgeschrittene Taktiken zur Optimierung deiner Klassen- und Trait-Kombination"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Leitfäden"
+      "featured": "Vorgestellte Guides",
+      "all": "Alle Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Handwerk",
-      "description": "Meistern Sie das Apotheosis-Fusionssystem mit Essenz-Mechaniken, Rezepten und Handwerksstrategien für mächtige Gegenstände.",
-      "metaTitle": "Lucid Blocks Handwerk – Apotheosis-System & Rezepte",
-      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von Lucid Blocks. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
-      "categoryLabel": "HANDWERKSSYSTEM",
-      "whatIs": "Was ist Handwerk?",
-      "whatIsDescription": "Das Apotheosis-System ist eine einzigartige, essenzgesteuerte Fusionsmechanik, bei der Sie bis zu sechs Gegenstände kombinieren, um neue Rezepte zu entdecken. Keine festen Handwerksmenüs – Experimentieren ist der Schlüssel.",
-      "why": "Warum Handwerk meistern?",
+    "build": {
+      "title": "Reawakened Build",
+      "description": "Die besten Reawakened Builds für jede Klasse inklusive Assassin, die besten Klassen-Rankings und Charakter-Showcases für dieses Roblox RPG.",
+      "metaTitle": "Reawakened Build - Beste Klassen, Assassin & Klassen-Tier-List",
+      "metaDescription": "Entdecke die besten Reawakened Builds für jede Klasse. Erkunde Assassin-Builds, Klassen-Tier-Listen und detaillierte Showcases, um Dungeon Gate zu dominieren.",
+      "categoryLabel": "KLASSEN-BUILDS",
+      "whatIs": "Was sind Reawakened Builds?",
+      "whatIsDescription": "Reawakened Builds definieren deinen Spielstil durch die Kombination von Klassenauswahl, Trait, Stat-Verteilung und Ausrüstung. Ein gut optimierter Build lässt dich Gate schneller abschließen und schwierigere Inhalte mit Zuversicht meistern.",
+      "why": "Warum deinen Reawakened Build optimieren?",
       "whySteps": {
-        "step1Title": "Mächtige Gegenstände freischalten",
-        "step1Description": "Entdecken Sie essenzielle Werkzeuge, Waffen und Mobilitätsausrüstung durch Fusion",
-        "step2Title": "Essenzen verstehen",
-        "step2Description": "Lernen Sie, wie Gegenstandsessenzen kombiniert werden, um vorhersehbare Ergebnisse zu erzielen",
-        "step3Title": "Ressourcen optimieren",
-        "step3Description": "Nutzen Sie Verdünnungsmechaniken, um den Ertrag aus günstigen Materialien zu maximieren"
+        "step1Title": "Schadensausstoß maximieren",
+        "step1Description": "Synergiere Klassenfähigkeiten mit Trait, um in Gate-Begegnungen maximalen Schaden zu verursachen",
+        "step2Title": "Wähle die richtige Klasse",
+        "step2Description": "Vergleiche Klassen-Tier-Rankings, um die stärkste Option für deinen Spielstil zu wählen",
+        "step3Title": "Dominiere jedes Gate",
+        "step3Description": "Optimierte Builds ermöglichen es dir, schwerere Dungeon für besseren Loot und schnellere XP abzuschließen"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Handwerks-Leitfäden"
+      "featured": "Top Builds",
+      "all": "Alle Build-Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Gegenstände",
-      "description": "Detaillierte Leitfäden zu Gegenständen, die Werkzeuge, Waffen, Mobilitätsausrüstung und Lagerlösungen mit Handwerksrezepten und Nutzungstipps abdecken.",
-      "metaTitle": "Lucid Blocks Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
-      "metaDescription": "Vollständige Gegenstandsdatenbank für Lucid Blocks, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
-      "categoryLabel": "GEGENSTÄNDE & AUSRÜSTUNG",
-      "whatIs": "Was sind Gegenstände?",
-      "whatIsDescription": "Umfassende Leitfäden für Werkzeuge, Waffen, Mobilitätsausrüstung und funktionale Gegenstände. Lernen Sie Handwerksrezepte, Nutzungsstrategien und optimale Kombinationen kennen.",
-      "why": "Warum Gegenstands-Leitfäden lesen?",
+    "equipment": {
+      "title": "Reawakened Equipment",
+      "description": "Vollständiger Guide zu Reawakened Equipment inklusive Waffen wie Dual Daggers, Gear-Stats, Drop-Locations und Upgrade-Pfaden.",
+      "metaTitle": "Reawakened Equipment - Waffen, Gear-Stats & Drop-Locations",
+      "metaDescription": "Vollständiger Reawakened Equipment Guide über Waffen, Gear-Tiers, Stat-Vergleiche und wo man die besten Drops für deinen Klassen-Build farmt.",
+      "categoryLabel": "GEAR & WAFFEN",
+      "whatIs": "Was ist Reawakened Equipment?",
+      "whatIsDescription": "Reawakened Equipment umfasst Waffen, Rüstungen und Accessoires, die deine Kampfkraft definieren. Jedes Teil hat einzigartige Stat-Boni und synergiert unterschiedlich mit Klassenfähigkeiten und Trait-Builds.",
+      "why": "Warum Reawakened Equipment upgraden?",
       "whySteps": {
-        "step1Title": "Handwerksrezepte lernen",
-        "step1Description": "Entdecken Sie, wie Sie essenzielle Werkzeuge und Waffen mit Apotheosis herstellen",
-        "step2Title": "Ausrüstung optimieren",
-        "step2Description": "Wählen Sie die besten Gegenstände für Ihren Spielstil und Ihre Fortschrittsstufe",
-        "step3Title": "Überleben verbessern",
-        "step3Description": "Rüsten Sie Mobilitätsausrüstung und Waffen aus, um durch die gefährliche Welt zu navigieren"
+        "step1Title": "Kampfkraft erhöhen",
+        "step1Description": "Besseres Gear steigert direkt deinen Schaden, deine Verteidigung und die Geschwindigkeit beim Abschließen von Gate",
+        "step2Title": "Passend zu deiner Klasse",
+        "step2Description": "Nutze klassenspezifische Waffen, um die Effektivität deiner Fähigkeiten zu maximieren",
+        "step3Title": "Endgame-Inhalte freischalten",
+        "step3Description": "High-Tier Gear ist erforderlich, um fortgeschrittene Gate zu betreten und Elite-Bosse herauszufordern"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Gegenstände"
+      "featured": "Vorgestelltes Equipment",
+      "all": "Alle Ausrüstungsgegenstände"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biome",
-      "description": "Erkunden Sie Weltregionen, Umweltmerkmale, Ressourcenstandorte und Überlebenstipps für jedes Biom.",
-      "metaTitle": "Lucid Blocks Biome – Weltregionen & Erkundung",
-      "metaDescription": "Erkunden Sie die Biome von Lucid Blocks, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
-      "categoryLabel": "WELTREGIONEN",
-      "whatIs": "Was sind Biome?",
-      "whatIsDescription": "Leitfäden zu verschiedenen Weltregionen, Umweltmerkmalen, Ressourcenverteilung und Gefahrenzonen. Lernen Sie, was Sie erwartet und wie Sie sich auf jedes Gebiet vorbereiten.",
-      "why": "Warum Biome erkunden?",
+    "launch": {
+      "title": "Reawakened Launch",
+      "description": "Reawakened Release-Datum, Playtest-Details, offizielle Trailer und Launch-News für dieses neue Roblox RPG von Vayron Studios.",
+      "metaTitle": "Reawakened Launch - Release-Datum, Playtest & offizieller Trailer",
+      "metaDescription": "Alles über den Reawakened Launch: Release-Datum, Playtest-Zeitplan, offizieller Trailer und Early-Access-Details für dieses Roblox Dungeon RPG.",
+      "categoryLabel": "LAUNCH-NEWS",
+      "whatIs": "Was ist der Reawakened Launch?",
+      "whatIsDescription": "Reawakened startete als Playtest auf Roblox von Vayron Studios. Das Spiel bietet ein von Solo Leveling inspiriertes Dungeon RPG-Erlebnis mit Klassen, Trait und Gate. Launch-News decken Release-Meilensteine, Playtest-Fenster und offizielle Ankündigungen ab.",
+      "why": "Warum Reawakened Launch-News verfolgen?",
       "whySteps": {
-        "step1Title": "Ressourcen finden",
-        "step1Description": "Finden Sie seltene Materialien und Essenzen, die spezifisch für jede Region sind",
-        "step2Title": "Gefahren vermeiden",
-        "step2Description": "Verstehen Sie Umweltgefahren und feindselige Kreaturen",
-        "step3Title": "Erkundung planen",
-        "step3Description": "Bereiten Sie die richtigen Werkzeuge und Ausrüstung für jeden Biom-Typ vor"
+        "step1Title": "Early Access erhalten",
+        "step1Description": "Bleibe über Playtest-Fenster auf dem Laufenden, um einer der ersten Hunter in Reawakened zu sein",
+        "step2Title": "Launch-Belohnungen sichern",
+        "step2Description": "Entwickler veröffentlichen oft exklusive Codes während des Launchs und bei Meilenstein-Events",
+        "step3Title": "Updates immer einen Schritt voraus",
+        "step3Description": "Verfolge Launch-News, um dich auf neue Inhalte, Klassen und Balance-Änderungen vorzubereiten"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Biome"
+      "featured": "Vorgestellte News",
+      "all": "Alle Launch-News"
     },
-    "building": {
-      "title": "Lucid Blocks Bauen",
-      "description": "Meistern Sie persönliche Qualia-Dimensionen, Basisbau, Lagerverwaltung und kreative Bautechniken.",
-      "metaTitle": "Lucid Blocks Bauen – Qualia & Basisbau",
-      "metaDescription": "Meistern Sie das Bauen in Lucid Blocks mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
-      "categoryLabel": "BAUEN & BASEN",
-      "whatIs": "Was ist Bauen?",
-      "whatIsDescription": "Leitfäden zum persönlichen Qualia-Dimensionssystem, Basisbau, Lagerverwaltung und kreativem Bauen. Lernen Sie, Ihren sicheren Hafen in der surrealen Welt zu erschaffen.",
-      "why": "Warum Basen bauen?",
+    "official-links": {
+      "title": "Reawakened Offizielle Links",
+      "description": "Offizielle Reawakened Links inklusive der Roblox Spielseite, dem Discord Server und der Trello Roadmap von Vayron Studios.",
+      "metaTitle": "Reawakened Offizielle Links - Roblox, Discord & Trello",
+      "metaDescription": "Finde alle offiziellen Reawakened Ressourcen: Spiele auf Roblox, tritt der Discord Community bei und sieh dir das Trello Board für die Roadmap und Updates an.",
+      "categoryLabel": "OFFIZIELLE RESSOURCEN",
+      "whatIs": "Was sind Reawakened Offizielle Links?",
+      "whatIsDescription": "Reawakened offizielle Links verbinden dich direkt mit den Entwickler-Ressourcen. Die Roblox Seite lässt dich das Spiel spielen, Discord ist der Ort, an dem die Community und Entwickler kommunizieren, und Trello zeigt die offizielle Entwicklungs-Roadmap.",
+      "why": "Warum Reawakened offizielle Links nutzen?",
       "whySteps": {
-        "step1Title": "Sichere Räume schaffen",
-        "step1Description": "Errichten Sie sichere Basen für Lagerung und Handwerksarbeiten",
-        "step2Title": "Ressourcen verwalten",
-        "step2Description": "Organisieren Sie Materialien effizient mit Lagerlösungen",
-        "step3Title": "Qualia freischalten",
-        "step3Description": "Greifen Sie auf persönliche Taschendimensionen für ultimativen Komfort zu"
+        "step1Title": "Direkt spielen",
+        "step1Description": "Greife auf die offizielle Roblox Spielseite zu, um deine Reawakened Reise zu beginnen",
+        "step2Title": "Tritt der Community bei",
+        "step2Description": "Verbinde dich mit anderen Hunter auf Discord für Tipps, Code-Drops und Patch-Notes",
+        "step3Title": "Entwicklung verfolgen",
+        "step3Description": "Überprüfe das Trello Board, um kommende Features und geplante Inhalts-Updates zu sehen"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Bau-Leitfäden"
+      "featured": "Wichtige Ressourcen",
+      "all": "Alle offiziellen Links"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technischer Support, Plattformkompatibilität, Leistungsoptimierung und Fehlerbehebung bei häufigen Problemen.",
-      "metaTitle": "Lucid Blocks Support – Technische Hilfe & Fehlerbehebungen",
-      "metaDescription": "Erhalten Sie technischen Support für Lucid Blocks, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
-      "categoryLabel": "TECHNISCHER SUPPORT",
-      "whatIs": "Was ist Support?",
-      "whatIsDescription": "Technische Leitfäden zu Plattformkompatibilität, Leistungsoptimierung, Crash-Fixes und häufigen Problemen. Erhalten Sie Hilfe zu Steam Deck, Multiplayer-Fragen und Einstellungen.",
-      "why": "Warum Support prüfen?",
+    "tools": {
+      "title": "Reawakened Tools",
+      "description": "Reawakened Tools und Skripte für Farming-Automatisierung, AFK-Grinding und Effizienzoptimierung in diesem Roblox RPG.",
+      "metaTitle": "Reawakened Tools - Skripte, Farming & AFK-Automatisierung",
+      "metaDescription": "Entdecke Reawakened Tools und Skripte zur Optimierung deines Gameplays, zur Automatisierung des Farmings und zur Maximierung der Effizienz bei Gate-Runs und beim Leveling.",
+      "categoryLabel": "TOOLS & SKRIPTE",
+      "whatIs": "Was sind Reawakened Tools?",
+      "whatIsDescription": "Reawakened Tools umfassen Skripte und Automatisierungs-Setups, die von erfahrenen Spielern verwendet werden, um die Farming-Effizienz, das AFK-Leveling und das Sammeln von Ressourcen im Spiel zu optimieren.",
+      "why": "Warum Reawakened Tools nutzen?",
       "whySteps": {
-        "step1Title": "Technische Probleme beheben",
-        "step1Description": "Beheben Sie Abstürze, Leistungsprobleme und Kompatibilitätsprobleme",
-        "step2Title": "Leistung optimieren",
-        "step2Description": "Konfigurieren Sie Einstellungen für das beste Erlebnis auf Ihrer Plattform",
-        "step3Title": "Plattformkompatibilität",
-        "step3Description": "Erfahren Sie mehr über Steam Deck, Controller-Unterstützung und Systemanforderungen"
+        "step1Title": "Repetitives Farming automatisieren",
+        "step1Description": "Richte AFK-Routinen ein, um XP und Ressourcen zu grinden, während du weg bist",
+        "step2Title": "Effizienz maximieren",
+        "step2Description": "Nutze Tools, um optimale Farming-Spots und Routen für dein Level zu identifizieren",
+        "step3Title": "Wettbewerbsfähig bleiben",
+        "step3Description": "Erfahrene Spieler nutzen Automatisierungstools, um sich einen Vorteil bei der Ressourcenansammlung zu verschaffen"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Support-Artikel"
+      "featured": "Vorgestellte Tools",
+      "all": "Alle Tools"
     }
   }
 }

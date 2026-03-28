@@ -842,125 +842,145 @@
     "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Rehberleri",
-      "description": "Başlangıç seviyesinden ileri düzey Apotheosis stratejilerine kadar eksiksiz oynanış rehberleri. Hayatta kalma ve üretimde ustalaşın.",
-      "metaTitle": "Lucid Blocks Rehberleri - Başlangıçtan İleri Düzey Stratejilere",
-      "metaDescription": "Başlangıç ipuçlarını, Apotheosis sistemini, hayatta kalma stratejilerini ve gerçeküstü sandbox dünyasında ustalaşmak için uzman taktiklerini kapsayan eksiksiz Lucid Blocks rehberleri.",
+    "codes": {
+      "title": "Reawakened Kodları",
+      "description": "Ödüller, son kullanma bilgileri ve adım adım kullanım talimatlarıyla tüm aktif Reawakened kodları.",
+      "metaTitle": "Reawakened Kodları - Aktif Kullanım Kodları & Ödüller",
+      "metaDescription": "Ödülleriyle birlikte aktif Reawakened kodlarının tam listesi. Bu Roblox RPG oyunu için kodların nasıl kullanılacağını ve yeni kodların nerede bulunacağını öğrenin.",
+      "categoryLabel": "ÜCRETSİZ KODLAR",
+      "whatIs": "Reawakened Kodları Nedir?",
+      "whatIsDescription": "Reawakened kodları, güncellemeler ve etkinlikler sırasında Vayron Studios tarafından yayınlanan sınırlı kullanımlı ödül dizeleridir. İlerlemenizi hızlandırmak için bunları oyun içi menüde ücretsiz XP takviyeleri, stat çipleri ve sınıf rezervleri için kullanın.",
+      "why": "Neden Reawakened kodları kullanılmalı?",
+      "whySteps": {
+        "step1Title": "Ücretsiz XP Takviyeleri",
+        "step1Description": "Kodlar genellikle erken rütbe ilerlemesini hızlandıran XP çarpanları içerir",
+        "step2Title": "Stat Bonusları",
+        "step2Description": "Yapılandırmanızı güçlendirmek için ücretsiz saldırı, savunma veya yardımcı stat güçlendirmeleri talep edin",
+        "step3Title": "Sınıf Rezervleri",
+        "step3Description": "İlerlemenizi kaybetmeden oyun tarzınızı değiştirebilmek için sınıf değiştirme jetonlarının kilidini açın"
+      },
+      "featured": "Öne Çıkanlar & Aktif",
+      "all": "Tüm Kodlar"
+    },
+    "guide": {
+      "title": "Reawakened Rehberi",
+      "description": "Bu Roblox RPG için başlangıç ipuçlarını, en hızlı seviye atlama rotalarını, sınıf stratejilerini ve oyun başı ilerlemesini kapsayan eksiksiz Reawakened rehberleri.",
+      "metaTitle": "Reawakened Rehberi - Başlangıç İpuçları, Seviye Atlama & İlerleme",
+      "metaDescription": "Yeni ve deneyimli oyuncular için seviye atlama, sınıf seçimi, Gate stratejileri ve Trait optimizasyonu hakkındaki kapsamlı rehberlerle Reawakened'da ustalaşın.",
       "categoryLabel": "OYUN REHBERLERİ",
-      "whatIs": "Rehberler Nedir?",
-      "whatIsDescription": "Oynanış mekaniklerini, hayatta kalma stratejilerini ve Apotheosis üretim sistemini kapsayan kapsamlı rehberler. İlk adımlardan ileri tekniklere kadar her şeyi öğrenin.",
-      "why": "Neden rehberleri okumalısınız?",
+      "whatIs": "Reawakened Rehberleri Nedir?",
+      "whatIsDescription": "Reawakened rehberleri, ilk Gate koşunuzdan gelişmiş yapılandırma optimizasyonuna kadar her şeyi kapsar. En güçlü Hunter'ı oluşturmak için sınıfların, Trait'lerin, Path'lerin ve Dungeon'ların birlikte nasıl çalıştığını öğrenin.",
+      "why": "Neden Reawakened rehberleri okunmalı?",
       "whySteps": {
         "step1Title": "Temel Mekanikleri Öğrenin",
-        "step1Description": "Apotheosis sistemini anlayın ve yaygın başlangıç hatalarından kaçının",
+        "step1Description": "Yaygın hatalardan kaçınmak için Gate'lerin, Trait'lerin ve rütbelerin birlikte nasıl çalıştığını anlayın",
         "step2Title": "Hızlı İlerleme",
-        "step2Description": "Gerçeküstü dünyada hayatta kalmak ve gelişmek için kanıtlanmış yolları izleyin",
-        "step3Title": "Stratejilerde Ustalaşın",
-        "step3Description": "Keşif ve üretim için ileri düzey taktikler geliştirin"
+        "step2Description": "Oyun sonu içeriğine verimli bir şekilde ulaşmak için kanıtlanmış seviye atlama yollarını izleyin",
+        "step3Title": "Yapılandırmanızda Ustalaşın",
+        "step3Description": "Sınıf ve Trait kombinasyonunuzu optimize etmek için gelişmiş taktikler geliştirin"
       },
-      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "featured": "Öne Çıkan Rehberler",
       "all": "Tüm Rehberler"
     },
-    "crafting": {
-      "title": "Lucid Blocks Üretim",
-      "description": "Öz mekanikleri, tarifler ve güçlü eşyalar için üretim stratejileri ile Apotheosis füzyon sisteminde ustalaşın.",
-      "metaTitle": "Lucid Blocks Üretim - Apotheosis Sistemi ve Tarifler",
-      "metaDescription": "Lucid Blocks Apotheosis üretim sisteminde ustalaşın. Öz mekaniklerini, füzyon tariflerini ve güçlü araçlar ile silahlar oluşturma stratejilerini öğrenin.",
-      "categoryLabel": "ÜRETİM SİSTEMİ",
-      "whatIs": "Üretim Nedir?",
-      "whatIsDescription": "Apotheosis sistemi, yeni tarifler keşfetmek için altı adede kadar eşyayı birleştirdiğiniz benzersiz bir öz odaklı füzyon mekaniğidir. Sabit üretim menüleri yoktur; deney yapmak anahtardır.",
-      "why": "Neden üretimde ustalaşmalısınız?",
+    "build": {
+      "title": "Reawakened Yapılandırması",
+      "description": "Bu Roblox RPG için Assassin dahil her sınıf için en iyi Reawakened yapılandırmaları, en iyi sınıf sıralamaları ve karakter tanıtımları.",
+      "metaTitle": "Reawakened Yapılandırması - En İyi Sınıflar, Assassin & Sınıf Tier Listesi",
+      "metaDescription": "Her sınıf için en iyi Reawakened yapılandırmalarını keşfedin. Dungeon Gate'lerine hükmetmek için Assassin yapılandırmalarını, sınıf tier listelerini ve ayrıntılı tanıtımları inceleyin.",
+      "categoryLabel": "SINIF YAPILANDIRMALARI",
+      "whatIs": "Reawakened Yapılandırmaları Nedir?",
+      "whatIsDescription": "Reawakened yapılandırmaları; sınıf seçiminiz, Trait'leriniz, stat dağılımınız ve ekipmanınızın birleşimiyle nasıl oynayacağınızı belirler. İyi optimize edilmiş bir yapılandırma, Gate'leri daha hızlı temizlemenizi ve daha yüksek zorluktaki içerikleri güvenle geçmenizi sağlar.",
+      "why": "Neden Reawakened yapılandırmanızı optimize etmelisiniz?",
       "whySteps": {
-        "step1Title": "Güçlü Eşyaların Kilidini Açın",
-        "step1Description": "Füzyon yoluyla temel araçları, silahları ve hareket ekipmanlarını keşfedin",
-        "step2Title": "Özleri Anlayın",
-        "step2Description": "Eşya özlerinin öngörülebilir sonuçlar oluşturmak için nasıl birleştiğini öğrenin",
-        "step3Title": "Kaynakları Optimize Edin",
-        "step3Description": "Ucuz malzemelerden çıktıyı maksimize etmek için seyreltme mekaniklerini kullanın"
+        "step1Title": "Hasar Çıkışını Maksimuma Çıkarın",
+        "step1Description": "Gate karşılaşmalarında maksimum hasar vermek için sınıf yeteneklerini Trait'lerle sinerji haline getirin",
+        "step2Title": "Doğru Sınıfı Seçin",
+        "step2Description": "Oyun tarzınız için en güçlü seçeneği picklemek için sınıf tier sıralamalarını karşılaştırın",
+        "step3Title": "Her Gate'e Hükmedin",
+        "step3Description": "Optimize edilmiş yapılandırmalar, daha iyi ganimet ve daha hızlı XP için daha zor Dungeon'ları temizlemenizi sağlar"
       },
-      "featured": "Öne Çıkanlar ve Temel Bilgiler",
-      "all": "Tüm Üretim Rehberleri"
+      "featured": "En İyi Yapılandırmalar",
+      "all": "Tüm Yapılandırma Rehberleri"
     },
-    "items": {
-      "title": "Lucid Blocks Eşyaları",
-      "description": "Üretim tarifleri ve kullanım ipuçlarıyla birlikte araçları, silahları, hareket ekipmanlarını ve depolama çözümlerini kapsayan ayrıntılı eşya rehberleri.",
-      "metaTitle": "Lucid Blocks Eşyaları - Araçlar, Silahlar ve Ekipman Rehberi",
-      "metaDescription": "Araçlar, silahlar, hareket ekipmanları ve depolama dahil olmak üzere Lucid Blocks için eksiksiz eşya veritabanı. Her eşyayı nasıl üreteceğinizi ve etkili bir şekilde kullanacağınızı öğrenin.",
-      "categoryLabel": "EŞYALAR VE EKİPMANLAR",
-      "whatIs": "Eşyalar Nedir?",
-      "whatIsDescription": "Araçlar, silahlar, hareket ekipmanları ve işlevsel eşyalar için kapsamlı rehberler. Üretim tariflerini, kullanım stratejilerini ve en uygun kombinasyonları öğrenin.",
-      "why": "Neden eşya rehberlerine bakmalısınız?",
+    "equipment": {
+      "title": "Reawakened Ekipmanları",
+      "description": "Dual Daggers gibi silahlar, Gear istatistikleri, düşme konumları ve yükseltme yollarını içeren eksiksiz Reawakened ekipman rehberi.",
+      "metaTitle": "Reawakened Ekipmanları - Silahlar, Gear İstatistikleri & Düşme Konumları",
+      "metaDescription": "Silahları, Gear seviyelerini, stat karşılaştırmalarını ve sınıf yapılandırmanız için en iyi ganimetleri nerede toplayacağınızı kapsayan tam Reawakened ekipman rehberi.",
+      "categoryLabel": "GEAR & SİLAHLAR",
+      "whatIs": "Reawakened Ekipmanı Nedir?",
+      "whatIsDescription": "Reawakened ekipmanları; savaş gücünüzü belirleyen silahları, zırhları ve aksesuarları içerir. Her parçanın benzersiz stat bonusları vardır ve sınıf yetenekleri ile Trait yapılandırmalarıyla farklı şekilde sinerji oluşturur.",
+      "why": "Neden Reawakened ekipmanlarını yükseltmelisiniz?",
       "whySteps": {
-        "step1Title": "Üretim Tariflerini Öğrenin",
-        "step1Description": "Apotheosis kullanarak temel araçları ve silahları nasıl üreteceğinizi keşfedin",
-        "step2Title": "Ekipmanı Optimize Edin",
-        "step2Description": "Oyun tarzınız ve ilerleme aşamanız için en iyi eşyaları seçin",
-        "step3Title": "Hayatta Kalmayı Geliştirin",
-        "step3Description": "Tehlikeli dünyada gezinmek için hareket ekipmanları ve silahlar kuşanın"
+        "step1Title": "Savaş Gücünü Artırın",
+        "step1Description": "Daha iyi ekipman; hasarınızı, savunmanızı ve Gate temizleme hızınızı doğrudan artırır",
+        "step2Title": "Sınıfınızla Eşleştirin",
+        "step2Description": "Yeteneklerinizin etkinliğini en üst düzeye çıkarmak için sınıfa özel silahlar kullanın",
+        "step3Title": "Oyun Sonu İçeriğinin Kilidini Açın",
+        "step3Description": "Gelişmiş Gate'lere girmek ve elit boss'lara meydan okumak için yüksek seviyeli Gear gereklidir"
       },
-      "featured": "Öne Çıkanlar ve Temel Bilgiler",
-      "all": "Tüm Eşyalar"
+      "featured": "Öne Çıkan Ekipmanlar",
+      "all": "Tüm Ekipmanlar"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biyomları",
-      "description": "Her biyom için dünya bölgelerini, çevresel özellikleri, kaynak konumlarını ve hayatta kalma ipuçlarını keşfedin.",
-      "metaTitle": "Lucid Blocks Biyomları - Dünya Bölgeleri ve Keşif",
-      "metaDescription": "Tiamana Leylines, Fog Meadow ve gerçeküstü bölgeler dahil olmak üzere Lucid Blocks biyomlarını keşfedin. Kaynakları bulun, tehlikelerden kaçının ve sonsuz dünyada gezinin.",
-      "categoryLabel": "DÜNYA BÖLGELERİ",
-      "whatIs": "Biyomlar Nedir?",
-      "whatIsDescription": "Farklı dünya bölgeleri, çevresel özellikler, kaynak dağılımı ve tehlike bölgeleri rehberleri. Her alan için ne bekleyeceğinizi ve nasıl hazırlanacağınızı öğrenin.",
-      "why": "Neden biyomları keşfetmelisiniz?",
+    "launch": {
+      "title": "Reawakened Çıkışı",
+      "description": "Vayron Studios'un bu yeni Roblox RPG'si için Reawakened çıkış tarihi, oyun testi detayları, resmi fragmanlar ve çıkış haberleri.",
+      "metaTitle": "Reawakened Çıkışı - Çıkış Tarihi, Oyun Testi & Resmi Fragman",
+      "metaDescription": "Reawakened çıkışı hakkında her şey: çıkış tarihi, oyun testi programı, resmi fragman ve bu Roblox Dungeon RPG'si için erken erişim detayları.",
+      "categoryLabel": "ÇIKIŞ HABERLERİ",
+      "whatIs": "Reawakened Çıkışı Nedir?",
+      "whatIsDescription": "Reawakened, Vayron Studios tarafından Roblox üzerinde bir oyun testi olarak başlatıldı. Oyun; sınıflar, Trait'ler ve Gate'ler içeren Solo Leveling'den ilham alan bir Dungeon RPG deneyimi sunuyor. Çıkış haberleri; sürüm kilometre taşlarını, oyun testi pencerelerini ve resmi duyuruları kapsar.",
+      "why": "Neden Reawakened çıkış haberlerini takip etmelisiniz?",
       "whySteps": {
-        "step1Title": "Kaynakları Bulun",
-        "step1Description": "Her bölgeye özgü nadir malzemeleri ve özleri bulun",
-        "step2Title": "Tehlikelerden Kaçının",
-        "step2Description": "Çevresel tehlikeleri ve düşman yaratıkları anlayın",
-        "step3Title": "Keşfi Planlayın",
-        "step3Description": "Her biyom türü için doğru araçları ve ekipmanları hazırlayın"
+        "step1Title": "Erken Erişim Sağlayın",
+        "step1Description": "Reawakened'daki ilk Hunter'lar arasında yer almak için oyun testi pencerelerinden haberdar olun",
+        "step2Title": "Çıkış Ödüllerini Talep Edin",
+        "step2Description": "Geliştiriciler genellikle çıkış ve kilometre taşı etkinlikleri sırasında özel kodlar yayınlar",
+        "step3Title": "Güncellemelerin Önünde Kalın",
+        "step3Description": "Yeni içeriklere, sınıflara ve denge değişikliklerine hazırlanmak için çıkış haberlerini takip edin"
       },
-      "featured": "Öne Çıkanlar ve Temel Bilgiler",
-      "all": "Tüm Biyomlar"
+      "featured": "Öne Çıkan Haberler",
+      "all": "Tüm Çıkış Haberleri"
     },
-    "building": {
-      "title": "Lucid Blocks İnşa Etme",
-      "description": "Master Qualia kişisel boyutları, üs inşası, depolama yönetimi ve yaratıcı inşa tekniklerinde ustalaşın.",
-      "metaTitle": "Lucid Blocks İnşa Etme - Qualia ve Üs İnşası",
-      "metaDescription": "Qualia kişisel boyutları, üs inşası, depolama çözümleri ve yaratıcı inşa teknikleri ile Lucid Blocks inşa etme sisteminde ustalaşın.",
-      "categoryLabel": "İNŞA VE ÜSLER",
-      "whatIs": "İnşa Etme Nedir?",
-      "whatIsDescription": "Qualia kişisel boyut sistemi, üs inşası, depolama yönetimi ve yaratıcı inşa rehberleri. Gerçeküstü dünyada güvenli limanınızı oluşturmayı öğrenin.",
-      "why": "Neden üs inşa etmelisiniz?",
+    "official-links": {
+      "title": "Reawakened Resmi Bağlantılar",
+      "description": "Roblox oyun sayfası, Discord sunucusu ve Vayron Studios'un Trello yol haritası dahil resmi Reawakened bağlantıları.",
+      "metaTitle": "Reawakened Resmi Bağlantılar - Roblox, Discord & Trello",
+      "metaDescription": "Tüm resmi Reawakened kaynaklarını bulun: Roblox'ta oynayın, Discord topluluğuna katılın ve yol haritası ile güncellemeler için Trello panosunu kontrol edin.",
+      "categoryLabel": "RESMİ KAYNAKLAR",
+      "whatIs": "Reawakened Resmi Bağlantıları Nedir?",
+      "whatIsDescription": "Reawakened resmi bağlantıları sizi doğrudan geliştirici kaynaklarına bağlar. Roblox sayfası oyunu oynamanızı sağlar, Discord topluluğun ve geliştiricilerin iletişim kurduğu yerdir ve Trello resmi geliştirme yol haritasını gösterir.",
+      "why": "Neden Reawakened resmi bağlantılarını kullanmalısınız?",
       "whySteps": {
-        "step1Title": "Güvenli Alanlar Oluşturun",
-        "step1Description": "Depolama ve üretim operasyonları için güvenli üsler kurun",
-        "step2Title": "Kaynakları Yönetin",
-        "step2Description": "Depolama çözümleriyle malzemeleri verimli bir şekilde düzenleyin",
-        "step3Title": "Qualia Kilidini Açın",
-        "step3Description": "Üstün kolaylık için kişisel cep boyutlarına erişin"
+        "step1Title": "Doğrudan Oynayın",
+        "step1Description": "Reawakened yolculuğunuza başlamak için resmi Roblox oyun sayfasına erişin",
+        "step2Title": "Topluluğa Katılın",
+        "step2Description": "İpuçları, kod paylaşımları ve yama notları için Discord'daki diğer Hunter'larla bağlantı kurun",
+        "step3Title": "Gelişimi Takip Edin",
+        "step3Description": "Gelecek özellikleri ve planlanan içerik güncellemelerini görmek için Trello panosunu kontrol edin"
       },
-      "featured": "Öne Çıkanlar ve Temel Bilgiler",
-      "all": "Tüm İnşa Rehberleri"
+      "featured": "Temel Kaynaklar",
+      "all": "Tüm Resmi Bağlantılar"
     },
-    "support": {
-      "title": "Lucid Blocks Destek",
-      "description": "Teknik destek, platform uyumluluğu, performans optimizasyonu ve yaygın sorunlar için sorun giderme.",
-      "metaTitle": "Lucid Blocks Destek - Teknik Yardım ve Çözümler",
-      "metaDescription": "Steam Deck kurulumu, çökme düzeltmeleri, performans optimizasyonu ve platform uyumluluk rehberleri dahil olmak üzere Lucid Blocks için teknik destek alın.",
-      "categoryLabel": "TEKNİK DESTEK",
-      "whatIs": "Destek Nedir?",
-      "whatIsDescription": "Platform uyumluluğu, performans optimizasyonu, çökme düzeltmeleri ve yaygın sorunları kapsayan teknik rehberler. Steam Deck, çok oyunculu soruları ve ayarlar hakkında yardım alın.",
-      "why": "Neden desteği kontrol etmelisiniz?",
+    "tools": {
+      "title": "Reawakened Araçları",
+      "description": "Bu Roblox RPG'sinde çiftçilik otomasyonu, AFK kasılma ve verimlilik optimizasyonu için Reawakened araçları ve script'leri.",
+      "metaTitle": "Reawakened Araçları - Script'ler, Çiftçilik & AFK Otomasyonu",
+      "metaDescription": "Oynanışınızı optimize etmek, çiftçiliği otomatikleştirmek ve Gate koşularında ve seviye atlamada verimliliği en üst düzeye çıkarmak için Reawakened araçlarını ve script'lerini keşfedin.",
+      "categoryLabel": "ARAÇLAR & SCRIPT'LER",
+      "whatIs": "Reawakened Araçları Nedir?",
+      "whatIsDescription": "Reawakened araçları, deneyimli oyuncular tarafından oyunda çiftçilik verimliliğini, AFK seviye atlamayı ve kaynak toplamayı optimize etmek için kullanılan script'leri ve otomasyon kurulumlarını kapsar.",
+      "why": "Neden Reawakened araçları kullanılmalı?",
       "whySteps": {
-        "step1Title": "Teknik Sorunları Düzeltin",
-        "step1Description": "Çökmeleri, performans sorunlarını ve uyumluluk problemlerini çözün",
-        "step2Title": "Performansı Optimize Edin",
-        "step2Description": "Platformunuzda en iyi deneyim için ayarları yapılandırın",
-        "step3Title": "Platform Uyumluluğu",
-        "step3Description": "Steam Deck, kontrolcü desteği ve sistem gereksinimleri hakkında bilgi edinin"
+        "step1Title": "Tekrarlayan Çiftçiliği Otomatikleştirmeyin",
+        "step1Description": "Siz uzaktayken XP ve kaynak kasmak için AFK rutinleri kurun",
+        "step2Title": "Verimliliği Maksimuma Çıkarın",
+        "step2Description": "Seviyeniz için en uygun çiftçilik noktalarını ve rotalarını belirlemek için araçları kullanın",
+        "step3Title": "Rekabetçi Kalın",
+        "step3Description": "Deneyimli oyuncular, kaynak biriktirmede avantaj sağlamak için otomasyon araçlarını kullanır"
       },
-      "featured": "Öne Çıkanlar ve Temel Bilgiler",
-      "all": "Tüm Destek Makaleleri"
+      "featured": "Öne Çıkan Araçlar",
+      "all": "Tüm Araçlar"
     }
   }
 }

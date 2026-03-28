@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Guides",
-    "crafting": "Fabrication",
-    "items": "Objets",
-    "biomes": "Biomes",
-    "building": "Construction",
-    "support": "Support"
+    "codes": "Codes",
+    "guide": "Guide",
+    "build": "Build",
+    "equipment": "Équipement",
+    "launch": "Lancement",
+    "official-links": "Liens Officiels",
+    "tools": "Outils"
   },
   "common": {
     "home": "Accueil",

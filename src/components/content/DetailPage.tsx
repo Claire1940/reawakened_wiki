@@ -24,12 +24,13 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 
 	// 内容类型翻译映射
 	const contentTypeLabels: Record<string, string> = {
-		guides: t('nav.guides'),
-		crafting: t('nav.crafting'),
-		items: t('nav.items'),
-		biomes: t('nav.biomes'),
-		building: t('nav.building'),
-		support: t('nav.support'),
+		codes: t('nav.codes'),
+		guide: t('nav.guide'),
+		build: t('nav.build'),
+		equipment: t('nav.equipment'),
+		launch: t('nav.launch'),
+		'official-links': t('nav.official-links'),
+		tools: t('nav.tools'),
 	}
 
 	// 提取图片元数据

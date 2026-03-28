@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "codes": "Kodlar",
+    "guide": "Rehber",
+    "build": "Build",
+    "equipment": "Ekipman",
+    "launch": "Lansman",
+    "official-links": "Resmi Bağlantılar",
+    "tools": "Araçlar"
   },
   "common": {
     "home": "Ana Sayfa",

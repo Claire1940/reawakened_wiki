@@ -10,7 +10,15 @@
       "twitterDescription": "Reawakened Wiki covers active codes, best classes, traits, progression paths, and dungeons for this new Roblox RPG."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "build": "Build",
+    "equipment": "Equipment",
+    "launch": "Launch",
+    "official-links": "Official Links",
+    "tools": "Tools"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -1288,45 +1296,117 @@
         {
           "section": "Town, Loot, and Economy",
           "entries": [
-            { "name": "Researcher", "requirement": "Identify 10 items" },
-            { "name": "Treasure Hunter", "requirement": "Open 20 chests" },
-            { "name": "Let greed take over", "requirement": "Loot 100,000 gold" },
-            { "name": "I might have a problem", "requirement": "Gamble 30 times" },
-            { "name": "The Enchanter", "requirement": "Enchant an item" },
-            { "name": "The Merchant", "requirement": "Sell 50 items" },
-            { "name": "Upgraded Weaponry", "requirement": "Find and use a Magic Anvil" }
+            {
+              "name": "Researcher",
+              "requirement": "Identify 10 items"
+            },
+            {
+              "name": "Treasure Hunter",
+              "requirement": "Open 20 chests"
+            },
+            {
+              "name": "Let greed take over",
+              "requirement": "Loot 100,000 gold"
+            },
+            {
+              "name": "I might have a problem",
+              "requirement": "Gamble 30 times"
+            },
+            {
+              "name": "The Enchanter",
+              "requirement": "Enchant an item"
+            },
+            {
+              "name": "The Merchant",
+              "requirement": "Sell 50 items"
+            },
+            {
+              "name": "Upgraded Weaponry",
+              "requirement": "Find and use a Magic Anvil"
+            }
           ]
         },
         {
           "section": "Quests, Spells, and Survival",
           "entries": [
-            { "name": "Hardworking Hero", "requirement": "Complete 10 side quests" },
-            { "name": "A spell for all occasions", "requirement": "Learn 5 spells" },
-            { "name": "Strategic Retreat", "requirement": "Use a town portal with less than 10% health left" },
-            { "name": "Cheating Death", "requirement": "Choose your FATE" },
-            { "name": "Dungeoneering Expert", "requirement": "Reach level 35 in each dungeon" },
-            { "name": "The Undying", "requirement": "Reach level 20 with a hardcore character" }
+            {
+              "name": "Hardworking Hero",
+              "requirement": "Complete 10 side quests"
+            },
+            {
+              "name": "A spell for all occasions",
+              "requirement": "Learn 5 spells"
+            },
+            {
+              "name": "Strategic Retreat",
+              "requirement": "Use a town portal with less than 10% health left"
+            },
+            {
+              "name": "Cheating Death",
+              "requirement": "Choose your FATE"
+            },
+            {
+              "name": "Dungeoneering Expert",
+              "requirement": "Reach level 35 in each dungeon"
+            },
+            {
+              "name": "The Undying",
+              "requirement": "Reach level 20 with a hardcore character"
+            }
           ]
         },
         {
           "section": "Pets, Fishing, and Summons",
           "entries": [
-            { "name": "Happy Pet, Happy Owner", "requirement": "Feed your pet 5 different fish" },
-            { "name": "There's no I in team", "requirement": "Let your pet kill enemies 25 times" },
-            { "name": "Master Angler", "requirement": "Catch all types of fish" },
-            { "name": "Grate Protector", "requirement": "Catch Peronto's Cheesehead of the Emerald Bay" },
-            { "name": "I choose you!", "requirement": "Summon 6 different monsters" }
+            {
+              "name": "Happy Pet, Happy Owner",
+              "requirement": "Feed your pet 5 different fish"
+            },
+            {
+              "name": "There's no I in team",
+              "requirement": "Let your pet kill enemies 25 times"
+            },
+            {
+              "name": "Master Angler",
+              "requirement": "Catch all types of fish"
+            },
+            {
+              "name": "Grate Protector",
+              "requirement": "Catch Peronto's Cheesehead of the Emerald Bay"
+            },
+            {
+              "name": "I choose you!",
+              "requirement": "Summon 6 different monsters"
+            }
           ]
         },
         {
           "section": "Combat, Gems, and Legacy",
           "entries": [
-            { "name": "Gather 'round", "requirement": "Kill 5 enemies at the same time" },
-            { "name": "Swift Victory", "requirement": "Kill 10 enemies in 45 seconds" },
-            { "name": "Monster Hunter", "requirement": "Defeat 100 enemies" },
-            { "name": "Versatile Slayer", "requirement": "Defeat 10 bosses with 4 different weapon classes" },
-            { "name": "All the Shinies", "requirement": "Loot every type of gem" },
-            { "name": "The road goes on", "requirement": "Create a descendant" }
+            {
+              "name": "Gather 'round",
+              "requirement": "Kill 5 enemies at the same time"
+            },
+            {
+              "name": "Swift Victory",
+              "requirement": "Kill 10 enemies in 45 seconds"
+            },
+            {
+              "name": "Monster Hunter",
+              "requirement": "Defeat 100 enemies"
+            },
+            {
+              "name": "Versatile Slayer",
+              "requirement": "Defeat 10 bosses with 4 different weapon classes"
+            },
+            {
+              "name": "All the Shinies",
+              "requirement": "Loot every type of gem"
+            },
+            {
+              "name": "The road goes on",
+              "requirement": "Create a descendant"
+            }
           ]
         }
       ]
@@ -1340,8 +1420,14 @@
           "cardTitle": "Open the Input Prompt",
           "openInput": "Original FATE & The Cursed King: Ctrl + Shift + ~  |  Undiscovered Realms: Ctrl + Shift + - then click the ? on the left side",
           "commands": [
-            { "code": "Ctrl + Shift + ~", "effect": "Opens the cheat prompt in Original FATE and The Cursed King" },
-            { "code": "Ctrl + Shift + -", "effect": "Opens the prompt flow used by Undiscovered Realms" }
+            {
+              "code": "Ctrl + Shift + ~",
+              "effect": "Opens the cheat prompt in Original FATE and The Cursed King"
+            },
+            {
+              "code": "Ctrl + Shift + -",
+              "effect": "Opens the prompt flow used by Undiscovered Realms"
+            }
           ],
           "note": "In The Cursed King, the game keeps running while you type, so enter commands in a safe area."
         },
@@ -1349,8 +1435,14 @@
           "cardTitle": "Floor Control",
           "openInput": "Use the matching prompt for the game you are in",
           "commands": [
-            { "code": "Ascend #", "effect": "Go up a chosen number of dungeon floors" },
-            { "code": "Descend #", "effect": "Go down a chosen number of dungeon floors" }
+            {
+              "code": "Ascend #",
+              "effect": "Go up a chosen number of dungeon floors"
+            },
+            {
+              "code": "Descend #",
+              "effect": "Go down a chosen number of dungeon floors"
+            }
           ],
           "note": "Replace # with a number."
         },
@@ -1358,10 +1450,22 @@
           "cardTitle": "Levels, Fame, and Fast Progression",
           "openInput": "Use the matching prompt for the game you are in",
           "commands": [
-            { "code": "Fame", "effect": "Add fame" },
-            { "code": "Experience", "effect": "Add experience in supported games" },
-            { "code": "Levelup", "effect": "Gain one level" },
-            { "code": "God", "effect": "Gain a large level jump and extra stat points in supported games" }
+            {
+              "code": "Fame",
+              "effect": "Add fame"
+            },
+            {
+              "code": "Experience",
+              "effect": "Add experience in supported games"
+            },
+            {
+              "code": "Levelup",
+              "effect": "Gain one level"
+            },
+            {
+              "code": "God",
+              "effect": "Gain a large level jump and extra stat points in supported games"
+            }
           ],
           "note": "Command names and exact rewards differ slightly between games."
         },
@@ -1369,8 +1473,14 @@
           "cardTitle": "Gold and Recovery",
           "openInput": "Use the matching prompt for the game you are in",
           "commands": [
-            { "code": "Gold", "effect": "Add a large amount of gold" },
-            { "code": "Heal", "effect": "Restore health" }
+            {
+              "code": "Gold",
+              "effect": "Add a large amount of gold"
+            },
+            {
+              "code": "Heal",
+              "effect": "Restore health"
+            }
           ],
           "note": "Quickest utility commands for shopping, recovery, and low-friction testing."
         },
@@ -1378,10 +1488,22 @@
           "cardTitle": "Spawn Items and Monsters",
           "openInput": "Use the matching prompt for the game you are in",
           "commands": [
-            { "code": "[Item Name]", "effect": "Spawn an item near you in Original FATE" },
-            { "code": "[Creature Name]", "effect": "Spawn a creature near you in Original FATE" },
-            { "code": "spawn (itemname)", "effect": "Spawn an item in The Cursed King" },
-            { "code": "weapons", "effect": "Summon skeletons with weapons in The Cursed King" }
+            {
+              "code": "[Item Name]",
+              "effect": "Spawn an item near you in Original FATE"
+            },
+            {
+              "code": "[Creature Name]",
+              "effect": "Spawn a creature near you in Original FATE"
+            },
+            {
+              "code": "spawn (itemname)",
+              "effect": "Spawn an item in The Cursed King"
+            },
+            {
+              "code": "weapons",
+              "effect": "Summon skeletons with weapons in The Cursed King"
+            }
           ],
           "note": "In Original FATE, summoning Cat or Terrier creates a pet rather than a hostile enemy."
         },
@@ -1389,10 +1511,22 @@
           "cardTitle": "Map and World Utilities",
           "openInput": "Original FATE: Ctrl + Shift + ~",
           "commands": [
-            { "code": "discoverall", "effect": "Reveal the current dungeon map" },
-            { "code": "Dumpmap", "effect": "Write a text description of the current map to maze.txt" },
-            { "code": "Magic Anvil", "effect": "Create a magic anvil" },
-            { "code": "Fate Statue / Shrine Of Learning", "effect": "Create special interactable world objects" }
+            {
+              "code": "discoverall",
+              "effect": "Reveal the current dungeon map"
+            },
+            {
+              "code": "Dumpmap",
+              "effect": "Write a text description of the current map to maze.txt"
+            },
+            {
+              "code": "Magic Anvil",
+              "effect": "Create a magic anvil"
+            },
+            {
+              "code": "Fate Statue / Shrine Of Learning",
+              "effect": "Create special interactable world objects"
+            }
           ],
           "note": "Some spawned objects are practical tools, while others are mainly useful for experimentation."
         },
@@ -1400,9 +1534,18 @@
           "cardTitle": "Undiscovered Realms Admin Shortcuts",
           "openInput": "Undiscovered Realms: Ctrl + Shift + - then click the ?",
           "commands": [
-            { "code": "HEROITEMS", "effect": "Show what levels the Hero Items are on" },
-            { "code": "REQUEST 'name'", "effect": "Give that questgiver a new quest" },
-            { "code": "AMNESIA", "effect": "Return to town" }
+            {
+              "code": "HEROITEMS",
+              "effect": "Show what levels the Hero Items are on"
+            },
+            {
+              "code": "REQUEST 'name'",
+              "effect": "Give that questgiver a new quest"
+            },
+            {
+              "code": "AMNESIA",
+              "effect": "Return to town"
+            }
           ],
           "note": "These are the most utility-heavy commands unique to Undiscovered Realms."
         },
@@ -1410,9 +1553,18 @@
           "cardTitle": "Cosmetic and Oddball Commands",
           "openInput": "Original FATE: Ctrl + Shift + ~",
           "commands": [
-            { "code": "Blood", "effect": "Use blood instead of stars" },
-            { "code": "Noblood", "effect": "Switch blood back to stars" },
-            { "code": "Weapon Rack / Small Chest / Large Chest", "effect": "Spawn prop objects with mixed functionality" }
+            {
+              "code": "Blood",
+              "effect": "Use blood instead of stars"
+            },
+            {
+              "code": "Noblood",
+              "effect": "Switch blood back to stars"
+            },
+            {
+              "code": "Weapon Rack / Small Chest / Large Chest",
+              "effect": "Spawn prop objects with mixed functionality"
+            }
           ],
           "note": "Some props cannot be activated or opened normally, especially in town."
         }
@@ -1426,38 +1578,89 @@
         {
           "section": "Official Support",
           "entries": [
-            { "label": "Steam Deck support", "detail": "Official FAQ confirms that Reawakened is playable on Steam Deck." },
-            { "label": "PC controller support", "detail": "Official FAQ confirms full controller support on PC." },
-            { "label": "Widescreen support", "detail": "Official FAQ confirms widescreen formats are supported." },
-            { "label": "UI optimized for small screens", "detail": "Many UI changes were made because the game was optimized for console controllers, Switch, and Steam Deck." }
+            {
+              "label": "Steam Deck support",
+              "detail": "Official FAQ confirms that Reawakened is playable on Steam Deck."
+            },
+            {
+              "label": "PC controller support",
+              "detail": "Official FAQ confirms full controller support on PC."
+            },
+            {
+              "label": "Widescreen support",
+              "detail": "Official FAQ confirms widescreen formats are supported."
+            },
+            {
+              "label": "UI optimized for small screens",
+              "detail": "Many UI changes were made because the game was optimized for console controllers, Switch, and Steam Deck."
+            }
           ]
         },
         {
           "section": "Controls and Layout",
           "entries": [
-            { "label": "Steam Deck layout", "detail": "Steam Deck uses the same controller layout shown for gamepad play on PC." },
-            { "label": "Button prompts", "detail": "Controller prompts are shown as Xbox-style buttons." },
-            { "label": "In-game rebinding", "detail": "Controls cannot be remapped inside the game menus." },
-            { "label": "Where to check inputs", "detail": "Use the in-game controls menu first, then adjust anything extra through Steam input if needed." }
+            {
+              "label": "Steam Deck layout",
+              "detail": "Steam Deck uses the same controller layout shown for gamepad play on PC."
+            },
+            {
+              "label": "Button prompts",
+              "detail": "Controller prompts are shown as Xbox-style buttons."
+            },
+            {
+              "label": "In-game rebinding",
+              "detail": "Controls cannot be remapped inside the game menus."
+            },
+            {
+              "label": "Where to check inputs",
+              "detail": "Use the in-game controls menu first, then adjust anything extra through Steam input if needed."
+            }
           ]
         },
         {
           "section": "Known Quirks on Deck and Controller",
           "entries": [
-            { "label": "Small-text issue", "detail": "At 1280 x 800, text can be harder to read because there is no in-game UI size option." },
-            { "label": "Menu cursor drift", "detail": "Steam Deck players report the cursor can overshoot menu targets when using the trackpads." },
-            { "label": "Targeting feedback", "detail": "Target circles do not appear on enemies when using a controller." },
-            { "label": "Ranged and spell aiming", "detail": "Lock-on can engage very late, especially for spell or ranged play." },
-            { "label": "NPC interaction", "detail": "Close-together NPCs can be fidgety to target — walk away and approach again facing the NPC you want." }
+            {
+              "label": "Small-text issue",
+              "detail": "At 1280 x 800, text can be harder to read because there is no in-game UI size option."
+            },
+            {
+              "label": "Menu cursor drift",
+              "detail": "Steam Deck players report the cursor can overshoot menu targets when using the trackpads."
+            },
+            {
+              "label": "Targeting feedback",
+              "detail": "Target circles do not appear on enemies when using a controller."
+            },
+            {
+              "label": "Ranged and spell aiming",
+              "detail": "Lock-on can engage very late, especially for spell or ranged play."
+            },
+            {
+              "label": "NPC interaction",
+              "detail": "Close-together NPCs can be fidgety to target — walk away and approach again facing the NPC you want."
+            }
           ]
         },
         {
           "section": "Useful Fixes and Habits",
           "entries": [
-            { "label": "Steam input workaround", "detail": "Use the launch option: SteamDeck=0 %command% --force-grab-cursor" },
-            { "label": "Controller remap route", "detail": "Use the Steam Deck controller configuration menu rather than looking for an in-game remap menu." },
-            { "label": "Build choice tip", "detail": "Melee and general progression feel cleaner on controller than precision-heavy ranged or attack-spell setups." },
-            { "label": "Portal positioning", "detail": "When using a town portal, face away from staircases or traders to avoid awkward clipping near interactable NPCs." }
+            {
+              "label": "Steam input workaround",
+              "detail": "Use the launch option: SteamDeck=0 %command% --force-grab-cursor"
+            },
+            {
+              "label": "Controller remap route",
+              "detail": "Use the Steam Deck controller configuration menu rather than looking for an in-game remap menu."
+            },
+            {
+              "label": "Build choice tip",
+              "detail": "Melee and general progression feel cleaner on controller than precision-heavy ranged or attack-spell setups."
+            },
+            {
+              "label": "Portal positioning",
+              "detail": "When using a town portal, face away from staircases or traders to avoid awkward clipping near interactable NPCs."
+            }
           ]
         }
       ]
@@ -1524,59 +1727,139 @@
       "metaTitle": "Reawakened Codes - Active Redeem Codes & Rewards",
       "metaDescription": "Full list of active Reawakened codes with rewards listed. Learn how to redeem codes and where to find new drops for this Roblox RPG.",
       "categoryLabel": "FREE CODES",
-      "whatIs": "What are Codes?",
-      "whatIsDescription": "Codes are limited-use reward strings released by Vayron Studios during updates and events. Redeem them in the in-game menu for free XP, stats, and cosmetics.",
-      "why": "Why redeem codes?",
+      "whatIs": "What are Reawakened Codes?",
+      "whatIsDescription": "Reawakened codes are limited-use reward strings released by Vayron Studios during updates and events. Redeem them in the in-game menu for free XP boosts, stat chips, and class reserves to accelerate your progression.",
+      "why": "Why redeem Reawakened codes?",
       "whySteps": {
         "step1Title": "Free XP Boosts",
         "step1Description": "Codes often include XP multipliers that speed up early rank progression",
         "step2Title": "Stat Bonuses",
         "step2Description": "Claim free attack, defense, or utility stat buffs to strengthen your build",
-        "step3Title": "Cosmetic Rewards",
-        "step3Description": "Unlock exclusive visual items before they expire or use counts run out"
+        "step3Title": "Class Reserves",
+        "step3Description": "Unlock class change tokens so you can switch playstyle without losing progress"
       },
       "featured": "Featured & Active",
       "all": "All Codes"
     },
-    "classes": {
-      "title": "Reawakened Classes",
-      "description": "Complete guide to all Reawakened classes including roles, stat priorities, and best build directions.",
-      "metaTitle": "Reawakened Classes Guide - All Classes, Roles & Tier List",
-      "metaDescription": "Full Reawakened classes guide covering every class role, starting stats, trait recommendations, and best path choices for this Roblox RPG.",
-      "categoryLabel": "CLASS GUIDE",
-      "whatIs": "What are Classes?",
-      "whatIsDescription": "Classes define your combat role, stat focus, and gate playstyle. Each class has unique abilities, different HP and damage scaling, and a preferred trait and path combination.",
-      "why": "Why learn your class?",
-      "whySteps": {
-        "step1Title": "Match Your Playstyle",
-        "step1Description": "Find the class that fits whether you prefer tanking, burst damage, or ranged safety",
-        "step2Title": "Optimize Your Traits",
-        "step2Description": "Class knowledge helps you choose the right offense, defense, or utility traits",
-        "step3Title": "Pick the Right Path",
-        "step3Description": "Understanding your class helps you commit to Combat, Defense, or Support Path"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Class Guides"
-    },
-    "guides": {
-      "title": "Reawakened Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced build strategies for Reawakened.",
-      "metaTitle": "Reawakened Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Reawakened guides covering beginner tips, class builds, trait optimization, gate strategies, and leveling routes for this Roblox RPG.",
+    "guide": {
+      "title": "Reawakened Guide",
+      "description": "Complete Reawakened guides covering beginner tips, fastest leveling routes, class strategies, and early-game progression for this Roblox RPG.",
+      "metaTitle": "Reawakened Guide - Beginner Tips, Leveling & Progression",
+      "metaDescription": "Master Reawakened with comprehensive guides on leveling, class selection, gate strategies, and trait optimization for new and experienced players.",
       "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gate mechanics, class builds, trait rerolling, progression paths, and ranking up efficiently in Reawakened.",
-      "why": "Why read guides?",
+      "whatIs": "What are Reawakened Guides?",
+      "whatIsDescription": "Reawakened guides cover everything from your first gate run to advanced build optimization. Learn how classes, traits, paths, and dungeons work together to build the most powerful hunter.",
+      "why": "Why read Reawakened guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
         "step1Description": "Understand how gates, traits, and ranks work together to avoid common mistakes",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to level faster and reach endgame content efficiently",
+        "step2Description": "Follow proven leveling paths to reach endgame content efficiently",
         "step3Title": "Master Your Build",
         "step3Description": "Develop advanced tactics for optimizing your class and trait combination"
       },
-      "featured": "Featured & Essential",
+      "featured": "Featured Guides",
       "all": "All Guides"
+    },
+    "build": {
+      "title": "Reawakened Build",
+      "description": "Best Reawakened builds for every class including Assassin, best class rankings, and character showcases for this Roblox RPG.",
+      "metaTitle": "Reawakened Build - Best Classes, Assassin & Class Tier List",
+      "metaDescription": "Discover the best Reawakened builds for every class. Explore Assassin builds, class tier lists, and detailed showcases to dominate dungeon gates.",
+      "categoryLabel": "CLASS BUILDS",
+      "whatIs": "What are Reawakened Builds?",
+      "whatIsDescription": "Reawakened builds define how you play by combining your class choice, traits, stat allocation, and equipment. A well-optimized build lets you clear gates faster and push through higher difficulty content with confidence.",
+      "why": "Why optimize your Reawakened build?",
+      "whySteps": {
+        "step1Title": "Maximize Damage Output",
+        "step1Description": "Synergize class abilities with traits to deal maximum damage in gate encounters",
+        "step2Title": "Choose the Right Class",
+        "step2Description": "Compare class tier rankings to pick the strongest option for your playstyle",
+        "step3Title": "Dominate Every Gate",
+        "step3Description": "Optimized builds let you clear harder dungeons for better loot and faster XP"
+      },
+      "featured": "Top Builds",
+      "all": "All Build Guides"
+    },
+    "equipment": {
+      "title": "Reawakened Equipment",
+      "description": "Complete guide to Reawakened equipment including weapons like Dual Daggers, gear stats, drop locations, and upgrade paths.",
+      "metaTitle": "Reawakened Equipment - Weapons, Gear Stats & Drop Locations",
+      "metaDescription": "Full Reawakened equipment guide covering weapons, gear tiers, stat comparisons, and where to farm the best drops for your class build.",
+      "categoryLabel": "GEAR & WEAPONS",
+      "whatIs": "What is Reawakened Equipment?",
+      "whatIsDescription": "Reawakened equipment includes weapons, armor, and accessories that define your combat power. Each piece has unique stat bonuses and synergizes differently with class abilities and trait builds.",
+      "why": "Why upgrade Reawakened equipment?",
+      "whySteps": {
+        "step1Title": "Increase Combat Power",
+        "step1Description": "Better equipment directly boosts your damage, defense, and gate clear speed",
+        "step2Title": "Match Your Class",
+        "step2Description": "Use class-specific weapons to maximize the effectiveness of your abilities",
+        "step3Title": "Unlock Endgame Content",
+        "step3Description": "High-tier gear is required to enter advanced gates and challenge elite bosses"
+      },
+      "featured": "Featured Equipment",
+      "all": "All Equipment"
+    },
+    "launch": {
+      "title": "Reawakened Launch",
+      "description": "Reawakened release date, playtest details, official trailers, and launch news for this new Roblox RPG from Vayron Studios.",
+      "metaTitle": "Reawakened Launch - Release Date, Playtest & Official Trailer",
+      "metaDescription": "Everything about the Reawakened launch: release date, playtest schedule, official trailer, and early access details for this Roblox dungeon RPG.",
+      "categoryLabel": "LAUNCH NEWS",
+      "whatIs": "What is the Reawakened Launch?",
+      "whatIsDescription": "Reawakened launched as a playtest on Roblox by Vayron Studios. The game features a Solo Leveling-inspired dungeon RPG experience with classes, traits, and gates. Launch news covers release milestones, playtest windows, and official announcements.",
+      "why": "Why follow Reawakened launch news?",
+      "whySteps": {
+        "step1Title": "Get Early Access",
+        "step1Description": "Stay updated on playtest windows to be among the first hunters in Reawakened",
+        "step2Title": "Claim Launch Rewards",
+        "step2Description": "Developers often release exclusive codes during launch and milestone events",
+        "step3Title": "Stay Ahead of Updates",
+        "step3Description": "Follow launch news to prepare for new content, classes, and balance changes"
+      },
+      "featured": "Featured News",
+      "all": "All Launch News"
+    },
+    "official-links": {
+      "title": "Reawakened Official Links",
+      "description": "Official Reawakened links including the Roblox game page, Discord server, and Trello roadmap from Vayron Studios.",
+      "metaTitle": "Reawakened Official Links - Roblox, Discord & Trello",
+      "metaDescription": "Find all official Reawakened resources: play on Roblox, join the Discord community, and check the Trello board for roadmap and updates.",
+      "categoryLabel": "OFFICIAL RESOURCES",
+      "whatIs": "What are Reawakened Official Links?",
+      "whatIsDescription": "Reawakened official links connect you directly to developer resources. The Roblox page lets you play the game, Discord is where the community and developers communicate, and Trello shows the official development roadmap.",
+      "why": "Why use Reawakened official links?",
+      "whySteps": {
+        "step1Title": "Play Directly",
+        "step1Description": "Access the official Roblox game page to start your Reawakened journey",
+        "step2Title": "Join the Community",
+        "step2Description": "Connect with other hunters on Discord for tips, code drops, and patch notes",
+        "step3Title": "Follow Development",
+        "step3Description": "Check the Trello board to see upcoming features and planned content updates"
+      },
+      "featured": "Key Resources",
+      "all": "All Official Links"
+    },
+    "tools": {
+      "title": "Reawakened Tools",
+      "description": "Reawakened tools and scripts for farming automation, AFK grinding, and efficiency optimization in this Roblox RPG.",
+      "metaTitle": "Reawakened Tools - Scripts, Farming & AFK Automation",
+      "metaDescription": "Explore Reawakened tools and scripts for optimizing your gameplay, automating farming, and maximizing efficiency in gate runs and leveling.",
+      "categoryLabel": "TOOLS & SCRIPTS",
+      "whatIs": "What are Reawakened Tools?",
+      "whatIsDescription": "Reawakened tools cover scripts and automation setups used by experienced players to optimize farming efficiency, AFK leveling, and resource collection in the game.",
+      "why": "Why use Reawakened tools?",
+      "whySteps": {
+        "step1Title": "Automate Repetitive Farming",
+        "step1Description": "Set up AFK routines to grind XP and resources while you are away",
+        "step2Title": "Maximize Efficiency",
+        "step2Description": "Use tools to identify optimal farming spots and routes for your level",
+        "step3Title": "Stay Competitive",
+        "step3Description": "Experienced players use automation tools to maintain an edge in resource accumulation"
+      },
+      "featured": "Featured Tools",
+      "all": "All Tools"
     }
   }
 }

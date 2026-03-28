@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "ガイド",
-    "crafting": "クラフト",
-    "items": "アイテム",
-    "biomes": "バイオーム",
-    "building": "建築",
-    "support": "サポート"
+    "codes": "コード",
+    "guide": "ガイド",
+    "build": "ビルド",
+    "equipment": "装備",
+    "launch": "リリース",
+    "official-links": "公式リンク",
+    "tools": "ツール"
   },
   "common": {
     "home": "ホーム",

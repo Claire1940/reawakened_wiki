@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Reawakened Wiki - Codes, Classes & Dungeon Guide",
+      "description": "Reawakened Wiki covers active codes, best classes, traits, progression paths, dungeons, leveling tips, and early-game guides for this new Roblox RPG.",
+      "keywords": "Reawakened, Roblox, codes, classes, traits, dungeons, paths, leveling, guide",
+      "ogTitle": "Reawakened Wiki - Codes, Classes & Dungeon Guide",
+      "ogDescription": "Reawakened Wiki covers active codes, best classes, traits, progression paths, dungeons, leveling tips, and early-game guides for this new Roblox RPG.",
+      "twitterTitle": "Reawakened Wiki - Codes, Classes & Dungeon Guide",
+      "twitterDescription": "Reawakened Wiki covers active codes, best classes, traits, progression paths, and dungeons for this new Roblox RPG."
     }
   },
   "nav": {
@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Solo Leveling-Inspired Roblox RPG",
+    "title": "Reawakened Wiki",
+    "description": "Fight through gates, choose a class, upgrade your build, and climb the hunter ranks in a dark anime Roblox RPG focused on fast progression and combat.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnSteamCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "86.6K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "4.8K+",
+        "label": "Players Active"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "2,234",
+        "label": "Favorites"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "12.7K+",
+        "label": "Studio Members"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Play Reawakened?",
+    "description": "Join the Reawakened community on Discord for guides, updates, and discussions!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Reawakened Wiki",
+    "description": "Your complete resource hub for Reawakened codes, classes, traits, paths, gates, gear, leveling, and boss guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "twitter": "YouTube",
+    "steamCommunity": "Vayron Studios",
+    "steamStore": "Play on Roblox",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Reawakened Wiki. Not affiliated with Vayron Studios or Roblox.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

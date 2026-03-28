@@ -28,6 +28,20 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Reawakened Wiki 专用图标
+  Gift: LucideIcons.Gift,
+  Zap: LucideIcons.Zap,
+  Map: LucideIcons.Map,
+  DoorOpen: LucideIcons.DoorOpen,
+  Skull: LucideIcons.Skull,
+  BarChart3: LucideIcons.BarChart3,
+  Trophy: LucideIcons.Trophy,
+  Bell: LucideIcons.Bell,
+  Lightbulb: LucideIcons.Lightbulb,
+  Sword: LucideIcons.Sword,
+  Layers: LucideIcons.Layers,
+  Target: LucideIcons.Target,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,

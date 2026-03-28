@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -51,696 +51,676 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Reawakened Gameplay",
+    "description": "Fight through gates, master your class abilities, and climb the hunter ranks in this fast-paced anime Roblox RPG inspired by Solo Leveling."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Everything you need for codes, classes, gates, and progression in Reawakened",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "Gift",
+        "title": "Reawakened Codes",
+        "description": "Active redeem codes and reward list"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Users",
+        "title": "Reawakened Classes",
+        "description": "All classes, roles, and strength ratings"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Zap",
+        "title": "Reawakened Traits",
+        "description": "Trait effects, rarity, and reroll guide"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Map",
+        "title": "Reawakened Paths",
+        "description": "Progression paths and build routes"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "icon": "DoorOpen",
+        "title": "Reawakened Gates",
+        "description": "Gate types, difficulty, and loot guide"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Reawakened Gear",
+        "description": "Weapons, armor, and gear tiers"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Reawakened Leveling",
+        "description": "Fastest leveling routes and XP tips"
+      },
+      {
+        "icon": "Skull",
+        "title": "Reawakened Bosses",
+        "description": "Boss mechanics, locations, and drops"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Reawakened Beginner Guide",
+        "description": "First steps for new hunters"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Reawakened Best Builds",
+        "description": "Top builds by class and playstyle"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Reawakened Hunter Ranks",
+        "description": "Rank milestones and rank-up challenges"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Reawakened FAQ",
+        "description": "Common questions answered"
+      },
+      {
+        "icon": "Bell",
+        "title": "Reawakened Update Log",
+        "description": "Latest patches and content updates"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Reawakened Build Tips",
+        "description": "Advanced build optimization advice"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Reawakened Community",
+        "description": "Discord, YouTube, and official links"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Reawakened Early Tips",
+        "description": "Key tips to get ahead fast"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+    "reawakendBeginnerGuide": {
+      "title": "Reawakened Beginner Guide",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "Start your journey in Reawakened by mastering the hunter loop: enter gates, collect loot, upgrade your class, and climb the ranks. Every system builds on the previous one, so understanding the basics early makes everything else smoother.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Choose Your Class",
+          "description": "Your class defines your combat role. Mage deals fast magic damage, Warrior absorbs hits as a front-liner, Assassin bursts targets at close range, Archer attacks safely from a distance, and Healer supports teammates. Beginners should start with Warrior or Mage."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Enter Your First Gate",
+          "description": "Gates are timed dungeons with wave-based combat and a final boss. Start on F-rank gates to learn the mechanics. Clear all waves before the timer runs out and defeat the gate boss to earn gear and XP."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Reroll Your Traits",
+          "description": "Traits are passive modifiers that stack with your class. After your first gate run, spend your gold rerolling traits that do not match your class. Offense traits benefit Mage and Assassin, defense traits benefit Warrior, and utility traits help all classes."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Pick a Progression Path",
+          "description": "Paths shape your long-term growth. Choose Combat Path for faster gate clears, Defense Path for higher survivability, or Balance Path if you are still exploring. Stick to one path through your first 20 levels."
+        },
+        {
+          "title": "Farm Gates for Gear",
+          "description": "Repeat gates at your current rank tier until your gear feels strong. Each gate difficulty has its own loot pool. Move to the next rank tier only when your gear can handle the jump in enemy strength."
+        },
+        {
+          "title": "Complete Your Rank-Up Challenge",
+          "description": "When you reach the level cap for your current hunter rank, a rank-up challenge unlocks. This is a harder gate with stricter conditions. Completing it promotes you to the next rank tier and unlocks new gate difficulties."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Join the official Discord at discord.gg/reawakened for live code alerts and community guides.",
+        "Redeem all active codes before your first gate run to get an XP and stat head start.",
+        "Traits compound over many gate runs. Rerolling early saves time in the long run.",
+        "Group runs clear gates faster and split the timer pressure. Use the in-game party system for B-rank and above."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
+    "reawakendCodesGuide": {
+      "title": "Reawakened Codes",
       "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+      "intro": "Reawakened codes give free XP boosts, stat buffs, and cosmetic items. Codes are released during updates, milestones, and special events. Redeem them quickly because most codes have a limited number of uses.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "Active Code Rewards",
+          "description": "Current codes give XP multipliers, stat bonuses, and cosmetic unlocks. Check our Codes page for the full up-to-date list updated after every drop."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "name": "How to Redeem a Code",
+          "description": "Open the in-game menu, tap the Codes button, type or paste the code exactly as shown, then press Confirm. Codes are case-sensitive."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "name": "Code Expiry and Limits",
+          "description": "Most Reawakened codes expire after a set number of total redemptions or a time window. Redeem immediately when a new code drops to guarantee your reward."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "name": "Where Codes Are Announced",
+          "description": "New codes are posted first in the official Reawakened Discord server. Follow the announcements channel to get alerts the moment new codes go live."
         }
       ],
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+        "Redeem your first code",
+        "Stack code XP bonuses before a gate run",
+        "Join Discord for instant code alerts"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
+    "reawakendClassesGuide": {
+      "title": "Reawakened Classes Guide",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+      "intro": "Reawakened has five playable classes, each with a distinct combat role, stat focus, and gate playstyle. Your class choice is one of the most important decisions at the start of every run.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Mage",
+          "type": "Magic DPS",
+          "description": "High spell damage with fast cast speed. Mage clears gates quickly but has lower HP. Best for players who want maximum gate clear speed and burst damage from a safe distance."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Warrior",
+          "type": "Tank / Melee",
+          "description": "High base health and strong physical damage. Warrior is the easiest class for beginners because it can absorb hits from multiple enemies without losing gate runs easily."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Assassin",
+          "type": "Burst DPS",
+          "description": "Explosive critical hit damage at close range. Assassin is a high-risk, high-reward class that rewards players who can dodge well and hit fast before enemies can respond."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "Archer",
+          "type": "Ranged DPS",
+          "description": "Consistent damage output from long range with good mobility. Archer suits players who want a balance of safety and steady damage without committing to melee range."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "name": "Healer",
+          "type": "Support",
+          "description": "Team healing, shields, and buff application. Healer is best in group gate runs where sustaining teammates unlocks harder difficulties faster than any DPS class could solo."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "name": "Dual Blade",
+          "type": "Speed DPS",
+          "description": "Very high attack speed with moderate individual hit damage. Dual Blade rewards aggressive players who want to stack attack speed traits and overwhelm enemies with volume of hits."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
+          "name": "Tank",
+          "type": "Defense Specialist",
+          "description": "Maximum HP and damage reduction with crowd control abilities. Tank is the top choice for defense path builds and anchoring group runs on the highest difficulty gates."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Shadow Monarch",
+          "type": "Unlockable",
+          "description": "A special late-game class inspired by Solo Leveling. Unlock requirements and exact mechanics are tied to high hunter rank progression milestones in the current version."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
+    "reawakendTraitsGuide": {
+      "title": "Reawakened Traits Guide",
       "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
+      "intro": "Traits are passive modifiers that stack with your class abilities and gear. Building the right trait set for your class dramatically increases gate clear speed and survivability.",
       "solutions": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "name": "Offense Traits",
+          "role": "Damage Focus",
+          "description": "Increase attack power, magic damage, critical hit rate, and critical damage. Recommended for Mage, Assassin, and Archer builds focused on fast gate clearing."
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "name": "Defense Traits",
+          "role": "Survivability Focus",
+          "description": "Add health, damage reduction, and regeneration bonuses. Ideal for Warrior and Tank builds that need to sustain through heavy enemy pressure on higher rank gates."
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "name": "Utility Traits",
+          "role": "Efficiency Focus",
+          "description": "Reduce ability cooldowns, boost movement speed, and increase XP and gold gain per gate run. Utility traits are a strong secondary investment for all classes."
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "name": "Rare and Legendary Traits",
+          "role": "High-Power Modifiers",
+          "description": "Powerful traits with major stat multipliers or unique effects. They appear at low probability during high-tier rerolls and are the target for optimized late-game builds."
         }
       ],
       "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+        "Match your first two trait slots to your class role before experimenting with utility.",
+        "Reroll early and often. Spending gold on traits early beats saving for gear upgrades.",
+        "Once your build direction is clear, prioritize locking in traits that scale with your chosen path.",
+        "Check community builds in the Discord for proven trait combinations per class."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
+    "reawakendPathsGuide": {
+      "title": "Reawakened Progression Paths",
       "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+      "intro": "Paths in Reawakened shape your long-term stat growth and build direction. Choosing the right path for your class early makes every gate run more efficient and every rank-up challenge more achievable.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "name": "Combat Path",
+          "description": "Focuses on raw attack power and gate clear speed. Combat Path benefits Mage, Assassin, Archer, and Dual Blade the most. It is the fastest path for solo gate farming at all rank tiers."
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
+          "name": "Defense Path",
+          "description": "Builds toward maximum HP scaling and damage reduction. Defense Path turns Warrior and Tank into near-unkillable gate runners for higher difficulty content where survivability is the primary barrier."
         },
         {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "name": "Support Path",
+          "description": "Amplifies healing output and team-wide buff strength. Support Path is the correct choice for Healer in group runs. It makes your presence directly responsible for the team reaching harder gate tiers."
         },
         {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
+          "name": "Balance Path",
+          "description": "Spreads growth across offense, defense, and utility evenly. Balance Path is a good early choice if you are still testing different classes or have not committed to a specific build direction yet."
         }
       ],
       "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
+        "Faster gate clear speed",
+        "Near-immortal survivability",
+        "Team-wide damage boost",
+        "Flexible early progression"
       ]
     },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
+    "reawakendGatesGuide": {
+      "title": "Reawakened Gates Guide",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
+      "intro": "Gates are the core gameplay loop in Reawakened. Each gate rank introduces new enemy patterns, stronger bosses, and better loot. Understanding what to expect at each rank tier helps you progress without wasting gate attempts.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
+          "name": "F-Rank Gate",
+          "type": "Beginner",
+          "description": "Entry-level gate with simple wave mechanics and a straightforward boss. Best for hunters at rank 0 to 10 learning the core loop. Drop pool includes basic gear and early XP boosts."
         },
         {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
+          "name": "E-Rank Gate",
+          "type": "Easy",
+          "description": "Slightly faster enemy spawns and the first appearance of elite enemies between waves. Recommended for rank 10 to 20. Drops better gear and more XP than F-rank gates."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
+          "name": "D-Rank Gate",
+          "type": "Moderate",
+          "description": "Introduces mechanics like timed elites and multi-phase bosses. Recommended for rank 20 to 35. The loot pool here includes mid-tier gear with trait compatibility bonuses."
         },
         {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "name": "C-Rank Gate",
+          "type": "Hard",
+          "description": "Multiple elite waves with a boss that has two or more phases. Recommended for rank 35 to 50. C-rank is the most efficient XP and gear source before entering endgame content."
+        },
+        {
+          "name": "B-Rank Gate",
+          "type": "Very Hard",
+          "description": "Complex enemy patterns and high HP enemies. B-rank gates are best cleared in groups of two or more. Drops rare gear with powerful passive effects not available in lower-rank gates."
+        },
+        {
+          "name": "A-Rank Gate",
+          "type": "Expert",
+          "description": "Endgame content with the highest stat requirements in the current version. A-rank drops include the best gear and the rarest trait-compatible equipment currently in the game."
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
+    "reawakendBossesGuide": {
+      "title": "Reawakened Bosses Guide",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
+      "intro": "Every gate in Reawakened ends with a boss encounter. Understanding each boss type helps you prepare the right build, avoid one-shot mechanics, and farm efficiently for the drops you need.",
       "creatures": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "name": "Gate Guardian",
+          "role": "Boss",
+          "description": "The final boss of every gate. Each rank tier has a different guardian variant with increasing HP, damage output, and phase complexity. Defeating the guardian is required to complete the gate and claim your loot."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
+          "name": "Shadow Monarch Spawn",
           "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "description": "A powerful mid-gate elite enemy that mimics the Shadow Monarch aesthetic from the game theme. Has a one-shot ability with a visible wind-up. Dodge it or use a defensive cooldown."
+        },
+        {
+          "name": "Cursed Spirit",
+          "role": "Hostile Enemy",
+          "description": "A fast-moving enemy that applies a damage-over-time debuff on hit. Prioritize Cursed Spirits quickly to prevent debuff stacking, especially on lower-health classes like Assassin and Mage."
+        },
+        {
+          "name": "Dungeon Golem",
+          "role": "Major Threat",
+          "description": "A heavily armored gate enemy with damage reduction and slow but heavy attacks. Golems appear in D-rank gates and above. Use abilities with armor-piercing effects for faster clears."
+        },
+        {
+          "name": "Undead Warrior",
+          "role": "Hostile Enemy",
+          "description": "A common gate enemy with above-average HP and predictable melee attacks. Undead Warriors are straightforward but appear in large groups in higher rank gates, creating pressure through volume."
+        },
+        {
+          "name": "Ranked Challenge Boss",
+          "role": "Elite Threat",
+          "description": "A special boss encountered during rank-up challenges only. Has more complex mechanics than standard gate bosses and requires a build specifically tuned for the challenge tier you are attempting."
+        },
+        {
+          "name": "Gate Boss Phase 2",
+          "role": "Major Threat",
+          "description": "Some bosses in C-rank and above enter a second phase after dropping below 50% HP. Phase 2 includes new attack patterns and often a temporary stat increase. Stay mobile during the transition."
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
+    "reawakendGearGuide": {
+      "title": "Reawakened Gear Guide",
       "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+      "intro": "Gear in Reawakened scales with gate rank and hunter tier. Upgrading your equipment at the right stages of progression keeps your gate clears efficient and prevents you from hitting survivability walls.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "name": "F-Rank Gear",
+          "type": "Basic",
+          "description": "Entry-level equipment from F-rank gates and starter codes. Provides modest stat bonuses. Replace these as soon as E-rank drops become available."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "name": "E-Rank Gear",
+          "type": "Standard",
+          "description": "Improved base stats from E and D-rank gate drops. Suitable for hunters in the rank 10 to 25 range. The jump from F to E gear is the most noticeable early power spike."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "name": "D-Rank Gear",
+          "type": "Advanced",
+          "description": "Mid-tier equipment with additional trait slots that let you apply trait bonuses directly to your gear. Farmed from D and C-rank gates in the rank 20 to 40 range."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "name": "C-Rank Gear",
+          "type": "Rare",
+          "description": "High-stat gear from C-rank gate drops with better trait compatibility and set bonuses. This is the primary gear tier for hunters pushing into the B-rank gate difficulty."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "name": "B-Rank Gear",
+          "type": "Epic",
+          "description": "Endgame equipment for advanced hunters. B-rank gear has powerful passive effects and high base stats that significantly increase your survivability and damage output on expert content."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "name": "Cosmetic Gear",
+          "type": "Cosmetic",
+          "description": "Visual-only items available from codes and special events. Cosmetics have no effect on stats or gate performance but are a popular reward type in the Roblox economy."
         }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
+    "reawakendLevelingGuide": {
+      "title": "Reawakened Leveling Guide",
       "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
+      "intro": "Efficient leveling in Reawakened means knowing which gates to farm at each rank tier and using XP boost codes at the right time. Pushing into gates that are too hard too early wastes time and resources.",
       "sections": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "name": "Rank 0 to 15: F-Gate Loop",
+          "description": "Run F-rank gates repeatedly until your gear is fully upgraded from F-rank drops. Use any active XP boost codes before this phase. This stage should feel smooth and fast."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "name": "Rank 15 to 30: E and D Gates",
+          "description": "Move to E-rank gates when your gear is upgraded. Transition to D-rank gates when E-rank drops stop being upgrades. The first rank-up challenge lands somewhere in this range."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "name": "Rank 30 to 45: C-Gate Farming",
+          "description": "C-rank gates are the most efficient XP and gear source for the mid-game. Group runs here significantly cut clear times. Target C-rank until your gear is fully upgraded for this tier."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "name": "Rank 45+: B and A Gate Push",
+          "description": "B-rank and above is endgame content. Join a group for B-rank clears and invest in your best available build before attempting A-rank. These gates have the rarest drops and highest XP payouts."
         }
       ],
       "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
+        "Complete first gate solo",
+        "Reach rank 15",
+        "Pass first rank-up challenge",
+        "Farm C-rank gates efficiently"
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
+    "reawakendBestBuilds": {
+      "title": "Reawakened Best Builds",
       "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
+      "intro": "The strongest Reawakened builds combine the right class, trait set, path, and gear for a specific purpose. Each build below is optimized for its intended gate role and tested across multiple rank tiers.",
       "priorities": [
         {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "name": "Mage DPS Build",
+          "priority": "S Tier",
+          "description": "Mage class with Combat Path and stacked magic damage offense traits. Best gate clear speed in the current version for solo farming. Use C-rank gear with trait compatibility bonuses for maximum output."
         },
         {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "name": "Warrior Tank Build",
+          "priority": "S Tier",
+          "description": "Warrior class with Defense Path and full defense trait investment. Near-unkillable in B-rank gates. Ideal for sustained farming without losing gate runs on difficult content."
         },
         {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
+          "name": "Assassin Burst Build",
+          "priority": "A Tier",
+          "description": "Assassin class with Combat Path and critical hit offense traits. Extremely high burst damage per second but requires good dodge timing to compensate for low HP. High ceiling, high risk."
         },
         {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "name": "Archer Sustain Build",
+          "priority": "A Tier",
+          "description": "Archer class with Balance Path and a mix of offense and utility traits. Safe and consistent damage from range. Best for players who want steady performance without high skill requirements."
         },
         {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "name": "Healer Group Build",
+          "priority": "A Tier",
+          "description": "Healer class with Support Path and utility traits focused on heal strength and buff duration. Unlocks harder gate difficulties in group runs by keeping the party alive through boss phase two transitions."
         },
         {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "name": "Tank Gate Build",
+          "priority": "B Tier",
+          "description": "Tank class with Defense Path and full health scaling traits. Maximum durability with crowd control. Best used as a group anchor for A-rank attempts where boss damage can one-shot lighter classes."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
+    "reawakendHunterRanks": {
+      "title": "Reawakened Hunter Ranks",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+      "intro": "Hunter ranks in Reawakened mark your progression through the game. Each tier unlocks new gate difficulties, better gear pools, and higher-stakes rank-up challenges that test your build.",
       "groups": [
         {
-          "name": "Exploration",
+          "name": "Novice Hunter (Rank 0-15)",
           "achievements": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "title": "First Gate Clear",
+              "description": "Complete your first F-rank gate and claim your starter loot."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
+              "title": "First Code Redeemed",
+              "description": "Redeem your first active code for a free XP and stat boost."
             },
             {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "title": "Trait Unlock",
+              "description": "Unlock your first trait slot and apply an offense or defense trait."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
+          "name": "Apprentice Hunter (Rank 15-30)",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "title": "E-Rank Gate Clear",
+              "description": "Complete an E-rank gate solo and collect your first E-rank gear drop."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
+              "title": "First Rank-Up Challenge",
+              "description": "Attempt and complete your first rank-up challenge to promote to the next hunter tier."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "title": "Second Trait Slot",
+              "description": "Unlock and fill your second trait slot with a matching modifier for your class."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
+          "name": "Journeyman Hunter (Rank 30-50)",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "title": "D-Rank Gate Clear",
+              "description": "Clear a D-rank gate and upgrade your gear to the D-rank tier."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
+              "title": "Path Committed",
+              "description": "Choose and invest fully into a Combat, Defense, or Support progression path."
             },
             {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
+              "title": "C-Rank Gate Attempted",
+              "description": "Enter and clear a C-rank gate with your current build."
             }
           ]
         },
         {
-          "name": "Combat and Creatures",
+          "name": "Elite Hunter (Rank 50+)",
           "achievements": [
             {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
+              "title": "B-Rank Gate Clear",
+              "description": "Complete a B-rank gate, alone or in a group, and claim endgame loot."
             },
             {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
+              "title": "Full Build Complete",
+              "description": "Finalize your class, path, gear, and trait combination for endgame content."
             },
             {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "title": "A-Rank Unlocked",
+              "description": "Reach the hunter rank required to attempt A-rank gate content."
             }
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+    "reawakendGameFAQ": {
+      "title": "Reawakened FAQ",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+      "intro": "Common questions about Reawakened gameplay, codes, classes, and progression answered concisely.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "What is Reawakened on Roblox?",
+          "answer": "Reawakened is a Solo Leveling-inspired Roblox RPG developed by Vayron Studios. Players choose a class, fight through ranked gates, upgrade traits and gear, and climb the hunter rank ladder in a dark anime-style dungeon combat game."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Is Reawakened free to play?",
+          "answer": "Yes. Reawakened is free to play on Roblox. Cosmetic items may be available for Robux, but core gameplay including all classes, gates, and traits does not require spending."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "How do I redeem codes in Reawakened?",
+          "answer": "Open the in-game menu, tap the Codes button, enter the code exactly as listed, and press Confirm. Codes are case-sensitive and may have limited uses. Check our Codes page for active codes."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "What is the best class in Reawakened?",
+          "answer": "Mage has the highest gate clear speed and is the top choice for solo farming. Warrior is the safest beginner class because of high base HP. Both are strong starts in the current version."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "question": "How do I unlock higher rank gates in Reawakened?",
+          "answer": "Reach the required hunter rank by grinding XP in your current gate tier, then complete the rank-up challenge that unlocks at the level cap. Passing the challenge promotes you to the next rank and opens harder gates."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
+          "question": "When are new Reawakened codes released?",
+          "answer": "Codes are usually released during major updates, player milestone events, and developer announcements. Follow the official Discord at discord.gg/reawakened for instant code drop alerts."
         },
         {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "Is Reawakened multiplayer?",
+          "answer": "Yes. Reawakened supports group gate runs. Players can team up for B-rank and A-rank gates where group coordination is recommended. Solo play is fully supported for all rank tiers."
         },
         {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
+          "question": "Where can I find the Reawakened update notes?",
+          "answer": "Update notes are posted in the official Reawakened Discord server and through the Vayron Studios Roblox community page. Major updates are also covered in the official YouTube channel."
         },
         {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
+          "question": "What are traits in Reawakened?",
+          "answer": "Traits are passive modifiers that stack with your class stats. They come in offense, defense, utility, and rare categories. You can reroll traits using gold earned from gate runs."
         },
         {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "What is the current Reawakened status?",
+          "answer": "Reawakened is live as a playtest on Roblox. New content, balance updates, and class additions are ongoing. Check the Discord and YouTube channel for the latest information."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
+    "reawakendBuildTips": {
+      "title": "Reawakened Build Tips",
       "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
+      "intro": "Advanced build advice for optimizing your class, traits, and path combination at each stage of Reawakened progression.",
       "faqs": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "What traits should Mage stack in Reawakened?",
+          "answer": "Prioritize magic damage multiplier traits first, then cooldown reduction for faster ability cycling, and finally utility traits that increase XP and gold per gate run. Avoid defensive traits unless you are struggling to survive."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "Should I use Combat Path or Defense Path in Reawakened?",
+          "answer": "Combat Path is better for solo farming and gate clear speed at all rank tiers. Defense Path is superior when you want to push higher gate difficulties without dying, especially for Warrior and Tank builds."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "How many Reawakened traits should I reroll early on?",
+          "answer": "Reroll until you have at least two traits that directly match your class focus. One offense and one utility trait is a good starting combination for most DPS classes. Do not save gold for gear at the expense of trait quality."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "When should I upgrade gear in Reawakened?",
+          "answer": "Upgrade gear when the current difficulty gate stops dropping upgrades. If every item from a gate run is already worse than what you have equipped, it is time to move to the next rank tier and farm there instead."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "question": "Is Healer worth playing solo in Reawakened?",
+          "answer": "Healer is significantly slower for solo gate farming than DPS classes. It is best played in groups where your healing directly enables harder gate attempts. For solo progression, Mage or Warrior is more time-efficient."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
+    "reawakendCommunity": {
+      "title": "Reawakened Community",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
+      "intro": "Connect with the Reawakened community through official channels. The Discord is the fastest source for new codes, game updates, and build discussions.",
       "settings": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Official Discord",
+          "type": "Primary Community",
+          "description": "Join discord.gg/reawakened for code announcements, update news, class tier discussions, and direct contact with the Vayron Studios team."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Roblox Game Page",
+          "type": "Play Reawakened",
+          "description": "Play Reawakened directly through the official Roblox game page by Vayron Studios. All game sessions, updates, and patches are deployed through this page."
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "YouTube Channel",
+          "type": "Official Media",
+          "description": "Watch official trailers, class showcases, and update videos at the Reawakened YouTube channel. New video drops often coincide with code releases and major updates."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "name": "Vayron Studios Community",
+          "type": "Developer Hub",
+          "description": "Follow the developer group on Roblox for studio announcements, upcoming game previews, and developer posts about Reawakened and future projects."
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+    "reawakendUpdateLog": {
+      "title": "Reawakened Update Log",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "intro": "A running record of Reawakened updates, balance changes, and new content additions since the initial playtest launch.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "title": "Playtest Launch",
+          "type": "Launch",
+          "description": "REAWAKENED officially launched as a playtest on Roblox. First set of classes, gates, traits, and the core hunter progression system went live."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "title": "Code System Added",
+          "type": "Feature",
+          "description": "The in-game redeem code system was added, allowing players to claim XP boosts, stat buffs, and cosmetic rewards directly from the main menu."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "title": "Class Balance Pass",
+          "type": "Balance",
+          "description": "Mage and Warrior damage output adjusted. Assassin critical hit rate and Archer attack speed tuned for better class balance across gate difficulty tiers."
+        },
+        {
+          "title": "New Gate Rank Added",
+          "type": "Content",
+          "description": "A higher rank gate tier was introduced with a new boss design, updated enemy wave patterns, and an expanded loot pool for the endgame hunter segment."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
+    "reawakendEarlyTips": {
+      "title": "Reawakened Early Tips",
       "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+      "intro": "These are the highest-value actions for new Reawakened players in the first session. Following this order avoids the most common early mistakes and gives you a meaningful head start.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Pick Warrior or Mage First",
+          "description": "If you have no preference, start with Warrior for the easiest survival experience or Mage for the fastest gate clear speed. Both classes scale well into mid-game and have straightforward stat priorities."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Redeem All Active Codes Before Your First Gate",
+          "description": "Check the Codes page and redeem every active code before entering your first gate. XP boost codes active during your first run give you a compounding advantage through the early rank tiers."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Clear Gates Fully Before Moving Up",
+          "description": "Run your current gate difficulty until your gear is completely upgraded from that tier. Jumping to harder gates with under-level gear wastes gate attempts and slows your overall progression."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Invest in Traits Early",
+          "description": "Use gold to reroll traits after every few gate runs rather than saving up for gear. Two well-matched traits make every gate significantly easier, and the benefit compounds across all your future runs."
         }
       ]
     }
@@ -748,31 +728,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Reawakened",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Reawakened on Roblox?",
+        "answer": "Reawakened is a Solo Leveling-inspired Roblox RPG by Vayron Studios. Fight through ranked gates, choose a class, build your traits, and climb the hunter ranks in a dark anime dungeon combat game."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I redeem codes in Reawakened?",
+        "answer": "Open the in-game menu, tap the Codes button, enter the code exactly as shown, and press Confirm. Codes are case-sensitive and have limited uses."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What is the best class in Reawakened?",
+        "answer": "Mage has the fastest gate clear speed for solo farming. Warrior is the easiest class for beginners because of its high base HP and straightforward playstyle."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Is Reawakened free to play?",
+        "answer": "Yes. Reawakened is free to play on Roblox. Some cosmetic items may be available for Robux, but all core gameplay including classes, gates, and traits is free."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What are traits in Reawakened?",
+        "answer": "Traits are passive stat modifiers that stack with your class abilities. They come in offense, defense, utility, and rare categories. You can reroll traits using gold earned from gate runs."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "How do I unlock higher rank gates in Reawakened?",
+        "answer": "Reach the required hunter rank by farming XP in your current gate tier, then complete the rank-up challenge to promote to the next tier and unlock harder gates."
       }
     ]
   },
@@ -800,125 +780,65 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
+    "codes": {
+      "title": "Reawakened Codes",
+      "description": "All active Reawakened codes with rewards, expiry info, and step-by-step redeem instructions.",
+      "metaTitle": "Reawakened Codes - Active Redeem Codes & Rewards",
+      "metaDescription": "Full list of active Reawakened codes with rewards listed. Learn how to redeem codes and where to find new drops for this Roblox RPG.",
+      "categoryLabel": "FREE CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Codes are limited-use reward strings released by Vayron Studios during updates and events. Redeem them in the in-game menu for free XP, stats, and cosmetics.",
+      "why": "Why redeem codes?",
+      "whySteps": {
+        "step1Title": "Free XP Boosts",
+        "step1Description": "Codes often include XP multipliers that speed up early rank progression",
+        "step2Title": "Stat Bonuses",
+        "step2Description": "Claim free attack, defense, or utility stat buffs to strengthen your build",
+        "step3Title": "Cosmetic Rewards",
+        "step3Description": "Unlock exclusive visual items before they expire or use counts run out"
+      },
+      "featured": "Featured & Active",
+      "all": "All Codes"
+    },
+    "classes": {
+      "title": "Reawakened Classes",
+      "description": "Complete guide to all Reawakened classes including roles, stat priorities, and best build directions.",
+      "metaTitle": "Reawakened Classes Guide - All Classes, Roles & Tier List",
+      "metaDescription": "Full Reawakened classes guide covering every class role, starting stats, trait recommendations, and best path choices for this Roblox RPG.",
+      "categoryLabel": "CLASS GUIDE",
+      "whatIs": "What are Classes?",
+      "whatIsDescription": "Classes define your combat role, stat focus, and gate playstyle. Each class has unique abilities, different HP and damage scaling, and a preferred trait and path combination.",
+      "why": "Why learn your class?",
+      "whySteps": {
+        "step1Title": "Match Your Playstyle",
+        "step1Description": "Find the class that fits whether you prefer tanking, burst damage, or ranged safety",
+        "step2Title": "Optimize Your Traits",
+        "step2Description": "Class knowledge helps you choose the right offense, defense, or utility traits",
+        "step3Title": "Pick the Right Path",
+        "step3Description": "Understanding your class helps you commit to Combat, Defense, or Support Path"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Class Guides"
+    },
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "Reawakened Guides",
+      "description": "Complete gameplay guides from beginner basics to advanced build strategies for Reawakened.",
+      "metaTitle": "Reawakened Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Reawakened guides covering beginner tips, class builds, trait optimization, gate strategies, and leveling routes for this Roblox RPG.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering gate mechanics, class builds, trait rerolling, progression paths, and ranking up efficiently in Reawakened.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand how gates, traits, and ranks work together to avoid common mistakes",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step2Description": "Follow proven paths to level faster and reach endgame content efficiently",
+        "step3Title": "Master Your Build",
+        "step3Description": "Develop advanced tactics for optimizing your class and trait combination"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
-    },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
-    },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
     }
   }
 }

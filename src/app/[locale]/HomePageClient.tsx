@@ -4,22 +4,30 @@ import { useEffect, useState, Suspense, lazy } from 'react'
 import {
   AlertTriangle,
   ArrowRight,
+  BarChart3,
+  Bell,
   BookOpen,
   Check,
   ChevronDown,
-  ClipboardCheck,
   Clock,
-  Eye,
+  DoorOpen,
   ExternalLink,
   Gamepad2,
-  Hammer,
-  Home,
+  Gift,
+  HelpCircle,
+  Lightbulb,
+  Map,
   MessageCircle,
-  Package,
   Settings,
+  Shield,
+  Skull,
   Sparkles,
   Star,
+  Target,
   TrendingUp,
+  Trophy,
+  Users,
+  Zap,
 } from 'lucide-react'
 import Link from 'next/link'
 import { useMessages } from 'next-intl'
@@ -254,6 +262,45 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
+      {/* Module Navigation - quick anchor links to all sections below */}
+      <section className="px-4 py-6 bg-white/[0.02] border-y border-border">
+        <div className="container mx-auto max-w-6xl">
+          <p className="text-xs font-semibold text-muted-foreground uppercase tracking-widest text-center mb-4">Jump to Guide</p>
+          <div className="flex flex-wrap gap-2 justify-center">
+            {[
+              { id: 'codes-guide', label: 'Reawakened Codes' },
+              { id: 'classes-guide', label: 'Reawakened Classes' },
+              { id: 'traits-guide', label: 'Reawakened Traits' },
+              { id: 'paths-guide', label: 'Reawakened Paths' },
+              { id: 'gates-guide', label: 'Reawakened Gates' },
+              { id: 'gear-guide', label: 'Reawakened Gear' },
+              { id: 'leveling-guide', label: 'Reawakened Leveling' },
+              { id: 'bosses-guide', label: 'Reawakened Bosses' },
+              { id: 'beginner-guide', label: 'Beginner Guide' },
+              { id: 'best-builds', label: 'Best Builds' },
+              { id: 'hunter-ranks', label: 'Hunter Ranks' },
+              { id: 'game-faq', label: 'FAQ' },
+              { id: 'update-log', label: 'Update Log' },
+              { id: 'build-tips', label: 'Build Tips' },
+              { id: 'community-links', label: 'Community' },
+              { id: 'early-tips', label: 'Early Tips' },
+            ].map(({ id, label }) => (
+              <button
+                key={id}
+                onClick={() => scrollToSection(id)}
+                className="px-3 py-1.5 rounded-full text-sm border border-border
+                           hover:border-[hsl(var(--nav-theme)/0.5)]
+                           hover:bg-[hsl(var(--nav-theme)/0.08)]
+                           hover:text-[hsl(var(--nav-theme-light))]
+                           transition-all duration-200"
+              >
+                {label}
+              </button>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Latest Updates Section */}
       <LatestGuidesAccordion articles={latestArticles} locale={locale} max={30} />
 
@@ -279,10 +326,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             {t.tools.cards.map((card: any, index: number) => {
               // 映射卡片索引到 section ID
               const sectionIds = [
-                'beginner-guide', 'apotheosis-crafting', 'tools-weapons', 'storage-inventory',
-                'qualia-base-building', 'world-regions', 'creatures-enemies', 'mobility-gear',
-                'farming-growth', 'best-early-unlocks', 'achievement-tracker', 'singleplayer-faq',
-                'steam-deck-controller', 'settings-accessibility', 'updates-patch-notes', 'crash-fix'
+                'codes-guide', 'classes-guide', 'traits-guide', 'paths-guide',
+                'gates-guide', 'gear-guide', 'leveling-guide', 'bosses-guide',
+                'beginner-guide', 'best-builds', 'hunter-ranks', 'game-faq',
+                'update-log', 'build-tips', 'community-links', 'early-tips'
               ]
               const sectionId = sectionIds[index]
 
@@ -318,72 +365,27 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       {/* 广告位 4: 方形广告 300×250 */}
       <AdBanner type="banner-300x250" adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250} />
 
-      {/* Module 1: Beginner Guide */}
-      <section id="beginner-guide" className="scroll-mt-24 px-4 py-20">
+      {/* Module 1: Reawakened Codes */}
+      <section id="codes-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              <LinkedTitle linkData={moduleLinkMap['lucidBlocksBeginnerGuide']} locale={locale}>
-                {t.modules.lucidBlocksBeginnerGuide.title}
-              </LinkedTitle>
-            </h2>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Gift className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">
+                <LinkedTitle linkData={moduleLinkMap['reawakendCodesGuide']} locale={locale}>
+                  {t.modules.reawakendCodesGuide.title}
+                </LinkedTitle>
+              </h2>
+            </div>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksBeginnerGuide.intro}
+              {t.modules.reawakendCodesGuide.intro}
             </p>
           </div>
-
-          {/* Steps */}
-          <div className="scroll-reveal space-y-4 mb-10">
-            {t.modules.lucidBlocksBeginnerGuide.steps.map((step: any, index: number) => (
-              <div key={index} className="flex gap-4 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
-                  <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
-                </div>
-                <div>
-                  <h3 className="text-xl font-bold mb-2">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksBeginnerGuide::steps::${index}`]} locale={locale}>
-                      {step.title}
-                    </LinkedTitle>
-                  </h3>
-                  <p className="text-muted-foreground">{step.description}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-
-          {/* Quick Tips */}
-          <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
-            <div className="flex items-center gap-2 mb-4">
-              <BookOpen className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-              <h3 className="font-bold text-lg">Quick Tips</h3>
-            </div>
-            <ul className="space-y-2">
-              {t.modules.lucidBlocksBeginnerGuide.quickTips.map((tip: string, index: number) => (
-                <li key={index} className="flex items-start gap-2">
-                  <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
-                  <span className="text-muted-foreground text-sm">{tip}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      {/* 广告位 5: 中型横幅 468×60 */}
-      <AdBanner type="banner-468x60" adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60} />
-
-      {/* Module 2: Apotheosis Crafting */}
-      <section id="apotheosis-crafting" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
-        <div className="container mx-auto max-w-5xl">
-          <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksApotheosisCrafting']} locale={locale}>{t.modules.lucidBlocksApotheosisCrafting.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksApotheosisCrafting.intro}</p>
-          </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksApotheosisCrafting.cards.map((card: any, index: number) => (
+            {t.modules.reawakendCodesGuide.cards.map((card: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <h3 className="font-bold text-lg mb-2 text-[hsl(var(--nav-theme-light))]">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksApotheosisCrafting::cards::${index}`]} locale={locale}>
+                  <LinkedTitle linkData={moduleLinkMap[`reawakendCodesGuide::cards::${index}`]} locale={locale}>
                     {card.name}
                   </LinkedTitle>
                 </h3>
@@ -392,7 +394,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             ))}
           </div>
           <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksApotheosisCrafting.milestones.map((m: string, i: number) => (
+            {t.modules.reawakendCodesGuide.milestones.map((m: string, i: number) => (
               <span key={i} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm">
                 <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />{m}
               </span>
@@ -401,22 +403,27 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 3: Tools and Weapons */}
-      <section id="tools-weapons" className="scroll-mt-24 px-4 py-20">
+      {/* 广告位 5: 中型横幅 468×60 */}
+      <AdBanner type="banner-468x60" adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60} />
+
+      {/* Module 2: Reawakened Classes */}
+      <section id="classes-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksToolsAndWeapons']} locale={locale}>{t.modules.lucidBlocksToolsAndWeapons.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksToolsAndWeapons.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Users className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendClassesGuide']} locale={locale}>{t.modules.reawakendClassesGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendClassesGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksToolsAndWeapons.items.map((item: any, index: number) => (
+            {t.modules.reawakendClassesGuide.items.map((item: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex items-center gap-3 mb-3">
-                  <Hammer className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.type}</span>
                 </div>
                 <h3 className="font-bold mb-2">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksToolsAndWeapons::items::${index}`]} locale={locale}>
+                  <LinkedTitle linkData={moduleLinkMap[`reawakendClassesGuide::items::${index}`]} locale={locale}>
                     {item.name}
                   </LinkedTitle>
                 </h3>
@@ -427,19 +434,22 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 4: Storage and Inventory */}
-      <section id="storage-inventory" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 3: Reawakened Traits */}
+      <section id="traits-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksStorageAndInventory']} locale={locale}>{t.modules.lucidBlocksStorageAndInventory.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksStorageAndInventory.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Zap className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendTraitsGuide']} locale={locale}>{t.modules.reawakendTraitsGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendTraitsGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksStorageAndInventory.solutions.map((s: any, index: number) => (
+            {t.modules.reawakendTraitsGuide.solutions.map((s: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex items-center gap-2 mb-3">
                   <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksStorageAndInventory::solutions::${index}`]} locale={locale}>
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendTraitsGuide::solutions::${index}`]} locale={locale}>
                       {s.name}
                     </LinkedTitle>
                   </h3>
@@ -451,11 +461,11 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           </div>
           <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
             <div className="flex items-center gap-2 mb-4">
-              <Package className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-              <h3 className="font-bold">Management Tips</h3>
+              <Zap className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+              <h3 className="font-bold">Trait Tips</h3>
             </div>
             <ul className="space-y-2">
-              {t.modules.lucidBlocksStorageAndInventory.managementTips.map((tip: string, i: number) => (
+              {t.modules.reawakendTraitsGuide.managementTips.map((tip: string, i: number) => (
                 <li key={i} className="flex items-start gap-2">
                   <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
                   <span className="text-muted-foreground text-sm">{tip}</span>
@@ -466,18 +476,21 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 5: Qualia and Base Building */}
-      <section id="qualia-base-building" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 4: Reawakened Paths */}
+      <section id="paths-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksQualiaAndBaseBuilding']} locale={locale}>{t.modules.lucidBlocksQualiaAndBaseBuilding.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksQualiaAndBaseBuilding.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Map className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendPathsGuide']} locale={locale}>{t.modules.reawakendPathsGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendPathsGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksQualiaAndBaseBuilding.cards.map((card: any, index: number) => (
+            {t.modules.reawakendPathsGuide.cards.map((card: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <h3 className="font-bold text-lg mb-2 text-[hsl(var(--nav-theme-light))]">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksQualiaAndBaseBuilding::cards::${index}`]} locale={locale}>
+                  <LinkedTitle linkData={moduleLinkMap[`reawakendPathsGuide::cards::${index}`]} locale={locale}>
                     {card.name}
                   </LinkedTitle>
                 </h3>
@@ -486,9 +499,9 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             ))}
           </div>
           <div className="scroll-reveal grid grid-cols-2 md:grid-cols-4 gap-4">
-            {t.modules.lucidBlocksQualiaAndBaseBuilding.highlights.map((h: string, i: number) => (
+            {t.modules.reawakendPathsGuide.highlights.map((h: string, i: number) => (
               <div key={i} className="p-4 bg-white/5 border border-border rounded-xl text-center hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <Home className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mx-auto mb-2" />
+                <Map className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mx-auto mb-2" />
                 <p className="text-sm">{h}</p>
               </div>
             ))}
@@ -496,20 +509,23 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 6: World Regions */}
-      <section id="world-regions" className="scroll-mt-24 px-4 py-20">
+      {/* Module 5: Reawakened Gates */}
+      <section id="gates-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksWorldRegions']} locale={locale}>{t.modules.lucidBlocksWorldRegions.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksWorldRegions.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <DoorOpen className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendGatesGuide']} locale={locale}>{t.modules.reawakendGatesGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendGatesGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.lucidBlocksWorldRegions.regions.map((region: any, index: number) => (
+            {t.modules.reawakendGatesGuide.regions.map((region: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex items-center gap-3 mb-3">
-                  <Eye className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <DoorOpen className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksWorldRegions::regions::${index}`]} locale={locale}>
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendGatesGuide::regions::${index}`]} locale={locale}>
                       {region.name}
                     </LinkedTitle>
                   </h3>
@@ -522,21 +538,88 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 7: Creatures and Enemies */}
-      <section id="creatures-enemies" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 6: Reawakened Gear */}
+      <section id="gear-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCreaturesAndEnemies']} locale={locale}>{t.modules.lucidBlocksCreaturesAndEnemies.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksCreaturesAndEnemies.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Shield className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendGearGuide']} locale={locale}>{t.modules.reawakendGearGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendGearGuide.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksCreaturesAndEnemies.creatures.map((c: any, index: number) => (
+            {t.modules.reawakendGearGuide.items.map((item: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="mb-3">
-                  <span className={`text-xs px-2 py-1 rounded-full border ${["Hostile Enemy","Major Threat","Elite Threat"].includes(c.role) ? "bg-red-500/10 border-red-500/30 text-red-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{c.role}</span>
+                <div className="flex items-center gap-3 mb-3">
+                  <Shield className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.type}</span>
                 </div>
                 <h3 className="font-bold mb-2">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksCreaturesAndEnemies::creatures::${index}`]} locale={locale}>
+                  <LinkedTitle linkData={moduleLinkMap[`reawakendGearGuide::items::${index}`]} locale={locale}>
+                    {item.name}
+                  </LinkedTitle>
+                </h3>
+                <p className="text-muted-foreground text-sm">{item.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 7: Reawakened Leveling */}
+      <section id="leveling-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <TrendingUp className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendLevelingGuide']} locale={locale}>{t.modules.reawakendLevelingGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendLevelingGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+            {t.modules.reawakendLevelingGuide.sections.map((s: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center gap-2 mb-3">
+                  <TrendingUp className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <h3 className="font-bold">
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendLevelingGuide::sections::${index}`]} locale={locale}>
+                      {s.name}
+                    </LinkedTitle>
+                  </h3>
+                </div>
+                <p className="text-muted-foreground text-sm">{s.description}</p>
+              </div>
+            ))}
+          </div>
+          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
+            {t.modules.reawakendLevelingGuide.growthMilestones.map((m: string, i: number) => (
+              <span key={i} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm">
+                <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />{m}
+              </span>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 8: Reawakened Bosses */}
+      <section id="bosses-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Skull className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendBossesGuide']} locale={locale}>{t.modules.reawakendBossesGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendBossesGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.reawakendBossesGuide.creatures.map((c: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="mb-3">
+                  <span className={`text-xs px-2 py-1 rounded-full border ${["Boss","Elite Threat","Major Threat"].includes(c.role) ? "bg-red-500/10 border-red-500/30 text-red-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{c.role}</span>
+                </div>
+                <h3 className="font-bold mb-2">
+                  <LinkedTitle linkData={moduleLinkMap[`reawakendBossesGuide::creatures::${index}`]} locale={locale}>
                     {c.name}
                   </LinkedTitle>
                 </h3>
@@ -547,90 +630,72 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 8: Mobility Gear */}
-      <section id="mobility-gear" className="scroll-mt-24 px-4 py-20">
-        <div className="container mx-auto max-w-5xl">
-          <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksMobilityGear']} locale={locale}>{t.modules.lucidBlocksMobilityGear.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksMobilityGear.intro}</p>
-          </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
-            {t.modules.lucidBlocksMobilityGear.items.map((item: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
-                  <ArrowRight className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.type}</span>
-                </div>
-                <h3 className="font-bold mb-2">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksMobilityGear::items::${index}`]} locale={locale}>
-                    {item.name}
-                  </LinkedTitle>
-                </h3>
-                <p className="text-muted-foreground text-sm">{item.description}</p>
-              </div>
-            ))}
-          </div>
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksMobilityGear.unlockMilestones.map((m: string, i: number) => (
-              <span key={i} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm">
-                <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />{m}
-              </span>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* 广告位 6: 移动端横幅 320×50 */}
       <AdBanner type="banner-320x50" adKey={process.env.NEXT_PUBLIC_AD_MOBILE_320X50} />
 
-      {/* Module 9: Farming and Growth */}
-      <section id="farming-growth" className="scroll-mt-24 px-4 py-20">
+      {/* Module 9: Reawakened Beginner Guide */}
+      <section id="beginner-guide" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksFarmingAndGrowth']} locale={locale}>{t.modules.lucidBlocksFarmingAndGrowth.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksFarmingAndGrowth.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <BookOpen className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendBeginnerGuide']} locale={locale}>{t.modules.reawakendBeginnerGuide.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendBeginnerGuide.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksFarmingAndGrowth.sections.map((s: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
-                  <TrendingUp className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksFarmingAndGrowth::sections::${index}`]} locale={locale}>
-                      {s.name}
+          <div className="scroll-reveal space-y-4 mb-10">
+            {t.modules.reawakendBeginnerGuide.steps.map((step: any, index: number) => (
+              <div key={index} className="flex gap-4 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
+                  <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
+                </div>
+                <div>
+                  <h3 className="text-xl font-bold mb-2">
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendBeginnerGuide::steps::${index}`]} locale={locale}>
+                      {step.title}
                     </LinkedTitle>
                   </h3>
+                  <p className="text-muted-foreground">{step.description}</p>
                 </div>
-                <p className="text-muted-foreground text-sm">{s.description}</p>
               </div>
             ))}
           </div>
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksFarmingAndGrowth.growthMilestones.map((m: string, i: number) => (
-              <span key={i} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm">
-                <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />{m}
-              </span>
-            ))}
+          <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
+            <div className="flex items-center gap-2 mb-4">
+              <BookOpen className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+              <h3 className="font-bold text-lg">Quick Tips</h3>
+            </div>
+            <ul className="space-y-2">
+              {t.modules.reawakendBeginnerGuide.quickTips.map((tip: string, index: number) => (
+                <li key={index} className="flex items-start gap-2">
+                  <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
+                  <span className="text-muted-foreground text-sm">{tip}</span>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>
 
-      {/* Module 10: Best Early Unlocks */}
-      <section id="best-early-unlocks" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 10: Reawakened Best Builds */}
+      <section id="best-builds" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksBestEarlyUnlocks']} locale={locale}>{t.modules.lucidBlocksBestEarlyUnlocks.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksBestEarlyUnlocks.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <BarChart3 className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendBestBuilds']} locale={locale}>{t.modules.reawakendBestBuilds.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendBestBuilds.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksBestEarlyUnlocks.priorities.map((p: any, index: number) => (
+            {t.modules.reawakendBestBuilds.priorities.map((p: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex items-center gap-2 mb-3">
-                  <Star className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <span className={`text-xs px-2 py-1 rounded-full border ${p.priority === "Essential" ? "bg-red-500/10 border-red-500/30 text-red-400" : p.priority === "Very High" ? "bg-orange-500/10 border-orange-500/30 text-orange-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{p.priority}</span>
+                  <BarChart3 className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <span className={`text-xs px-2 py-1 rounded-full border ${p.priority === "S Tier" ? "bg-red-500/10 border-red-500/30 text-red-400" : p.priority === "A Tier" ? "bg-orange-500/10 border-orange-500/30 text-orange-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{p.priority}</span>
                 </div>
                 <h3 className="font-bold mb-2">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksBestEarlyUnlocks::priorities::${index}`]} locale={locale}>
+                  <LinkedTitle linkData={moduleLinkMap[`reawakendBestBuilds::priorities::${index}`]} locale={locale}>
                     {p.name}
                   </LinkedTitle>
                 </h3>
@@ -641,20 +706,23 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 11: Achievement Tracker */}
-      <section id="achievement-tracker" className="scroll-mt-24 px-4 py-20">
+      {/* Module 11: Reawakened Hunter Ranks */}
+      <section id="hunter-ranks" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksAchievementTracker']} locale={locale}>{t.modules.lucidBlocksAchievementTracker.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksAchievementTracker.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Trophy className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendHunterRanks']} locale={locale}>{t.modules.reawakendHunterRanks.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendHunterRanks.intro}</p>
           </div>
           <div className="scroll-reveal space-y-6">
-            {t.modules.lucidBlocksAchievementTracker.groups.map((group: any, gi: number) => (
+            {t.modules.reawakendHunterRanks.groups.map((group: any, gi: number) => (
               <div key={gi} className="p-6 bg-white/5 border border-border rounded-xl">
                 <div className="flex items-center gap-2 mb-4">
-                  <ClipboardCheck className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <Trophy className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   <h3 className="font-bold text-lg">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksAchievementTracker::groups::${gi}`]} locale={locale}>
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendHunterRanks::groups::${gi}`]} locale={locale}>
                       {group.name}
                     </LinkedTitle>
                   </h3>
@@ -673,15 +741,18 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 12: Singleplayer FAQ */}
-      <section id="singleplayer-faq" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 12: Reawakened FAQ */}
+      <section id="game-faq" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSingleplayerAndPlatformFAQ']} locale={locale}>{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <HelpCircle className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendGameFAQ']} locale={locale}>{t.modules.reawakendGameFAQ.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendGameFAQ.intro}</p>
           </div>
           <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.faqs.map((faq: any, index: number) => (
+            {t.modules.reawakendGameFAQ.faqs.map((faq: any, index: number) => (
               <div key={index} className="border border-border rounded-xl overflow-hidden">
                 <button
                   onClick={() => setFaqExpanded(faqExpanded === index ? null : index)}
@@ -699,18 +770,18 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 13: Steam Deck and Controller */}
-      <section id="steam-deck-controller" className="scroll-mt-24 px-4 py-20">
+      {/* Module 13: Reawakened Build Tips */}
+      <section id="build-tips" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <div className="flex items-center justify-center gap-3 mb-4">
               <Gamepad2 className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
-              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSteamDeckAndController']} locale={locale}>{t.modules.lucidBlocksSteamDeckAndController.title}</LinkedTitle></h2>
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendBuildTips']} locale={locale}>{t.modules.reawakendBuildTips.title}</LinkedTitle></h2>
             </div>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSteamDeckAndController.intro}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendBuildTips.intro}</p>
           </div>
           <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksSteamDeckAndController.faqs.map((faq: any, index: number) => (
+            {t.modules.reawakendBuildTips.faqs.map((faq: any, index: number) => (
               <div key={index} className="border border-border rounded-xl overflow-hidden">
                 <button
                   onClick={() => setDeckExpanded(deckExpanded === index ? null : index)}
@@ -728,20 +799,23 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 14: Settings and Accessibility */}
-      <section id="settings-accessibility" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 14: Reawakened Community */}
+      <section id="community-links" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSettingsAndAccessibility']} locale={locale}>{t.modules.lucidBlocksSettingsAndAccessibility.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSettingsAndAccessibility.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <MessageCircle className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendCommunity']} locale={locale}>{t.modules.reawakendCommunity.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendCommunity.intro}</p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.lucidBlocksSettingsAndAccessibility.settings.map((s: any, index: number) => (
+            {t.modules.reawakendCommunity.settings.map((s: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex items-center gap-3 mb-3">
                   <Settings className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSettingsAndAccessibility::settings::${index}`]} locale={locale}>
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendCommunity::settings::${index}`]} locale={locale}>
                       {s.name}
                     </LinkedTitle>
                   </h3>
@@ -754,15 +828,18 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 15: Updates and Patch Notes */}
-      <section id="updates-patch-notes" className="scroll-mt-24 px-4 py-20">
+      {/* Module 15: Reawakened Update Log */}
+      <section id="update-log" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksUpdatesAndPatchNotes']} locale={locale}>{t.modules.lucidBlocksUpdatesAndPatchNotes.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksUpdatesAndPatchNotes.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Bell className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendUpdateLog']} locale={locale}>{t.modules.reawakendUpdateLog.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendUpdateLog.intro}</p>
           </div>
           <div className="scroll-reveal relative pl-6 border-l-2 border-[hsl(var(--nav-theme)/0.3)] space-y-8">
-            {t.modules.lucidBlocksUpdatesAndPatchNotes.entries.map((entry: any, index: number) => (
+            {t.modules.reawakendUpdateLog.entries.map((entry: any, index: number) => (
               <div key={index} className="relative">
                 <div className="absolute -left-[1.4rem] w-4 h-4 rounded-full bg-[hsl(var(--nav-theme))] border-2 border-background" />
                 <div className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
@@ -771,7 +848,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                     <Clock className="w-4 h-4 text-muted-foreground" />
                   </div>
                   <h3 className="font-bold mb-1">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksUpdatesAndPatchNotes::entries::${index}`]} locale={locale}>
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendUpdateLog::entries::${index}`]} locale={locale}>
                       {entry.title}
                     </LinkedTitle>
                   </h3>
@@ -783,22 +860,25 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* Module 16: Crash Fix and Troubleshooting */}
-      <section id="crash-fix" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 16: Reawakened Early Tips */}
+      <section id="early-tips" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCrashFixAndTroubleshooting']} locale={locale}>{t.modules.lucidBlocksCrashFixAndTroubleshooting.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksCrashFixAndTroubleshooting.intro}</p>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Lightbulb className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['reawakendEarlyTips']} locale={locale}>{t.modules.reawakendEarlyTips.title}</LinkedTitle></h2>
+            </div>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendEarlyTips.intro}</p>
           </div>
           <div className="scroll-reveal space-y-4 mb-8">
-            {t.modules.lucidBlocksCrashFixAndTroubleshooting.steps.map((step: any, index: number) => (
+            {t.modules.reawakendEarlyTips.steps.map((step: any, index: number) => (
               <div key={index} className="flex gap-4 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
                   <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
                 </div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksCrashFixAndTroubleshooting::steps::${index}`]} locale={locale}>
+                    <LinkedTitle linkData={moduleLinkMap[`reawakendEarlyTips::steps::${index}`]} locale={locale}>
                       {step.title}
                     </LinkedTitle>
                   </h3>
@@ -807,12 +887,12 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               </div>
             ))}
           </div>
-          <div className="scroll-reveal p-6 bg-yellow-500/10 border border-yellow-500/30 rounded-xl">
+          <div className="scroll-reveal p-6 bg-[hsl(var(--nav-theme)/0.05)] border border-[hsl(var(--nav-theme)/0.3)] rounded-xl">
             <div className="flex items-start gap-3">
-              <AlertTriangle className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
+              <Star className="w-6 h-6 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-1" />
               <div>
-                <h3 className="font-bold text-yellow-400 mb-2">Still having issues?</h3>
-                <p className="text-sm text-muted-foreground mb-3">Report bugs with your logs through the official channels:</p>
+                <h3 className="font-bold text-[hsl(var(--nav-theme-light))] mb-2">Join the Community</h3>
+                <p className="text-sm text-muted-foreground mb-3">Connect with other Reawakened hunters for codes, guides, and the latest updates:</p>
                 <div className="flex flex-wrap gap-3">
                   <a href="https://discord.gg/reawakened" target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
@@ -820,7 +900,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                   </a>
                   <a href="https://www.roblox.com/games/83782851653379/REAWAKENED" target="_blank" rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    Roblox Game <ExternalLink className="w-3 h-3" />
+                    Play Reawakened <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>

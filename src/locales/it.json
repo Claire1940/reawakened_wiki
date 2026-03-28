@@ -1,0 +1,1865 @@
+{
+  "seo": {
+    "home": {
+      "title": "Wiki di Reawakened - Codici, classi e guida a Dungeon",
+      "description": "La Wiki di Reawakened include codici attivi, migliori classi, tratti, percorsi di progressione, dungeon, consigli per livellare e guide per le fasi iniziali di questo nuovo RPG su Roblox.",
+      "keywords": "Reawakened, Roblox, codici, classi, tratti, dungeon, percorsi, livellamento, guida",
+      "ogTitle": "Wiki di Reawakened - Codici, classi e guida a Dungeon",
+      "ogDescription": "La Wiki di Reawakened include codici attivi, migliori classi, tratti, percorsi di progressione, dungeon, consigli per livellare e guide per le fasi iniziali di questo nuovo RPG su Roblox.",
+      "twitterTitle": "Wiki di Reawakened - Codici, classi e guida a Dungeon",
+      "twitterDescription": "La Wiki di Reawakened include codici attivi, migliori classi, tratti, percorsi di progressione e dungeon per questo nuovo RPG su Roblox."
+    }
+  },
+  "nav": {
+    "codes": "Codici",
+    "guide": "Guida",
+    "build": "Build",
+    "equipment": "Equipaggiamento",
+    "launch": "Lancio",
+    "official-links": "Link Ufficiali",
+    "tools": "Strumenti"
+  },
+  "common": {
+    "home": "Home",
+    "more": "Altro",
+    "playNow": "Gioca su Roblox",
+    "switchLanguage": "Cambia lingua",
+    "switchTheme": "Cambia tema",
+    "lightMode": "Modalità chiara",
+    "darkMode": "Modalità scura",
+    "notFound": "Pagina non trovata",
+    "notFoundDescription": "La pagina che stai cercando non esiste.",
+    "backToHome": "Torna alla Home",
+    "relatedArticles": "Articoli correlati",
+    "readMore": "Leggi di più"
+  },
+  "hero": {
+    "badge": "RPG Roblox ispirato a Solo Leveling",
+    "title": "Wiki di Reawakened",
+    "description": "Combatti attraverso i portali, scegli una classe, potenzia la tua build e scala i ranghi dei cacciatori in un cupo RPG anime Roblox incentrato sulla progressione rapida e sul combattimento.",
+    "getFreeCodesCTA": "Ottieni codici gratuiti",
+    "playOnSteamCTA": "Gioca su Roblox",
+    "stats": {
+      "stat1": {
+        "value": "86.6K+",
+        "label": "Visite totali"
+      },
+      "stat2": {
+        "value": "4.8K+",
+        "label": "Giocatori attivi"
+      },
+      "stat3": {
+        "value": "2,234",
+        "label": "Preferiti"
+      },
+      "stat4": {
+        "value": "12.7K+",
+        "label": "Membri dello studio"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay di Reawakened",
+    "description": "Combatti attraverso i portali, padroneggia le abilità della tua classe e scala i ranghi dei cacciatori in questo frenetico RPG Roblox in stile anime ispirato a Solo Leveling."
+  },
+  "tools": {
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Tutto quello che ti serve per codici, classi, portali e progressione in Reawakened",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Codici di Reawakened",
+        "description": "Codici promozionali attivi e lista delle ricompense"
+      },
+      {
+        "icon": "Users",
+        "title": "Classi di Reawakened",
+        "description": "Tutte le classi, i ruoli e le valutazioni di forza"
+      },
+      {
+        "icon": "Zap",
+        "title": "Traits di Reawakened",
+        "description": "Effetti, rarità e guida al reroll di Trait"
+      },
+      {
+        "icon": "Map",
+        "title": "Paths di Reawakened",
+        "description": "Percorsi di progressione e rotte per le build"
+      },
+      {
+        "icon": "DoorOpen",
+        "title": "Gates di Reawakened",
+        "description": "Tipologie di Gate, difficoltà e guida al bottino"
+      },
+      {
+        "icon": "Shield",
+        "title": "Gear di Reawakened",
+        "description": "Livelli di armi, armature ed equipaggiamento"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Livellamento in Reawakened",
+        "description": "Rotte di livellamento più veloci e consigli per l'XP"
+      },
+      {
+        "icon": "Skull",
+        "title": "Boss di Reawakened",
+        "description": "Meccaniche dei boss, posizioni e drop"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guida per principianti di Reawakened",
+        "description": "Primi passi per i nuovi cacciatori"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Migliori build di Reawakened",
+        "description": "Le migliori build per classe e stile di gioco"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Gradi Hunter di Reawakened",
+        "description": "Traguardi di grado e sfide di avanzamento"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "FAQ di Reawakened",
+        "description": "Risposte alle domande più comuni"
+      },
+      {
+        "icon": "Bell",
+        "title": "Registro aggiornamenti di Reawakened",
+        "description": "Ultime patch e aggiornamenti dei contenuti"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Consigli per le build di Reawakened",
+        "description": "Consigli avanzati per l'ottimizzazione delle build"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Community di Reawakened",
+        "description": "Discord, YouTube e link ufficiali"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Consigli iniziali per Reawakened",
+        "description": "Consigli chiave per progredire rapidamente"
+      },
+      {
+        "icon": "Fish",
+        "title": "Guida alla pesca di Reawakened",
+        "description": "Dimensioni dei pesci, trasformazioni dei pet e oro iniziale"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Missioni secondarie di Reawakened",
+        "description": "Percorsi delle missioni, ricompense e strategia dei piani"
+      },
+      {
+        "icon": "Sword",
+        "title": "Guida alle armi di Reawakened",
+        "description": "Classi di armi, pezzi unici e varianti Élite/Leggendarie"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Guida agli incantesimi di Reawakened",
+        "description": "Incantesimi di attacco, difesa, fascino ed evocazioni"
+      },
+      {
+        "icon": "Gem",
+        "title": "Guida alle gemme di Reawakened",
+        "description": "Migliori gemme, pietre rare e priorità dei castoni"
+      },
+      {
+        "icon": "Award",
+        "title": "Guida alla Fama di Reawakened",
+        "description": "Fama, Rinomata e progressione di sblocco dell'equipaggiamento"
+      },
+      {
+        "icon": "Flame",
+        "title": "Guida all'endgame di Reawakened",
+        "description": "Picchi di potenza a fine gioco e farming di leggendari"
+      },
+      {
+        "icon": "Download",
+        "title": "Importazione personaggio in Reawakened",
+        "description": "Come funziona il trasferimento tra tutti e quattro i giochi"
+      },
+      {
+        "icon": "Star",
+        "title": "Guida ai cimeli di Reawakened",
+        "description": "Ritirati, tramanda i cimeli e potenzia i discendenti"
+      },
+      {
+        "icon": "Target",
+        "title": "Guida agli obiettivi di Reawakened",
+        "description": "Lista completa degli obiettivi per categoria"
+      },
+      {
+        "icon": "Settings",
+        "title": "Guida ai trucchi di Reawakened",
+        "description": "Comandi classici della console e riferimento ai trucchi"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Guida a Steam Deck per Reawakened",
+        "description": "Configurazione Steam Deck, particolarità del controller e soluzioni"
+      }
+    ]
+  },
+  "modules": {
+    "reawakendBeginnerGuide": {
+      "title": "Guida per principianti di Reawakened",
+      "displayType": "steps",
+      "intro": "Inizia il tuo viaggio in Reawakened padroneggiando il ciclo del cacciatore: entra nei gate, raccogli il bottino, potenzia la tua classe e scala le classifiche. Ogni sistema si basa sul precedente, quindi comprendere le basi fin dall'inizio rende tutto il resto più fluido.",
+      "steps": [
+        {
+          "title": "Scegli la tua classe",
+          "description": "La tua classe definisce il tuo ruolo in combattimento. Il Mago infligge danni magici rapidi, il Guerriero assorbe i colpi come prima linea, l'Assassino colpisce i bersagli a distanza ravvicinata, l'Arciere attacca in sicurezza da lontano e il Curatore supporta i compagni di squadra. I principianti dovrebbero iniziare con Guerriero o Mago."
+        },
+        {
+          "title": "Entra nel tuo primo Gate",
+          "description": "I Gate sono dungeon a tempo con combattimenti a ondate e un boss finale. Inizia dai gate di grado F per imparare le meccaniche. Elimina tutte le ondate prima della fine del tempo e sconfiggi il boss del gate per ottenere equipaggiamento ed XP."
+        },
+        {
+          "title": "Rerolla i tuoi tratti",
+          "description": "I tratti sono modificatori passivi che si sommano alla tua classe. Dopo la tua prima incursione nel gate, spendi il tuo oro per rerollare i tratti che non corrispondono alla tua classe. I tratti offensivi avvantaggiano Mago e Assassino, i tratti difensivi avvantaggiano il Guerriero e i tratti di utilità aiutano tutte le classi."
+        },
+        {
+          "title": "Scegli un percorso di progressione",
+          "description": "I percorsi modellano la tua crescita a lungo termine. Scegli il Percorso di Combattimento per completare i gate più velocemente, il Percorso di Difesa per una maggiore sopravvivenza o il Percorso di Bilanciamento se stai ancora esplorando. Attieniti a un solo percorso per i tuoi primi 20 livelli."
+        },
+        {
+          "title": "Farma i Gate per l'equipaggiamento",
+          "description": "Ripeti i gate del tuo attuale grado finché il tuo equipaggiamento non ti sembra forte. Ogni difficoltà del gate ha il proprio pool di bottini. Passa al grado successivo solo quando il tuo equipaggiamento può gestire l'aumento della forza dei nemici."
+        },
+        {
+          "title": "Completa la sfida di avanzamento di grado",
+          "description": "Quando raggiungi il limite di livello per il tuo attuale grado di cacciatore, si sblocca una sfida di avanzamento. Si tratta di un gate più difficile con condizioni più rigide. Completarlo ti promuove al grado successivo e sblocca nuove difficoltà del gate."
+        }
+      ],
+      "quickTips": [
+        "Unisciti al Discord ufficiale su discord.gg/reawakened per avvisi sui codici in tempo reale e guide della community.",
+        "Riscatta tutti i codici attivi prima della tua prima incursione nel gate per ottenere un vantaggio in XP e statistiche.",
+        "I tratti si accumulano nel corso di molte run. Rerollare presto fa risparmiare tempo a lungo termine.",
+        "Le run di gruppo completano i gate più velocemente e dividono la pressione del tempo. Usa il sistema di party in-game per il grado B e superiori."
+      ]
+    },
+    "reawakendCodesGuide": {
+      "title": "Codici di Reawakened",
+      "displayType": "cards",
+      "intro": "I codici di Reawakened offrono potenziamenti XP gratuiti, buff alle statistiche e oggetti estetici. I codici vengono rilasciati durante gli aggiornamenti, il raggiungimento di traguardi ed eventi speciali. Riscattali rapidamente perché la maggior parte dei codici ha un numero limitato di utilizzi.",
+      "cards": [
+        {
+          "name": "Premi dei codici attivi",
+          "description": "I codici attuali offrono moltiplicatori XP, bonus alle statistiche e sblocchi estetici. Controlla la nostra pagina dei Codici per l'elenco completo e aggiornato dopo ogni rilascio."
+        },
+        {
+          "name": "Come riscattare un codice",
+          "description": "Apri il menu di gioco, tocca il pulsante Codici, digita o incolla il codice esattamente come mostrato, quindi premi Conferma. I codici fanno distinzione tra maiuscole e minuscole."
+        },
+        {
+          "name": "Scadenza e limiti dei codici",
+          "description": "La maggior parte dei codici di Reawakened scade dopo un determinato numero di riscatti totali o una finestra temporale. Riscatta immediatamente quando viene rilasciato un nuovo codice per garantire il tuo premio."
+        },
+        {
+          "name": "Dove vengono annunciati i codici",
+          "description": "I nuovi codici vengono pubblicati per primi nel server Discord ufficiale di Reawakened. Segui il canale degli annunci per ricevere avvisi nel momento in cui i nuovi codici diventano attivi."
+        }
+      ],
+      "milestones": [
+        "Riscatta il tuo primo codice",
+        "Accumula bonus XP dai codici prima di una run nel gate",
+        "Unisciti a Discord per avvisi istantanei sui codici"
+      ]
+    },
+    "reawakendClassesGuide": {
+      "title": "Guida alle classi di Reawakened",
+      "displayType": "itemCards",
+      "intro": "Reawakened ha cinque classi giocabili, ognuna con un distinto ruolo di combattimento, focus sulle statistiche e stile di gioco nel gate. La scelta della classe è una delle decisioni più importanti all'inizio di ogni corsa.",
+      "items": [
+        {
+          "name": "Mago",
+          "type": "DPS Magico",
+          "description": "Elevato danno magico con velocità di lancio rapida. Il Mago completa i gate velocemente ma ha HP inferiori. Ideale per i giocatori che desiderano la massima velocità di pulizia del gate e danni esplosivi da una distanza di sicurezza."
+        },
+        {
+          "name": "Guerriero",
+          "type": "Tank / Mischia",
+          "description": "Salute base elevata e forti danni fisici. Il Guerriero è la classe più facile per i principianti perché può assorbire colpi da più nemici senza perdere facilmente le run nel gate."
+        },
+        {
+          "name": "Assassino",
+          "type": "DPS Esplosivo",
+          "description": "Danno da colpo critico esplosivo a distanza ravvicinata. L'Assassino è una classe ad alto rischio e alta ricompensa che premia i giocatori capaci di schivare bene e colpire velocemente prima che i nemici possano rispondere."
+        },
+        {
+          "name": "Arciere",
+          "type": "DPS a distanza",
+          "description": "Erogazione costante di danni dalla lunga distanza con buona mobilità. L'Arciere è adatto ai giocatori che desiderano un equilibrio tra sicurezza e danni costanti senza impegnarsi nel corpo a corpo."
+        },
+        {
+          "name": "Curatore",
+          "type": "Supporto",
+          "description": "Guarigione di squadra, scudi e applicazione di buff. Il Curatore dà il meglio di sé nelle run di gruppo dove sostenere i compagni sblocca difficoltà superiori più velocemente di quanto qualsiasi classe DPS potrebbe fare in solitaria."
+        },
+        {
+          "name": "Doppia Lama",
+          "type": "DPS di velocità",
+          "description": "Velocità di attacco molto elevata con danni da colpo singolo moderati. La Doppia Lama premia i giocatori aggressivi che vogliono accumulare tratti di velocità d'attacco e sopraffare i nemici con il volume di colpi."
+        },
+        {
+          "name": "Tank",
+          "type": "Specialista della difesa",
+          "description": "Massimi HP e riduzione del danno con abilità di controllo della folla. Il Tank è la scelta migliore per le build del percorso di difesa e per ancorare le run di gruppo nei gate a difficoltà massima."
+        },
+        {
+          "name": "Monarca delle Ombre",
+          "type": "Sbloccabile",
+          "description": "Una speciale classe di fine gioco ispirata a Solo Leveling. I requisiti di sblocco e le meccaniche esatte sono legati ai traguardi di progressione di alto grado del cacciatore nella versione attuale."
+        }
+      ]
+    },
+    "reawakendTraitsGuide": {
+      "title": "Guida ai tratti di Reawakened",
+      "displayType": "solutionCards",
+      "intro": "I tratti sono modificatori passivi che si sommano alle abilità di classe e all'equipaggiamento. Costruire il giusto set di tratti per la propria classe aumenta drasticamente la velocità di completamento del gate e la sopravvivenza.",
+      "solutions": [
+        {
+          "name": "Tratti offensivi",
+          "role": "Focus sul danno",
+          "description": "Aumentano la potenza d'attacco, il danno magico, la probabilità di colpo critico e il danno critico. Consigliati per build da Mago, Assassino e Arciere focalizzate sulla pulizia rapida dei gate."
+        },
+        {
+          "name": "Tratti difensivi",
+          "role": "Focus sulla sopravvivenza",
+          "description": "Aggiungono salute, riduzione del danno e bonus di rigenerazione. Ideali per build da Guerriero e Tank che devono resistere alla forte pressione nemica nei gate di grado superiore."
+        },
+        {
+          "name": "Tratti di utilità",
+          "role": "Focus sull'efficienza",
+          "description": "Riducono i tempi di recupero delle abilità, aumentano la velocità di movimento e incrementano il guadagno di XP e oro per ogni corsa nel gate. I tratti di utilità sono un forte investimento secondario per tutte le classi."
+        },
+        {
+          "name": "Tratti rari e leggendari",
+          "role": "Modificatori ad alta potenza",
+          "description": "Tratti potenti con grandi moltiplicatori di statistiche o effetti unici. Appaiono con bassa probabilità durante i reroll di alto livello e sono l'obiettivo per le build ottimizzate di fine gioco."
+        }
+      ],
+      "managementTips": [
+        "Abbina i tuoi primi due slot di tratti al ruolo della tua classe prima di sperimentare con l'utilità.",
+        "Rerolla presto e spesso. Spendere oro nei tratti all'inizio è meglio che risparmiare per i potenziamenti dell'equipaggiamento.",
+        "Una volta chiara la direzione della tua build, dai priorità al blocco dei tratti che scalano con il percorso scelto.",
+        "Controlla le build della community nel Discord per combinazioni di tratti collaudate per ogni classe."
+      ]
+    },
+    "reawakendPathsGuide": {
+      "title": "Percorsi di progressione di Reawakened",
+      "displayType": "cards",
+      "intro": "I percorsi in Reawakened modellano la crescita delle tue statistiche a lungo termine e la direzione della build. Scegliere il percorso giusto per la propria classe all'inizio rende ogni corsa nel gate più efficiente e ogni sfida di avanzamento più realizzabile.",
+      "cards": [
+        {
+          "name": "Percorso di Combattimento",
+          "description": "Si concentra sulla potenza d'attacco pura e sulla velocità di pulizia del gate. Il Percorso di Combattimento avvantaggia maggiormente Mago, Assassino, Arciere e Doppia Lama. È il percorso più veloce per il farming solitario dei gate a tutti i livelli di grado."
+        },
+        {
+          "name": "Percorso di Difesa",
+          "description": "Si sviluppa verso il massimo scaling degli HP e la riduzione del danno. Il Percorso di Difesa trasforma Guerriero e Tank in corridori quasi immortali per contenuti a difficoltà più elevata dove la sopravvivenza è la barriera principale."
+        },
+        {
+          "name": "Percorso di Supporto",
+          "description": "Amplifica la capacità di guarigione e la forza dei buff per tutta la squadra. Il Percorso di Supporto è la scelta corretta per il Curatore nelle run di gruppo. Rende la tua presenza direttamente responsabile del raggiungimento di gradi di gate più difficili da parte della squadra."
+        },
+        {
+          "name": "Percorso di Bilanciamento",
+          "description": "Distribuisce la crescita in modo uniforme tra offesa, difesa e utilità. Il Percorso di Bilanciamento è una buona scelta iniziale se stai ancora testando diverse classi o non ti sei ancora impegnato in una direzione specifica della build."
+        }
+      ],
+      "highlights": [
+        "Velocità di pulizia del gate aumentata",
+        "Sopravvivenza quasi immortale",
+        "Potenziamento dei danni per tutta la squadra",
+        "Progressione iniziale flessibile"
+      ]
+    },
+    "reawakendGatesGuide": {
+      "title": "Guida ai Portali di Reawakened",
+      "displayType": "regionCards",
+      "intro": "I Portali rappresentano il nucleo del gameplay di Reawakened. Ogni grado di portale introduce nuovi pattern nemici, boss più forti e bottini migliori. Capire cosa aspettarsi da ogni fascia di grado ti aiuta a progredire senza sprecare tentativi di accesso ai portali.",
+      "regions": [
+        {
+          "name": "Portale Grado F",
+          "type": "Principiante",
+          "description": "Portale d'ingresso con meccaniche a ondate semplici e un boss lineare. Ideale per i cacciatori di grado da 0 a 10 per imparare le basi del gioco. Il bottino include equipaggiamento base e primi potenziamenti XP."
+        },
+        {
+          "name": "Portale Grado E",
+          "type": "Facile",
+          "description": "Spawn dei nemici leggermente più veloci e prima comparsa di nemici élite tra le ondate. Consigliato per i gradi da 10 a 20. Rilascia equipaggiamento migliore e più XP rispetto ai portali di grado F."
+        },
+        {
+          "name": "Portale Grado D",
+          "type": "Moderato",
+          "description": "Introduce meccaniche come élite a tempo e boss a più fasi. Consigliato per i gradi da 20 a 35. Il bottino qui include equipaggiamento di medio livello con bonus di compatibilità dei tratti."
+        },
+        {
+          "name": "Portale Grado C",
+          "type": "Difficile",
+          "description": "Ondate multiple di élite con un boss che ha due o più fasi. Consigliato per i gradi da 35 a 50. Il grado C è la fonte più efficiente di XP ed equipaggiamento prima di entrare nei contenuti di fine gioco."
+        },
+        {
+          "name": "Portale Grado B",
+          "type": "Molto Difficile",
+          "description": "Pattern nemici complessi e nemici con HP elevati. I portali di grado B si affrontano meglio in gruppi di due o più persone. Rilascia equipaggiamento raro con potenti effetti passivi non disponibili nei portali di grado inferiore."
+        },
+        {
+          "name": "Portale Grado A",
+          "type": "Esperto",
+          "description": "Contenuto di fine gioco con i requisiti di statistiche più elevati nella versione attuale. I drop di grado A includono l'equipaggiamento migliore e gli oggetti compatibili con i tratti più rari attualmente nel gioco."
+        }
+      ]
+    },
+    "reawakendBossesGuide": {
+      "title": "Guida ai Boss di Reawakened",
+      "displayType": "creatureCards",
+      "intro": "Ogni portale in Reawakened termina con lo scontro con un boss. Comprendere ogni tipo di boss ti aiuta a preparare la build giusta, evitare le meccaniche di morte istantanea e farmare in modo efficiente i drop necessari.",
+      "creatures": [
+        {
+          "name": "Guardiano del Portale",
+          "role": "Boss",
+          "description": "Il boss finale di ogni portale. Ogni fascia di grado ha una variante diversa del guardiano con HP, danni e complessità delle fasi crescenti. Sconfiggere il guardiano è necessario per completare il portale e reclamare il bottino."
+        },
+        {
+          "name": "Progenie del Monarca delle Ombre",
+          "role": "Minaccia Élite",
+          "description": "Un potente nemico élite a metà portale che richiama l'estetica del Monarca delle Ombre. Possiede un'abilità che uccide all'istante con un caricamento visibile. Schivala o usa un'abilità difensiva."
+        },
+        {
+          "name": "Spirito Maledetto",
+          "role": "Nemico Ostile",
+          "description": "Un nemico veloce che applica un debuff di danno nel tempo all'impatto. Dai priorità agli Spiriti Maledetti per evitare l'accumulo del debuff, specialmente con classi a bassa salute come Assassino e Mago."
+        },
+        {
+          "name": "Golem del Dungeon",
+          "role": "Minaccia Maggiore",
+          "description": "Un nemico del portale pesantemente corazzato con riduzione del danno e attacchi lenti ma pesanti. I Golem appaiono nei portali di grado D e superiori. Usa abilità con effetti di perforazione dell'armatura per completamenti più veloci."
+        },
+        {
+          "name": "Guerriero Non Morto",
+          "role": "Nemico Ostile",
+          "description": "Un comune nemico del portale con HP sopra la media e attacchi in mischia prevedibili. I Guerrieri Non Morti sono semplici ma appaiono in grandi gruppi nei portali di grado superiore, creando pressione attraverso il numero."
+        },
+        {
+          "name": "Boss Sfida di Grado",
+          "role": "Minaccia Élite",
+          "description": "Un boss speciale incontrato solo durante le sfide per salire di grado. Ha meccaniche più complesse dei normali boss dei portali e richiede una build specificamente ottimizzata per la fascia della sfida che stai tentando."
+        },
+        {
+          "name": "Fase 2 del Boss del Portale",
+          "role": "Minaccia Maggiore",
+          "description": "Alcuni boss di grado C e superiore entrano in una seconda fase dopo che la loro salute scende sotto il 50%. La Fase 2 include nuovi pattern di attacco e spesso un aumento temporaneo delle statistiche. Resta in movimento durante la transizione."
+        }
+      ]
+    },
+    "reawakendGearGuide": {
+      "title": "Guida all'Equipaggiamento di Reawakened",
+      "displayType": "itemCards",
+      "intro": "L'equipaggiamento in Reawakened scala con il grado del portale e il livello del cacciatore. Potenziare l'attrezzatura nelle fasi giuste della progressione mantiene efficienti i completamenti dei portali ed evita di bloccarsi contro nemici troppo resistenti.",
+      "items": [
+        {
+          "name": "Equipaggiamento Grado F",
+          "type": "Base",
+          "description": "Attrezzatura di base ottenibile dai portali di grado F e dai codici iniziali. Fornisce modesti bonus alle statistiche. Sostituiscili non appena diventano disponibili i drop di grado E."
+        },
+        {
+          "name": "Equipaggiamento Grado E",
+          "type": "Standard",
+          "description": "Statistiche di base migliorate dai drop dei portali di grado E e D. Adatto per cacciatori nella fascia di grado da 10 a 25. Il passaggio dall'equipaggiamento F a E è il picco di potenza iniziale più evidente."
+        },
+        {
+          "name": "Equipaggiamento Grado D",
+          "type": "Avanzato",
+          "description": "Attrezzatura di livello intermedio con slot per tratti aggiuntivi che ti permettono di applicare bonus direttamente all'equipaggiamento. Si farma dai portali di grado D e C nella fascia di grado da 20 a 40."
+        },
+        {
+          "name": "Equipaggiamento Grado C",
+          "type": "Raro",
+          "description": "Equipaggiamento con statistiche elevate dai drop dei portali di grado C, con migliore compatibilità dei tratti e bonus di set. Questo è il livello di equipaggiamento primario per i cacciatori che puntano alla difficoltà del grado B."
+        },
+        {
+          "name": "Equipaggiamento Grado B",
+          "type": "Epico",
+          "description": "Equipaggiamento di fine gioco per cacciatori esperti. L'equipaggiamento di grado B ha potenti effetti passivi e statistiche di base elevate che aumentano significativamente la sopravvivenza e i danni nei contenuti per esperti."
+        },
+        {
+          "name": "Equipaggiamento Estetico",
+          "type": "Estetico",
+          "description": "Oggetti solo visivi disponibili tramite codici ed eventi speciali. Gli oggetti estetici non hanno effetto sulle statistiche o sulle prestazioni nei portali, ma sono un tipo di ricompensa popolare nell'economia di Roblox."
+        }
+      ]
+    },
+    "reawakendLevelingGuide": {
+      "title": "Guida al Livellamento di Reawakened",
+      "displayType": "mixedCards",
+      "intro": "Livellare in modo efficiente in Reawakened significa sapere quali portali farmare a ogni fascia di grado e usare i codici per il potenziamento XP al momento giusto. Provare portali troppo difficili troppo presto spreca tempo e risorse.",
+      "sections": [
+        {
+          "name": "Grado da 0 a 15: Ciclo Portale F",
+          "description": "Affronta ripetutamente i portali di grado F finché l'equipaggiamento non è completamente potenziato con i drop del grado F. Usa eventuali codici XP attivi prima di questa fase. Questa fase dovrebbe risultare fluida e veloce."
+        },
+        {
+          "name": "Grado da 15 a 30: Portali E e D",
+          "description": "Passa ai portali di grado E quando l'equipaggiamento è potenziato. Transita ai portali di grado D quando i drop di grado E smettono di essere dei miglioramenti. La prima sfida di grado si incontra in questo intervallo."
+        },
+        {
+          "name": "Grado da 30 a 45: Farming Portale C",
+          "description": "I portali di grado C sono la fonte più efficiente di XP ed equipaggiamento per la fase intermedia del gioco. I completamenti in gruppo qui riducono significativamente i tempi. Punta al grado C finché l'equipaggiamento non è completamente potenziato per questo livello."
+        },
+        {
+          "name": "Grado 45+: Spinta Portali B e A",
+          "description": "Il grado B e superiori rappresentano il contenuto di fine gioco. Unisciti a un gruppo per i completamenti di grado B e investi nella tua migliore build disponibile prima di tentare il grado A. Questi portali offrono i drop più rari e i maggiori guadagni di XP."
+        }
+      ],
+      "growthMilestones": [
+        "Completare il primo portale in solitaria",
+        "Raggiungere il grado 15",
+        "Superare la prima sfida di grado",
+        "Farmare efficientemente i portali di grado C"
+      ]
+    },
+    "reawakendBestBuilds": {
+      "title": "Migliori Build di Reawakened",
+      "displayType": "priorityCards",
+      "intro": "Le build più forti di Reawakened combinano la classe giusta, il set di tratti, il percorso e l'equipaggiamento per uno scopo specifico. Ogni build sottostante è ottimizzata per il ruolo previsto nel portale e testata su più fasce di grado.",
+      "priorities": [
+        {
+          "name": "Build Mago DPS",
+          "priority": "Livello S",
+          "description": "Classe Mago con Percorso di Combattimento e tratti offensivi focalizzati sui danni magici. Migliore velocità di completamento portali nella versione attuale per il farming in solitaria. Usa equipaggiamento di grado C con bonus di compatibilità dei tratti per il massimo rendimento."
+        },
+        {
+          "name": "Build Guerriero Tank",
+          "priority": "Livello S",
+          "description": "Classe Guerriero con Percorso di Difesa e investimento totale nei tratti difensivi. Quasi immortale nei portali di grado B. Ideale per il farming prolungato senza perdere tentativi nei contenuti difficili."
+        },
+        {
+          "name": "Build Assassino Burst",
+          "priority": "Livello A",
+          "description": "Classe Assassino con Percorso di Combattimento e tratti offensivi per colpi critici. Danni esplosivi al secondo estremamente elevati, ma richiede un buon tempismo nelle schivate per compensare i bassi HP. Alto potenziale, alto rischio."
+        },
+        {
+          "name": "Build Arciere Sustain",
+          "priority": "Livello A",
+          "description": "Classe Arciere con Percorso di Bilanciamento e un mix di tratti offensivi e di utilità. Danno sicuro e costante dalla distanza. Ideale per i giocatori che desiderano prestazioni stabili senza requisiti tecnici elevati."
+        },
+        {
+          "name": "Build Guaritore di Gruppo",
+          "priority": "Livello A",
+          "description": "Classe Guaritore con Percorso di Supporto e tratti di utilità focalizzati sulla potenza di cura e sulla durata dei buff. Sblocca le difficoltà dei portali più elevati nelle corse di gruppo mantenendo in vita il party durante le transizioni della fase due dei boss."
+        },
+        {
+          "name": "Build Tank Portale",
+          "priority": "Livello B",
+          "description": "Classe Tank con Percorso di Difesa e tratti focalizzati sulla salute massima. Massima resistenza con controllo delle folle. Da utilizzare come ancora del gruppo per i tentativi di grado A, dove i danni dei boss possono uccidere all'istante le classi più leggere."
+        }
+      ]
+    },
+    "reawakendHunterRanks": {
+      "title": "Gradi dei Cacciatori di Reawakened",
+      "displayType": "achievementGrid",
+      "intro": "I gradi dei cacciatori in Reawakened segnano la tua progressione nel gioco. Ogni livello sblocca nuove difficoltà dei portali, pool di equipaggiamento migliori e sfide di avanzamento di grado con una posta in gioco più alta per testare la tua build.",
+      "groups": [
+        {
+          "name": "Cacciatore Novizio (Grado 0-15)",
+          "achievements": [
+            {
+              "title": "Primo Portale Completato",
+              "description": "Completa il tuo primo portale di grado F e riscatta il tuo bottino iniziale."
+            },
+            {
+              "title": "Primo Codice Riscattato",
+              "description": "Riscatta il tuo primo codice attivo per ottenere un potenziamento gratuito di XP e statistiche."
+            },
+            {
+              "title": "Sblocco Tratto",
+              "description": "Sblocca il tuo primo slot per i tratti e applica un tratto di attacco o difesa."
+            }
+          ]
+        },
+        {
+          "name": "Cacciatore Apprendista (Grado 15-30)",
+          "achievements": [
+            {
+              "title": "Portale di Grado E Completato",
+              "description": "Completa un portale di grado E in solitaria e raccogli il tuo primo drop di equipaggiamento di grado E."
+            },
+            {
+              "title": "Prima Sfida di Avanzamento",
+              "description": "Tenta e completa la tua prima sfida di avanzamento di grado per essere promosso al livello di cacciatore successivo."
+            },
+            {
+              "title": "Secondo Slot Tratto",
+              "description": "Sblocca e riempi il tuo secondo slot tratto con un modificatore adatto alla tua classe."
+            }
+          ]
+        },
+        {
+          "name": "Cacciatore Esperto (Grado 30-50)",
+          "achievements": [
+            {
+              "title": "Portale di Grado D Completato",
+              "description": "Completa un portale di grado D e potenzia il tuo equipaggiamento al livello di grado D."
+            },
+            {
+              "title": "Scelta del Percorso",
+              "description": "Scegli e investi completamente in un percorso di progressione di Combattimento, Difesa o Supporto."
+            },
+            {
+              "title": "Tentativo Portale di Grado C",
+              "description": "Entra e completa un portale di grado C con la tua build attuale."
+            }
+          ]
+        },
+        {
+          "name": "Cacciatore d'Elite (Grado 50+)",
+          "achievements": [
+            {
+              "title": "Portale di Grado B Completato",
+              "description": "Completa un portale di grado B, da solo o in gruppo, e riscatta il bottino di fine gioco."
+            },
+            {
+              "title": "Build Completa",
+              "description": "Finalizza la tua combinazione di classe, percorso, equipaggiamento e tratti per i contenuti di fine gioco."
+            },
+            {
+              "title": "Grado A Sbloccato",
+              "description": "Raggiungi il grado di cacciatore richiesto per tentare i contenuti dei portali di grado A."
+            }
+          ]
+        }
+      ]
+    },
+    "reawakendGameFAQ": {
+      "title": "FAQ di Reawakened",
+      "displayType": "accordion",
+      "intro": "Risposte concise alle domande comuni sul gameplay di Reawakened, codici, classi e progressione.",
+      "faqs": [
+        {
+          "question": "Cos'è Reawakened su Roblox?",
+          "answer": "Reawakened è un gioco di ruolo su Roblox ispirato a Solo Leveling, sviluppato da Vayron Studios. I giocatori scelgono una classe, combattono attraverso portali classificati, potenziano tratti ed equipaggiamento e scalano la classifica dei cacciatori in un gioco di combattimento nei dungeon in stile anime dark."
+        },
+        {
+          "question": "Reawakened è gratuito?",
+          "answer": "Sì. Reawakened è gratuito su Roblox. Gli oggetti estetici possono essere disponibili per Robux, ma il gameplay principale, incluse tutte le classi, i portali e i tratti, non richiede alcuna spesa."
+        },
+        {
+          "question": "Come riscatto i codici in Reawakened?",
+          "answer": "Apri il menu di gioco, tocca il pulsante Codici, inserisci il codice esattamente come indicato e premi Conferma. I codici fanno distinzione tra maiuscole e minuscole e potrebbero avere usi limitati. Controlla la nostra pagina dei Codici per quelli attivi."
+        },
+        {
+          "question": "Qual è la classe migliore in Reawakened?",
+          "answer": "Il Mago ha la velocità di completamento dei portali più alta ed è la scelta migliore per il farming in solitaria. Il Guerriero è la classe più sicura per i principianti grazie agli alti HP di base. Entrambe sono ottime scelte iniziali nella versione attuale."
+        },
+        {
+          "question": "Come sblocco i portali di grado superiore in Reawakened?",
+          "answer": "Raggiungi il grado di cacciatore richiesto accumulando XP nel tuo attuale livello di portali, quindi completa la sfida di avanzamento di grado che si sblocca al limite di livello. Superare la sfida ti promuove al grado successivo e apre portali più difficili."
+        },
+        {
+          "question": "Quando vengono rilasciati nuovi codici di Reawakened?",
+          "answer": "I codici vengono solitamente rilasciati durante i principali aggiornamenti, eventi per i traguardi dei giocatori e annunci degli sviluppatori. Segui il Discord ufficiale su discord.gg/reawakened per avvisi istantanei sul rilascio dei codici."
+        },
+        {
+          "question": "Reawakened è multiplayer?",
+          "answer": "Sì. Reawakened supporta le spedizioni nei portali di gruppo. I giocatori possono allearsi per i portali di grado B e A, dove è raccomandato il coordinamento del gruppo. Il gioco in solitaria è pienamente supportato per tutti i livelli di grado."
+        },
+        {
+          "question": "Dove posso trovare le note di aggiornamento di Reawakened?",
+          "answer": "Le note di aggiornamento sono pubblicate nel server Discord ufficiale di Reawakened e tramite la pagina della community di Vayron Studios su Roblox. Gli aggiornamenti principali sono trattati anche nel canale YouTube ufficiale."
+        },
+        {
+          "question": "Cosa sono i tratti in Reawakened?",
+          "answer": "I tratti sono modificatori passivi che si sommano alle statistiche della tua classe. Sono divisi nelle categorie attacco, difesa, utilità e rare. Puoi cambiare i tratti (reroll) usando l'oro guadagnato completando i portali."
+        },
+        {
+          "question": "Qual è lo stato attuale di Reawakened?",
+          "answer": "Reawakened è live come playtest su Roblox. Nuovi contenuti, aggiornamenti di bilanciamento e aggiunte di classi sono in corso. Controlla il canale Discord e YouTube per le ultime informazioni."
+        }
+      ]
+    },
+    "reawakendBuildTips": {
+      "title": "Consigli per le Build di Reawakened",
+      "displayType": "accordion",
+      "intro": "Consigli avanzati per ottimizzare la tua combinazione di classe, tratti e percorso in ogni fase della progressione di Reawakened.",
+      "faqs": [
+        {
+          "question": "Quali tratti dovrebbe accumulare il Mago in Reawakened?",
+          "answer": "Dai priorità innanzitutto ai tratti moltiplicatori del danno magico, poi alla riduzione del cooldown per una rotazione più rapida delle abilità e infine ai tratti di utilità che aumentano XP e oro per ogni portale completato. Evita i tratti difensivi a meno che tu non abbia difficoltà a sopravvivere."
+        },
+        {
+          "question": "Dovrei usare il Percorso di Combattimento o il Percorso di Difesa in Reawakened?",
+          "answer": "Il Percorso di Combattimento è migliore per il farming in solitaria e la velocità di completamento dei portali a tutti i livelli di grado. Il Percorso di Difesa è superiore quando vuoi affrontare difficoltà di portale più elevate senza morire, specialmente per le build da Guerriero e Tank."
+        },
+        {
+          "question": "Quanti tratti di Reawakened dovrei cambiare (reroll) all'inizio?",
+          "answer": "Effettua il reroll finché non hai almeno due tratti che corrispondono direttamente al focus della tua classe. Un tratto di attacco e uno di utilità sono una buona combinazione iniziale per la maggior parte delle classi DPS. Non risparmiare oro per l'equipaggiamento a scapito della qualità dei tratti."
+        },
+        {
+          "question": "Quando dovrei potenziare l'equipaggiamento in Reawakened?",
+          "answer": "Potenzia l'equipaggiamento quando il portale di difficoltà attuale smette di rilasciare upgrade. Se ogni oggetto ottenuto è già peggiore di quello che hai equipaggiato, è il momento di passare al grado successivo e farmare lì."
+        },
+        {
+          "question": "Vale la pena giocare il Guaritore in solitaria in Reawakened?",
+          "answer": "Il Guaritore è significativamente più lento nel farming dei portali in solitaria rispetto alle classi DPS. È meglio giocarlo in gruppo, dove le tue cure permettono di affrontare portali più difficili. Per la progressione in solitaria, il Mago o il Guerriero sono più efficienti in termini di tempo."
+        }
+      ]
+    },
+    "reawakendCommunity": {
+      "title": "Community di Reawakened",
+      "displayType": "settingCards",
+      "intro": "Connettiti con la community di Reawakened attraverso i canali ufficiali. Il Discord è la fonte più veloce per nuovi codici, aggiornamenti di gioco e discussioni sulle build.",
+      "settings": [
+        {
+          "name": "Discord Ufficiale",
+          "type": "Community Principale",
+          "description": "Unisciti a discord.gg/reawakened per annunci di codici, notizie sugli aggiornamenti, discussioni sui livelli delle classi e contatto diretto con il team di Vayron Studios."
+        },
+        {
+          "name": "Pagina del Gioco su Roblox",
+          "type": "Gioca a Reawakened",
+          "description": "Gioca a Reawakened direttamente tramite la pagina ufficiale del gioco su Roblox di Vayron Studios. Tutte le sessioni di gioco, gli aggiornamenti e le patch vengono distribuiti tramite questa pagina."
+        },
+        {
+          "name": "Canale YouTube",
+          "type": "Media Ufficiali",
+          "description": "Guarda i trailer ufficiali, le presentazioni delle classi e i video degli aggiornamenti sul canale YouTube di Reawakened. I nuovi video spesso coincidono con il rilascio di codici e aggiornamenti principali."
+        },
+        {
+          "name": "Community Vayron Studios",
+          "type": "Hub Sviluppatori",
+          "description": "Segui il gruppo degli sviluppatori su Roblox per annunci dello studio, anteprime dei giochi in arrivo e post degli sviluppatori su Reawakened e progetti futuri."
+        }
+      ]
+    },
+    "reawakendUpdateLog": {
+      "title": "Registro degli Aggiornamenti di Reawakened",
+      "displayType": "timeline",
+      "intro": "Un registro continuo degli aggiornamenti di Reawakened, dei cambiamenti di bilanciamento e delle nuove aggiunte di contenuti dal lancio iniziale del playtest.",
+      "entries": [
+        {
+          "title": "Lancio del Playtest",
+          "type": "Lancio",
+          "description": "REAWAKENED è stato lanciato ufficialmente come playtest su Roblox. Il primo set di classi, portali, tratti e il sistema principale di progressione dei cacciatori è andato online."
+        },
+        {
+          "title": "Aggiunto Sistema di Codici",
+          "type": "Funzionalità",
+          "description": "È stato aggiunto il sistema di riscatto codici in-game, che consente ai giocatori di richiedere boost di XP, potenziamenti delle statistiche e premi estetici direttamente dal menu principale."
+        },
+        {
+          "title": "Passaggio di Bilanciamento Classi",
+          "type": "Bilanciamento",
+          "description": "Regolati i danni inflitti dal Mago e dal Guerriero. Il tasso di colpi critici dell'Assassino e la velocità di attacco dell'Arciere sono stati calibrati per un migliore bilanciamento delle classi tra i vari livelli di difficoltà dei portali."
+        },
+        {
+          "title": "Aggiunto Nuovo Grado dei Portali",
+          "type": "Contenuto",
+          "description": "È stato introdotto un livello di portali di grado superiore con un nuovo design dei boss, modelli di ondate di nemici aggiornati e un pool di bottini ampliato per il segmento finale dei cacciatori."
+        }
+      ]
+    },
+    "reawakendEarlyTips": {
+      "title": "Consigli iniziali per Reawakened",
+      "displayType": "passaggi",
+      "intro": "Queste sono le azioni di maggior valore per i nuovi giocatori di Reawakened nella prima sessione. Seguire questo ordine evita gli errori iniziali più comuni e ti offre un vantaggio significativo.",
+      "steps": [
+        {
+          "title": "Scegli prima Guerriero o Mago",
+          "description": "Se non hai preferenze, inizia con il Guerriero per l'esperienza di sopravvivenza più semplice o con il Mago per la massima velocità di pulizia dei portali. Entrambe le classi scalano bene nel mid-game e hanno priorità di statistiche semplici."
+        },
+        {
+          "title": "Riscatta tutti i codici attivi prima del tuo primo portale",
+          "description": "Controlla la pagina dei Codici e riscatta ogni codice attivo prima di entrare nel tuo primo portale. I codici di potenziamento XP attivi durante la tua prima run ti daranno un vantaggio cumulativo attraverso i primi livelli di rango."
+        },
+        {
+          "title": "Pulisci completamente i portali prima di avanzare",
+          "description": "Affronta la difficoltà del portale attuale finché il tuo equipaggiamento non è completamente potenziato per quel livello. Passare a portali più difficili con equipaggiamento di livello inferiore spreca tentativi di portale e rallenta la progressione complessiva."
+        },
+        {
+          "title": "Investi presto nei Tratti",
+          "description": "Usa l'oro per ricalcolare i tratti ogni pochi portali invece di risparmiare per l'equipaggiamento. Due tratti ben assortiti rendono ogni portale significativamente più facile e il beneficio si accumula in tutte le tue run future."
+        }
+      ]
+    },
+    "reawakendFishingGuide": {
+      "title": "Guida alla pesca di Reawakened",
+      "eyebrow": "Guida alle attività",
+      "intro": "La pesca è più di un'attività secondaria in Reawakened. Potenzia le mascotte, crea opportunità di guadagno iniziali e può produrre equipaggiamento superiore ai normali drop dei dungeon.",
+      "steps": [
+        {
+          "title": "Prendi una canna e trova un punto di pesca",
+          "description": "Acquista una canna da pesca da un venditore in città e tienila nell'inventario. A Grove, il punto di pesca visibile più vicino è il foro dorato scintillante appena fuori dal molo del laghetto nella parte nord della città.",
+          "highlights": [
+            "Una canna da pesca deve solo essere nel tuo inventario per abilitare la pesca",
+            "I punti di pesca appaiono in città e in tutti i livelli del dungeon",
+            "Il laghetto cittadino è il posto più semplice per imparare l'interazione"
+          ]
+        },
+        {
+          "title": "Lancia, osserva e ferra velocemente",
+          "description": "Fai clic sinistro sul punto di pesca per lanciare. Quando appare il punto esclamativo sopra il tuo personaggio, colpisci rapidamente 'Ferra' per avere una migliore possibilità di prendere il pesce.",
+          "highlights": [
+            "Non serve un albero delle abilità di pesca separato per iniziare",
+            "Il tempo di reazione conta più delle statistiche di combattimento",
+            "Un tempismo rapido nella ferrata migliora la costanza"
+          ]
+        },
+        {
+          "title": "Scopri perché la pesca è importante",
+          "description": "I pesci possono cambiare drasticamente gli attributi e le resistenze della tua mascotte, rendendo più facili le prime esplorazioni dei dungeon. La pesca può anche produrre bottini potenti e gemme.",
+          "highlights": [
+            "Le trasformazioni delle mascotte sono il più grande picco di potenza iniziale",
+            "La pesca è un percorso pratico per guadagnare oro",
+            "Vendere i drop gialli della pesca è un ciclo economico affidabile all'inizio"
+          ]
+        },
+        {
+          "title": "Impara i quattro livelli di dimensione dei pesci",
+          "description": "I pesci sono divisi in quattro livelli di dimensione, e la dimensione controlla quanto dura la trasformazione della tua mascotte.",
+          "highlights": [
+            "Avannotto: 120 secondi",
+            "Piccolo: 300 secondi",
+            "Grosso: 600 secondi",
+            "Impeccabile: dura finché la trasformazione successiva non lo sostituisce"
+          ]
+        },
+        {
+          "title": "Ricorda gli esempi di trasformazione più utili",
+          "description": "Diversi pesci trasformano le mascotte in forme diverse con pacchetti di statistiche e resistenze differenti.",
+          "highlights": [
+            "Il Pesce Arciere trasforma una mascotte in un Lupo Atroce",
+            "Il Persico trasforma una mascotte in un Unicorno",
+            "Il Dory trasforma una mascotte in una Salamandra con il 100% di Resistenza al Fuoco",
+            "Il Pesce Cane riporta la mascotte alla sua forma originale"
+          ]
+        },
+        {
+          "title": "Usa la pesca anche per gli obiettivi di progressione",
+          "description": "La pesca è legata agli obiettivi di completamento, non solo all'utilità. Reawakened include l'obiettivo 'Maestro Pescatore' per aver catturato ogni tipo di pesce.",
+          "highlights": [
+            "Utile per i giocatori concentrati sul collezionismo",
+            "Supporta la sperimentazione con le mascotte",
+            "Aggiunge valore al completamento a lungo termine oltre l'oro grezzo"
+          ]
+        }
+      ]
+    },
+    "reawakendSideQuestsGuide": {
+      "title": "Guida alle missioni secondarie di Reawakened",
+      "eyebrow": "Guida alla progressione",
+      "intro": "Le missioni secondarie sono semplici in superficie, ma la gestione del percorso è importante. Accettare le missioni giuste al piano giusto fa risparmiare tempo ed evita esplorazioni inutili.",
+      "items": [
+        {
+          "title": "Slot missione e comportamento degli NPC",
+          "content": "Puoi avere fino a 3 missioni secondarie contemporaneamente. Gli NPC con missioni secondarie disponibili non ti diranno cosa vogliono a meno che tu non abbia uno slot missione libero.",
+          "bullets": [
+            "Massimo 3 missioni secondarie attive",
+            "Gli slot liberi sono importanti perché rivelano più opzioni di missione in città",
+            "Controlla gli NPC della città prima di impegnarti in un lungo tratto di dungeon"
+          ]
+        },
+        {
+          "title": "I tre modelli di missione secondaria",
+          "content": "Le missioni secondarie utilizzano ripetutamente tre modelli: recuperare un oggetto smarrito in un livello, uccidere un mostro e i suoi seguaci, o uccidere il mostro che ha rubato un oggetto e recuperarlo.",
+          "bullets": [
+            "Missione oggetto smarrito",
+            "Uccidi mostro bersaglio e seguaci",
+            "Recupera oggetto rubato da un gruppo di mostri bersaglio"
+          ]
+        },
+        {
+          "title": "Accetta missioni per il piano in cui ti trovi",
+          "content": "Accetta missioni secondarie solo per il piano che stai giocando attualmente. Questo mantiene gli obiettivi allineati con il tuo percorso immediato nel dungeon invece di disperderli tra diversi livelli.",
+          "bullets": [
+            "Il gioco piano per piano è più pulito dell'accumulare missioni non corrispondenti",
+            "Aiuta a ridurre il backtracking",
+            "Mantiene il flusso delle ricompense costante durante il livellamento"
+          ]
+        },
+        {
+          "title": "Non pulire completamente un piano troppo presto",
+          "content": "Non esplorare completamente un piano prima di aver finito le missioni secondarie di quel piano. Gli obiettivi della missione possono apparire in sezioni inesplorate.",
+          "bullets": [
+            "Termina gli obiettivi della missione secondaria prima dell'esplorazione completa",
+            "Dai priorità ai segnalini missione e ai rami inesplorati per primi",
+            "Questo è il principale errore di percorso commesso dai nuovi giocatori"
+          ]
+        },
+        {
+          "title": "Cosa offrono le missioni secondarie",
+          "content": "Le missioni secondarie forniscono fama, esperienza e oro. Aiutano anche a scandire la progressione iniziale meglio del semplice girovagare a caso.",
+          "bullets": [
+            "La fama supporta la progressione a lungo termine",
+            "L'esperienza aiuta ad ammorbidire i guadagni di livello",
+            "L'oro supporta negozi, scommesse e acquisti di utilità"
+          ]
+        },
+        {
+          "title": "Trucchi per il refresh e casi limite",
+          "content": "Le missioni disponibili possono essere aggiornate tornando al livello 1 e risalendo, oppure salvando, uscendo e poi rientrando.",
+          "bullets": [
+            "Aggiornamento della lista missioni: torna al livello 1 e torna indietro, o salva ed esci",
+            "Gli oggetti delle missioni annullabili a volte possono essere conservati",
+            "Confronta sempre la ricompensa di una missione con l'oggetto stesso"
+          ]
+        }
+      ]
+    },
+    "reawakendWeaponsGuide": {
+      "title": "Guida alle armi di Reawakened",
+      "eyebrow": "Guida all'equipaggiamento",
+      "intro": "La scelta dell'arma è legata alla velocità, ai requisiti delle statistiche e allo specifico pool di oggetti unici. Le versioni d'Élite e Leggendarie scalano in base al rango di fama, rendendo l'accesso alle armi di fine gioco un vero obiettivo di progressione.",
+      "items": [
+        {
+          "weapon_class": "Spada",
+          "example_unique": "Ago Pungente",
+          "speed": "Rapidissima",
+          "why": "Spada iniziale veloce con Attacco +40 e Bonus Danno +4. I consigli della community suggeriscono armi di classe spada e il dual wielding per l'efficienza del danno iniziale."
+        },
+        {
+          "weapon_class": "Ascia",
+          "example_unique": "Il Taglio",
+          "speed": "Rapida",
+          "why": "Garantisce Colpo Critico +5, Battaglia con Scudo +5, Tasso di Drop Magico +5 e Tasso di Drop Oro +20% — ideale per build focalizzate sul bottino."
+        },
+        {
+          "weapon_class": "Arco",
+          "example_unique": "Sentinella della Radura",
+          "speed": "Normale",
+          "why": "Abilità Arco/Balestra +5, Danno +7%, Velocità di Camminata +10% e Destrezza +10% rendono questo pezzo unico un'ottima scelta a distanza per build mobili."
+        },
+        {
+          "weapon_class": "Balestra",
+          "example_unique": "Il Puntaspilli",
+          "speed": "Normale",
+          "why": "Dotata di Forza +6, Resistenza al Fuoco +40 e Respinta +2 — una scelta solida per i giocatori che desiderano sopravvivenza insieme al danno a distanza."
+        },
+        {
+          "weapon_class": "Martello",
+          "example_unique": "Finalità di Leadro",
+          "speed": "Lenta",
+          "why": "Pesante opzione iniziale con Bonus Danno contro Non Morti +10, Danno fisso +7 e Resistenza Magica +3% per build da dungeon resistenti."
+        },
+        {
+          "weapon_class": "Lancia",
+          "example_unique": "Rebbi Tremanti",
+          "speed": "Normale",
+          "why": "Un chiaro esempio di lancia che scala con la Destrezza piuttosto che con la Forza bruta — ideale per build che danno priorità all'agilità."
+        },
+        {
+          "weapon_class": "Bastone",
+          "example_unique": "Schiacciabarra",
+          "speed": "Lenta",
+          "why": "Bastone ibrido con Magia d'Attacco +4, Magia di Charme +4, Mana Rubato +15% e Attacco +20 — copre sia l'offesa magica che il sostentamento del mana."
+        },
+        {
+          "weapon_class": "Elite e Leggendario",
+          "example_unique": "Sistema Varianti",
+          "speed": "Varia",
+          "why": "L'Élite raddoppia le statistiche di base, il Leggendario le quadruplica. Le varianti leggendarie richiedono un rango di Rinomata superiore — la fama blocca direttamente l'accesso alle armi di fine gioco."
+        }
+      ]
+    },
+    "reawakendSpellsGuide": {
+      "title": "Guida agli incantesimi di Reawakened",
+      "eyebrow": "Guida alla magia",
+      "intro": "Gli incantesimi sono divisi nelle linee Attacco, Difesa e Charme. Gli incantesimi di utilità come Portale Cittadino, Identifica e Mappa Mentale sono importanti quanto il danno puro per un gioco efficiente.",
+      "categories": [
+        {
+          "title": "Incantesimi d'Attacco",
+          "kicker": "Danno diretto e controllo",
+          "description": "La Magia d'Attacco inizia con incantesimi iniziali efficienti e scala in strumenti di burst più potenti. Lentezza e Palla di Fuoco sono acquisti iniziali fondamentali.",
+          "examples": [
+            "Lentezza — rallenta il bersaglio al 60% della velocità per 10 secondi",
+            "Palla di Fuoco — proiettile da 2-7 danni più scaling dell'abilità",
+            "Gelo — due proiettili di ghiaccio e un rallentamento del 40% per 5 secondi",
+            "Colpo di Fulmine — danno elettrico istantaneo",
+            "Sciame di Meteore — detonazione ad area in un raggio di 6 metri"
+          ]
+        },
+        {
+          "title": "Incantesimi di Difesa",
+          "kicker": "Buff, cure, resistenze e sopravvivenza",
+          "description": "La Magia di Difesa contiene gli strumenti di sostentamento e velocità su cui la maggior parte dei giocatori fa affidamento per tutto il gioco. Velocità e Derviscio sono opzioni di utilità eccezionali.",
+          "examples": [
+            "Cura Minore — cura l'incantatore di 20 HP più lo scaling",
+            "Armatura Spettrale — aumenta la difesa e riduce i danni subiti",
+            "Velocità — aumenta la velocità per 15 secondi",
+            "Nebbia di Battaglia — raddoppia il Grado di Attacco riducendo il Grado di Difesa",
+            "Derviscio — aumenta la Velocità d'Attacco dell'80% per 10 secondi",
+            "Riflessione — riflette il 20% del danno agli attaccanti"
+          ]
+        },
+        {
+          "title": "Incantesimi di Charme",
+          "kicker": "Utilità, controllo della folla e strumenti per la mappa",
+          "description": "La Magia di Charme copre l'identificazione, gli strumenti per la mappa e il controllo della folla. Portale Cittadino e Mappa Mentale sono essenziali per un percorso efficiente nei dungeon.",
+          "examples": [
+            "Identifica — identifica gli oggetti, scala con il livello dell'abilità",
+            "Incanta Mostro — incanta i mostri di livello 6 e inferiore per 20 secondi",
+            "Mappa Mentale — rivela un livello del dungeon dal livello 2 o superiore",
+            "Portale Cittadino — apre un portale dal livello 2 o superiore",
+            "Dissolvi Mostro Evocato — rimuove le creature evocate"
+          ]
+        },
+        {
+          "title": "Incantesimi di Evocazione",
+          "kicker": "Incantesimi compagni con durata scalabile",
+          "description": "Le evocazioni scalano con l'abilità Charme e durano 1 minuto più 10 secondi per livello di abilità. Il limite massimo di evocazioni attive è di 6 creature alla volta.",
+          "examples": [
+            "Evoca Ragno — evoca 3 ragni di livello 1",
+            "Evoca Scheletro — evoca 1 scheletro di livello 4",
+            "Lama Mistica — evoca 1 spada maledetta di livello 7",
+            "Evoca Lupo dei Boschi — evoca 2 lupi dei boschi di livello 7",
+            "Evoca Viverna — evoca 1 viverna velenosa di livello 28"
+          ]
+        },
+        {
+          "title": "Tasti di scelta rapida e gestione incantesimi",
+          "kicker": "Gestione incantesimi e assegnazione tasti",
+          "description": "Una volta appreso un incantesimo, espandi la lista degli incantesimi dall'HUD e assegna gli incantesimi direttamente ai tasti funzione per un accesso rapido durante il combattimento.",
+          "examples": [
+            "Passa il mouse su un incantesimo appreso e premi F1-F12 per assegnarlo",
+            "Ruota buff, cure e utilità senza aprire i menu",
+            "Specialmente utile per Portale Cittadino, Identifica e i buff di combattimento principali"
+          ]
+        }
+      ]
+    },
+    "reawakendGemsGuide": {
+      "title": "Guida alle Gemme di Reawakened",
+      "eyebrow": "Ottimizzazione del Bottino",
+      "intro": "Le gemme determinano gran parte della potenza degli oggetti in Reawakened. Questa guida copre le migliori fonti di gemme, le regole degli incavi che contano e le pietre che vale la pena cercare per build corpo a corpo, magiche e di utilità.",
+      "items": [
+        {
+          "entry": "Pozze di Pesca",
+          "category": "Fonte",
+          "effect": "La pesca in profondità produce bottino migliore",
+          "best_for": "Farm costante di gemme durante la progressione"
+        },
+        {
+          "entry": "Statua del Destino",
+          "category": "Fonte",
+          "effect": "Conferisce due gemme casuali o evoca un boss",
+          "best_for": "Acquisizione rapida di gemme quando puoi gestire il rischio"
+        },
+        {
+          "entry": "Re-incastonatura di Samwen",
+          "category": "Utilità",
+          "effect": "Rimuove le gemme da un oggetto, ma le gemme vengono distrutte",
+          "best_for": "Sostituire gemme di riempimento con incavi più forti per il fine gioco"
+        },
+        {
+          "entry": "Peridoto, Divino",
+          "category": "Gemma Base",
+          "effect": "+12% Vita Rubata",
+          "best_for": "Sostentamento in mischia e lunghe sessioni di dungeon senza pozioni"
+        },
+        {
+          "entry": "Giada, Divina",
+          "category": "Gemma Base",
+          "effect": "+25% Velocità d'Attacco",
+          "best_for": "Build a doppia arma e DPS fisico"
+        },
+        {
+          "entry": "Diamante, Divino",
+          "category": "Gemma Base",
+          "effect": "+5 a Tutte le Abilità",
+          "best_for": "Build ibride e orientate alla magia"
+        },
+        {
+          "entry": "Rubino, Divino",
+          "category": "Gemma Base",
+          "effect": "+72 Resistenza al Fuoco, +18 Danni da Fuoco",
+          "best_for": "Offensiva focalizzata sul fuoco e copertura elementale"
+        },
+        {
+          "entry": "Malachite, Divina",
+          "category": "Gemma Base",
+          "effect": "+18 Ricarica Stamina",
+          "best_for": "Esplorazione con molti movimenti e tempi morti ridotti"
+        },
+        {
+          "entry": "Gingillo dell'Impostore",
+          "category": "Gemma Rara",
+          "effect": "+9% Velocità d'Attacco, +9% Danni Riflessi",
+          "best_for": "Build corpo a corpo aggressive con ritorsione passiva"
+        },
+        {
+          "entry": "Pietra Filosofale",
+          "category": "Gemma Rara",
+          "effect": "+5 Magia, +5% Mana, +5% Penalità Stamina",
+          "best_for": "Incantatori e personaggi magici ibridi"
+        },
+        {
+          "entry": "Delizia del Nano",
+          "category": "Gemma Rara",
+          "effect": "+25% Più Oro dai Nemici, +6 Abilità Martello",
+          "best_for": "Percorsi di farm dell'oro e personaggi focalizzati sul martello"
+        },
+        {
+          "entry": "Cuore Bramoso",
+          "category": "Gemma Rara",
+          "effect": "+12% Ritrovamento Oggetti Magici, +5% Requisiti Oggetti Ridotti",
+          "best_for": "Farm di oggetti magici e soglie di equipaggiamento più facili"
+        }
+      ]
+    },
+    "reawakendFameGuide": {
+      "title": "Guida alla Fama di Reawakened",
+      "eyebrow": "Sistema di Progressione",
+      "intro": "La Fama alimenta la tua progressione di Rinomata, e la Rinomata cambia direttamente ciò che puoi equipaggiare e quanto velocemente cresce la tua build. I personaggi che ignorano la Fama di solito si sentono sotto-equipaggiati una volta che i requisiti degli oggetti iniziano a salire.",
+      "items": [
+        {
+          "title": "Come si ottiene la Fama",
+          "stat": "Missioni + nemici unici o boss",
+          "text": "Il completamento delle missioni conferisce Oro, PE e Fama scalabili. La Fama deriva anche dall'uccisione di nemici unici e boss, quindi la pulizia dei piani e le missioni la aumentano naturalmente nel tempo."
+        },
+        {
+          "title": "Cosa ti dà la Rinomata",
+          "stat": "+4 punti abilità per livello di Rinomata",
+          "text": "Ogni aumento di Rinomata conferisce quattro punti abilità extra. Questo rende la progressione della Fama una fonte diretta di potere, non solo un controllo dei requisiti dell'equipaggiamento."
+        },
+        {
+          "title": "Dove acquistarla",
+          "stat": "Rollo il Menestrello",
+          "text": "Rollo può aumentare la tua Fama in cambio di oro. Ciò ti consente di acquistare il passaggio al successivo breakpoint di Rinomata quando le armi di fine gioco iniziano a richiedere più di quanto offra la tua progressione attuale."
+        },
+        {
+          "title": "Perché l'equipaggiamento viene bloccato",
+          "stat": "Equipaggiamento Élite e Leggendario",
+          "text": "Gli oggetti di classe superiore richiedono soglie di Fama o Rinomata. Se vedi equipaggiamento più forte con un blocco dei requisiti, la risposta è solitamente più Fama, più oro per Rollo, o entrambi."
+        },
+        {
+          "title": "Perché i negozi migliorano",
+          "stat": "Fama + livello aumentano la qualità degli oggetti",
+          "text": "Migliori sono la tua Fama e il tuo livello, migliori saranno gli oggetti che troverai nei negozi e dai mostri. Questo è uno dei motivi per cui l'equipaggiamento di fine gioco sembra molto più fluido una volta che la Rinomata si allinea."
+        },
+        {
+          "title": "Come la difficoltà cambia l'equazione",
+          "stat": "Avventuriero → Superiore, Eroe → Eccezionale, Leggenda → Impeccabile",
+          "text": "Le difficoltà più elevate innalzano il soffitto della qualità degli oggetti e rendono la meccanica della Fama più importante. Alle impostazioni più difficili, la Rinomata smette di essere opzionale molto rapidamente."
+        }
+      ]
+    },
+    "reawakendEndgameGuide": {
+      "title": "Guida al Fine Gioco di Reawakened",
+      "eyebrow": "Percorso Fine Gioco",
+      "intro": "Il percorso più forte per il fine gioco è costruito attorno agli incavi, all'incantamento, alla conversione dell'oro e ai breakpoint di Rinomata. Una volta raggiunto il primo vero picco, il resto della partita diventa un ciclo controllato di potenziamenti.",
+      "items": [
+        {
+          "step": 1,
+          "headline": "Inizia da una build che scala in modo pulito",
+          "target": "Mischia doppia arma di grado S o mago d'attacco di grado A",
+          "details": "La mischia a doppia arma è la base più semplice e forte per il fine gioco, mentre il mago d'attacco è l'alternativa principale ad alto danno. Entrambi scalano bene una volta attivati potenziamenti, incantesimi e armi migliori."
+        },
+        {
+          "step": 2,
+          "headline": "Mantieni attivi i tre buff principali",
+          "target": "Velocità + Nebbia di Battaglia + Derviscio",
+          "details": "Questi buff sono la spina dorsale del percorso fisico più forte. Velocità aumenta l'attacco e il movimento, Nebbia di Battaglia aumenta il grado di attacco e Derviscio aggiunge un enorme picco di velocità d'attacco."
+        },
+        {
+          "step": 3,
+          "headline": "Considera il livello 25+ come il primo vero breakpoint di potere",
+          "target": "Sblocco dell'incantamento a metà gioco",
+          "details": "Gli incantesimi diventano molto più preziosi una volta raggiunto il livello 25 e i venditori iniziano a vendere basi di equipaggiamento più costose. Qui inizia la vera preparazione per il fine gioco."
+        },
+        {
+          "step": 4,
+          "headline": "Sistema il sostentamento prima di cercare il danno puro",
+          "target": "Circa il 20% di sostentamento totale dagli incavi",
+          "details": "I peridoti superiori sono la priorità iniziale degli incavi per il sostentamento e le giade superiori sono il passo successivo per la velocità d'attacco. Una volta risolto il sostentamento, la velocità di pulizia aumenta drasticamente."
+        },
+        {
+          "step": 5,
+          "headline": "Usa l'incantamento come motore per l'oro",
+          "target": "Acquista basi costose non incantate, incantale una volta, rivendile",
+          "details": "Le basi del fabbro da oltre 50.000 monete iniziano a comparire intorno al livello 20+ in difficoltà Leggenda. Incanta ogni pezzo finché non ottiene un incanto riuscito, quindi rivendilo a un mercante per un rapido profitto."
+        },
+        {
+          "step": 6,
+          "headline": "Converti l'oro in Rinomata e accesso alle armi",
+          "target": "Acquista fama fino al grado Semidio",
+          "details": "L'oro di fine gioco non serve solo per l'equipaggiamento. È anche il percorso più veloce per le soglie di Fama che ti permettono di equipaggiare armi leggendarie più forti e stare al passo con i requisiti degli oggetti."
+        },
+        {
+          "step": 7,
+          "headline": "Sfrutta il secondo picco al livello 50",
+          "target": "Re-incanta l'equipaggiamento principale",
+          "details": "Gli incantesimi smettono di scalare al livello 50. Questo rende il livello 50 il momento ideale per rivisitare il tuo equipaggiamento principale e spingere un secondo grande salto in termini di danno e sopravvivenza."
+        },
+        {
+          "step": 8,
+          "headline": "Cerca le migliori basi per le armi in base al gioco",
+          "target": "Caccia all'arma Leggendaria Impeccabile",
+          "details": "Il gioco base e Undiscovered Realms favoriscono lo Spadone Leggendario Impeccabile. The Traitor Soul e The Cursed King spostano la caccia verso le spade Elphame o Cyber Leggendarie Impeccabili."
+        },
+        {
+          "step": 9,
+          "headline": "Non sprecare slot con statistiche scadenti",
+          "target": "Evita il respingimento",
+          "details": "Il respingimento riduce il DPS reale allontanando i nemici dal tuo flusso di attacco. L'equipaggiamento di fine gioco richiede invece incavi, danno, sostentamento, velocità e statistiche pulite."
+        }
+      ]
+    },
+    "reawakendCharacterImportGuide": {
+      "title": "Guida all'Importazione del Personaggio di Reawakened",
+      "eyebrow": "Pianificazione dei Salvataggi",
+      "intro": "Reawakened supporta un percorso pulito di importazione in avanti all'interno della serie inclusa nel pacchetto. La regola importante è semplice: spostati verso l'alto nell'ordine di uscita e pianifica il tuo inventario prima di ogni trasferimento.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Conosci il pacchetto su cui stai pianificando",
+          "content": "Il pacchetto contiene tutti e quattro i giochi: FATE, Undiscovered Realms, The Traitor Soul e The Cursed King. Il tuo percorso di importazione dovrebbe seguire l'ordine di uscita del pacchetto."
+        },
+        {
+          "step": 2,
+          "label": "Inizia in FATE 1 se vuoi un eroe continuo",
+          "content": "Il percorso consigliato è iniziare con FATE e portare lo stesso personaggio avanti per il resto del pacchetto. Ciò offre il percorso di potenziamento più pulito ed evita di rimanere bloccati dietro una regola di trasferimento unidirezionale in seguito."
+        },
+        {
+          "step": 3,
+          "label": "L'importazione si sposta solo in avanti",
+          "content": "Puoi spostare un eroe da FATE 1 a FATE 2 e continuare nella serie, ma non puoi riportare quell'eroe in un gioco precedente. Una volta avanzato, consideralo come una scala a senso unico."
+        },
+        {
+          "step": 4,
+          "label": "La maggior parte del tuo equipaggiamento viaggia con te",
+          "content": "Quando passi al gioco successivo della serie, il tuo personaggio e i tuoi oggetti vengono trasferiti. L'eccezione è il passaggio da The Traitor Soul a The Cursed King, dove solo il tuo eroe, il tuo animale domestico e ciò che si trova nell'inventario vengono con te."
+        },
+        {
+          "step": 5,
+          "label": "Prepara l'inventario prima dei trasferimenti principali",
+          "content": "Poiché il passaggio da Traitor Soul a Cursed King mantiene solo gli oggetti trasportati nella borsa, questo è il punto in cui la disciplina dell'inventario conta di più. Metti l'equipaggiamento che desideri davvero sul tuo eroe, sul tuo animale o nell'inventario prima di fare il salto."
+        },
+        {
+          "step": 6,
+          "label": "Non pianificare in base ai vecchi salvataggi originali",
+          "content": "I personaggi dei giochi originali pre-remaster non possono essere trasferiti nella remaster al lancio. Il sistema di importazione su cui pianificare è il percorso di trasporto in avanti all'interno del pacchetto rimasterizzato stesso."
+        }
+      ]
+    },
+    "reawakendHeirloomGuide": {
+      "title": "Guida ai Cimeli di Reawakened",
+      "eyebrow": "Sistema Eredità",
+      "intro": "Dopo aver completato una campagna in Reawakened, puoi ritirare il tuo eroe e creare un discendente. Durante il pensionamento scegli un oggetto da tramandare come cimelio di famiglia e i suoi bonus vengono aumentati. Pianificare incavi, gemme e generazioni future prima di ritirarsi rende il sistema molto più potente.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Ritirati dopo aver completato la campagna",
+          "content": "Il pensionamento diventa disponibile dopo aver battuto il gioco. Quando ti ritiri, il tuo eroe diventa un antenato e inizi la partita successiva come discendente invece di continuare con lo stesso personaggio attivo."
+        },
+        {
+          "step": 2,
+          "label": "Tramanda solo un oggetto",
+          "content": "Scegli un singolo oggetto cimelio quando ti ritiri, quindi ogni scelta dello slot conta. Scegli un pezzo con i bonus che vuoi sentire fin dall'inizio di una nuova partita."
+        },
+        {
+          "step": 3,
+          "label": "Usa gli incavi prima di bloccare l'oggetto",
+          "content": "I cimeli ottengono bonus scritti più forti e i bonus degli incavi contano come parte di quel piano. La strategia degli incavi è particolarmente preziosa perché gli effetti potenziati dalle gemme interagiscono bene con la crescita del cimelio su più generazioni."
+        },
+        {
+          "step": 4,
+          "label": "Conosci la regola della statistica base",
+          "content": "I bonus dei cimeli aumentano del 25% ogni volta che l'oggetto viene tramandato. Anche un piccolo bonus incastonato come +1 a Tutte le Abilità può arrotondarsi a +2 dopo l'eredità, motivo per cui gli oggetti compatti ricchi di bonus scalano così bene."
+        },
+        {
+          "step": 5,
+          "label": "Pianifica per più generazioni",
+          "content": "Un forte cimelio è costruito per un uso ripetuto, non solo per un discendente. L'eredità ripetuta composta il valore attuale dell'oggetto, quindi i pezzi a lungo termine con statistiche flessibili, incavi utili e un ampio valore per la build superano i riempitivi di breve durata."
+        },
+        {
+          "step": 6,
+          "label": "Comprendi cosa succede al vecchio eroe",
+          "content": "Una volta ritirato, quell'eroe non è più il tuo personaggio attivo. In The Cursed King, l'antenato può essere successivamente riassunto, ma l'aspettativa normale è che il pensionamento sia un passaggio di consegne alla generazione successiva."
+        }
+      ]
+    },
+    "reawakendAchievementsGuide": {
+      "title": "Guida agli Obiettivi di Reawakened",
+      "eyebrow": "Completamento",
+      "intro": "Reawakened distribuisce la sua lista di obiettivi tra animali domestici, pesca, missioni, combattimento, economia e progressione a lungo termine. Monitorarli in gruppi mentre giochi è molto più efficiente che inseguirli alla fine.",
+      "categories": [
+        {
+          "section": "Città, Bottino ed Economia",
+          "entries": [
+            {
+              "name": "Ricercatore",
+              "requirement": "Identifica 10 oggetti"
+            },
+            {
+              "name": "Cacciatore di Tesori",
+              "requirement": "Apri 20 forzieri"
+            },
+            {
+              "name": "Lascia che l'avidità prenda il sopravvento",
+              "requirement": "Raccogli 100.000 monete d'oro"
+            },
+            {
+              "name": "Potrei avere un problema",
+              "requirement": "Scommetti 30 volte"
+            },
+            {
+              "name": "L'Incantatore",
+              "requirement": "Incanta un oggetto"
+            },
+            {
+              "name": "Il Mercante",
+              "requirement": "Vendi 50 oggetti"
+            },
+            {
+              "name": "Armamento Potenziato",
+              "requirement": "Trova e usa un'Incudine Magica"
+            }
+          ]
+        },
+        {
+          "section": "Missioni, Incantesimi e Sopravvivenza",
+          "entries": [
+            {
+              "name": "Eroe Lavoratore",
+              "requirement": "Completa 10 missioni secondarie"
+            },
+            {
+              "name": "Un incantesimo per ogni occasione",
+              "requirement": "Impara 5 incantesimi"
+            },
+            {
+              "name": "Ritirata Strategica",
+              "requirement": "Usa un portale cittadino con meno del 10% di salute rimasta"
+            },
+            {
+              "name": "Ingannare la Morte",
+              "requirement": "Scegli il tuo FATE"
+            },
+            {
+              "name": "Esperto di Dungeon",
+              "requirement": "Raggiungi il livello 35 in ogni dungeon"
+            },
+            {
+              "name": "L'Immortale",
+              "requirement": "Raggiungi il livello 20 con un personaggio hardcore"
+            }
+          ]
+        },
+        {
+          "section": "Animali, Pesca ed Evocazioni",
+          "entries": [
+            {
+              "name": "Animale Felice, Padrone Felice",
+              "requirement": "Nutri il tuo animale con 5 pesci diversi"
+            },
+            {
+              "name": "Gioco di Squadra",
+              "requirement": "Lascia che il tuo animale uccida i nemici 25 volte"
+            },
+            {
+              "name": "Maestro Pescatore",
+              "requirement": "Cattura tutti i tipi di pesce"
+            },
+            {
+              "name": "Grattugia Protettiva",
+              "requirement": "Cattura la Testa di Formaggio di Peronto della Baia di Smeraldo"
+            },
+            {
+              "name": "Scelgo te!",
+              "requirement": "Evoca 6 mostri diversi"
+            }
+          ]
+        },
+        {
+          "section": "Combattimento, Gemme ed Eredità",
+          "entries": [
+            {
+              "name": "Tutti Insieme",
+              "requirement": "Uccidi 5 nemici contemporaneamente"
+            },
+            {
+              "name": "Vittoria Rapida",
+              "requirement": "Uccidi 10 nemici in 45 secondi"
+            },
+            {
+              "name": "Cacciatore di Mostri",
+              "requirement": "Sconfiggi 100 nemici"
+            },
+            {
+              "name": "Sterminatore Versatile",
+              "requirement": "Sconfiggi 10 boss con 4 diverse classi di armi"
+            },
+            {
+              "name": "Tutti gli Luccichii",
+              "requirement": "Raccogli ogni tipo di gemma"
+            },
+            {
+              "name": "La strada continua",
+              "requirement": "Crea un discendente"
+            }
+          ]
+        }
+      ]
+    },
+    "reawakendCheatsGuide": {
+      "title": "Trucchi di Reawakened e Comandi Console",
+      "eyebrow": "Comandi Eredità",
+      "intro": "Reawakened eredita i classici input per i trucchi dai giochi FATE originali. Questi comandi coprono le scorciatoie di progressione standard, gli strumenti di generazione (spawn) e le utilità della mappa più utili per testare build o rivisitare contenuti senza un grind completo.",
+      "cards": [
+        {
+          "cardTitle": "Apri il Prompt di Inserimento",
+          "openInput": "FATE Originale & The Cursed King: Ctrl + Shift + ~  |  Undiscovered Realms: Ctrl + Shift + - poi clicca sul ? sul lato sinistro",
+          "commands": [
+            {
+              "code": "Ctrl + Shift + ~",
+              "effect": "Apre il prompt dei trucchi nel FATE originale e in The Cursed King"
+            },
+            {
+              "code": "Ctrl + Shift + -",
+              "effect": "Apre il flusso del prompt usato da Undiscovered Realms"
+            }
+          ],
+          "note": "In The Cursed King, il gioco continua a girare mentre scrivi, quindi inserisci i comandi in un'area sicura."
+        },
+        {
+          "cardTitle": "Controllo del Piano",
+          "openInput": "Usa il prompt corrispondente al gioco in cui ti trovi",
+          "commands": [
+            {
+              "code": "Ascend #",
+              "effect": "Sali di un numero scelto di piani del dungeon"
+            },
+            {
+              "code": "Descend #",
+              "effect": "Scendi di un numero scelto di piani del dungeon"
+            }
+          ],
+          "note": "Sostituisci # con un numero."
+        },
+        {
+          "cardTitle": "Livelli, Fama e Progressione Rapida",
+          "openInput": "Usa il prompt corrispondente al gioco in cui ti trovi",
+          "commands": [
+            {
+              "code": "Fame",
+              "effect": "Aggiungi fama"
+            },
+            {
+              "code": "Experience",
+              "effect": "Aggiungi esperienza nei giochi supportati"
+            },
+            {
+              "code": "Levelup",
+              "effect": "Guadagna un livello"
+            },
+            {
+              "code": "God",
+              "effect": "Ottieni un grande salto di livello e punti statistica extra nei giochi supportati"
+            }
+          ],
+          "note": "I nomi dei comandi e le ricompense esatte differiscono leggermente tra i giochi."
+        },
+        {
+          "cardTitle": "Oro e Recupero",
+          "openInput": "Usa il prompt corrispondente al gioco in cui ti trovi",
+          "commands": [
+            {
+              "code": "Gold",
+              "effect": "Aggiungi una grande quantità di oro"
+            },
+            {
+              "code": "Heal",
+              "effect": "Ripristina la salute"
+            }
+          ],
+          "note": "Comandi di utilità più rapidi per acquisti, recupero e test senza complicazioni."
+        },
+        {
+          "cardTitle": "Genera Oggetti e Mostri",
+          "openInput": "Usa il prompt corrispondente al gioco in cui ti trovi",
+          "commands": [
+            {
+              "code": "[Item Name]",
+              "effect": "Genera un oggetto vicino a te nel FATE originale"
+            },
+            {
+              "code": "[Creature Name]",
+              "effect": "Genera una creatura vicino a te nel FATE originale"
+            },
+            {
+              "code": "spawn (itemname)",
+              "effect": "Genera un oggetto in The Cursed King"
+            },
+            {
+              "code": "weapons",
+              "effect": "Evoca scheletri con armi in The Cursed King"
+            }
+          ],
+          "note": "Nel FATE originale, evocare Cat o Terrier crea un animale domestico invece di un nemico ostile."
+        },
+        {
+          "cardTitle": "Mappa e Utilità del Mondo",
+          "openInput": "FATE Originale: Ctrl + Shift + ~",
+          "commands": [
+            {
+              "code": "discoverall",
+              "effect": "Rivela la mappa del dungeon attuale"
+            },
+            {
+              "code": "Dumpmap",
+              "effect": "Scrivi una descrizione testuale della mappa attuale nel file maze.txt"
+            },
+            {
+              "code": "Magic Anvil",
+              "effect": "Crea un'incudine magica"
+            },
+            {
+              "code": "Fate Statue / Shrine Of Learning",
+              "effect": "Crea oggetti del mondo interagibili speciali"
+            }
+          ],
+          "note": "Alcuni oggetti generati sono strumenti pratici, mentre altri sono utili principalmente per la sperimentazione."
+        },
+        {
+          "cardTitle": "Scorciatoie Admin di Undiscovered Realms",
+          "openInput": "Undiscovered Realms: Ctrl + Shift + - poi clicca sul ?",
+          "commands": [
+            {
+              "code": "HEROITEMS",
+              "effect": "Mostra in quali livelli si trovano gli Oggetti dell'Eroe"
+            },
+            {
+              "code": "REQUEST 'name'",
+              "effect": "Assegna a quel datore di missioni una nuova missione"
+            },
+            {
+              "code": "AMNESIA",
+              "effect": "Torna in città"
+            }
+          ],
+          "note": "Questi sono i comandi di utilità più specifici per Undiscovered Realms."
+        },
+        {
+          "cardTitle": "Comandi Estetici e Insoliti",
+          "openInput": "FATE Originale: Ctrl + Shift + ~",
+          "commands": [
+            {
+              "code": "Blood",
+              "effect": "Usa il sangue invece delle stelle"
+            },
+            {
+              "code": "Noblood",
+              "effect": "Riporta il sangue a stelle"
+            },
+            {
+              "code": "Weapon Rack / Small Chest / Large Chest",
+              "effect": "Genera oggetti di scena con funzionalità miste"
+            }
+          ],
+          "note": "Alcuni oggetti di scena non possono essere attivati o aperti normalmente, specialmente in città."
+        }
+      ]
+    },
+    "reawakendSteamDeckGuide": {
+      "title": "Guida a Reawakened per Steam Deck e Controller",
+      "eyebrow": "Gioco Portatile",
+      "intro": "Reawakened supporta ufficialmente Steam Deck e il gioco completo con controller su PC. Questa guida combina lo stato di supporto ufficiale con i riscontri pratici della comunità su peculiarità dell'interfaccia utente, comportamento di puntamento e soluzioni alternative per la sessione portatile più fluida possibile.",
+      "sections": [
+        {
+          "section": "Supporto Ufficiale",
+          "entries": [
+            {
+              "label": "Supporto Steam Deck",
+              "detail": "Le FAQ ufficiali confermano che Reawakened è giocabile su Steam Deck."
+            },
+            {
+              "label": "Supporto controller PC",
+              "detail": "Le FAQ ufficiali confermano il pieno supporto per i controller su PC."
+            },
+            {
+              "label": "Supporto widescreen",
+              "detail": "Le FAQ ufficiali confermano che i formati widescreen sono supportati."
+            },
+            {
+              "label": "Interfaccia ottimizzata per piccoli schermi",
+              "detail": "Molti cambiamenti all'interfaccia utente sono stati apportati perché il gioco è stato ottimizzato per i controller per console, Switch e Steam Deck."
+            }
+          ]
+        },
+        {
+          "section": "Comandi e Layout",
+          "entries": [
+            {
+              "label": "Layout Steam Deck",
+              "detail": "Steam Deck utilizza lo stesso layout del controller mostrato per il gioco con gamepad su PC."
+            },
+            {
+              "label": "Indicazioni dei tasti",
+              "detail": "Le indicazioni del controller sono mostrate come pulsanti in stile Xbox."
+            },
+            {
+              "label": "Riassegnazione tasti in-game",
+              "detail": "I comandi non possono essere rimappati all'interno dei menu di gioco."
+            },
+            {
+              "label": "Dove controllare gli input",
+              "detail": "Usa prima il menu dei comandi in-game, poi regola qualsiasi extra tramite l'input di Steam se necessario."
+            }
+          ]
+        },
+        {
+          "section": "Peculiarità note su Deck e Controller",
+          "entries": [
+            {
+              "label": "Problema del testo piccolo",
+              "detail": "A 1280 x 800, il testo può essere più difficile da leggere perché non c'è un'opzione per la dimensione dell'interfaccia nel gioco."
+            },
+            {
+              "label": "Deriva del cursore nei menu",
+              "detail": "I giocatori su Steam Deck segnalano che il cursore può superare i bersagli del menu quando si usano i trackpad."
+            },
+            {
+              "label": "Feedback di puntamento",
+              "detail": "I cerchi di puntamento non appaiono sui nemici quando si usa un controller."
+            },
+            {
+              "label": "Mira a distanza e incantesimi",
+              "detail": "L'aggancio (lock-on) può attivarsi molto tardi, specialmente per gli incantesimi o il gioco a distanza."
+            },
+            {
+              "label": "Interazione con i PNG",
+              "detail": "I PNG molto vicini tra loro possono essere difficili da puntare: allontanati e avvicinati di nuovo guardando il PNG desiderato."
+            }
+          ]
+        },
+        {
+          "section": "Soluzioni Utili e Abitudini",
+          "entries": [
+            {
+              "label": "Soluzione per l'input di Steam",
+              "detail": "Usa l'opzione di avvio: SteamDeck=0 %command% --force-grab-cursor"
+            },
+            {
+              "label": "Percorso rimappatura controller",
+              "detail": "Usa il menu di configurazione del controller di Steam Deck invece di cercare un menu di rimappatura nel gioco."
+            },
+            {
+              "label": "Consiglio sulla scelta della build",
+              "detail": "La progressione corpo a corpo e generale risulta più fluida sul controller rispetto alle configurazioni a distanza o con incantesimi d'attacco che richiedono molta precisione."
+            },
+            {
+              "label": "Posizionamento del portale",
+              "detail": "Quando usi un portale cittadino, guarda lontano da scale o mercanti per evitare compenetrazioni (clipping) scomode vicino ai PNG interagibili."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Domande",
+    "titleHighlight": "Frequenti",
+    "subtitle": "Tutto quello che devi sapere su Reawakened",
+    "questions": [
+      {
+        "question": "Cos'è Reawakened su Roblox?",
+        "answer": "Reawakened è un RPG su Roblox ispirato a Solo Leveling, creato da Vayron Studios. Combatti attraverso i gate classificati, scegli una classe, sviluppa i tuoi tratti e scala i ranghi dei cacciatori in un gioco di combattimento dungeon in stile dark anime."
+      },
+      {
+        "question": "Come riscatto i codici in Reawakened?",
+        "answer": "Apri il menu di gioco, tocca il pulsante Codici, inserisci il codice esattamente come mostrato e premi Conferma. I codici distinguono tra maiuscole e minuscole e hanno utilizzi limitati."
+      },
+      {
+        "question": "Qual è la classe migliore in Reawakened?",
+        "answer": "Il Mago ha la velocità di completamento dei gate più rapida per il farming in solitaria. Il Guerriero è la classe più semplice per i principianti grazie ai suoi elevati HP base e a uno stile di gioco diretto."
+      },
+      {
+        "question": "Reawakened è gratuito?",
+        "answer": "Sì. Reawakened è gratuito su Roblox. Alcuni oggetti estetici potrebbero essere disponibili per Robux, ma tutto il gameplay principale, inclusi classi, gate e tratti, è gratuito."
+      },
+      {
+        "question": "Cosa sono i tratti in Reawakened?",
+        "answer": "I Traits sono modificatori passivi delle statistiche che si sommano alle abilità della tua classe. Sono divisi nelle categorie attacco, difesa, utilità e rari. Puoi effettuare il reroll dei tratti usando l'oro guadagnato nelle incursioni nei gate."
+      },
+      {
+        "question": "Come sblocco i gate di rango superiore in Reawakened?",
+        "answer": "Raggiungi il rango di cacciatore richiesto accumulando XP nel tuo attuale livello di gate, quindi completa la sfida di aumento di rango per passare al livello successivo e sbloccare gate più difficili."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto a giocare a Reawakened?",
+    "description": "Unisciti alla community di Reawakened su Discord per guide, aggiornamenti e discussioni!",
+    "joinCommunity": "Unisciti a Discord",
+    "joinGame": "Gioca su Roblox"
+  },
+  "footer": {
+    "title": "Reawakened Wiki",
+    "description": "Il tuo centro risorse completo per codici, classi, tratti, percorsi, portali, equipaggiamento, livellamento e guide ai boss di Reawakened.",
+    "resources": "Risorse",
+    "community": "Community",
+    "legal": "Note legali",
+    "discord": "Discord",
+    "twitter": "YouTube",
+    "steamCommunity": "Vayron Studios",
+    "steamStore": "Gioca su Roblox",
+    "about": "Informazioni",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Reawakened Wiki. Non affiliato a Vayron Studios o Roblox.",
+    "disclaimer": "Sito di risorse non ufficiale creato dai fan."
+  },
+  "pages": {
+    "codes": {
+      "title": "Codici di Reawakened",
+      "description": "Tutti i codici attivi di Reawakened con ricompense, informazioni sulla scadenza e istruzioni dettagliate per il riscatto.",
+      "metaTitle": "Codici Reawakened - Codici attivi da riscattare e ricompense",
+      "metaDescription": "Elenco completo dei codici attivi di Reawakened con le relative ricompense. Scopri come riscattare i codici e dove trovare nuovi drop per questo RPG su Roblox.",
+      "categoryLabel": "CODICI GRATUITI",
+      "whatIs": "Cosa sono i codici di Reawakened?",
+      "whatIsDescription": "I codici di Reawakened sono stringhe di ricompensa a uso limitato rilasciate da Vayron Studios durante aggiornamenti ed eventi. Riscattali nel menu di gioco per ottenere potenziamenti XP gratuiti, chip delle statistiche e riserve di classe per accelerare la tua progressione.",
+      "why": "Perché riscattare i codici di Reawakened?",
+      "whySteps": {
+        "step1Title": "Potenziamenti XP gratuiti",
+        "step1Description": "I codici spesso includono moltiplicatori di XP che velocizzano la progressione nei primi gradi",
+        "step2Title": "Bonus alle statistiche",
+        "step2Description": "Ottieni bonus gratuiti per attacco, difesa o statistiche di utilità per potenziare la tua build",
+        "step3Title": "Riserve di classe",
+        "step3Description": "Sblocca i gettoni per il cambio di classe in modo da poter cambiare stile di gioco senza perdere i progressi"
+      },
+      "featured": "In primo piano e attivi",
+      "all": "Tutti i codici"
+    },
+    "guide": {
+      "title": "Guida a Reawakened",
+      "description": "Guide complete a Reawakened che coprono consigli per principianti, percorsi di livellamento più veloci, strategie di classe e progressione iniziale per questo RPG su Roblox.",
+      "metaTitle": "Guida a Reawakened - Consigli per principianti, livellamento e progressione",
+      "metaDescription": "Domina Reawakened con guide complete su livellamento, selezione della classe, strategie per i gate e ottimizzazione dei tratti per nuovi giocatori ed esperti.",
+      "categoryLabel": "GUIDE DI GIOCO",
+      "whatIs": "Cosa sono le guide di Reawakened?",
+      "whatIsDescription": "Le guide di Reawakened coprono tutto, dalla tua prima incursione nei gate all'ottimizzazione avanzata della build. Scopri come classi, tratti, percorsi e dungeon lavorano insieme per creare il cacciatore più potente.",
+      "why": "Perché leggere le guide di Reawakened?",
+      "whySteps": {
+        "step1Title": "Impara le meccaniche di base",
+        "step1Description": "Comprendi come gate, tratti e gradi interagiscono tra loro per evitare errori comuni",
+        "step2Title": "Progressione rapida",
+        "step2Description": "Segui percorsi di livellamento collaudati per raggiungere i contenuti endgame in modo efficiente",
+        "step3Title": "Perfeziona la tua build",
+        "step3Description": "Sviluppa tattiche avanzate per ottimizzare la combinazione tra la tua classe e i tuoi tratti"
+      },
+      "featured": "Guide in primo piano",
+      "all": "Tutte le guide"
+    },
+    "build": {
+      "title": "Build di Reawakened",
+      "description": "Le migliori build di Reawakened per ogni classe, incluso l'Assassino, classifiche delle migliori classi e vetrine dei personaggi per questo RPG su Roblox.",
+      "metaTitle": "Build di Reawakened - Migliori classi, Assassino e Tier List delle classi",
+      "metaDescription": "Scopri le migliori build di Reawakened per ogni classe. Esplora le build per l'Assassino, le tier list delle classi e vetrine dettagliate per dominare i gate dei dungeon.",
+      "categoryLabel": "BUILD DELLE CLASSI",
+      "whatIs": "Cosa sono le build di Reawakened?",
+      "whatIsDescription": "Le build di Reawakened definiscono il tuo stile di gioco combinando la scelta della classe, i tratti, l'allocazione delle statistiche e l'equipaggiamento. Una build ben ottimizzata ti permette di completare i gate più velocemente e affrontare contenuti di difficoltà superiore con sicurezza.",
+      "why": "Perché ottimizzare la tua build di Reawakened?",
+      "whySteps": {
+        "step1Title": "Massimizza l'output di danno",
+        "step1Description": "Crea sinergia tra le abilità di classe e i tratti per infliggere il massimo danno negli scontri nei gate",
+        "step2Title": "Scegli la classe giusta",
+        "step2Description": "Confronta le classifiche delle classi per scegliere l'opzione più forte per il tuo stile di gioco",
+        "step3Title": "Domina ogni Gate",
+        "step3Description": "Le build ottimizzate ti permettono di completare dungeon più difficili per ottenere loot migliore e XP più velocemente"
+      },
+      "featured": "Migliori Build",
+      "all": "Tutte le guide alle build"
+    },
+    "equipment": {
+      "title": "Equipaggiamento di Reawakened",
+      "description": "Guida completa all'equipaggiamento di Reawakened, incluse armi come i Doppi pugnali, statistiche dell'equipaggiamento, luoghi di drop e percorsi di potenziamento.",
+      "metaTitle": "Equipaggiamento Reawakened - Armi, statistiche Gear e luoghi di drop",
+      "metaDescription": "Guida completa all'equipaggiamento di Reawakened che copre armi, gradi dell'equipaggiamento, confronti tra statistiche e dove farmare i migliori drop per la tua build.",
+      "categoryLabel": "EQUIPAGGIAMENTO E ARMI",
+      "whatIs": "Cos'è l'equipaggiamento di Reawakened?",
+      "whatIsDescription": "L'equipaggiamento di Reawakened include armi, armature e accessori che definiscono il tuo potere in combattimento. Ogni pezzo ha bonus statistici unici e crea sinergie diverse con le abilità di classe e le build dei tratti.",
+      "why": "Perché potenziare l'equipaggiamento di Reawakened?",
+      "whySteps": {
+        "step1Title": "Aumenta il potere di combattimento",
+        "step1Description": "Un equipaggiamento migliore aumenta direttamente il tuo danno, la difesa e la velocità di completamento dei gate",
+        "step2Title": "Adattalo alla tua classe",
+        "step2Description": "Usa armi specifiche per la classe per massimizzare l'efficacia delle tue abilità",
+        "step3Title": "Sblocca i contenuti endgame",
+        "step3Description": "L'equipaggiamento di alto livello è necessario per accedere ai gate avanzati e sfidare i boss elite"
+      },
+      "featured": "Equipaggiamento in primo piano",
+      "all": "Tutto l'equipaggiamento"
+    },
+    "launch": {
+      "title": "Lancio di Reawakened",
+      "description": "Data di uscita di Reawakened, dettagli sul playtest, trailer ufficiali e notizie sul lancio per questo nuovo RPG su Roblox da Vayron Studios.",
+      "metaTitle": "Lancio di Reawakened - Data di uscita, Playtest e Trailer ufficiale",
+      "metaDescription": "Tutto sul lancio di Reawakened: data di uscita, programma del playtest, trailer ufficiale e dettagli sull'accesso anticipato per questo RPG dungeon su Roblox.",
+      "categoryLabel": "NOTIZIE SUL LANCIO",
+      "whatIs": "Cos'è il lancio di Reawakened?",
+      "whatIsDescription": "Reawakened è stato lanciato come playtest su Roblox da Vayron Studios. Il gioco offre un'esperienza RPG dungeon ispirata a Solo Leveling con classi, tratti e gate. Le notizie sul lancio coprono le tappe fondamentali del rilascio, le finestre di playtest e gli annunci ufficiali.",
+      "why": "Perché seguire le notizie sul lancio di Reawakened?",
+      "whySteps": {
+        "step1Title": "Ottieni l'accesso anticipato",
+        "step1Description": "Rimani aggiornato sulle finestre di playtest per essere tra i primi cacciatori in Reawakened",
+        "step2Title": "Riscatta le ricompense di lancio",
+        "step2Description": "Gli sviluppatori rilasciano spesso codici esclusivi durante il lancio ed eventi speciali",
+        "step3Title": "Rimani aggiornato sulle novità",
+        "step3Description": "Segui le notizie sul lancio per prepararti a nuovi contenuti, classi e modifiche al bilanciamento"
+      },
+      "featured": "Notizie in primo piano",
+      "all": "Tutte le notizie sul lancio"
+    },
+    "official-links": {
+      "title": "Link ufficiali di Reawakened",
+      "description": "Link ufficiali di Reawakened inclusa la pagina del gioco su Roblox, il server Discord e la roadmap su Trello di Vayron Studios.",
+      "metaTitle": "Link ufficiali Reawakened - Roblox, Discord e Trello",
+      "metaDescription": "Trova tutte le risorse ufficiali di Reawakened: gioca su Roblox, unisciti alla community su Discord e controlla la bacheca Trello per la roadmap e gli aggiornamenti.",
+      "categoryLabel": "RISORSE UFFICIALI",
+      "whatIs": "Cosa sono i link ufficiali di Reawakened?",
+      "whatIsDescription": "I link ufficiali di Reawakened ti collegano direttamente alle risorse degli sviluppatori. La pagina Roblox ti permette di giocare, Discord è dove comunicano la community e gli sviluppatori, e Trello mostra la roadmap ufficiale dello sviluppo.",
+      "why": "Perché usare i link ufficiali di Reawakened?",
+      "whySteps": {
+        "step1Title": "Gioca direttamente",
+        "step1Description": "Accedi alla pagina ufficiale del gioco su Roblox per iniziare il tuo viaggio in Reawakened",
+        "step2Title": "Unisciti alla community",
+        "step2Description": "Connettiti con altri cacciatori su Discord per consigli, drop di codici e note sulla patch",
+        "step3Title": "Segui lo sviluppo",
+        "step3Description": "Controlla la bacheca Trello per vedere le funzionalità in arrivo e gli aggiornamenti dei contenuti pianificati"
+      },
+      "featured": "Risorse chiave",
+      "all": "Tutti i link ufficiali"
+    },
+    "tools": {
+      "title": "Strumenti per Reawakened",
+      "description": "Strumenti e script per Reawakened per l'automazione del farming, il grinding AFK e l'ottimizzazione dell'efficienza in questo RPG su Roblox.",
+      "metaTitle": "Strumenti Reawakened - Script, Farming e automazione AFK",
+      "metaDescription": "Esplora gli strumenti e gli script per Reawakened per ottimizzare il tuo gameplay, automatizzare il farming e massimizzare l'efficienza nelle corse ai gate e nel livellamento.",
+      "categoryLabel": "STRUMENTI E SCRIPT",
+      "whatIs": "Cosa sono gli strumenti per Reawakened?",
+      "whatIsDescription": "Gli strumenti per Reawakened includono script e configurazioni di automazione utilizzati dai giocatori esperti per ottimizzare l'efficienza del farming, il livellamento AFK e la raccolta di risorse nel gioco.",
+      "why": "Perché usare gli strumenti per Reawakened?",
+      "whySteps": {
+        "step1Title": "Automatizza il farming ripetitivo",
+        "step1Description": "Imposta routine AFK per farmare XP e risorse mentre sei lontano",
+        "step2Title": "Massimizza l'efficienza",
+        "step2Description": "Usa gli strumenti per identificare i punti di farming e i percorsi ottimali per il tuo livello",
+        "step3Title": "Rimani competitivo",
+        "step3Description": "I giocatori esperti usano strumenti di automazione per mantenere un vantaggio nell'accumulo di risorse"
+      },
+      "featured": "Strumenti in primo piano",
+      "all": "Tutti gli strumenti"
+    }
+  }
+}

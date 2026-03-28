@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "Reawakened Wiki - Codes, Klassen & Dungeon Guide",
+      "description": "Das Reawakened Wiki bietet aktive Codes, die besten Klassen, Merkmale, Fortschrittspfade, Dungeons, Leveling-Tipps und Early-Game-Guides für dieses neue Roblox RPG.",
+      "keywords": "Reawakened, Roblox, Codes, Klassen, Merkmale, Dungeons, Pfade, Leveling, Guide",
+      "ogTitle": "Reawakened Wiki - Codes, Klassen & Dungeon Guide",
+      "ogDescription": "Das Reawakened Wiki bietet aktive Codes, die besten Klassen, Merkmale, Fortschrittspfade, Dungeons, Leveling-Tipps und Early-Game-Guides für dieses neue Roblox RPG.",
+      "twitterTitle": "Reawakened Wiki - Codes, Klassen & Dungeon Guide",
+      "twitterDescription": "Das Reawakened Wiki bietet aktive Codes, die besten Klassen, Merkmale, Fortschrittspfade und Dungeons für dieses neue Roblox RPG."
     }
   },
   "nav": {
@@ -15,774 +15,1653 @@
     "guide": "Guide",
     "build": "Build",
     "equipment": "Ausrüstung",
-    "launch": "Launch",
+    "launch": "Start",
     "official-links": "Offizielle Links",
-    "tools": "Werkzeuge"
+    "tools": "Tools"
   },
   "common": {
     "home": "Startseite",
     "more": "Mehr",
-    "playNow": "Demo herunterladen",
+    "playNow": "Jetzt auf Roblox spielen",
     "switchLanguage": "Sprache wechseln",
     "switchTheme": "Design wechseln",
     "lightMode": "Heller Modus",
     "darkMode": "Dunkler Modus",
     "notFound": "Seite nicht gefunden",
-    "notFoundDescription": "Die Seite, die du suchst, existiert nicht.",
+    "notFoundDescription": "Die von Ihnen gesuchte Seite existiert nicht.",
     "backToHome": "Zurück zur Startseite",
     "relatedArticles": "Ähnliche Artikel",
-    "readMore": "Mehr lesen"
+    "readMore": "Weiterlesen"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Von Solo Leveling inspiriertes Roblox RPG",
+    "title": "Reawakened Wiki",
+    "description": "Kämpfe dich durch Gates, wähle eine Klasse, verbessere deinen Build und erklimme die Hunter-Ränge in einem düsteren Anime-Roblox-RPG, das auf schnellen Fortschritt und Kämpfe fokussiert ist.",
+    "getFreeCodesCTA": "Gratis-Codes erhalten",
+    "playOnSteamCTA": "Spiele auf Roblox",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "86.6K+",
+        "label": "Besuche insgesamt"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "4.8K+",
+        "label": "Aktive Spieler"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "2,234",
+        "label": "Favoriten"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "12.7K+",
+        "label": "Studio-Mitglieder"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Sieh dir an, wie winzige Gnome in chaotischen 6-Spieler-Koop-Stealth-Missionen große Raubzüge durchführen!"
+    "title": "Reawakened Gameplay",
+    "description": "Kämpfe dich durch Tore, meistere deine Klassenfertigkeiten und steige in den Jägerrängen auf in diesem rasanten Anime-Roblox-RPG, das von Solo Leveling inspiriert wurde."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressourcen",
-    "subtitle": "Alles, was du brauchst, um Raubzüge und Koop-Stealth zu meistern",
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Alles, was du für Codes, Klassen, Tore und den Fortschritt in Reawakened brauchst",
     "cards": [
       {
-        "icon": "Herunterladen",
-        "title": "Demo-Download",
-        "description": "Hol dir die kostenlose Steam-Demo"
+        "icon": "Gift",
+        "title": "Reawakened Codes",
+        "description": "Aktive Einlösecodes und Belohnungsliste"
       },
       {
-        "icon": "Buch offen",
-        "title": "Anfängerleitfaden",
-        "description": "Kernschleife und häufige Fallstricke"
+        "icon": "Users",
+        "title": "Reawakened Klassen",
+        "description": "Alle Klassen, Rollen und Stärkebewertungen"
       },
       {
-        "icon": "Benutzer",
-        "title": "Koop-Leitfaden",
-        "description": "6-Spieler-Rollen und Rettungstaktiken"
+        "icon": "Zap",
+        "title": "Reawakened Traits",
+        "description": "Trait-Effekte, Seltenheit und Reroll-Guide"
       },
       {
-        "icon": "Klemmbrett-Check",
-        "title": "Aufgaben & Ziele",
-        "description": "Was High-Gnome von dir will"
+        "icon": "Map",
+        "title": "Reawakened Paths",
+        "description": "Fortschrittspfade und Build-Routen"
       },
       {
-        "icon": "Tastatur",
-        "title": "Steuerung & Tastenbelegung",
-        "description": "Standardtasten und wie man sie ändert"
+        "icon": "DoorOpen",
+        "title": "Reawakened Gates",
+        "description": "Gate-Typen, Schwierigkeitsgrad und Loot-Guide"
       },
       {
-        "icon": "Schild",
-        "title": "Inhaltseinstellungen",
-        "description": "Inhalte für Erwachsene und Umschaltoptionen"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Crafting & Ausrüstung",
-        "description": "Rüste dich mit gestohlenen Materialien aus"
-      },
-      {
-        "icon": "Paket",
-        "title": "Beute & Gegenstände",
-        "description": "Was man stehlen sollte und Trage-Tipps"
-      },
-      {
-        "icon": "Warndreieck",
-        "title": "Gegner & Gefahren",
-        "description": "Bedrohungen und wie man mit ihnen umgeht"
-      },
-      {
-        "icon": "Auge",
-        "title": "Stealth & Flucht",
-        "description": "Bleib versteckt und extrahiere sicher"
-      },
-      {
-        "icon": "Startseite",
-        "title": "Haus-Upgrades",
-        "description": "Verbessere deine schwebende Inselbasis"
-      },
-      {
-        "icon": "Sprechblase",
-        "title": "Community & Discord",
-        "description": "Offizielle Links und Gruppensuche"
-      },
-      {
-        "icon": "Einstellungen",
-        "title": "Mods & BepInEx",
-        "description": "Installiere Framework und Mod-Setup"
-      },
-      {
-        "icon": "Stern",
-        "title": "Beliebte Mods",
-        "description": "Top-Community-Auswahlen und -Funktionen"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Controller-Unterstützung",
-        "description": "Volle Gamepad-Steuerung mit UI-Cursor"
+        "icon": "Shield",
+        "title": "Reawakened Gear",
+        "description": "Waffen, Rüstungen und Ausrüstungsstufen"
       },
       {
         "icon": "TrendingUp",
-        "title": "Spielerzahl & Trend",
-        "description": "Live-Statistiken und Peak-Tracking"
+        "title": "Reawakened Leveln",
+        "description": "Schnellste Level-Routen und EP-Tipps"
+      },
+      {
+        "icon": "Skull",
+        "title": "Reawakened Bosse",
+        "description": "Boss-Mechaniken, Fundorte und Drops"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Reawakened Einsteiger-Guide",
+        "description": "Erste Schritte für neue Jäger"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Reawakened Beste Builds",
+        "description": "Top-Builds nach Klasse und Spielstil"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Reawakened Hunter Ränge",
+        "description": "Rang-Meilensteine und Aufstiegs-Herausforderungen"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Reawakened FAQ",
+        "description": "Antworten auf häufige Fragen"
+      },
+      {
+        "icon": "Bell",
+        "title": "Reawakened Update-Log",
+        "description": "Neueste Patches und Inhalts-Updates"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Reawakened Build-Tipps",
+        "description": "Fortgeschrittene Tipps zur Build-Optimierung"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Reawakened Community",
+        "description": "Discord, YouTube und offizielle Links"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Reawakened Tipps für den Anfang",
+        "description": "Wichtige Tipps, um schnell voranzukommen"
+      },
+      {
+        "icon": "Fish",
+        "title": "Reawakened Angel-Guide",
+        "description": "Fischgrößen, Haustier-Transformationen und frühes Gold"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Reawakened Nebenquests",
+        "description": "Quest-Routen, Belohnungen und Etagen-Strategie"
+      },
+      {
+        "icon": "Sword",
+        "title": "Reawakened Waffen-Guide",
+        "description": "Waffenklassen, Unikate sowie Elite- und legendäre Varianten"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Reawakened Zauber-Guide",
+        "description": "Angriffs-, Verteidigungs- und Verzauberungszauber sowie Beschwörungen"
+      },
+      {
+        "icon": "Gem",
+        "title": "Reawakened Edelstein-Guide",
+        "description": "Beste Edelsteine, seltene Steine und Sockel-Prioritäten"
+      },
+      {
+        "icon": "Award",
+        "title": "Reawakened Ruhm-Guide",
+        "description": "Ruhm, Ansehen und Fortschritt bei der Ausrüstungsfreischaltung"
+      },
+      {
+        "icon": "Flame",
+        "title": "Reawakened Endgame-Guide",
+        "description": "Power-Spikes im Late-Game und Farmen von legendären Gegenständen"
+      },
+      {
+        "icon": "Download",
+        "title": "Reawakened Charakter-Import",
+        "description": "Wie die Übertragung zwischen allen vier Spielen funktioniert"
+      },
+      {
+        "icon": "Star",
+        "title": "Reawakened Erbstück-Guide",
+        "description": "In den Ruhestand gehen, Erbstücke weitergeben und Nachkommen stärken"
+      },
+      {
+        "icon": "Target",
+        "title": "Reawakened Erfolge-Guide",
+        "description": "Vollständige Checkliste für Erfolge nach Kategorien"
+      },
+      {
+        "icon": "Settings",
+        "title": "Reawakened Cheat-Guide",
+        "description": "Klassische Konsolenbefehle und Cheat-Referenz"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Reawakened Steam Deck-Guide",
+        "description": "Steam Deck-Einrichtung, Controller-Eigenheiten und Workarounds"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Lucid Blocks Demo-Download",
-      "subtitle": "Hol dir die kostenlose Demo auf Steam",
-      "downloadSize": "2,62 GiB",
-      "diskSize": "4,88 GiB",
-      "releaseDate": "30. Januar 2026",
-      "price": "Kostenlos",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Demo herunterladen",
-      "secondaryCTA": "Technische Infos ansehen",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
-        {
-          "heading": "Wo man es herunterladen kann",
-          "items": [
-            "Öffne die offizielle Steam-Store-Seite und nutze den Abschnitt \"Demo herunterladen\".",
-            "Wenn Steam dich auffordert, dich anzumelden, melde dich zuerst an und versuche es erneut."
-          ]
-        },
-        {
-          "heading": "Schnelle Überprüfung von Installation und Start",
-          "items": [
-            "Standardinstallationsort: Steam-Bibliotheksordner → steamapps → common → (Spielordner).",
-            "Wenn es nicht startet: Überprüfe die Spieldateien in Steam und starte Steam neu."
-          ]
-        }
-      ]
-    },
-    "beginnerGuide": {
-      "title": "Lucid Blocks Anfängerleitfaden",
-      "subtitle": "Meistere die Kernschleife und vermeide häufige Fehler",
+    "reawakendBeginnerGuide": {
+      "title": "Reawakened Anfänger-Guide",
+      "displayType": "steps",
+      "intro": "Beginne deine Reise in Reawakened, indem du den Hunter-Loop meisterst: Betritt Gates, sammle Loot, verbessere deine Klasse und steige in den Rängen auf. Jedes System baut auf dem vorherigen auf, daher macht das Verständnis der Grundlagen zu Beginn alles Weitere reibungsloser.",
       "steps": [
         {
-          "number": 1,
-          "title": "Betritt das Haus",
-          "description": "Lass dich von deiner schwebenden Inselbasis in ein menschliches Haus fallen. Spawne draußen und schleiche dich durch unverschlossene Türen oder Fenster hinein."
+          "title": "Wähle deine Klasse",
+          "description": "Deine Klasse definiert deine Rolle im Kampf. Der Magier verursacht schnellen magischen Schaden, der Krieger absorbiert Treffer an der Front, der Assassine erledigt Ziele im Nahkampf mit Bursts, der Bogenschütze greift sicher aus der Distanz an und der Heiler unterstützt Teammitglieder. Anfänger sollten mit dem Krieger oder dem Magier beginnen."
         },
         {
-          "number": 2,
-          "title": "Schließe Aufgaben ab",
-          "description": "Erledige High-Gnome-Aufgaben, bevor die Zeit abläuft. Überprüfe die Ziele über die Tab-Taste und priorisiere zuerst riskante Aufgaben."
+          "title": "Betritt dein erstes Gate",
+          "description": "Gates sind zeitlich begrenzte Dungeons mit wellenbasierten Kämpfen und einem Endboss. Beginne mit F-Rang-Gates, um die Mechaniken zu erlernen. Schließe alle Wellen ab, bevor der Timer abläuft, und besiege den Gate-Boss, um Ausrüstung und EP zu verdienen."
         },
         {
-          "number": 3,
-          "title": "Stehle Gegenstände",
-          "description": "Sammle Wertgegenstände und Materialien zum Craften. Vermeide es, Lärm zu machen oder vom Hausbesitzer entdeckt zu werden."
+          "title": "Rerolle deine Traits",
+          "description": "Traits sind passive Modifikatoren, die mit deiner Klasse stapelbar sind. Gib nach deinem ersten Gate-Run dein Gold aus, um Merkmale neu zu würfeln, die nicht zu deiner Klasse passen. Offensiv-Merkmale nützen dem Magier und dem Assassinen, Defensiv-Merkmale nützen dem Krieger und Utility-Merkmale helfen allen Klassen."
         },
         {
-          "number": 4,
-          "title": "Flucht via Tornado",
-          "description": "Wenn der Timer endet, spawnt ein Tornado im Garten – erreiche ihn, um sicher zu extrahieren. Fang früh an, dich zu bewegen!"
+          "title": "Wähle einen Fortschritts-Path",
+          "description": "Paths prägen dein langfristiges Wachstum. Wähle den Kampf-Path für schnellere Gate-Abschlüsse, den Verteidigungs-Path für höhere Überlebensfähigkeit oder den Balance-Path, wenn du noch am Erkunden bist. Bleibe während deiner ersten 20 Level bei einem Pfad."
         },
         {
-          "number": 5,
-          "title": "Upgrade & Wiederholung",
-          "description": "Verwende Belohnungen und Materialien, um Ausrüstung zu Hause herzustellen, und starte dann deinen nächsten Raubzug mit besserer Ausrüstung."
+          "title": "Farme Gates für Gear",
+          "description": "Wiederhole Gates auf deiner aktuellen Rangstufe, bis sich deine Ausrüstung stark anfühlt. Jede Gate-Schwierigkeit hat ihren eigenen Loot-Pool. Wechsle erst zur nächsten Rangstufe, wenn deine Ausrüstung den Sprung in der Gegnerstärke bewältigen kann."
+        },
+        {
+          "title": "Schließe deine Rang-Aufstiegs-Herausforderung ab",
+          "description": "Wenn du die Level-Obergrenze für deinen aktuellen Hunter-Rang erreichst, wird eine Rang-Aufstiegs-Herausforderung freigeschaltet. Dies ist ein schwierigeres Gate mit strengeren Bedingungen. Der Abschluss befördert dich in die nächste Rangstufe und schaltet neue Gate-Schwierigkeiten frei."
         }
-      ],
-      "pitfalls": [
-        {
-          "title": "Erwischt werden",
-          "description": "Der Hausbesitzer wird dich verfolgen. Bleib versteckt, lenke ab und unterbreche die Sichtlinie, um zu entkommen.",
-          "icon": "Warndreieck"
-        },
-        {
-          "title": "Zeit läuft ab",
-          "description": "Der Tornado-Timer ist streng. Beginne frühzeitig mit dem Weg zur Extraktion, anstatt zu viel zu plündern.",
-          "icon": "Uhr"
-        },
-        {
-          "title": "Teamkollegen ignorieren",
-          "description": "Rette gefangene Verbündete schnell aus Kühl-/Ofenfallen – rufe sofort nach Rettung.",
-          "icon": "Benutzer"
-        }
-      ]
-    },
-    "coopGuide": {
-      "title": "Lucid Blocks Koop-Leitfaden",
-      "subtitle": "Koordiniere dich mit bis zu 6 Spielern für maximales Chaos",
-      "maxPlayers": 6,
-      "roles": [
-        {
-          "name": "Späher",
-          "description": "Überprüfe auf Bedrohungen, markiere sichere Pfade und leite die Teambewegung",
-          "icon": "Auge"
-        },
-        {
-          "name": "Träger",
-          "description": "Konzentriere dich auf schwere Gegenstände mit Rucksack-Upgrades und sichere den Aufgabenfortschritt",
-          "icon": "Paket"
-        },
-        {
-          "name": "Ablenkung",
-          "description": "Locke Hausbesitzer/Haustiere vom Team weg, um sichere Fenster zu schaffen",
-          "icon": "Benutzer"
-        },
-        {
-          "name": "Retter",
-          "description": "Befreie gefangene Teamkollegen aus Kühl-/Ofen, bevor sie sterben",
-          "icon": "Schild"
-        }
-      ],
-      "threats": [
-        "Hausbesitzer (verfolgt und fängt dich)",
-        "Katzen & Mäuse (Patrouillenwege)",
-        "Staubsaugerroboter (sofortige Gefahr)",
-        "Zeitlimit (Tornado-Extraktion)"
-      ],
-      "communication": "Verwende Voice-Chat (V-Taste), um Aufgaben und Rettungen zu koordinieren. Rufe: \"Entdeckt\", \"Route\", \"Brauche Rettung\", \"Bald extrahieren\"."
-    },
-    "tasksObjectives": {
-      "title": "Lucid Blocks Aufgaben & Ziele",
-      "subtitle": "Was der High-Gnome will: Aufgabenbeispiele",
-      "taskTypes": [
-        {
-          "type": "Stehle Gegenstände",
-          "examples": [
-            "Schnapp dir bestimmte Gegenstände, die durch High-Gnome-Ziele markiert sind"
-          ]
-        },
-        {
-          "type": "Erreiche Orte",
-          "examples": [
-            "Navigiere zu bestimmten Bereichen im Haus"
-          ]
-        },
-        {
-          "type": "Verursache Unfug",
-          "examples": [
-            "Mach einen Fernseher kaputt",
-            "Überflute eine Toilette",
-            "Erzeuge Chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Erledige zuerst riskante Aufgaben, während das Team zusammen ist",
-        "Weise einem Träger Aufgabengegenstände zu, damit sie während der Verfolgungsjagden nicht verloren gehen",
-        "Beginne mit der Bewegung zur Extraktion, bevor die Zeit abläuft"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Lucid Blocks Steuerung & Tastenbelegung",
-      "subtitle": "Standard-Tastatursteuerung (und wo man sie ändern kann)",
-      "keybinds": [
-        {
-          "action": "Nach links bewegen",
-          "key": "A"
-        },
-        {
-          "action": "Nach rechts bewegen",
-          "key": "D"
-        },
-        {
-          "action": "Nach vorne bewegen",
-          "key": "W"
-        },
-        {
-          "action": "Nach hinten bewegen",
-          "key": "S"
-        },
-        {
-          "action": "Ducken",
-          "key": "Linke Strg"
-        },
-        {
-          "action": "Angreifen",
-          "key": "Linksklick"
-        },
-        {
-          "action": "Rennen",
-          "key": "Linke Umschalttaste"
-        },
-        {
-          "action": "Gegenstand fallen lassen",
-          "key": "G"
-        },
-        {
-          "action": "Interagieren",
-          "key": "E"
-        },
-        {
-          "action": "Springen",
-          "key": "Leertaste"
-        },
-        {
-          "action": "Sprechen",
-          "key": "V"
-        },
-        {
-          "action": "Schieben",
-          "key": "Rechtsklick"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Ausrüstungsslot 1",
-          "key": "1"
-        },
-        {
-          "action": "Ausrüstungsslot 2",
-          "key": "2"
-        },
-        {
-          "action": "Ausrüstungsslot 3",
-          "key": "3"
-        },
-        {
-          "action": "Ausrüstungsslot 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventar",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Vom Titelmenü aus: öffne EINSTELLUNGEN und überprüfe dann die Tastatureinstellungen. Verwende das Suchfeld, um die Tastenbelegungszeilen zu filtern."
-    },
-    "contentSettings": {
-      "title": "Lucid Blocks Inhaltseinstellungen",
-      "subtitle": "Inhalte für Erwachsene, Nacktheit-Umschaltung und Steam-Einstellungen",
-      "descriptors": [
-        "Etwas Nacktheit oder sexuelle Inhalte",
-        "Allgemeine Inhalte für Erwachsene"
-      ],
-      "details": [
-        {
-          "heading": "Was die Entwickler angeben",
-          "items": [
-            "Ein Mensch kann nackt erscheinen, während er Aktivitäten wie Baden ausübt.",
-            "Nacktheit wird zensiert und kann optional vollständig ausgeschaltet werden.",
-            "Gnome können zerstückelt werden und auf brutale Weise sterben."
-          ]
-        },
-        {
-          "heading": "Wenn Steam die Community-Seite blockiert",
-          "items": [
-            "Steam kann den Community-Hub je nach deinen Inhaltseinstellungen ausblenden.",
-            "Verwende Steams \"Inhaltseinstellungen aktualisieren\", um anzupassen, was Steam anzeigen darf."
-          ]
-        }
-      ]
-    },
-    "craftingEquipment": {
-      "title": "Lucid Blocks Crafting & Ausrüstung",
-      "subtitle": "Ausrüsten: Crafting-Beispiele und was jedes Werkzeug bewirkt",
-      "equipment": [
-        {
-          "item": "Rucksack",
-          "benefit": "Erweitert die Inventarkapazität für mehr Beute pro Durchgang"
-        },
-        {
-          "item": "Gnom-Handschuhe",
-          "benefit": "Ermöglicht es dir, Türen zu öffnen und mit mehr Objekten zu interagieren"
-        },
-        {
-          "item": "Springschuhe",
-          "benefit": "Verhindert Fallschaden bei hohen Stürzen während der Flucht"
-        },
-        {
-          "item": "Waffe",
-          "benefit": "Hilft dir, Bedrohungen wie Mäuse in die Enge zu treiben"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Wie Crafting mit Plündern zusammenhängt",
-          "items": [
-            "Stehle während eines Laufs Gegenstände und bringe sie als Crafting-Materialien zurück.",
-            "Nach der Extraktion unterstützen Belohnungen/Materialien neue Handwerke."
-          ]
-        },
-        {
-          "heading": "Basisverbesserung",
-          "items": [
-            "Stelle Möbel her und verbessere dein schwebendes Inselhaus (vollständige Spielfunktion)."
-          ]
-        }
-      ]
-    },
-    "lootItems": {
-      "title": "Lucid Blocks Beute & Gegenstände",
-      "subtitle": "Was man stehlen sollte: Gegenstandstypen, Risiko und Trage-Tipps",
-      "categories": [
-        {
-          "type": "Aufgabengegenstände",
-          "examples": [
-            "Gegenstände, die von High-Gnome für Ziele benötigt werden"
-          ]
-        },
-        {
-          "type": "Crafting-Materialien",
-          "examples": [
-            "Haushaltsgegenstände, die in Gnom-Ausrüstung und -Upgrades umgewandelt werden"
-          ]
-        },
-        {
-          "type": "Unfug-Ziele",
-          "examples": [
-            "Objekte, die an Aufgaben wie Zerstören oder Überfluten beteiligt sind"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Priorisiere den Aufgabenfortschritt und fülle dann die verbleibende Kapazität mit Crafting-Materialien",
-        "Wenn sich Bedrohungen in der Nähe befinden, bewege Gegenstände in kurzen, sicheren Sprüngen anstatt in langen, exponierten Tragen",
-        "Plane die Route zur Gartenextraktion, bevor der Timer endet"
-      ],
-      "riskLevels": [
-        {
-          "level": "Niedrig",
-          "description": "In der Nähe von Eingängen oder sicheren Ecken"
-        },
-        {
-          "level": "Mittel",
-          "description": "Tiefer gelegene Räume oder in der Nähe von umherziehenden Bedrohungen"
-        },
-        {
-          "level": "Hoch",
-          "description": "In der Nähe der Patrouille des Hausbesitzers oder des Staubsaugerroboters"
-        }
-      ]
-    },
-    "enemiesHazards": {
-      "title": "Lucid Blocks Gegner & Gefahren",
-      "subtitle": "Wisse, was dich erwischen kann",
-      "threats": [
-        {
-          "name": "Der Hausbesitzer",
-          "trigger": "Beim Einbrechen oder Erledigen von Aufgaben entdeckt werden",
-          "behavior": "Er verfolgt dich und versucht, dich zu fangen",
-          "counter": "Bleib heimlich, unterbreche Sichtlinien und bleib als Team in Bewegung"
-        },
-        {
-          "name": "Katzen",
-          "trigger": "Zu nahe kommen oder ihren Weg kreuzen",
-          "behavior": "Sie werden zu einer direkten Bedrohung, während du dich schleichst",
-          "counter": "Vermeide ihre Routen und gehe leise vorbei"
-        },
-        {
-          "name": "Mäuse",
-          "trigger": "Bereiche betreten, in denen Mäuse umherstreifen",
-          "behavior": "Sie bedrohen zerbrechliche Gnome während der Läufe",
-          "counter": "Bleib wachsam in engen Räumen und sei bereit, dich zurückzuziehen"
-        },
-        {
-          "name": "Staubsaugerroboter",
-          "trigger": "Sich auf seinem Reinigungspfad befinden",
-          "behavior": "Er kann Gnome einsaugen",
-          "counter": "Höre auf ihn, halte dich von seiner Route fern und positioniere dich schnell neu"
-        },
-        {
-          "name": "Kühlschrank / Ofen-Falle",
-          "trigger": "Vom Hausbesitzer erwischt werden",
-          "behavior": "Du kannst darin eingesperrt werden; wenn Teamkollegen nicht rechtzeitig retten, stirbst du",
-          "counter": "Rufe sofort; Teamkollegen priorisieren die Rettungsroute"
-        },
-        {
-          "name": "Zeitlimit",
-          "trigger": "Der Lauf-Timer erreicht das Limit",
-          "behavior": "Der Extraktions-Tornado erscheint im Garten; du musst ihn erreichen, um zu entkommen",
-          "counter": "Hör auf, zu viel zu plündern, gruppiere dich neu und engagiere dich frühzeitig für die Extraktion"
-        }
-      ]
-    },
-    "stealthEscape": {
-      "title": "Lucid Blocks Stealth & Flucht Tipps",
-      "subtitle": "Stehle mehr, stirb weniger",
-      "do": [
-        "Bleib heimlich und gehe in Deckung, bevor du mit Objekten interagierst",
-        "Nutze die Teamarbeit: rufe Bedrohungen aus und koordiniere Routen",
-        "Rette Teamkollegen schnell, wenn jemand gefangen oder am Boden ist",
-        "Reduziere deine Verluste und mache dich auf den Weg zur Extraktion, wenn der Timer knapp ist"
-      ],
-      "dont": [
-        "Werde gierig, wenn die Extraktion bevorsteht",
-        "Teile dich zu weit vom Team, wenn der Hausbesitzer aktiv ist",
-        "Ignoriere Staubsaugerroboterpfade oder Tierpatrouillen",
-        "Verzögere Rettungen, wenn ein Teamkollege eingesperrt ist"
       ],
       "quickTips": [
-        {
-          "title": "Die 3-Sekunden-Regel",
-          "text": "Wenn du deinen nächsten Zug nicht in 3 Sekunden erklären kannst, wirst du gleich entdeckt."
-        },
-        {
-          "title": "Rettung zuerst",
-          "text": "Eine schnelle Rettung hält den Lauf am Leben; Plündern kann warten."
-        },
-        {
-          "title": "Extraktionsdisziplin",
-          "text": "Gruppiere dich frühzeitig neu und engagiere dich für den Tornado, bevor Panik ausbricht."
-        }
+        "Tritt dem offiziellen Discord unter discord.gg/reawakened bei, um Live-Code-Alarme und Community-Guides zu erhalten.",
+        "Löse alle aktiven Codes vor deinem ersten Gate-Run ein, um einen Vorsprung bei EP und Statuswerten zu erhalten.",
+        "Traits summieren sich über viele Gate-Runs. Frühes Rerollen spart auf lange Sicht Zeit.",
+        "Gruppen-Runs schließen Gates schneller ab und teilen den Zeitdruck auf. Nutze das In-Game-Partysystem für B-Rang und höher."
       ]
     },
-    "homeUpgrades": {
-      "title": "Lucid Blocks Haus-Upgrades",
-      "subtitle": "Craften, bauen, verbessern",
-      "branches": [
+    "reawakendCodesGuide": {
+      "title": "Reawakened Codes",
+      "displayType": "cards",
+      "intro": "Reawakened-Codes gewähren kostenlose EP-Boosts, Statuswert-Buffs und kosmetische Gegenstände. Codes werden bei Updates, Meilensteinen und speziellen Events veröffentlicht. Löse sie schnell ein, da die meisten Codes eine begrenzte Anzahl an Nutzungen haben.",
+      "cards": [
         {
-          "branch": "Lagerung",
-          "summary": "Mehr tragen und mehr zurückbringen",
-          "items": [
-            "Rucksack (Inventarerweiterung)"
-          ]
+          "name": "Aktive Code-Belohnungen",
+          "description": "Aktuelle Codes geben EP-Multiplikatoren, Status-Boni und kosmetische Freischaltungen. Schau auf unserer Codes-Seite nach der vollständigen, aktuellen Liste, die nach jedem Drop aktualisiert wird."
         },
         {
-          "branch": "Dienstprogramm",
-          "summary": "Effektiver mit dem Haus interagieren",
-          "items": [
-            "Gnom-Handschuhe (ermöglichen es dir, Türen zu öffnen und mehr)"
-          ]
+          "name": "So löst du einen Code ein",
+          "description": "Öffne das In-Game-Menü, tippe auf die Schaltfläche 'Codes', gib den Code genau wie angezeigt ein oder füge ihn ein und drücke dann auf 'Bestätigen'. Bei Codes wird auf Groß- und Kleinschreibung geachtet."
         },
         {
-          "branch": "Mobilität",
-          "summary": "Sicherer durch vertikale Räume bewegen",
-          "items": [
-            "Springschuhe (reduzieren Fallschaden)"
-          ]
+          "name": "Code-Ablauf und Limits",
+          "description": "Die meisten Reawakened-Codes laufen nach einer bestimmten Anzahl von Gesamteinlösungen oder einem Zeitfenster ab. Löse sie sofort ein, wenn ein neuer Code erscheint, um deine Belohnung zu garantieren."
         },
         {
-          "branch": "Verteidigung",
-          "summary": "Mit kleinen Bedrohungen umgehen, wenn nötig",
-          "items": [
-            "Waffen (für Bedrohungen wie Mäuse)"
-          ]
-        },
-        {
-          "branch": "Heimatbasis",
-          "summary": "Stelle Möbel her und verbessere dein schwebendes Inselhaus",
-          "items": [
-            "Funktionale Möbel-Upgrades"
-          ]
+          "name": "Wo Codes angekündigt werden",
+          "description": "Neue Codes werden zuerst auf dem offiziellen Reawakened-Discord-Server gepostet. Folge dem Ankündigungskanal, um Alarme zu erhalten, sobald neue Codes live gehen."
         }
       ],
-      "priority": [
+      "milestones": [
+        "Löse deinen ersten Code ein",
+        "Staple Code-EP-Boni vor einem Gate-Run",
+        "Tritt Discord für sofortige Code-Alarme bei"
+      ]
+    },
+    "reawakendClassesGuide": {
+      "title": "Reawakened Klassen-Guide",
+      "displayType": "itemCards",
+      "intro": "Reawakened hat fünf spielbare Klassen, jede mit einer eigenen Kampfrolle, einem Statuswert-Fokus und einem Gate-Spielstil. Deine Klassenwahl ist eine der wichtigsten Entscheidungen zu Beginn jedes Runs.",
+      "items": [
         {
-          "rank": 1,
-          "title": "Zuerst Lagerung",
-          "reason": "Mehr Tragfähigkeit verbessert die Auszahlung jedes Laufs"
+          "name": "Magier",
+          "type": "Magischer DPS",
+          "description": "Hoher Zauberschaden mit schneller Zaubergeschwindigkeit. Der Magier schließt Gates schnell ab, hat aber weniger LP. Bestens geeignet für Spieler, die maximale Gate-Abschlussgeschwindigkeit und Burst-Schaden aus sicherer Entfernung wollen."
         },
         {
-          "rank": 2,
-          "title": "Als nächstes Dienstprogramm",
-          "reason": "Bessere Interaktionen reduzieren die Zeit, die in Gefahrenzonen verbracht wird"
+          "name": "Krieger",
+          "type": "Tank / Nahkampf",
+          "description": "Hohe Basis-Gesundheit und starker physischer Schaden. Der Krieger ist die einfachste Klasse für Anfänger, da er Treffer von mehreren Gegnern absorbieren kann, ohne Gate-Runs leicht zu verlieren."
         },
         {
-          "rank": 3,
-          "title": "Mobilität zum Überleben",
-          "reason": "Fallschutz verhindert vermeidbare Todesfälle bei der Flucht"
+          "name": "Assassine",
+          "type": "Burst-DPS",
+          "description": "Explosiver kritischer Trefferschaden im Nahkampf. Der Assassine ist eine High-Risk-High-Reward-Klasse, die Spieler belohnt, die gut ausweichen und schnell zuschlagen können, bevor Gegner reagieren können."
+        },
+        {
+          "name": "Bogenschütze",
+          "type": "Fernkampf-DPS",
+          "description": "Beständiger Schaden aus großer Entfernung mit guter Mobilität. Der Bogenschütze eignet sich für Spieler, die ein Gleichgewicht zwischen Sicherheit und stetigem Schaden suchen, ohne sich in den Nahkampf zu begeben."
+        },
+        {
+          "name": "Heiler",
+          "type": "Support",
+          "description": "Teamheilung, Schilde und Anwendung von Buffs. Der Heiler ist am besten in Gruppen-Gate-Runs, wo das Am-Leben-Halten von Teammitgliedern schwierigere Schwierigkeitsgrade schneller freischaltet, als es jede DPS-Klasse solo könnte."
+        },
+        {
+          "name": "Dual Blade",
+          "type": "Speed-DPS",
+          "description": "Sehr hohe Angriffsgeschwindigkeit mit moderatem Einzeltrefferschaden. Dual Blade belohnt aggressive Spieler, die Angriffsgeschwindigkeits-Merkmale stapeln und Gegner mit der Menge an Treffern überwältigen wollen."
+        },
+        {
+          "name": "Tank",
+          "type": "Verteidigungsspezialist",
+          "description": "Maximale LP und Schadensreduzierung mit Crowd-Control-Fähigkeiten. Der Tank ist die erste Wahl für Verteidigungspfad-Builds und als Anker für Gruppen-Runs in den Gates mit dem höchsten Schwierigkeitsgrad."
+        },
+        {
+          "name": "Shadow Monarch",
+          "type": "Freischaltbar",
+          "description": "Eine spezielle Late-Game-Klasse, inspiriert von Solo Leveling. Die Freischaltbedingungen und genauen Mechaniken sind an Meilensteine des Hunter-Rang-Fortschritts in der aktuellen Version gebunden."
         }
       ]
     },
-    "community": {
-      "title": "Lucid Blocks Community & Discord",
-      "subtitle": "Finde Trupps, Updates, Diskussionen",
-      "links": [
+    "reawakendTraitsGuide": {
+      "title": "Reawakened Traits Guide",
+      "displayType": "solutionCards",
+      "intro": "Traits sind passive Modifikatoren, die mit deinen Klassenfähigkeiten und deiner Ausrüstung stapelbar sind. Das Erstellen des richtigen Merkmals-Sets für deine Klasse erhöht die Gate-Abschlussgeschwindigkeit und Überlebensfähigkeit drastisch.",
+      "solutions": [
         {
-          "title": "Offizieller Discord",
-          "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "name": "Offensiv-Traits",
+          "role": "Schadensfokus",
+          "description": "Erhöhen Angriffskraft, magischen Schaden, kritische Trefferquote und kritischen Schaden. Empfohlen für Magier-, Assassinen- und Bogenschützen-Builds, die auf schnelles Gate-Clearing fokussiert sind."
         },
         {
-          "title": "Offizielles X (Twitter)",
-          "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
+          "name": "Defensiv-Traits",
+          "role": "Überlebensfokus",
+          "description": "Fügen Boni für Gesundheit, Schadensreduzierung und Regeneration hinzu. Ideal für Krieger- und Tank-Builds, die bei hohem Gegnerdruck in Gates mit höherem Rang bestehen müssen."
         },
         {
-          "title": "Steam Community Hub",
-          "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
+          "name": "Utility-Traits",
+          "role": "Effizienzfokus",
+          "description": "Verringern Abklingzeiten von Fähigkeiten, erhöhen die Bewegungsgeschwindigkeit und steigern EP- sowie Goldgewinn pro Gate-Run. Utility-Merkmale sind eine starke sekundäre Investition für alle Klassen."
         },
         {
-          "title": "Steam Store Seite",
-          "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "name": "Seltene und Legendäre Traits",
+          "role": "Hochleistungs-Modifikatoren",
+          "description": "Starke Merkmale mit großen Status-Multiplikatoren oder einzigartigen Effekten. Sie erscheinen mit geringer Wahrscheinlichkeit bei High-Tier-Rerolls und sind das Ziel für optimierte Late-Game-Builds."
+        }
+      ],
+      "managementTips": [
+        "Passe deine ersten beiden Merkmals-Slots an deine Klassenrolle an, bevor du mit Utility experimentierst.",
+        "Rerolle früh und oft. Gold früh für Merkmale auszugeben, ist besser als für Ausrüstungs-Upgrades zu sparen.",
+        "Sobald deine Build-Richtung klar ist, priorisiere das Einloggen von Merkmalen, die mit deinem gewählten Pfad skalieren.",
+        "Prüfe Community-Builds im Discord für bewährte Merkmalskombinationen pro Klasse."
+      ]
+    },
+    "reawakendPathsGuide": {
+      "title": "Reawakened Fortschritts-Paths",
+      "displayType": "cards",
+      "intro": "Paths in Reawakened prägen dein langfristiges Statuswert-Wachstum und deine Build-Richtung. Die frühzeitige Wahl des richtigen Pfads für deine Klasse macht jeden Gate-Run effizienter und jede Rang-Aufstiegs-Herausforderung erreichbarer.",
+      "cards": [
+        {
+          "name": "Kampf-Path",
+          "description": "Konzentriert sich auf rohe Angriffskraft und Gate-Abschlussgeschwindigkeit. Der Kampf-Path nützt Magiern, Assassinen, Bogenschützen und Dual Blades am meisten. Es ist der schnellste Pfad für Solo-Gate-Farming auf allen Rangstufen."
+        },
+        {
+          "name": "Verteidigungs-Path",
+          "description": "Baut auf maximale LP-Skalierung und Schadensreduzierung. Der Verteidigungs-Path macht Krieger und Tanks zu fast unbesiegbaren Gate-Runnern für Inhalte mit höherem Schwierigkeitsgrad, bei denen die Überlebensfähigkeit die primäre Barriere darstellt."
+        },
+        {
+          "name": "Support-Path",
+          "description": "Verstärkt die Heilleistung und die Stärke von teamweiten Buffs. Der Support-Path ist die richtige Wahl für Heiler in Gruppen-Runs. Er sorgt dafür, dass deine Anwesenheit direkt dafür verantwortlich ist, dass das Team schwierigere Gate-Stufen erreicht."
+        },
+        {
+          "name": "Balance-Path",
+          "description": "Verteilt das Wachstum gleichmäßig auf Offensive, Defensive und Utility. Der Balance-Path ist eine gute Wahl für den Anfang, wenn du noch verschiedene Klassen testest oder dich noch nicht auf eine bestimmte Build-Richtung festgelegt hast."
+        }
+      ],
+      "highlights": [
+        "Schnellere Gate-Abschlussgeschwindigkeit",
+        "Fast unsterbliche Überlebensfähigkeit",
+        "Teamweiter Schadensboost",
+        "Flexible frühe Progression"
+      ]
+    },
+    "reawakendGatesGuide": {
+      "title": "Reawakened Gates Guide",
+      "displayType": "regionCards",
+      "intro": "Gates sind der Kern des Gameplays in Reawakened. Jeder Gate-Rang führt neue Gegnermuster, stärkere Bosse und besseren Loot ein. Zu wissen, was dich auf jeder Rangstufe erwartet, hilft dir, voranzukommen, ohne Gate-Versuche zu verschwenden.",
+      "regions": [
+        {
+          "name": "F-Rang Gate",
+          "type": "Anfänger",
+          "description": "Einstiegs-Gate mit einfachen Wellen-Mechaniken und einem unkomplizierten Boss. Bestens geeignet für Hunter auf Rang 0 bis 10, die den Kern-Loop erlernen. Der Drop-Pool enthält Basisausrüstung und frühe EP-Boosts."
+        },
+        {
+          "name": "E-Rang Gate",
+          "type": "Einfach",
+          "description": "Etwas schnelleres Erscheinen von Gegnern und das erste Auftreten von Elite-Gegnern zwischen den Wellen. Empfohlen für Rang 10 bis 20. Lässt bessere Ausrüstung und mehr EP fallen als F-Rang-Gates."
+        },
+        {
+          "name": "D-Rang Gate",
+          "type": "Moderat",
+          "description": "Führt Mechaniken wie zeitgesteuerte Eliten und Bosse mit mehreren Phasen ein. Empfohlen für Rang 20 bis 35. Der Loot-Pool hier enthält Mid-Tier-Ausrüstung mit Merkmals-Kompatibilitätsboni."
+        },
+        {
+          "name": "C-Rang Gate",
+          "type": "Schwer",
+          "description": "Mehrere Elite-Wellen mit einem Boss, der zwei oder mehr Phasen hat. Empfohlen für Rang 35 bis 50. C-Rang ist die effizienteste EP- und Ausrüstungsquelle vor dem Betreten von Endgame-Inhalten."
+        },
+        {
+          "name": "B-Rang Gate",
+          "type": "Sehr schwer",
+          "description": "Komplexe Gegnermuster und Gegner mit hohen LP. B-Rang-Gates werden am besten in Gruppen von zwei oder mehr Personen abgeschlossen. Lässt seltene Ausrüstung mit starken passiven Effekten fallen, die in Gates mit niedrigerem Rang nicht verfügbar sind."
+        },
+        {
+          "name": "A-Rang Gate",
+          "type": "Experte",
+          "description": "Endgame-Inhalte mit den höchsten Statuswert-Anforderungen in der aktuellen Version. A-Rang-Drops enthalten die beste Ausrüstung und das seltenste merkmalskompatible Equipment, das derzeit im Spiel ist."
         }
       ]
     },
-    "modsBepInEx": {
-      "title": "Lucid Blocks Mods & BepInEx Setup",
-      "subtitle": "Installiere Mods auf saubere Weise",
+    "reawakendBossesGuide": {
+      "title": "Reawakened Bosse-Guide",
+      "displayType": "creatureCards",
+      "intro": "Jedes Gate in Reawakened endet mit einer Boss-Begegnung. Das Verständnis jedes Boss-Typs hilft dir, den richtigen Build vorzubereiten, One-Shot-Mechaniken zu vermeiden und effizient für die benötigten Drops zu farmen.",
+      "creatures": [
+        {
+          "name": "Gate-Wächter",
+          "role": "Boss",
+          "description": "Der Endboss jedes Gates. Jede Rangstufe hat eine andere Wächter-Variante mit steigenden LP, Schadenswerten und Phasenkomplexität. Das Besiegen des Wächters ist erforderlich, um das Gate abzuschließen und deinen Loot zu beanspruchen."
+        },
+        {
+          "name": "Shadow Monarch Brut",
+          "role": "Elite-Bedrohung",
+          "description": "Ein mächtiger Elite-Gegner in der Mitte des Gates, der die Ästhetik des Shadow Monarch aus dem Spielthema nachahmt. Hat eine One-Shot-Fähigkeit mit einer sichtbaren Aufladezeit. Weiche ihr aus oder nutze eine defensive Abklingzeit."
+        },
+        {
+          "name": "Verfluchter Geist",
+          "role": "Feindseliger Gegner",
+          "description": "Ein sich schnell bewegender Gegner, der bei einem Treffer einen Schaden-über-Zeit-Debuff anwendet. Priorisiere Verfluchte Geister schnell, um das Stapeln von Debuffs zu verhindern, besonders bei Klassen mit weniger Gesundheit wie Assassine und Magier."
+        },
+        {
+          "name": "Dungeon-Golem",
+          "role": "Große Bedrohung",
+          "description": "Ein schwer gepanzerter Gate-Gegner mit Schadensreduzierung und langsamen, aber schweren Angriffen. Golems erscheinen in D-Rang-Gates und höher. Nutze Fähigkeiten mit rüstungsdurchdringenden Effekten für schnellere Abschlüsse."
+        },
+        {
+          "name": "Untoter Krieger",
+          "role": "Feindseliger Gegner",
+          "description": "Ein gewöhnlicher Gate-Gegner mit überdurchschnittlichen LP und vorhersehbaren Nahkampfangriffen. Untote Krieger sind unkompliziert, erscheinen aber in Gates mit höherem Rang in großen Gruppen und erzeugen Druck durch ihre schiere Menge."
+        },
+        {
+          "name": "Rang-Herausforderungs-Boss",
+          "role": "Elite-Bedrohung",
+          "description": "Ein spezieller Boss, dem man nur während Rang-Aufstiegs-Herausforderungen begegnet. Hat komplexere Mechaniken als Standard-Gate-Bosse und erfordert einen Build, der speziell auf die Herausforderungsstufe abgestimmt ist, die du versuchst."
+        },
+        {
+          "name": "Gate-Boss Phase 2",
+          "role": "Große Bedrohung",
+          "description": "Einige Bosse in C-Rang und höher treten in eine zweite Phase ein, nachdem ihre LP unter 50 % gefallen sind. Phase 2 beinhaltet neue Angriffsmuster und oft eine vorübergehende Erhöhung der Statuswerte. Bleibe während des Übergangs mobil."
+        }
+      ]
+    },
+    "reawakendGearGuide": {
+      "title": "Reawakened Gear Guide",
+      "displayType": "itemCards",
+      "intro": "Gear in Reawakened skaliert mit dem Gate-Rang und der Hunter-Stufe. Das Verbessern deiner Ausrüstung in den richtigen Phasen des Fortschritts hält deine Gate-Abschlüsse effizient und verhindert, dass du an Überlebensgrenzen stößt.",
+      "items": [
+        {
+          "name": "F-Rang Gear",
+          "type": "Basis",
+          "description": "Einstiegs-Equipment aus F-Rang-Gates und Starter-Codes. Bietet bescheidene Status-Boni. Ersetze diese, sobald E-Rang-Drops verfügbar werden."
+        },
+        {
+          "name": "E-Rang Gear",
+          "type": "Standard",
+          "description": "Verbesserte Basis-Statuswerte aus E- und D-Rang-Gate-Drops. Geeignet für Hunter im Bereich von Rang 10 bis 25. Der Sprung von F- zu E-Ausrüstung ist der spürbarste frühe Machtschub."
+        },
+        {
+          "name": "D-Rang Gear",
+          "type": "Fortgeschritten",
+          "description": "Mid-Tier-Equipment mit zusätzlichen Merkmals-Slots, mit denen du Merkmals-Boni direkt auf deine Ausrüstung anwenden kannst. Gefarmt in D- und C-Rang-Gates im Bereich von Rang 20 bis 40."
+        },
+        {
+          "name": "C-Rang Gear",
+          "type": "Selten",
+          "description": "Ausrüstung mit hohen Statuswerten aus C-Rang-Gate-Drops mit besserer Merkmals-Kompatibilität und Set-Boni. Dies ist die primäre Ausrüstungsstufe für Hunter, die in die B-Rang-Gate-Schwierigkeit vordringen."
+        },
+        {
+          "name": "B-Rang Gear",
+          "type": "Episch",
+          "description": "Endgame-Equipment für fortgeschrittene Hunter. B-Rang-Ausrüstung hat starke passive Effekte und hohe Basis-Statuswerte, die deine Überlebensfähigkeit und Schadensleistung bei Experten-Inhalten erheblich steigern."
+        },
+        {
+          "name": "Kosmetische Gear",
+          "type": "Kosmetisch",
+          "description": "Rein visuelle Gegenstände, die über Codes und spezielle Events erhältlich sind. Kosmetika haben keinen Einfluss auf Statuswerte oder Gate-Leistung, sind aber ein beliebter Belohnungstyp in der Roblox-Wirtschaft."
+        }
+      ]
+    },
+    "reawakendLevelingGuide": {
+      "title": "Reawakened Leveling-Guide",
+      "displayType": "mixedCards",
+      "intro": "Effizientes Leveln in Reawakened bedeutet zu wissen, welche Gates man auf jeder Rangstufe farmen sollte und EP-Boost-Codes zum richtigen Zeitpunkt einzusetzen. Das Vordringen in Gates, die zu früh zu schwer sind, verschwendet Zeit und Ressourcen.",
+      "sections": [
+        {
+          "name": "Rang 0 bis 15: F-Gate-Loop",
+          "description": "Absolviere wiederholt F-Rang-Gates, bis deine Ausrüstung durch F-Rang-Drops vollständig verbessert ist. Nutze alle aktiven EP-Boost-Codes vor dieser Phase. Diese Phase sollte sich reibungslos und schnell anfühlen."
+        },
+        {
+          "name": "Rang 15 bis 30: E- und D-Gates",
+          "description": "Wechsle zu E-Rang-Gates, wenn deine Ausrüstung verbessert ist. Gehe zu D-Rang-Gates über, wenn E-Rang-Drops keine Verbesserungen mehr darstellen. Die erste Rang-Aufstiegs-Herausforderung findet irgendwo in diesem Bereich statt."
+        },
+        {
+          "name": "Rang 30 bis 45: C-Gate-Farming",
+          "description": "C-Rang-Gates sind die effizienteste EP- und Ausrüstungsquelle für das Mid-Game. Gruppen-Runs verkürzen hier die Abschlusszeiten erheblich. Ziele auf C-Rang ab, bis deine Ausrüstung für diese Stufe vollständig verbessert ist."
+        },
+        {
+          "name": "Rang 45+: B- und A-Gate-Push",
+          "description": "B-Rang und höher sind Endgame-Inhalte. Tritt einer Gruppe für B-Rang-Abschlüsse bei und investiere in deinen bestmöglichen Build, bevor du A-Rang versuchst. Diese Gates haben die seltensten Drops und höchsten EP-Auszahlungen."
+        }
+      ],
+      "growthMilestones": [
+        "Erstes Gate solo abschließen",
+        "Rang 15 erreichen",
+        "Erste Rang-Aufstiegs-Herausforderung bestehen",
+        "C-Rang-Gates effizient farmen"
+      ]
+    },
+    "reawakendBestBuilds": {
+      "title": "Reawakened Beste Builds",
+      "displayType": "priorityCards",
+      "intro": "Die stärksten Reawakened-Builds kombinieren die richtige Klasse, das richtige Merkmals-Set, den richtigen Pfad und die richtige Ausrüstung für einen bestimmten Zweck. Jeder unten aufgeführte Build ist für seine beabsichtigte Gate-Rolle optimiert und über mehrere Rangstufen hinweg getestet.",
+      "priorities": [
+        {
+          "name": "Magier-DPS-Build",
+          "priority": "S-Tier",
+          "description": "Magier-Klasse mit Kampf-Path und gestapelten Magieschaden-Offensiv-Merkmalen. Beste Gate-Abschlussgeschwindigkeit in der aktuellen Version für Solo-Farming. Nutze C-Rang-Ausrüstung mit Merkmals-Kompatibilitätsboni für maximale Leistung."
+        },
+        {
+          "name": "Krieger-Tank-Build",
+          "priority": "S-Tier",
+          "description": "Krieger-Klasse mit Verteidigungs-Path und voller Investition in Verteidigungs-Merkmale. Fast unbesiegbar in B-Rang-Gates. Ideal für dauerhaftes Farming ohne Verlust von Gate-Runs bei schwierigen Inhalten."
+        },
+        {
+          "name": "Assassinen-Burst-Build",
+          "priority": "A-Tier",
+          "description": "Assassinen-Klasse mit Kampf-Path und Offensiv-Merkmalen für kritische Treffer. Extrem hoher Burst-Schaden pro Sekunde, erfordert aber gutes Timing beim Ausweichen, um die niedrigen LP auszugleichen. Hohes Potenzial, hohes Risiko."
+        },
+        {
+          "name": "Bogenschützen-Sustain-Build",
+          "priority": "A-Tier",
+          "description": "Bogenschützen-Klasse mit Balance-Path und einer Mischung aus Offensiv- und Utility-Merkmalen. Sicherer und beständiger Schaden aus der Ferne. Bestens geeignet für Spieler, die eine stetige Leistung ohne hohe Geschicklichkeitsanforderungen wollen."
+        },
+        {
+          "name": "Heiler-Gruppen-Build",
+          "priority": "A-Tier",
+          "description": "Heiler-Klasse mit Support-Path und Utility-Merkmalen, die auf Heilungsstärke und Buff-Dauer fokussiert sind. Schaltet schwierigere Gate-Schwierigkeiten in Gruppen-Runs frei, indem die Party durch die Übergänge der zweiten Boss-Phase am Leben erhalten wird."
+        },
+        {
+          "name": "Tank-Gate-Build",
+          "priority": "B-Tier",
+          "description": "Tank-Klasse mit Verteidigungs-Path und Merkmalen mit voller Gesundheits-Skalierung. Maximale Haltbarkeit mit Crowd Control. Am besten als Gruppenanker für A-Rang-Versuche geeignet, bei denen Boss-Schaden leichtere Klassen mit einem Schlag töten kann."
+        }
+      ]
+    },
+    "reawakendHunterRanks": {
+      "title": "Reawakened Hunter-Ränge",
+      "displayType": "achievementGrid",
+      "intro": "Hunter-Ränge in Reawakened markieren deinen Fortschritt im Spiel. Jede Stufe schaltet neue Gate-Schwierigkeiten, bessere Ausrüstungs-Pools und Rang-Aufstiegs-Herausforderungen mit höherem Einsatz frei, die deinen Build testen.",
+      "groups": [
+        {
+          "name": "Novizen-Hunter (Rang 0-15)",
+          "achievements": [
+            {
+              "title": "Erster Gate-Abschluss",
+              "description": "Schließe dein erstes F-Rang-Gate ab und beanspruche deinen Starter-Loot."
+            },
+            {
+              "title": "Erster Code eingelöst",
+              "description": "Löse deinen ersten aktiven Code für einen kostenlosen EP- und Status-Boost ein."
+            },
+            {
+              "title": "Trait-Freischaltung",
+              "description": "Schalte deinen ersten Merkmals-Slot frei und wende ein Offensiv- oder Defensiv-Merkmal an."
+            }
+          ]
+        },
+        {
+          "name": "Lehrlings-Hunter (Rang 15-30)",
+          "achievements": [
+            {
+              "title": "E-Rang Gate-Abschluss",
+              "description": "Schließe ein E-Rang-Gate solo ab und sammle deinen ersten E-Rang-Ausrüstungs-Drop."
+            },
+            {
+              "title": "Erste Rang-Aufstiegs-Herausforderung",
+              "description": "Versuche und schließe deine erste Rang-Aufstiegs-Herausforderung ab, um in die nächste Hunter-Stufe befördert zu werden."
+            },
+            {
+              "title": "Zweiter Trait-Slot",
+              "description": "Schalte deinen zweiten Merkmals-Slot frei und fülle ihn mit einem passenden Modifikator für deine Klasse."
+            }
+          ]
+        },
+        {
+          "name": "Gesellen-Hunter (Rang 30-50)",
+          "achievements": [
+            {
+              "title": "D-Rang Gate-Abschluss",
+              "description": "Schließe ein D-Rang-Gate ab und verbessere deine Ausrüstung auf die D-Rang-Stufe."
+            },
+            {
+              "title": "Path festgelegt",
+              "description": "Wähle einen Kampf-, Verteidigungs- oder Support-Fortschrittspfad und investiere voll darin."
+            },
+            {
+              "title": "C-Rang Gate versucht",
+              "description": "Betritt und schließe ein C-Rang-Gate mit deinem aktuellen Build ab."
+            }
+          ]
+        },
+        {
+          "name": "Elite-Hunter (Rang 50+)",
+          "achievements": [
+            {
+              "title": "B-Rang Gate-Abschluss",
+              "description": "Schließe ein B-Rang-Gate ab, allein oder in einer Gruppe, und beanspruche Endgame-Loot."
+            },
+            {
+              "title": "Vollständiger Build fertig",
+              "description": "Finalisiere deine Kombination aus Klasse, Pfad, Ausrüstung und Merkmalen für Endgame-Inhalte."
+            },
+            {
+              "title": "A-Rang freigeschaltet",
+              "description": "Erreiche den Hunter-Rang, der erforderlich ist, um A-Rang-Gate-Inhalte zu versuchen."
+            }
+          ]
+        }
+      ]
+    },
+    "reawakendGameFAQ": {
+      "title": "Reawakened FAQ",
+      "displayType": "accordion",
+      "intro": "Häufige Fragen zu Reawakened-Gameplay, Codes, Klassen und Fortschritt kurz und bündig beantwortet.",
+      "faqs": [
+        {
+          "question": "Was ist Reawakened auf Roblox?",
+          "answer": "Reawakened ist ein von Solo Leveling inspiriertes Roblox-RPG, entwickelt von Vayron Studios. Spieler wählen eine Klasse, kämpfen sich durch Rang-Gates, verbessern Merkmale sowie Ausrüstung und erklimmen die Hunter-Rangliste in einem düsteren Dungeon-Kampfspiel im Anime-Stil."
+        },
+        {
+          "question": "Ist Reawakened kostenlos spielbar?",
+          "answer": "Ja. Reawakened ist auf Roblox kostenlos spielbar. Kosmetische Gegenstände können für Robux erhältlich sein, aber das Kern-Gameplay einschließlich aller Klassen, Gates und Merkmale erfordert keine Ausgaben."
+        },
+        {
+          "question": "Wie löse ich Codes in Reawakened ein?",
+          "answer": "Öffne das In-Game-Menü, tippe auf die Schaltfläche 'Codes', gib den Code genau wie aufgeführt ein und drücke auf 'Bestätigen'. Bei Codes wird auf Groß- und Kleinschreibung geachtet und sie können eine begrenzte Anzahl an Nutzungen haben. Schau auf unserer Codes-Seite nach aktiven Codes."
+        },
+        {
+          "question": "Was ist die beste Klasse in Reawakened?",
+          "answer": "Der Magier hat die höchste Gate-Abschlussgeschwindigkeit und ist die erste Wahl für Solo-Farming. Der Krieger ist aufgrund der hohen Basis-LP die sicherste Anfängerklasse. Beide sind starke Starts in der aktuellen Version."
+        },
+        {
+          "question": "Wie schalte ich Gates mit höherem Rang in Reawakened frei?",
+          "answer": "Erreiche den erforderlichen Hunter-Rang, indem du EP in deiner aktuellen Gate-Stufe sammelst, und schließe dann die Rang-Aufstiegs-Herausforderung ab, die bei der Level-Obergrenze freigeschaltet wird. Das Bestehen der Herausforderung befördert dich in den nächsten Rang und öffnet schwierigere Gates."
+        },
+        {
+          "question": "Wann werden neue Reawakened-Codes veröffentlicht?",
+          "answer": "Codes werden normalerweise bei großen Updates, Meilenstein-Events für Spieler und Ankündigungen der Entwickler veröffentlicht. Folge dem offiziellen Discord unter discord.gg/reawakened für sofortige Alarme bei neuen Code-Drops."
+        },
+        {
+          "question": "Ist Reawakened ein Multiplayer-Spiel?",
+          "answer": "Ja. Reawakened unterstützt Gruppen-Gate-Runs. Spieler können sich für B-Rang- und A-Rang-Gates zusammenschließen, bei denen Gruppenkoordination empfohlen wird. Solo-Spiel wird für alle Rangstufen vollständig unterstützt."
+        },
+        {
+          "question": "Wo finde ich die Reawakened Update-Notizen?",
+          "answer": "Update-Notizen werden auf dem offiziellen Reawakened-Discord-Server und über die Vayron Studios-Roblox-Community-Seite veröffentlicht. Große Updates werden auch auf dem offiziellen YouTube-Kanal behandelt."
+        },
+        {
+          "question": "Was sind Merkmale in Reawakened?",
+          "answer": "Traits sind passive Modifikatoren, die mit deinen Klassen-Statuswerten stapelbar sind. Es gibt sie in den Kategorien Offensive, Defensive, Utility und Selten. Du kannst Merkmale mit Gold neu würfeln, das du in Gate-Runs verdient hast."
+        },
+        {
+          "question": "Wie ist der aktuelle Status von Reawakened?",
+          "answer": "Reawakened ist als Playtest auf Roblox live. Neue Inhalte, Balance-Updates und Klassenergänzungen sind laufend im Gange. Schau auf dem Discord und dem YouTube-Kanal nach den neuesten Informationen."
+        }
+      ]
+    },
+    "reawakendBuildTips": {
+      "title": "Reawakened Build-Tipps",
+      "displayType": "accordion",
+      "intro": "Fortgeschrittene Build-Ratschläge zur Optimierung deiner Kombination aus Klasse, Merkmalen und Pfad in jeder Phase des Fortschritts in Reawakened.",
+      "faqs": [
+        {
+          "question": "Welche Merkmale sollte ein Magier in Reawakened stapeln?",
+          "answer": "Priorisiere zuerst Merkmale mit Magieschaden-Multiplikator, dann Abklingzeitverringerung für schnellere Fähigkeiten-Zyklen und schließlich Utility-Merkmale, die EP und Gold pro Gate-Run erhöhen. Vermeide Defensiv-Merkmale, es sei denn, du hast Schwierigkeiten zu überleben."
+        },
+        {
+          "question": "Sollte ich den Kampf-Path oder den Verteidigungs-Path in Reawakened verwenden?",
+          "answer": "Der Kampf-Path ist besser für Solo-Farming und Gate-Abschlussgeschwindigkeit auf allen Rangstufen. Der Verteidigungs-Path ist überlegen, wenn du höhere Gate-Schwierigkeiten ohne zu sterben bewältigen willst, besonders für Krieger- und Tank-Builds."
+        },
+        {
+          "question": "Wie viele Reawakened-Merkmale sollte ich frühzeitig neu würfeln?",
+          "answer": "Rerolle, bis du mindestens zwei Merkmale hast, die direkt zu deinem Klassenfokus passen. Ein Offensiv- und ein Utility-Merkmal sind eine gute Startkombination für die meisten DPS-Klassen. Spare kein Gold für Ausrüstung auf Kosten der Merkmalsqualität."
+        },
+        {
+          "question": "Wann sollte ich die Ausrüstung in Reawakened verbessern?",
+          "answer": "Verbessere die Ausrüstung, wenn das Gate der aktuellen Schwierigkeitsstufe keine Upgrades mehr fallen lässt. Wenn jeder Gegenstand aus einem Gate-Run bereits schlechter ist als das, was du ausgerüstet hast, ist es Zeit, zur nächsten Rangstufe zu wechseln und dort zu farmen."
+        },
+        {
+          "question": "Lohnt es sich, den Heiler in Reawakened solo zu spielen?",
+          "answer": "Der Heiler ist beim Solo-Gate-Farming deutlich langsamer als DPS-Klassen. Er wird am besten in Gruppen gespielt, wo deine Heilung direkt schwierigere Gate-Versuche ermöglicht. Für den Solo-Fortschritt ist der Magier oder Krieger zeiteffizienter."
+        }
+      ]
+    },
+    "reawakendCommunity": {
+      "title": "Reawakened Community",
+      "displayType": "settingCards",
+      "intro": "Verbinde dich über offizielle Kanäle mit der Reawakened-Community. Der Discord ist die schnellste Quelle für neue Codes, Spiel-Updates und Build-Diskussionen.",
+      "settings": [
+        {
+          "name": "Offizieller Discord",
+          "type": "Primäre Community",
+          "description": "Tritt discord.gg/reawakened bei für Code-Ankündigungen, Update-News, Klassen-Tier-Diskussionen und direkten Kontakt mit dem Vayron Studios-Team."
+        },
+        {
+          "name": "Roblox-Spielseite",
+          "type": "Spiele Reawakened",
+          "description": "Spiele Reawakened direkt über die offizielle Roblox-Spielseite von Vayron Studios. Alle Spielsitzungen, Updates und Patches werden über diese Seite bereitgestellt."
+        },
+        {
+          "name": "YouTube-Kanal",
+          "type": "Offizielle Medien",
+          "description": "Sieh dir offizielle Trailer, Klassenvorstellungen und Update-Videos auf dem Reawakened-YouTube-Kanal an. Neue Video-Veröffentlichungen fallen oft mit Code-Releases und großen Updates zusammen."
+        },
+        {
+          "name": "Vayron Studios-Community",
+          "type": "Entwickler-Hub",
+          "description": "Folge der Entwicklergruppe auf Roblox für Studio-Ankündigungen, Vorschauen auf kommende Spiele und Entwickler-Posts über Reawakened und zukünftige Projekte."
+        }
+      ]
+    },
+    "reawakendUpdateLog": {
+      "title": "Reawakened Update-Log",
+      "displayType": "timeline",
+      "intro": "Eine fortlaufende Aufzeichnung von Reawakened-Updates, Balance-Änderungen und neuen Inhalten seit dem Start des ersten Playtests.",
+      "entries": [
+        {
+          "title": "Playtest-Start",
+          "type": "Launch",
+          "description": "Reawakened wurde offiziell als Playtest auf Roblox gestartet. Der erste Satz von Klassen, Gates, Merkmalen und das Kern-Hunter-Fortschrittssystem gingen live."
+        },
+        {
+          "title": "Code-System hinzugefügt",
+          "type": "Feature",
+          "description": "Das In-Game-System zum Einlösen von Codes wurde hinzugefügt, sodass Spieler EP-Boosts, Status-Buffs und kosmetische Belohnungen direkt über das Hauptmenü beanspruchen können."
+        },
+        {
+          "title": "Klassen-Balance-Durchgang",
+          "type": "Balance",
+          "description": "Schadensausstoß von Magier und Krieger angepasst. Kritische Trefferquote des Assassinen und Angriffsgeschwindigkeit des Bogenschützen für eine bessere Klassenbalance über die Gate-Schwierigkeitsstufen hinweg abgestimmt."
+        },
+        {
+          "title": "Neuer Gate-Rang hinzugefügt",
+          "type": "Content",
+          "description": "Eine höhere Gate-Rangstufe wurde eingeführt, mit einem neuen Boss-Design, aktualisierten Gegnerwellen-Mustern und einem erweiterten Loot-Pool für das Endgame-Hunter-Segment."
+        }
+      ]
+    },
+    "reawakendEarlyTips": {
+      "title": "Reawakened Frühe Tipps",
+      "displayType": "steps",
+      "intro": "Dies sind die wertvollsten Aktionen für neue Reawakened-Spieler in der ersten Sitzung. Das Befolgen dieser Reihenfolge vermeidet die häufigsten frühen Fehler und verschafft dir einen bedeutenden Vorsprung.",
       "steps": [
         {
+          "title": "Wähle zuerst Krieger oder Magier",
+          "description": "Wenn du keine Vorliebe hast, beginne mit dem Krieger für das einfachste Überlebenserlebnis oder dem Magier für die schnellste Gate-Abschlussgeschwindigkeit. Beide Klassen skalieren gut bis ins Mid-Game und haben unkomplizierte Statuswert-Prioritäten."
+        },
+        {
+          "title": "Löse alle aktiven Codes vor deinem ersten Gate ein",
+          "description": "Sieh auf der Codes-Seite nach und löse jeden aktiven Code ein, bevor du dein erstes Gate betrittst. EP-Boost-Codes, die während deines ersten Runs aktiv sind, verschaffen dir einen kumulativen Vorteil durch die frühen Rangstufen."
+        },
+        {
+          "title": "Schließe Gates vollständig ab, bevor du aufsteigst",
+          "description": "Absolviere deine aktuelle Gate-Schwierigkeit, bis deine Ausrüstung durch diese Stufe vollständig verbessert ist. Der Sprung zu schwierigeren Gates mit unterlevelter Ausrüstung verschwendet Gate-Versuche und verlangsamt deinen gesamten Fortschritt."
+        },
+        {
+          "title": "Investiere früh in Traits",
+          "description": "Nutze Gold, um Merkmale nach jeweils ein paar Gate-Runs neu zu würfeln, anstatt für Ausrüstung zu sparen. Zwei gut abgestimmte Merkmale machen jedes Gate deutlich einfacher, und der Nutzen summiert sich über all deine zukünftigen Runs."
+        }
+      ]
+    },
+    "reawakendFishingGuide": {
+      "title": "Reawakened Angel-Guide",
+      "eyebrow": "Aktivitäts-Guide",
+      "intro": "Angeln ist mehr als nur eine Nebenaktivität in Reawakened. Es stärkt Haustiere, schafft frühe Goldmöglichkeiten und kann Ausrüstung hervorbringen, die gewöhnliche Dungeon-Drops übertrifft.",
+      "steps": [
+        {
+          "title": "Hol dir eine Angel und finde eine Angelstelle",
+          "description": "Kaufe eine Angelrute bei einem Stadthändler und behalte sie in deinem Inventar. In Grove ist die am einfachsten sichtbare Angelstelle das golden funkelnde Loch direkt am Steg des Teiches im nördlichen Teil der Stadt.",
+          "highlights": [
+            "Eine Angelrute muss sich nur in deinem Inventar befinden, um das Angeln zu ermöglichen",
+            "Angelstellen erscheinen in der Stadt und in den Dungeon-Ebenen",
+            "Der Stadtteich ist der einfachste Ort, um die Interaktion zu erlernen"
+          ]
+        },
+        {
+          "title": "Auswerfen, beobachten und den Haken schnell setzen",
+          "description": "Klicke mit der linken Maustaste auf die Angelstelle, um auszuwerfen. Wenn das Ausrufezeichen über deinem Charakter erscheint, drücke schnell auf 'Haken setzen', um eine bessere Chance zu haben, den Fisch zu landen.",
+          "highlights": [
+            "Du benötigst keinen separaten Angel-Skillbaum, um zu beginnen",
+            "Reaktionszeit ist wichtiger als Kampfwerte",
+            "Schnelles Timing beim Haken verbessert die Beständigkeit"
+          ]
+        },
+        {
+          "title": "Wisse, warum Angeln wichtig ist",
+          "description": "Fische können die Attribute und Resistenzen deines Haustiers drastisch verändern, was frühe Dungeon-Runs erleichtert. Angeln kann auch starke Beute und Edelsteine hervorbringen.",
+          "highlights": [
+            "Haustier-Transformationen sind der größte frühe Machtschub",
+            "Angeln ist ein praktischer Weg, um Gold zu verdienen",
+            "Der Verkauf von gelben Drops aus dem Angeln ist ein zuverlässiger früher Wirtschaftskreislauf"
+          ]
+        },
+        {
+          "title": "Lerne die vier Fischgrößenstufen kennen",
+          "description": "Fische sind in vier Größenstufen unterteilt, und die Größe bestimmt, wie lange die Transformation deines Haustiers anhält.",
+          "highlights": [
+            "Setzling: 120 Sekunden",
+            "Klein: 300 Sekunden",
+            "Brocken: 600 Sekunden",
+            "Makellos: hält an, bis die nächste Transformation sie ersetzt"
+          ]
+        },
+        {
+          "title": "Merke dir die nützlichsten Transformationsbeispiele",
+          "description": "Verschiedene Fische verwandeln Haustiere in verschiedene Formen mit unterschiedlichen Statuswert-Paketen und Resistenzen.",
+          "highlights": [
+            "Schützenfisch verwandelt ein Haustier in einen Düsterwolf",
+            "Barsch verwandelt ein Haustier in ein Einhorn",
+            "Dorie verwandelt ein Haustier in einen Salamander mit 100 % Feuerresistenz",
+            "Hundshai bringt das Haustier in seine ursprüngliche Form zurück"
+          ]
+        },
+        {
+          "title": "Nutze Angeln auch für Fortschrittsziele",
+          "description": "Angeln ist mit Abschlusszielen verknüpft, nicht nur mit Nutzen. Reawakened enthält den Erfolg 'Meisterangler' für das Fangen jeder Fischart.",
+          "highlights": [
+            "Nützlich für sammlungsfokussierte Spieler",
+            "Unterstützt Experimente mit Haustieren",
+            "Bietet langfristigen Wert über das reine Gold hinaus"
+          ]
+        }
+      ]
+    },
+    "reawakendSideQuestsGuide": {
+      "title": "Reawakened Nebenquest-Guide",
+      "eyebrow": "Fortschritts-Guide",
+      "intro": "Nebenquests sind oberflächlich betrachtet einfach, aber das Routenmanagement ist wichtig. Die richtigen Quests auf der richtigen Etage anzunehmen, spart Zeit und vermeidet unnötige Erkundungen.",
+      "items": [
+        {
+          "title": "Quest-Slots und NPC-Verhalten",
+          "content": "Du kannst bis zu 3 Nebenquests gleichzeitig halten. NPCs mit verfügbaren Nebenquests werden dir nicht sagen, was sie wollen, es sei denn, du hast einen freien Quest-Slot.",
+          "bullets": [
+            "Maximum von 3 aktiven Nebenquests",
+            "Freie Slots sind wichtig, da sie mehr Questoptionen in der Stadt offenbaren",
+            "Prüfe die NPCs in der Stadt, bevor du dich auf einen langen Dungeon-Abschnitt einlässt"
+          ]
+        },
+        {
+          "title": "Die drei Nebenquest-Muster",
+          "content": "Nebenquests nutzen wiederholt drei Vorlagen: einen verlorenen Gegenstand auf einer Ebene bergen, ein Monster und seine Diener töten oder das Monster töten, das einen Gegenstand gestohlen hat, und diesen bergen.",
+          "bullets": [
+            "Quest für verlorenen Gegenstand",
+            "Zielmonster und Diener töten",
+            "Gestohlenen Gegenstand von einer Zielmonstergruppe bergen"
+          ]
+        },
+        {
+          "title": "Nimm Quests für die Etage an, auf der du dich befindest",
+          "content": "Akzeptiere Nebenquests nur für die Etage, die du gerade spielst. So bleiben die Ziele auf deinen unmittelbaren Dungeon-Pfad abgestimmt, anstatt sie über verschiedene Ebenen zu verstreuen.",
+          "bullets": [
+            "Etagenweises Spielen ist sauberer als das Horten unpassender Quests",
+            "Hilft, Backtracking zu reduzieren",
+            "Sorgt für einen stetigen Belohnungsfluss während des Levelns"
+          ]
+        },
+        {
+          "title": "Schließe eine Etage nicht zu früh vollständig ab",
+          "content": "Erkunde eine Etage nicht vollständig, bevor du die Nebenquests dieser Etage beendet hast. Questziele können in unerforschten Abschnitten erscheinen.",
+          "bullets": [
+            "Beende Nebenquestziele vor der vollständigen Erkundung",
+            "Priorisiere Questmarker und unerforschte Abzweigungen zuerst",
+            "Dies ist der Hauptfehler beim Routing, den neue Spieler machen"
+          ]
+        },
+        {
+          "title": "Was Nebenquests belohnen",
+          "content": "Nebenquests bieten Ruhm, Erfahrung und Gold. Sie helfen auch dabei, den frühen Fortschritt besser zu rhythmisieren als bloßes zufälliges Umherwandern.",
+          "bullets": [
+            "Ruhm unterstützt den langfristigen Fortschritt",
+            "Erfahrung hilft, Levelgewinne zu glätten",
+            "Gold unterstützt Einkäufe, Glücksspiel und Utilities"
+          ]
+        },
+        {
+          "title": "Aktualisierungs- und Sonderfall-Tricks",
+          "content": "Verfügbare Quests können aktualisiert werden, indem man zu Ebene 1 zurückkehrt und wieder hochkommt, oder indem man speichert, das Spiel verlässt und dann zurückkehrt.",
+          "bullets": [
+            "Questliste aktualisieren: Zurück zu Ebene 1 und wieder hoch, oder Speichern und Beenden",
+            "Abbrechbare Questgegenstände können manchmal behalten werden",
+            "Vergleiche eine Questbelohnung immer mit dem Gegenstand selbst"
+          ]
+        }
+      ]
+    },
+    "reawakendWeaponsGuide": {
+      "title": "Reawakened Waffen-Guide",
+      "eyebrow": "Gear Guide",
+      "intro": "Die Waffenwahl ist an Geschwindigkeit, Statuswert-Anforderungen und den spezifischen Pool an einzigartigen Gegenständen gebunden. Elite- und legendäre Versionen skalieren basierend auf dem Ruhm-Rang, was den Zugang zu Late-Game-Waffen zu einem echten Fortschrittsziel macht.",
+      "items": [
+        {
+          "weapon_class": "Schwert",
+          "example_unique": "Stinging Needle",
+          "speed": "Schnellste",
+          "why": "Schnelles frühes Schwert mit Angriff +40 und Schadensbonus +4. Community-Build-Ratschläge empfehlen Waffen der Schwertklasse und Dual-Wielding für frühe Schadenseffizienz."
+        },
+        {
+          "weapon_class": "Axt",
+          "example_unique": "Le Chop",
+          "speed": "Schnell",
+          "why": "Gewährt Kritischer Schlag +5, Schildkampf +5, Magie-Droprate +5 und Gold-Droprate +20 % – ideal für Loot-fokussierte Builds."
+        },
+        {
+          "weapon_class": "Bogen",
+          "example_unique": "Sentinel of the Glade",
+          "speed": "Normal",
+          "why": "Bogen/Armbrust-Skill +5, Schaden +7 %, Gehgeschwindigkeit +10 % und Geschicklichkeit +10 % machen dies zu einem starken einzigartigen Fernkampfgegenstand für mobile Builds."
+        },
+        {
+          "weapon_class": "Armbrust",
+          "example_unique": "The Pincushion",
+          "speed": "Normal",
+          "why": "Kommt mit Stärke +6, Feuerresistenz +40 und Rückstoß +2 – eine starke Wahl für Spieler, die Überlebensfähigkeit neben Fernkampfschaden suchen."
+        },
+        {
+          "weapon_class": "Hammer",
+          "example_unique": "Leadro's Finality",
+          "speed": "Langsam",
+          "why": "Schwere frühe Option mit Schadensbonus Untote +10, flachem Schaden +7 und Magieresistenz +3 % für tanky Dungeon-Builds."
+        },
+        {
+          "weapon_class": "Speer",
+          "example_unique": "Shivering Tines",
+          "speed": "Normal",
+          "why": "Ein klares Beispiel für Speer-Skalierung mit Geschicklichkeit statt roher Stärke – am besten für Builds, die Agilität über rohe Gewalt priorisieren."
+        },
+        {
+          "weapon_class": "Stab",
+          "example_unique": "Crushbar",
+          "speed": "Langsam",
+          "why": "Hybrid-Stab mit Angriffsmagie +4, Charm-Magie +4, Mana-Raub +15 % und Angriff +20 – deckt sowohl magische Offensive als auch Mana-Sustain ab."
+        },
+        {
+          "weapon_class": "Elite & Legendär",
+          "example_unique": "Varianten-System",
+          "speed": "Variiert",
+          "why": "Elite verdoppelt die Basiswerte, Legendär vervierfacht sie. Legendäre Varianten erfordern einen höheren Renommee-Rang – Ruhm begrenzt direkt den Zugang zu Late-Game-Waffen."
+        }
+      ]
+    },
+    "reawakendSpellsGuide": {
+      "title": "Reawakened Zauber-Guide",
+      "eyebrow": "Magie-Guide",
+      "intro": "Zauber sind in die Linien Angriff, Verteidigung und Charme unterteilt. Utility-Zauber wie Stadtportal, Identifizieren und Mentale Karte sind für ein effizientes Spiel genauso wichtig wie roher Schaden.",
+      "categories": [
+        {
+          "title": "Angriffszauber",
+          "kicker": "Direkter Schaden und Kontrolle",
+          "description": "Angriffsmagie beginnt mit effizienten frühen Zaubern und skaliert zu stärkeren Burst-Werkzeugen. Verlangsamung und Feuerball sind wichtige frühe Käufe.",
+          "examples": [
+            "Verlangsamung – verlangsamt das Ziel 10 Sekunden lang auf 60 % Geschwindigkeit",
+            "Feuerball – Projektil für 2-7 Schaden plus Skill-Skalierung",
+            "Frost – zwei Eisprojektile und eine 40%ige Verlangsamung für 5 Sekunden",
+            "Blitzschlag – sofortiger elektrischer Schaden",
+            "Meteorschlag – Flächenexplosion in einem Radius von 20 Fuß"
+          ]
+        },
+        {
+          "title": "Verteidigungszauber",
+          "kicker": "Buffs, Heilung, Resistenz und Überleben",
+          "description": "Verteidigungsmagie enthält die Sustain- und Geschwindigkeitswerkzeuge, auf die sich die meisten Spieler während des Spiels verlassen. Hast und Derwisch sind herausragende Utility-Optionen.",
+          "examples": [
+            "Kleine Heilung – heilt den Zaubernden um 20 LP plus Skalierung",
+            "Spektralrüstung – erhöht die Verteidigung und reduziert erlittenen Schaden",
+            "Hast – erhöht die Geschwindigkeit für 15 Sekunden",
+            "Kampfnebel – verdoppelt den Angriffswert, während der Verteidigungswert gesenkt wird",
+            "Derwisch – erhöht die Angriffsgeschwindigkeit 10 Sekunden lang um 80 %",
+            "Reflexion – reflektiert 20 % des Schadens an Angreifer zurück"
+          ]
+        },
+        {
+          "title": "Charme-Zauber",
+          "kicker": "Utility, Crowd Control und Kartenwerkzeuge",
+          "description": "Charmemagie deckt Identifizierung, Kartenwerkzeuge und Crowd Control ab. Stadtportal und Mentale Karte sind essenziell für effizientes Dungeon-Routing.",
+          "examples": [
+            "Identifizieren – identifiziert Gegenstände, skaliert mit Skill-Level",
+            "Monster bezaubern – bezaubert Monster der Stufe 6 und darunter für 20 Sekunden",
+            "Mentale Karte – enthüllt eine Dungeon-Ebene ab Ebene 2 oder tiefer",
+            "Stadtportal – öffnet ein Portal ab Ebene 2 oder tiefer",
+            "Beschworenes Monster bannen – entfernt beschworene Kreaturen"
+          ]
+        },
+        {
+          "title": "Beschwörungszauber",
+          "kicker": "Begleiterzauber mit skalierender Dauer",
+          "description": "Beschwörungen skalieren mit dem Charme-Skill und halten 1 Minute plus 10 Sekunden pro Skill-Level an. Das Limit für aktive Beschwörungen liegt bei 6 Kreaturen gleichzeitig.",
+          "examples": [
+            "Spinne beschwören – beschwört 3 Spinnen der Stufe 1",
+            "Skelett beschwören – beschwört 1 Skelett der Stufe 4",
+            "Mystische Klinge – beschwört 1 verfluchtes Schwert der Stufe 7",
+            "Timberwolf beschwören – beschwört 2 Timberwölfe der Stufe 7",
+            "Wyvern beschwören – beschwört 1 giftigen Wyvern der Stufe 28"
+          ]
+        },
+        {
+          "title": "Hotkeys und Zauberhandhabung",
+          "kicker": "Zauberverwaltung und Tastenbelegung",
+          "description": "Sobald ein Zauber erlernt ist, erweitere die Zauberliste im HUD und belege Zauber direkt auf die Funktionstasten für schnellen Zugriff während des Kampfes.",
+          "examples": [
+            "Bewege den Mauszeiger über einen erlernten Zauber und drücke F1-F12, um ihn zu belegen",
+            "Buffs, Heilungen und Utility rotieren, ohne Menüs zu öffnen",
+            "Besonders nützlich für Stadtportal, Identifizieren und Kern-Kampfbuffs"
+          ]
+        }
+      ]
+    },
+    "reawakendGemsGuide": {
+      "title": "Reawakened Edelstein-Guide",
+      "eyebrow": "Loot-Optimierung",
+      "intro": "Edelsteine machen einen großen Teil der Gegenstandsmacht in Reawakened aus. Dieser Guide deckt die besten Edelsteinquellen, wichtige Sockelregeln und die Steine ab, die man für Nahkampf-, Zauberer- und Utility-Builds suchen sollte.",
+      "items": [
+        {
+          "entry": "Angelstellen",
+          "category": "Quelle",
+          "effect": "Tieferes Angeln bringt besseren Loot",
+          "best_for": "Stetiges Edelstein-Farming während des Fortschritts"
+        },
+        {
+          "entry": "Schicksalsstatue",
+          "category": "Quelle",
+          "effect": "Verleiht zwei zufällige Edelsteine oder beschwört einen Boss",
+          "best_for": "Schneller Edelsteinerwerb, wenn man das Risiko bewältigen kann"
+        },
+        {
+          "entry": "Samwen Re-Socketing",
+          "category": "Utility",
+          "effect": "Entfernt Edelsteine aus einem Gegenstand, aber die Edelsteine werden zerstört",
+          "best_for": "Ersetzen von Füll-Edelsteinen durch stärkere Late-Game-Sockel"
+        },
+        {
+          "entry": "Peridot, Göttlich",
+          "category": "Kern-Edelstein",
+          "effect": "+12 % Lebensraub",
+          "best_for": "Nahkampf-Sustain und lange Dungeon-Ketten ohne Tränke"
+        },
+        {
+          "entry": "Jade, Göttlich",
+          "category": "Kern-Edelstein",
+          "effect": "+25 % Angriffsgeschwindigkeit",
+          "best_for": "Dual-Wield- und physische DPS-Builds"
+        },
+        {
+          "entry": "Diamant, Göttlich",
+          "category": "Kern-Edelstein",
+          "effect": "+5 auf alle Skills",
+          "best_for": "Hybrid- und zauberlastige Builds"
+        },
+        {
+          "entry": "Rubin, Göttlich",
+          "category": "Kern-Edelstein",
+          "effect": "+72 Feuerresistenz, +18 Feuerschaden",
+          "best_for": "Feuerfokussierte Offensive und elementare Abdeckung"
+        },
+        {
+          "entry": "Malachit, Göttlich",
+          "category": "Kern-Edelstein",
+          "effect": "+18 Ausdauer-Regeneration",
+          "best_for": "Erkundung mit viel Bewegung und geringeren Ausfallzeiten"
+        },
+        {
+          "entry": "Trickster's Bauble",
+          "category": "Seltener Edelstein",
+          "effect": "+9 % Angriffsgeschwindigkeit, +9 % reflektierter Schaden",
+          "best_for": "Aggressive Nahkampf-Builds mit passiver Vergeltung"
+        },
+        {
+          "entry": "Stein der Weisen",
+          "category": "Seltener Edelstein",
+          "effect": "+5 Magie, +5 % Mana, +5 % Ausdauer-Malus",
+          "best_for": "Zauber- und Hybrid-Magie-Charaktere"
+        },
+        {
+          "entry": "Dwarf's Delight",
+          "category": "Seltener Edelstein",
+          "effect": "+25 % mehr Gold von Gegnern, +6 Hammer-Skill",
+          "best_for": "Gold-Farming-Routen und hammerfokussierte Charaktere"
+        },
+        {
+          "entry": "Covetous Heart",
+          "category": "Seltener Edelstein",
+          "effect": "+12 % Chance auf magische Gegenstände, +5 % reduzierte Gegenstandsanforderungen",
+          "best_for": "Magic-Find-Farming und einfachere Ausrüstungsschwellen"
+        }
+      ]
+    },
+    "reawakendFameGuide": {
+      "title": "Reawakened Ruhm-Guide",
+      "eyebrow": "Fortschrittssystem",
+      "intro": "Ruhm speist deinen Renommee-Fortschritt, und Renommee verändert direkt, was du ausrüsten kannst und wie schnell dein Build grows. Charaktere, die Ruhm ignorieren, fühlen sich meist unterausgerüstet, sobald die Gegenstandsanforderungen steigen.",
+      "items": [
+        {
+          "title": "Wie man Ruhm verdient",
+          "stat": "Quests + einzigartige oder Boss-Gegner",
+          "text": "Quest-Abschlüsse gewähren skalierendes Gold, EP und Ruhm. Ruhm erhält man auch durch das Töten von einzigartigen und Boss-Gegnern, sodass normales Säubern von Etagen und Questketten ihn mit der Zeit natürlich aufbauen."
+        },
+        {
+          "title": "Was Renommee dir bringt",
+          "stat": "+4 Skillpunkte pro Renommee-Level",
+          "text": "Jede Erhöhung des Renommee gewährt vier zusätzliche Skillpunkte. Das macht den Ruhm-Fortschritt zu einer direkten Machtquelle, nicht nur zu einer Prüfung der Ausrüstungsanforderungen."
+        },
+        {
+          "title": "Wo man ihn kaufen kann",
+          "stat": "Rollo der Minstrel",
+          "text": "Rollo kann deinen Ruhm gegen Gold erhöhen. So kannst du dir den Weg zum nächsten Renommee-Breakpoint erkaufen, wenn Late-Game-Waffen mehr verlangen, als dein aktueller Fortschritt bietet."
+        },
+        {
+          "title": "Warum Gear gesperrt wird",
+          "stat": "Elite- und legendäre Ausrüstung",
+          "text": "Höherklassige Gegenstände erfordern Ruhm- oder Renommee-Schwellenwerte. Wenn du stärkere Ausrüstung mit einer Anforderungshürde siehst, ist die Antwort meist mehr Ruhm, mehr Gold für Rollo oder beides."
+        },
+        {
+          "title": "Warum Shops besser werden",
+          "stat": "Ruhm + Level erhöhen Gegenstandsqualität",
+          "text": "Je besser dein Ruhm und dein Level sind, desto bessere Gegenstände findest du in Läden und bei Monstern. Dies ist ein Grund, warum das Ausrüsten im Late-Game viel reibungsloser verläuft, sobald das Renommee aufholt."
+        },
+        {
+          "title": "Wie der Schwierigkeitsgrad die Gleichung ändert",
+          "stat": "Abenteurer → Überlegen, Held → Außergewöhnlich, Legende → Makellos",
+          "text": "Höhere Schwierigkeitsgrade heben die Obergrenze der Gegenstandsqualität an und machen die Ruhm-Mechanik wichtiger. Auf härteren Einstellungen ist Renommee sehr schnell nicht mehr optional."
+        }
+      ]
+    },
+    "reawakendEndgameGuide": {
+      "title": "Reawakened Endgame-Guide",
+      "eyebrow": "Late-Game-Route",
+      "intro": "Der stärkste Late-Game-Pfad baut auf Sockeln, Verzauberungen, Goldumwandlung und Renommee-Breakpoints auf. Sobald du den ersten echten Schub erreichst, wird der Rest des Runs zu einem kontrollierten Upgrade-Loop.",
+      "items": [
+        {
           "step": 1,
-          "title": "Installiere BepInEx 5",
-          "text": "Lade BepInEx 5 herunter und entpacke es in den Spiel-Root-Ordner."
+          "headline": "Beginne mit einem Build, der sauber skaliert",
+          "target": "S-Tier Dual-Wield-Nahkampf oder A-Tier Angriffsmagie-Magier",
+          "details": "Dual-Wield-Nahkampf ist das einfachste und stärkste Endgame-Gerüst, während der Angriffsmagie-Magier die wichtigste schadensstarke Alternative ist. Beide skalieren gut, sobald Buffs, Verzauberungen und bessere Waffen verfügbar sind."
         },
         {
           "step": 2,
-          "title": "Einmal starten, um Ordner zu generieren",
-          "text": "Starte das Spiel bis zum Hauptmenü und schließe es dann. Dadurch wird die BepInEx-Ordnerstruktur erstellt."
+          "headline": "Halte die drei Kern-Buffs aktiv",
+          "target": "Hast + Kampfnebel + Derwisch",
+          "details": "Diese Buffs sind das Rückgrat der stärksten physischen Route. Hast steigert Angriffs- und Bewegungsgeschwindigkeit, Kampfnebel erhöht den Angriffswert und Derwisch fügt einen riesigen Angriffsgeschwindigkeitsschub hinzu."
         },
         {
           "step": 3,
-          "title": "Mods installieren",
-          "text": "Platziere Mod-.dll-Dateien in den Plugins-Ordner."
+          "headline": "Betrachte Level 25+ als den ersten echten Macht-Breakpoint",
+          "target": "Mid-Game-Verzauberungsfreischaltung",
+          "details": "Verzauberungen werden viel wertvoller, sobald du etwa Level 25 erreicht hast und Händler beginnen, teurere Ausrüstungsbasen zu verkaufen. Hier beginnt die Endgame-Vorbereitung erst richtig."
         },
         {
           "step": 4,
-          "title": "Installation überprüfen",
-          "text": "Starte das Spiel neu und bestätige, dass die Mod-Funktion verfügbar ist (Kamera-Umschaltung, UI-Cursor usw.)."
-        }
-      ],
-      "paths": [
-        {
-          "label": "Typische Steam-Installation",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "headline": "Fixiere den Sustain, bevor du reinem Schaden nachjagst",
+          "target": "Etwa 20 % Gesamt-Sustain durch Sockel",
+          "details": "Überlegene Peridots sind die frühe Sockel-Priorität für Sustain und überlegene Jades sind die Fortsetzung für Angriffsgeschwindigkeit. Sobald der Sustain gelöst ist, steigt deine Abschlussgeschwindigkeit stark an."
         },
         {
-          "label": "Plugins-Ordner",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
-        }
-      ],
-      "multiplayerNote": "Für modifizierte Koop-Gameplay-Funktionen sollte jeder BepInEx und dieselben Gameplay-Mods installieren."
-    },
-    "popularMods": {
-      "title": "Lucid Blocks Beliebte Mods",
-      "subtitle": "Top-Community-Auswahlen",
-      "mods": [
+          "step": 5,
+          "headline": "Nutze Verzauberungen als deinen Goldmotor",
+          "target": "Kaufe teure unverzauberte Basen, verzaubere sie einmal, verkaufe sie weiter",
+          "details": "Schmied-Basen im Wert von 50k+ erscheinen ab Level 20+ auf Legende. Verzaubere jedes Stück, bis es eine erfolgreiche Verzauberung erhält, und verkaufe es dann für schnellen Profit an einen Händler zurück."
+        },
         {
-          "title": "Spawn-Menü",
-          "tags": [
-            "Spaß",
-            "Werkzeuge",
-            "Nur Host"
-          ],
-          "description": "Fügt ein Element-Spawn-Menü mit einem Flugmodus hinzu.",
-          "controls": [
+          "step": 6,
+          "headline": "Wandle Gold in Renommee und Waffenzugang um",
+          "target": "Kaufe Ruhm bis Halbgott",
+          "details": "Late-Game-Gold ist nicht nur für Ausrüstung da. Es ist auch der schnellste Weg zu den Ruhm-Schwellenwerten, mit denen du stärkere legendäre Waffen ausrüsten und mit den Gegenstandsanforderungen Schritt halten kannst."
+        },
+        {
+          "step": 7,
+          "headline": "Nutze den zweiten Schub bei Level 50",
+          "target": "Kernausrüstung neu verzaubern",
+          "details": "Verzauberungen hören bei Level 50 auf zu skalieren. Das macht Level 50 zum idealen Zeitpunkt, um deine Hauptausrüstung erneut zu prüfen und einen zweiten großen Sprung in Schaden und Überlebensfähigkeit zu machen."
+        },
+        {
+          "step": 8,
+          "headline": "Suche die besten Waffenbasen je nach Spiel",
+          "target": "Jagd nach makellosen legendären Waffen",
+          "details": "Das Basisspiel und Undiscovered Realms bevorzugen das makellose legendäre Großschwert. The Traitor Soul und The Cursed King verschieben die Jagd in Richtung makelloser legendärer Elphame- oder Cyber-Schwerter."
+        },
+        {
+          "step": 9,
+          "headline": "Verschwende keine Slots für schlechte Statuswerte",
+          "target": "Vermeide Rückstoß",
+          "details": "Rückstoß senkt den realen DPS, indem er Gegner aus deinem Angriffsfluss drückt. Endgame-Ausrüstung verlangt stattdessen nach Sockeln, Schaden, Sustain, Geschwindigkeit und sauberen Statuswerten."
+        }
+      ]
+    },
+    "reawakendCharacterImportGuide": {
+      "title": "Reawakened Charakter-Import-Guide",
+      "eyebrow": "Speicher-Planung",
+      "intro": "Reawakened unterstützt einen sauberen Vorwärts-Import-Pfad innerhalb der gebündelten Serie. Die wichtige Regel ist einfach: Bewege dich in der Veröffentlichungsreihenfolge nach oben und plane dein Inventar vor jedem Transfer.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Kenne das Paket, um das du herum planst",
+          "content": "Das Bundle enthält alle vier Spiele: FATE, Undiscovered Realms, The Traitor Soul und The Cursed King. Deine Import-Route sollte dieser gebündelten Veröffentlichungsreihenfolge folgen."
+        },
+        {
+          "step": 2,
+          "label": "Beginne in FATE 1, wenn du einen kontinuierlichen Helden willst",
+          "content": "Die empfohlene Route ist, mit FATE zu beginnen und denselben Charakter durch den Rest des Bundles mitzuführen. Dies bietet den saubersten Upgrade-Pfad und vermeidet, später an einer Einweg-Transferregel hängen zu bleiben."
+        },
+        {
+          "step": 3,
+          "label": "Import geht nur vorwärts",
+          "content": "Du kannst einen Helden von FATE 1 zu FATE 2 bewegen und in der Serie weiter voranschreiten, aber du kannst diesen Helden nicht in ein früheres Spiel zurückbewegen. Sobald du aufsteigst, betrachte es als Einweg-Leiter."
+        },
+        {
+          "step": 4,
+          "label": "Der Großteil deiner Ausrüstung reist mit dir",
+          "content": "Wenn du zum nächsten Spiel der Serie wechselst, werden dein Charakter und deine Gegenstände übernommen. Die Ausnahme ist der Wechsel von The Traitor Soul zu The Cursed King, bei dem nur dein Held, dein Haustier und das, was sich in der Inventartasche befindet, mitkommen."
+        },
+        {
+          "step": 5,
+          "label": "Packe dein Inventar vor großen Transfers",
+          "content": "Da beim Wechsel von Traitor Soul zu Cursed King nur in der Tasche getragene Gegenstände behalten werden, ist dies der Punkt, an dem Inventardisziplin am wichtigsten ist. Lege die Ausrüstung, die du wirklich willst, auf deinen Helden, dein Haustier oder in das Inventar, bevor du den Sprung machst."
+        },
+        {
+          "step": 6,
+          "label": "Plane nicht mit alten Original-Speicherständen",
+          "content": "Charaktere aus den ursprünglichen Spielen vor dem Remaster können zum Launch nicht in das Remaster übertragen werden. Das Import-System, um das man planen sollte, ist der Vorwärts-Pfad innerhalb des Remaster-Bundles selbst."
+        }
+      ]
+    },
+    "reawakendHeirloomGuide": {
+      "title": "Reawakened Erbstück-Guide",
+      "eyebrow": "Legacy-System",
+      "intro": "Nachdem du eine Kampagne in Reawakened abgeschlossen hast, kannst du deinen Helden in den Ruhestand schicken und einen Nachkommen erstellen. Während des Ruhestands wählst du einen Gegenstand aus, der als Familienerbstück weitergegeben wird, und seine Boni werden erhöht. Das Planen von Sockeln, Edelsteinen und zukünftigen Generationen vor dem Ruhestand macht das System weitaus mächtiger.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Gehe nach Abschluss der Kampagne in den Ruhestand",
+          "content": "Der Ruhestand wird nach dem Durchspielen des Spiels verfügbar. Wenn du in den Ruhestand gehst, wird dein Held zu einem Vorfahren und du beginnst den nächsten Run als Nachkomme, anstatt mit demselben aktiven Charakter fortzufahren."
+        },
+        {
+          "step": 2,
+          "label": "Gib nur einen Gegenstand weiter",
+          "content": "Du wählst beim Ruhestand einen einzigen Erbstück-Gegenstand aus, daher zählt jede Slot-Wahl. Wähle ein Stück mit Boni, die du von Beginn eines neuen Runs an spüren möchtest."
+        },
+        {
+          "step": 3,
+          "label": "Nutze Sockel, bevor du den Gegenstand festlegst",
+          "content": "Erbstücke erhalten stärkere schriftliche Boni, und gesockelte Boni sind Teil dieses Plans. Die Sockelstrategie ist besonders wertvoll, da edelsteingestützte Effekte gut mit dem Erbstück-Wachstum über mehrere Generationen interagieren."
+        },
+        {
+          "step": 4,
+          "label": "Kenne die Kern-Statuswert-Regel",
+          "content": "Erbstück-Boni werden jedes Mal um 25 % erhöht, wenn der Gegenstand weitergegeben wird. Selbst ein kleiner gesockelter Bonus wie +1 auf alle Skills kann nach der Vererbung auf +2 aufgerundet werden, weshalb kompakte, bonusreiche Gegenstände so gut skalieren."
+        },
+        {
+          "step": 5,
+          "label": "Plane für mehrere Generationen",
+          "content": "Ein starkes Erbstück ist für den wiederholten Gebrauch gebaut, nicht nur für einen Nachkommen. Wiederholte Vererbung verstärkt den aktuellen Wert des Gegenstands, sodass langfristige Stücke mit flexiblen Statuswerten, nützlichen Sockeln und breitem Build-Wert kurzlebige Übergangslösungen übertreffen."
+        },
+        {
+          "step": 6,
+          "label": "Verstehe, was mit dem alten Helden passiert",
+          "content": "Sobald er im Ruhestand ist, ist dieser Held nicht mehr dein aktiver Charakter. In The Cursed King kann der Vorfahre später wieder angeheuert werden, aber die normale Erwartung ist, dass der Ruhestand eine Übergabe an die nächste Generation ist."
+        }
+      ]
+    },
+    "reawakendAchievementsGuide": {
+      "title": "Reawakened Erfolge-Guide",
+      "eyebrow": "Abschluss",
+      "intro": "Reawakened verteilt seine Erfolgsliste auf Haustiere, Angeln, Quests, Kampf, Wirtschaft und langfristigen Fortschritt. Sie während des Spielens in Clustern zu verfolgen, ist viel effizienter, als sie erst am Ende zu jagen.",
+      "categories": [
+        {
+          "section": "Stadt, Loot und Wirtschaft",
+          "entries": [
             {
-              "key": "F",
-              "action": "Spawn-Menü öffnen"
+              "name": "Forscher",
+              "requirement": "Identifiziere 10 Gegenstände"
             },
             {
-              "key": "V",
-              "action": "Fliegen aktivieren"
-            }
-          ],
-          "note": "Nur Host; andere müssen es nicht installieren, um beizutreten."
-        },
-        {
-          "title": "ThirdPerson-Ansicht",
-          "tags": [
-            "Kamera",
-            "QoL"
-          ],
-          "description": "Fügt eine Third-Person-Kameraansicht hinzu.",
-          "controls": [
+              "name": "Schatz-Hunter",
+              "requirement": "Öffne 20 Truhen"
+            },
             {
-              "key": "F7",
-              "action": "First-Person / Third-Person umschalten"
+              "name": "Lass die Gier siegen",
+              "requirement": "Erbeute 100.000 Gold"
+            },
+            {
+              "name": "Ich könnte ein Problem haben",
+              "requirement": "Spiele 30 Mal"
+            },
+            {
+              "name": "Der Verzauberer",
+              "requirement": "Verzaubere einen Gegenstand"
+            },
+            {
+              "name": "Der Händler",
+              "requirement": "Verkaufe 50 Gegenstände"
+            },
+            {
+              "name": "Verbesserte Bewaffnung",
+              "requirement": "Finde und benutze einen magischen Amboss"
             }
           ]
         },
         {
-          "title": "Mehr Hüte",
-          "tags": [
-            "Kosmetisch"
-          ],
-          "description": "Fügt zusätzliche Hutfarboptionen für Gnome hinzu.",
-          "colors": [
-            "Blau",
-            "Grün",
-            "Orange",
-            "Lila",
-            "Schwarz",
-            "Rot"
+          "section": "Quests, Zauber und Überleben",
+          "entries": [
+            {
+              "name": "Fleißiger Held",
+              "requirement": "Schließe 10 Nebenquests ab"
+            },
+            {
+              "name": "Ein Zauber für alle Gelegenheiten",
+              "requirement": "Lerne 5 Zauber"
+            },
+            {
+              "name": "Strategischer Rückzug",
+              "requirement": "Benutze ein Stadtportal mit weniger als 10 % verbleibender Gesundheit"
+            },
+            {
+              "name": "Dem Tod trotzen",
+              "requirement": "Wähle dein SCHICKSAL"
+            },
+            {
+              "name": "Dungeon-Experte",
+              "requirement": "Erreiche Level 35 in jedem Dungeon"
+            },
+            {
+              "name": "Der Unsterbliche",
+              "requirement": "Erreiche Level 20 mit einem Hardcore-Charakter"
+            }
           ]
         },
         {
-          "title": "DOOM im Fernsehen",
-          "tags": [
-            "Spaß",
-            "Minispiel"
-          ],
-          "description": "Spiele das Original-DOOM auf einem In-Game-Fernseher, wobei der Ton über den TV-Lautsprecher kommt.",
-          "highlights": [
-            "Funktioniert im Mehrspieler, sodass andere Spieler auf demselben Fernseher zusehen können",
-            "Enthält die Shareware-DOOM-Episodendaten (Episode 1)"
+          "section": "Haustiere, Angeln und Beschwörungen",
+          "entries": [
+            {
+              "name": "Glückliches Tier, glücklicher Besitzer",
+              "requirement": "Füttere dein Haustier mit 5 verschiedenen Fischen"
+            },
+            {
+              "name": "Es gibt kein Ich im Team",
+              "requirement": "Lass dein Haustier 25 Mal Gegner töten"
+            },
+            {
+              "name": "Meisterangler",
+              "requirement": "Fange alle Fischarten"
+            },
+            {
+              "name": "Grate Protector",
+              "requirement": "Fange Perontos Cheesehead aus der Emerald Bay"
+            },
+            {
+              "name": "Ich wähle dich!",
+              "requirement": "Beschwöre 6 verschiedene Monster"
+            }
+          ]
+        },
+        {
+          "section": "Kampf, Edelsteine und Vermächtnis",
+          "entries": [
+            {
+              "name": "Alle mal herhören",
+              "requirement": "Töte 5 Gegner gleichzeitig"
+            },
+            {
+              "name": "Schneller Sieg",
+              "requirement": "Töte 10 Gegner in 45 Sekunden"
+            },
+            {
+              "name": "Monster-Hunter",
+              "requirement": "Besiege 100 Gegner"
+            },
+            {
+              "name": "Vielseitiger Schlächter",
+              "requirement": "Besiege 10 Bosse mit 4 verschiedenen Waffenklassen"
+            },
+            {
+              "name": "Alles, was glänzt",
+              "requirement": "Erbeute jede Art von Edelstein"
+            },
+            {
+              "name": "Der Weg geht weiter",
+              "requirement": "Erstelle einen Nachkommen"
+            }
           ]
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Lucid Blocks Controller-Unterstützung",
-      "subtitle": "Volle Gamepad-Steuerung",
-      "native": {
-        "title": "In-Game-Einstellungen",
-        "description": "Verwende die Bindungs-/Einstellungsmenüs des Spiels, um die Steuerung anzupassen."
-      },
-      "mod": {
-        "title": "Controller-Support-Mod",
-        "description": "Fügt vollständige Gamepad-/Controller-Unterstützung und einen UI-Cursor für die Menünavigation hinzu."
-      },
-      "features": [
-        "Volle Gameplay-Steuerung: Bewegung, Kamera, Kampf, Interaktionen und Fähigkeiten, die dem Gamepad zugeordnet sind",
-        "UI-Cursor-Navigation: Ein weißer Kreiscursor erscheint in Menüs; drücke A, um zu klicken und Schieberegler zu ziehen",
-        "Inventarnavigation: Halte Select gedrückt, um das Inventar zu öffnen; verwende den rechten Stick, um zu navigieren, während du ihn hältst",
-        "Scrollbare Menüs: Der rechte Stick scrollt durch Crafting-Rezepte, Einstellungen und andere scrollbare UI-Bereiche",
-        "Hotbar-Cycling: D-Pad links/rechts wechselt durch 4 Hotbar-Slots",
-        "Nahtlose Eingabeumschaltung: Erkennt automatisch Tastatur/Maus vs. Controller"
+    "reawakendCheatsGuide": {
+      "title": "Reawakened Cheats und Konsolenbefehle",
+      "eyebrow": "Legacy-Befehle",
+      "intro": "Reawakened übernimmt klassische Cheat-Eingaben aus den ursprünglichen FATE-Spielen. Diese Befehle decken die Standard-Fortschrittsabkürzungen, Spawn-Werkzeuge und Karten-Utilities ab, die am nützlichsten sind, um Builds zu testen oder Inhalte ohne langes Grinden erneut zu besuchen.",
+      "cards": [
+        {
+          "cardTitle": "Eingabeaufforderung öffnen",
+          "openInput": "Original FATE & The Cursed King: Strg + Umschalt + ~  |  Undiscovered Realms: Strg + Umschalt + - und klicke dann auf das ? auf der linken Seite",
+          "commands": [
+            {
+              "code": "Strg + Umschalt + ~",
+              "effect": "Öffnet die Cheat-Eingabe in Original FATE und The Cursed King"
+            },
+            {
+              "code": "Strg + Umschalt + -",
+              "effect": "Öffnet den Eingabefluss in Undiscovered Realms"
+            }
+          ],
+          "note": "In The Cursed King läuft das Spiel weiter, während du tippst, also gib Befehle in einem sicheren Bereich ein."
+        },
+        {
+          "cardTitle": "Etagen-Steuerung",
+          "openInput": "Nutze die passende Eingabeaufforderung für das Spiel, in dem du dich befindest",
+          "commands": [
+            {
+              "code": "Ascend #",
+              "effect": "Gehe eine gewählte Anzahl von Dungeon-Etagen nach oben"
+            },
+            {
+              "code": "Descend #",
+              "effect": "Gehe eine gewählte Anzahl von Dungeon-Etagen nach unten"
+            }
+          ],
+          "note": "Ersetze # durch eine Zahl."
+        },
+        {
+          "cardTitle": "Level, Ruhm und schneller Fortschritt",
+          "openInput": "Nutze die passende Eingabeaufforderung für das Spiel, in dem du dich befindest",
+          "commands": [
+            {
+              "code": "Fame",
+              "effect": "Ruhm hinzufügen"
+            },
+            {
+              "code": "Experience",
+              "effect": "Erfahrung in unterstützten Spielen hinzufügen"
+            },
+            {
+              "code": "Levelup",
+              "effect": "Ein Level aufsteigen"
+            },
+            {
+              "code": "God",
+              "effect": "Erhalte einen großen Level-Sprung und zusätzliche Statuspunkte in unterstützten Spielen"
+            }
+          ],
+          "note": "Befehlsnamen und genaue Belohnungen unterscheiden sich leicht zwischen den Spielen."
+        },
+        {
+          "cardTitle": "Gold und Erholung",
+          "openInput": "Nutze die passende Eingabeaufforderung für das Spiel, in dem du dich befindest",
+          "commands": [
+            {
+              "code": "Gold",
+              "effect": "Eine große Menge Gold hinzufügen"
+            },
+            {
+              "code": "Heal",
+              "effect": "Gesundheit wiederherstellen"
+            }
+          ],
+          "note": "Schnellste Utility-Befehle für Einkäufe, Erholung und reibungsloses Testen."
+        },
+        {
+          "cardTitle": "Gegenstände und Monster spawnen",
+          "openInput": "Nutze die passende Eingabeaufforderung für das Spiel, in dem du dich befindest",
+          "commands": [
+            {
+              "code": "[Gegenstandsname]",
+              "effect": "Spawne einen Gegenstand in deiner Nähe in Original FATE"
+            },
+            {
+              "code": "[Kreaturenname]",
+              "effect": "Spawne eine Kreatur in deiner Nähe in Original FATE"
+            },
+            {
+              "code": "spawn (gegenstandsname)",
+              "effect": "Spawne einen Gegenstand in The Cursed King"
+            },
+            {
+              "code": "weapons",
+              "effect": "Beschwöre Skelette mit Waffen in The Cursed King"
+            }
+          ],
+          "note": "In Original FATE erzeugt das Beschwören von 'Cat' oder 'Terrier' ein Haustier statt eines feindseligen Gegners."
+        },
+        {
+          "cardTitle": "Karten- und Welt-Utilities",
+          "openInput": "Original FATE: Strg + Umschalt + ~",
+          "commands": [
+            {
+              "code": "discoverall",
+              "effect": "Enthülle die aktuelle Dungeon-Karte"
+            },
+            {
+              "code": "Dumpmap",
+              "effect": "Schreibe eine Textbeschreibung der aktuellen Karte in maze.txt"
+            },
+            {
+              "code": "Magic Anvil",
+              "effect": "Erzeuge einen magischen Amboss"
+            },
+            {
+              "code": "Fate Statue / Shrine Of Learning",
+              "effect": "Erzeuge spezielle interaktive Weltobjekte"
+            }
+          ],
+          "note": "Einige gespawnte Objekte sind praktische Werkzeuge, während andere hauptsächlich zum Experimentieren nützlich sind."
+        },
+        {
+          "cardTitle": "Undiscovered Realms Admin-Shortcuts",
+          "openInput": "Undiscovered Realms: Strg + Umschalt + - und klicke dann auf das ?",
+          "commands": [
+            {
+              "code": "HEROITEMS",
+              "effect": "Zeige an, auf welchen Ebenen sich die Heldengegenstände befinden"
+            },
+            {
+              "code": "REQUEST 'name'",
+              "effect": "Gib diesem Questgeber eine neue Quest"
+            },
+            {
+              "code": "AMNESIA",
+              "effect": "Zurück in die Stadt"
+            }
+          ],
+          "note": "Dies sind die nützlichsten Befehle, die exklusiv in Undiscovered Realms verfügbar sind."
+        },
+        {
+          "cardTitle": "Kosmetische und kuriose Befehle",
+          "openInput": "Original FATE: Strg + Umschalt + ~",
+          "commands": [
+            {
+              "code": "Blood",
+              "effect": "Benutze Blut statt Sterne"
+            },
+            {
+              "code": "Noblood",
+              "effect": "Schalte Blut zurück auf Sterne"
+            },
+            {
+              "code": "Weapon Rack / Small Chest / Large Chest",
+              "effect": "Spawne Requisiten-Objekte mit gemischter Funktionalität"
+            }
+          ],
+          "note": "Einige Requisiten können nicht normal aktiviert oder geöffnet werden, besonders in der Stadt."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Lucid Blocks Spielerzahl & Trend",
-      "subtitle": "Live-Popularitäts-Schnappschuss",
-      "stats": {
-        "now": {
-          "value": "6.047",
-          "label": "Spieler gerade jetzt"
-        },
-        "peak24h": {
-          "value": "13.859",
-          "label": "24-Stunden-Peak"
-        },
-        "allTimePeak": {
-          "value": "15.272",
-          "label": "Allzeit-Peak"
-        }
-      },
-      "milestones": [
+    "reawakendSteamDeckGuide": {
+      "title": "Reawakened Steam Deck und Controller-Guide",
+      "eyebrow": "Handheld-Spiel",
+      "intro": "Reawakened unterstützt offiziell Steam Deck und das Spielen mit Controller am PC. Dieser Guide kombiniert den offiziellen Support-Status mit praktischen Community-Erkenntnissen zu UI-Eigenheiten, Zielverhalten und Workarounds für ein reibungsloses Handheld-Erlebnis.",
+      "sections": [
         {
-          "date": "30. Jan. 2026",
-          "title": "Demo auf Steam veröffentlicht",
-          "detail": "Öffentliche Demo wurde auf PC (Steam) verfügbar."
+          "section": "Offizieller Support",
+          "entries": [
+            {
+              "label": "Steam Deck Unterstützung",
+              "detail": "Offizielle FAQ bestätigt, dass Reawakened auf dem Steam Deck spielbar ist."
+            },
+            {
+              "label": "PC-Controller-Unterstützung",
+              "detail": "Offizielle FAQ bestätigt volle Controller-Unterstützung am PC."
+            },
+            {
+              "label": "Widescreen-Unterstützung",
+              "detail": "Offizielle FAQ bestätigt, dass Breitbildformate unterstützt werden."
+            },
+            {
+              "label": "UI für kleine Bildschirme optimiert",
+              "detail": "Viele UI-Änderungen wurden vorgenommen, da das Spiel für Konsolen-Controller, Switch und Steam Deck optimiert wurde."
+            }
+          ]
         },
         {
-          "date": "8. Feb. 2026",
-          "title": "Allzeit-Peak erreicht",
-          "detail": "Die Demo erreichte ihre höchste aufgezeichnete Anzahl gleichzeitiger Spieler."
+          "section": "Steuerung und Layout",
+          "entries": [
+            {
+              "label": "Steam Deck Layout",
+              "detail": "Steam Deck verwendet dasselbe Controller-Layout, das für das Spielen mit Gamepad am PC angezeigt wird."
+            },
+            {
+              "label": "Tasten-Prompts",
+              "detail": "Controller-Prompts werden als Tasten im Xbox-Stil angezeigt."
+            },
+            {
+              "label": "In-Game-Neubelegung",
+              "detail": "Die Steuerung kann nicht in den Spielmenüs neu zugewiesen werden."
+            },
+            {
+              "label": "Wo man Eingaben prüft",
+              "detail": "Nutze zuerst das Steuerungsmenü im Spiel und passe alles Weitere bei Bedarf über Steam Input an."
+            }
+          ]
+        },
+        {
+          "section": "Bekannte Eigenheiten auf Deck und Controller",
+          "entries": [
+            {
+              "label": "Problem mit kleiner Schrift",
+              "detail": "Bei 1280 x 800 kann Text schwerer lesbar sein, da es keine Option für die UI-Größe im Spiel gibt."
+            },
+            {
+              "label": "Menü-Cursor-Drift",
+              "detail": "Steam-Deck-Spieler berichten, dass der Cursor bei Verwendung der Trackpads über Menüziele hinausschießen kann."
+            },
+            {
+              "label": "Ziel-Feedback",
+              "detail": "Zielkreise erscheinen bei Verwendung eines Controllers nicht auf Gegnern."
+            },
+            {
+              "label": "Zielen mit Fernkampf und Zaubern",
+              "detail": "Das Anvisieren kann sehr spät erfolgen, besonders bei Zaubern oder Fernkampf."
+            },
+            {
+              "label": "Interaktion mit NPCs",
+              "detail": "Eng beieinander stehende NPCs können schwierig anzuvisieren sein – geh weg und nähere dich erneut dem gewünschten NPC zugewandt."
+            }
+          ]
+        },
+        {
+          "section": "Nützliche Fixes und Gewohnheiten",
+          "entries": [
+            {
+              "label": "Steam Input Workaround",
+              "detail": "Nutze die Startoption: SteamDeck=0 %command% --force-grab-cursor"
+            },
+            {
+              "label": "Controller-Remap-Weg",
+              "detail": "Nutze das Steam Deck Controller-Konfigurationsmenü, anstatt nach einem In-Game-Menü zur Neubelegung zu suchen."
+            },
+            {
+              "label": "Tipp zur Build-Wahl",
+              "detail": "Nahkampf und allgemeiner Fortschritt fühlen sich mit dem Controller flüssiger an als präzisionslastige Fernkampf- oder Angriffszauber-Setups."
+            },
+            {
+              "label": "Portal-Positionierung",
+              "detail": "Wenn du ein Stadtportal benutzt, wende dich von Treppen oder Händlern ab, um ungeschicktes Clipping in der Nähe von interaktiven NPCs zu vermeiden."
+            }
+          ]
         }
       ]
     }
@@ -790,196 +1669,196 @@
   "faq": {
     "title": "Häufig gestellte",
     "titleHighlight": "Fragen",
-    "subtitle": "Alles, was du über Lucid Blocks wissen musst",
+    "subtitle": "Alles, was du über Reawakened wissen musst",
     "questions": [
       {
-        "question": "Wie lade ich die Lucid Blocks Demo herunter?",
-        "answer": "Besuche die Steam Store Seite und klicke auf \"Demo herunterladen\". Die Demo ist kostenlos und erfordert 2,62 GiB zum Herunterladen, 4,88 GiB Festplattenspeicher."
+        "question": "Was ist Reawakened auf Roblox?",
+        "answer": "Reawakened ist ein von Solo Leveling inspiriertes Roblox-RPG von Vayron Studios. Kämpfe dich durch Rang-Gates, wähle eine Klasse, entwickle deine Traits und steige in den Hunter-Rängen auf – in einem düsteren Anime-Dungeon-Kampfspiel."
       },
       {
-        "question": "Kann ich Lucid Blocks solo spielen oder brauche ich Freunde?",
-        "answer": "Lucid Blocks unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
+        "question": "Wie löse ich Codes in Reawakened ein?",
+        "answer": "Öffne das Menü im Spiel, tippe auf die Schaltfläche „Codes“, gib den Code genau wie angegeben ein und drücke auf „Bestätigen“. Bei Codes muss die Groß- und Kleinschreibung beachtet werden und sie sind nur begrenzt verwendbar."
       },
       {
-        "question": "Was sind High-Gnome-Aufgaben in Lucid Blocks?",
-        "answer": "High-Gnome ist dein Boss, der Ziele wie \"zerstöre den Fernseher\", \"überflute die Toilette\" oder \"stehle bestimmte Gegenstände\" vergibt. Erledige sie für zusätzliche Belohnungen."
+        "question": "Was ist die beste Klasse in Reawakened?",
+        "answer": "Der Magier hat die höchste Geschwindigkeit beim Abschließen von Gates für Solo-Farming. Der Krieger ist aufgrund seiner hohen Basis-LP und seines unkomplizierten Spielstils die einfachste Klasse für Anfänger."
       },
       {
-        "question": "Wie installiere ich Mods für Lucid Blocks?",
-        "answer": "Installiere BepInEx 5, starte das Spiel einmal und platziere dann Mod-DLLs im Ordner BepInEx/plugins/. Alle Spieler benötigen die gleichen Mods für den Mehrspieler."
+        "question": "Ist Reawakened kostenlos spielbar?",
+        "answer": "Ja. Reawakened ist auf Roblox kostenlos spielbar. Einige kosmetische Gegenstände sind möglicherweise für Robux erhältlich, aber das gesamte Kern-Gameplay, einschließlich Klassen, Gates und Traits, ist kostenlos."
       },
       {
-        "question": "Unterstützt Lucid Blocks Controller?",
-        "answer": "Ja! Verwende die In-Game-Einstellungen für grundlegende Controller-Unterstützung oder installiere den Controller Mod von Nexus Mods für vollständige UI-Navigation."
+        "question": "Was sind Traits in Reawakened?",
+        "answer": "Traits sind passive Attribut-Modifikatoren, die mit deinen Klassenfähigkeiten stapelbar sind. Es gibt sie in den Kategorien Offensive, Defensive, Utility und Selten. Du kannst Traits mit Gold neu auswürfeln, das du in Gates verdient hast."
       },
       {
-        "question": "Wie hoch ist die Spielerzahl für Lucid Blocks?",
-        "answer": "Stand Februar 2026 verzeichnet Lucid Blocks durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
+        "question": "Wie schalte ich höherrangige Gates in Reawakened frei?",
+        "answer": "Erreiche den erforderlichen Hunter-Rang, indem du EP in deiner aktuellen Gate-Stufe farmst, und schließe dann die Aufstiegs-Herausforderung ab, um in die nächste Stufe aufzusteigen und schwerere Gates freizuschalten."
       }
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
+    "title": "Bereit, Reawakened zu spielen?",
+    "description": "Tritt der Reawakened-Community auf Discord bei, um Guides, Updates und Diskussionen zu finden!",
     "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "joinGame": "Auf Roblox spielen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "Reawakened Wiki",
+    "description": "Dein umfassendes Ressourcen-Hub für Reawakened-Codes, Klassen, Traits, Pfade, Tore, Ausrüstung, Leveling und Boss-Guides.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
-    "about": "Über uns",
-    "privacy": "Datenschutzrichtlinie",
+    "twitter": "YouTube",
+    "steamCommunity": "Vayron Studios",
+    "steamStore": "Spiele auf Roblox",
+    "about": "Über",
+    "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
-    "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
-    "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Reawakened Wiki. Nicht verbunden mit Vayron Studios oder Roblox.",
+    "disclaimer": "Inoffizielle, von Fans erstellte Ressourcen-Website."
   },
   "pages": {
     "codes": {
-      "title": "Reawakened Codes",
-      "description": "Alle aktiven Reawakened Codes mit Belohnungen, Ablaufdatum und Schritt-für-Schritt-Anleitungen zum Einlösen.",
-      "metaTitle": "Reawakened Codes - Aktive Codes & Belohnungen",
-      "metaDescription": "Vollständige Liste aktiver Reawakened Codes mit aufgelisteten Belohnungen. Erfahre, wie du Codes einlöst und wo du neue Drops für dieses Roblox RPG findest.",
-      "categoryLabel": "KOSTENLOSE CODES",
-      "whatIs": "Was sind Reawakened Codes?",
-      "whatIsDescription": "Reawakened Codes sind zeitlich begrenzt nutzbare Belohnungen, die von Vayron Studios während Updates und Events veröffentlicht werden. Löse sie im In-Game-Menü gegen kostenlose XP-Boosts, Stat-Chips und Klassenreserven ein, um deinen Fortschritt zu beschleunigen.",
-      "why": "Warum Reawakened Codes einlösen?",
+      "title": "Reawakened-Codes",
+      "description": "Alle aktiven Reawakened-Codes mit Belohnungen, Ablaufdaten und Schritt-für-Schritt-Anleitungen zum Einlösen.",
+      "metaTitle": "Reawakened-Codes - Aktive Einlösecodes & Belohnungen",
+      "metaDescription": "Vollständige Liste aktiver Reawakened-Codes mit allen Belohnungen. Erfahre, wie du Codes einlöst und wo du neue Drops für dieses Roblox-RPG findest.",
+      "categoryLabel": "GRATIS-CODES",
+      "whatIs": "Was sind Reawakened-Codes?",
+      "whatIsDescription": "Reawakened-Codes sind zeitlich begrenzt nutzbare Belohnungs-Strings, die von Vayron Studios während Updates und Events veröffentlicht werden. Löse sie im In-Game-Menü ein, um kostenlose EP-Boosts, Status-Chips und Klassenreserven zu erhalten und deinen Fortschritt zu beschleunigen.",
+      "why": "Warum sollte man Reawakened-Codes einlösen?",
       "whySteps": {
-        "step1Title": "Kostenlose XP-Boosts",
-        "step1Description": "Codes enthalten oft XP-Multiplikatoren, die den frühen Rang-Fortschritt beschleunigen",
-        "step2Title": "Stat-Boni",
-        "step2Description": "Hol dir kostenlose Angriffs-, Verteidigungs- oder Utility-Stat-Buffs, um deinen Build zu stärken",
+        "step1Title": "Kostenlose EP-Boosts",
+        "step1Description": "Codes enthalten oft EP-Multiplikatoren, die den frühen Rangaufstieg beschleunigen.",
+        "step2Title": "Status-Boni",
+        "step2Description": "Sichere dir kostenlose Angriffs-, Verteidigungs- oder Utility-Buffs, um deinen Build zu stärken.",
         "step3Title": "Klassenreserven",
-        "step3Description": "Schalte Klassenwechsel-Token frei, damit du deinen Spielstil ändern kannst, ohne den Fortschritt zu verlieren"
+        "step3Description": "Schalte Klassenwechsel-Token frei, damit du deinen Spielstil ändern kannst, ohne Fortschritte zu verlieren."
       },
-      "featured": "Vorgestellt & Aktiv",
+      "featured": "Hervorgehoben & Aktiv",
       "all": "Alle Codes"
     },
     "guide": {
-      "title": "Reawakened Guide",
-      "description": "Vollständige Reawakened Guides mit Tipps für Anfänger, den schnellsten Leveling-Routen, Klassenstrategien und dem Fortschritt im Early-Game für dieses Roblox RPG.",
-      "metaTitle": "Reawakened Guide - Tipps für Anfänger, Leveling & Fortschritt",
-      "metaDescription": "Meistere Reawakened mit umfassenden Guides zu Leveling, Klassenauswahl, Gate-Strategien und Trait-Optimierung für neue und erfahrene Spieler.",
+      "title": "Reawakened-Guide",
+      "description": "Vollständige Reawakened-Guides mit Einsteiger-Tipps, den schnellsten Level-Routen, Klassenstrategien und dem Fortschritt im Early-Game für dieses Roblox-RPG.",
+      "metaTitle": "Reawakened-Guide - Einsteiger-Tipps, Leveling & Fortschritt",
+      "metaDescription": "Meistere Reawakened mit umfassenden Guides zu Leveling, Klassenauswahl, Gate-Strategien und Merkmalsoptimierung für neue und erfahrene Spieler.",
       "categoryLabel": "SPIEL-GUIDES",
-      "whatIs": "Was sind Reawakened Guides?",
-      "whatIsDescription": "Reawakened Guides decken alles ab, von deinem ersten Gate-Run bis zur fortgeschrittenen Build-Optimierung. Erfahre, wie Klassen, Trait, Path und Dungeon zusammenwirken, um den mächtigsten Hunter zu erschaffen.",
-      "why": "Warum Reawakened Guides lesen?",
+      "whatIs": "Was sind Reawakened-Guides?",
+      "whatIsDescription": "Reawakened-Guides decken alles ab – von deinem ersten Gate-Run bis zur fortgeschrittenen Build-Optimierung. Erfahre, wie Klassen, Merkmale, Pfade und Dungeons zusammenwirken, um den mächtigsten Jäger zu erschaffen.",
+      "why": "Warum sollte man Reawakened-Guides lesen?",
       "whySteps": {
         "step1Title": "Kernmechaniken lernen",
-        "step1Description": "Verstehe, wie Gate, Trait und Ränge zusammenwirken, um häufige Fehler zu vermeiden",
+        "step1Description": "Verstehe, wie Gates, Merkmale und Ränge zusammenspielen, um häufige Fehler zu vermeiden.",
         "step2Title": "Schneller Fortschritt",
-        "step2Description": "Folge bewährten Leveling-Pfaden, um Endgame-Inhalte effizient zu erreichen",
+        "step2Description": "Folge bewährten Level-Pfaden, um effizient die Endgame-Inhalte zu erreichen.",
         "step3Title": "Meistere deinen Build",
-        "step3Description": "Entwickle fortgeschrittene Taktiken zur Optimierung deiner Klassen- und Trait-Kombination"
+        "step3Description": "Entwickle fortgeschrittene Taktiken zur Optimierung deiner Klassen- und Merkmalskombination."
       },
-      "featured": "Vorgestellte Guides",
+      "featured": "Hervorgehobene Guides",
       "all": "Alle Guides"
     },
     "build": {
-      "title": "Reawakened Build",
-      "description": "Die besten Reawakened Builds für jede Klasse inklusive Assassin, die besten Klassen-Rankings und Charakter-Showcases für dieses Roblox RPG.",
-      "metaTitle": "Reawakened Build - Beste Klassen, Assassin & Klassen-Tier-List",
-      "metaDescription": "Entdecke die besten Reawakened Builds für jede Klasse. Erkunde Assassin-Builds, Klassen-Tier-Listen und detaillierte Showcases, um Dungeon Gate zu dominieren.",
+      "title": "Reawakened-Build",
+      "description": "Beste Reawakened-Builds für jede Klasse inklusive Assassine, Ranglisten der besten Klassen und Charakter-Showcases für dieses Roblox-RPG.",
+      "metaTitle": "Reawakened-Build - Beste Klassen, Assassine & Klassen-Tier-Liste",
+      "metaDescription": "Entdecke die besten Reawakened-Builds für jede Klasse. Erkunde Assassinen-Builds, Klassen-Tier-Listen und detaillierte Showcases, um die Dungeon-Gates zu dominieren.",
       "categoryLabel": "KLASSEN-BUILDS",
-      "whatIs": "Was sind Reawakened Builds?",
-      "whatIsDescription": "Reawakened Builds definieren deinen Spielstil durch die Kombination von Klassenauswahl, Trait, Stat-Verteilung und Ausrüstung. Ein gut optimierter Build lässt dich Gate schneller abschließen und schwierigere Inhalte mit Zuversicht meistern.",
-      "why": "Warum deinen Reawakened Build optimieren?",
+      "whatIs": "Was sind Reawakened-Builds?",
+      "whatIsDescription": "Reawakened-Builds definieren deinen Spielstil durch die Kombination von Klassenauswahl, Merkmalen, Statuswerte-Verteilung und Ausrüstung. Ein gut optimierter Build lässt dich Gates schneller abschließen und schwierigere Inhalte souverän meistern.",
+      "why": "Warum sollte man seinen Reawakened-Build optimieren?",
       "whySteps": {
         "step1Title": "Schadensausstoß maximieren",
-        "step1Description": "Synergiere Klassenfähigkeiten mit Trait, um in Gate-Begegnungen maximalen Schaden zu verursachen",
-        "step2Title": "Wähle die richtige Klasse",
-        "step2Description": "Vergleiche Klassen-Tier-Rankings, um die stärkste Option für deinen Spielstil zu wählen",
-        "step3Title": "Dominiere jedes Gate",
-        "step3Description": "Optimierte Builds ermöglichen es dir, schwerere Dungeon für besseren Loot und schnellere XP abzuschließen"
+        "step1Description": "Nutze Synergien zwischen Klassenfähigkeiten und Merkmalen, um in Gate-Begegnungen maximalen Schaden anzurichten.",
+        "step2Title": "Die richtige Klasse wählen",
+        "step2Description": "Vergleiche Klassen-Rankings, um die stärkste Option für deinen Spielstil zu finden.",
+        "step3Title": "Jedes Gate dominieren",
+        "step3Description": "Optimierte Builds ermöglichen es dir, schwerere Dungeons für besseren Loot und schnellere EP zu klären."
       },
-      "featured": "Top Builds",
+      "featured": "Top-Builds",
       "all": "Alle Build-Guides"
     },
     "equipment": {
-      "title": "Reawakened Equipment",
-      "description": "Vollständiger Guide zu Reawakened Equipment inklusive Waffen wie Dual Daggers, Gear-Stats, Drop-Locations und Upgrade-Pfaden.",
-      "metaTitle": "Reawakened Equipment - Waffen, Gear-Stats & Drop-Locations",
-      "metaDescription": "Vollständiger Reawakened Equipment Guide über Waffen, Gear-Tiers, Stat-Vergleiche und wo man die besten Drops für deinen Klassen-Build farmt.",
-      "categoryLabel": "GEAR & WAFFEN",
-      "whatIs": "Was ist Reawakened Equipment?",
-      "whatIsDescription": "Reawakened Equipment umfasst Waffen, Rüstungen und Accessoires, die deine Kampfkraft definieren. Jedes Teil hat einzigartige Stat-Boni und synergiert unterschiedlich mit Klassenfähigkeiten und Trait-Builds.",
-      "why": "Warum Reawakened Equipment upgraden?",
+      "title": "Reawakened-Ausrüstung",
+      "description": "Vollständiger Guide zur Reawakened-Ausrüstung, einschließlich Waffen wie Doppeldolche, Ausrüstungswerte, Drop-Standorte und Upgrade-Pfade.",
+      "metaTitle": "Reawakened-Ausrüstung - Waffen, Gear-Stats & Drop-Standorte",
+      "metaDescription": "Vollständiger Reawakened-Ausrüstungs-Guide über Waffen, Ausrüstungs-Tiers, Statuswerte-Vergleiche und wo man die besten Drops für seinen Klassen-Build farmt.",
+      "categoryLabel": "AUSRÜSTUNG & WAFFEN",
+      "whatIs": "Was ist Reawakened-Ausrüstung?",
+      "whatIsDescription": "Zur Reawakened-Ausrüstung gehören Waffen, Rüstungen und Accessoires, die deine Kampfkraft definieren. Jedes Teil bietet einzigartige Status-Boni und harmoniert unterschiedlich mit Klassenfähigkeiten und Merkmals-Builds.",
+      "why": "Warum sollte man Reawakened-Ausrüstung upgraden?",
       "whySteps": {
-        "step1Title": "Kampfkraft erhöhen",
-        "step1Description": "Besseres Gear steigert direkt deinen Schaden, deine Verteidigung und die Geschwindigkeit beim Abschließen von Gate",
-        "step2Title": "Passend zu deiner Klasse",
-        "step2Description": "Nutze klassenspezifische Waffen, um die Effektivität deiner Fähigkeiten zu maximieren",
+        "step1Title": "Kampfkraft steigern",
+        "step1Description": "Bessere Ausrüstung erhöht direkt deinen Schaden, deine Verteidigung und deine Geschwindigkeit beim Klären von Gates.",
+        "step2Title": "Passend zur Klasse",
+        "step2Description": "Nutze klassenspezifische Waffen, um die Effektivität deiner Fähigkeiten zu maximieren.",
         "step3Title": "Endgame-Inhalte freischalten",
-        "step3Description": "High-Tier Gear ist erforderlich, um fortgeschrittene Gate zu betreten und Elite-Bosse herauszufordern"
+        "step3Description": "Hochwertige Ausrüstung ist erforderlich, um fortgeschrittene Gates zu betreten und Elite-Bosse herauszufordern."
       },
-      "featured": "Vorgestelltes Equipment",
+      "featured": "Hervorgehobene Ausrüstung",
       "all": "Alle Ausrüstungsgegenstände"
     },
     "launch": {
-      "title": "Reawakened Launch",
-      "description": "Reawakened Release-Datum, Playtest-Details, offizielle Trailer und Launch-News für dieses neue Roblox RPG von Vayron Studios.",
-      "metaTitle": "Reawakened Launch - Release-Datum, Playtest & offizieller Trailer",
-      "metaDescription": "Alles über den Reawakened Launch: Release-Datum, Playtest-Zeitplan, offizieller Trailer und Early-Access-Details für dieses Roblox Dungeon RPG.",
+      "title": "Reawakened-Launch",
+      "description": "Reawakened Veröffentlichungsdatum, Playtest-Details, offizielle Trailer und Launch-News für dieses neue Roblox-RPG von Vayron Studios.",
+      "metaTitle": "Reawakened-Launch - Veröffentlichungsdatum, Playtest & Offizieller Trailer",
+      "metaDescription": "Alles über den Reawakened-Launch: Release-Datum, Playtest-Zeitplan, offizieller Trailer und Early-Access-Details für dieses Roblox-Dungeon-RPG.",
       "categoryLabel": "LAUNCH-NEWS",
-      "whatIs": "Was ist der Reawakened Launch?",
-      "whatIsDescription": "Reawakened startete als Playtest auf Roblox von Vayron Studios. Das Spiel bietet ein von Solo Leveling inspiriertes Dungeon RPG-Erlebnis mit Klassen, Trait und Gate. Launch-News decken Release-Meilensteine, Playtest-Fenster und offizielle Ankündigungen ab.",
-      "why": "Warum Reawakened Launch-News verfolgen?",
+      "whatIs": "Was ist der Reawakened-Launch?",
+      "whatIsDescription": "Reawakened startete als Playtest auf Roblox von Vayron Studios. Das Spiel bietet ein von Solo Leveling inspiriertes Dungeon-RPG-Erlebnis mit Klassen, Merkmalen und Gates. Die Launch-News decken Meilensteine, Playtest-Zeitfenster und offizielle Ankündigungen ab.",
+      "why": "Warum sollte man die Reawakened-Launch-News verfolgen?",
       "whySteps": {
         "step1Title": "Early Access erhalten",
-        "step1Description": "Bleibe über Playtest-Fenster auf dem Laufenden, um einer der ersten Hunter in Reawakened zu sein",
+        "step1Description": "Bleibe über Playtest-Phasen auf dem Laufenden, um einer der ersten Jäger in Reawakened zu sein.",
         "step2Title": "Launch-Belohnungen sichern",
-        "step2Description": "Entwickler veröffentlichen oft exklusive Codes während des Launchs und bei Meilenstein-Events",
-        "step3Title": "Updates immer einen Schritt voraus",
-        "step3Description": "Verfolge Launch-News, um dich auf neue Inhalte, Klassen und Balance-Änderungen vorzubereiten"
+        "step2Description": "Entwickler veröffentlichen oft exklusive Codes während des Launchs und bei Meilenstein-Events.",
+        "step3Title": "Updates immer im Blick",
+        "step3Description": "Verfolge die Launch-News, um dich auf neue Inhalte, Klassen und Balance-Änderungen vorzubereiten."
       },
-      "featured": "Vorgestellte News",
+      "featured": "Hervorgehobene News",
       "all": "Alle Launch-News"
     },
     "official-links": {
-      "title": "Reawakened Offizielle Links",
-      "description": "Offizielle Reawakened Links inklusive der Roblox Spielseite, dem Discord Server und der Trello Roadmap von Vayron Studios.",
-      "metaTitle": "Reawakened Offizielle Links - Roblox, Discord & Trello",
-      "metaDescription": "Finde alle offiziellen Reawakened Ressourcen: Spiele auf Roblox, tritt der Discord Community bei und sieh dir das Trello Board für die Roadmap und Updates an.",
+      "title": "Offizielle Reawakened-Links",
+      "description": "Offizielle Reawakened-Links inklusive der Roblox-Spielseite, dem Discord-Server und der Trello-Roadmap von Vayron Studios.",
+      "metaTitle": "Offizielle Reawakened-Links - Roblox, Discord & Trello",
+      "metaDescription": "Finde alle offiziellen Reawakened-Ressourcen: Spiele auf Roblox, tritt der Discord-Community bei und prüfe das Trello-Board für Roadmap und Updates.",
       "categoryLabel": "OFFIZIELLE RESSOURCEN",
-      "whatIs": "Was sind Reawakened Offizielle Links?",
-      "whatIsDescription": "Reawakened offizielle Links verbinden dich direkt mit den Entwickler-Ressourcen. Die Roblox Seite lässt dich das Spiel spielen, Discord ist der Ort, an dem die Community und Entwickler kommunizieren, und Trello zeigt die offizielle Entwicklungs-Roadmap.",
-      "why": "Warum Reawakened offizielle Links nutzen?",
+      "whatIs": "Was sind die offiziellen Reawakened-Links?",
+      "whatIsDescription": "Die offiziellen Reawakened-Links verbinden dich direkt mit den Ressourcen der Entwickler. Über die Roblox-Seite kannst du das Spiel spielen, auf Discord kommunizieren Community und Entwickler, und Trello zeigt die offizielle Entwicklungs-Roadmap.",
+      "why": "Warum sollte man offizielle Reawakened-Links nutzen?",
       "whySteps": {
         "step1Title": "Direkt spielen",
-        "step1Description": "Greife auf die offizielle Roblox Spielseite zu, um deine Reawakened Reise zu beginnen",
-        "step2Title": "Tritt der Community bei",
-        "step2Description": "Verbinde dich mit anderen Hunter auf Discord für Tipps, Code-Drops und Patch-Notes",
+        "step1Description": "Greife auf die offizielle Roblox-Spielseite zu, um deine Reise in Reawakened zu beginnen.",
+        "step2Title": "Der Community beitreten",
+        "step2Description": "Verbinde dich mit anderen Jägern auf Discord für Tipps, Code-Drops und Patch-Notizen.",
         "step3Title": "Entwicklung verfolgen",
-        "step3Description": "Überprüfe das Trello Board, um kommende Features und geplante Inhalts-Updates zu sehen"
+        "step3Description": "Prüfe das Trello-Board, um kommende Features und geplante Inhalts-Updates zu sehen."
       },
       "featured": "Wichtige Ressourcen",
       "all": "Alle offiziellen Links"
     },
     "tools": {
-      "title": "Reawakened Tools",
-      "description": "Reawakened Tools und Skripte für Farming-Automatisierung, AFK-Grinding und Effizienzoptimierung in diesem Roblox RPG.",
-      "metaTitle": "Reawakened Tools - Skripte, Farming & AFK-Automatisierung",
-      "metaDescription": "Entdecke Reawakened Tools und Skripte zur Optimierung deines Gameplays, zur Automatisierung des Farmings und zur Maximierung der Effizienz bei Gate-Runs und beim Leveling.",
+      "title": "Reawakened-Tools",
+      "description": "Reawakened-Tools und Skripte für Farming-Automatisierung, AFK-Grinding und Effizienzoptimierung in diesem Roblox-RPG.",
+      "metaTitle": "Reawakened-Tools - Skripte, Farming & AFK-Automatisierung",
+      "metaDescription": "Entdecke Reawakened-Tools und Skripte zur Optimierung deines Gameplays, zur Automatisierung von Farming und zur Maximierung der Effizienz bei Gate-Runs und beim Leveln.",
       "categoryLabel": "TOOLS & SKRIPTE",
-      "whatIs": "Was sind Reawakened Tools?",
-      "whatIsDescription": "Reawakened Tools umfassen Skripte und Automatisierungs-Setups, die von erfahrenen Spielern verwendet werden, um die Farming-Effizienz, das AFK-Leveling und das Sammeln von Ressourcen im Spiel zu optimieren.",
-      "why": "Warum Reawakened Tools nutzen?",
+      "whatIs": "Was sind Reawakened-Tools?",
+      "whatIsDescription": "Reawakened-Tools umfassen Skripte und Automatisierungs-Setups, die von erfahrenen Spielern genutzt werden, um die Farming-Effizienz, das AFK-Leveling und das Sammeln von Ressourcen im Spiel zu optimieren.",
+      "why": "Warum sollte man Reawakened-Tools nutzen?",
       "whySteps": {
-        "step1Title": "Repetitives Farming automatisieren",
-        "step1Description": "Richte AFK-Routinen ein, um XP und Ressourcen zu grinden, während du weg bist",
+        "step1Title": "Wiederholendes Farming automatisieren",
+        "step1Description": "Richte AFK-Routinen ein, um EP und Ressourcen zu sammeln, während du weg bist.",
         "step2Title": "Effizienz maximieren",
-        "step2Description": "Nutze Tools, um optimale Farming-Spots und Routen für dein Level zu identifizieren",
+        "step2Description": "Nutze Tools, um die optimalen Farming-Spots und Routen für dein Level zu identifizieren.",
         "step3Title": "Wettbewerbsfähig bleiben",
-        "step3Description": "Erfahrene Spieler nutzen Automatisierungstools, um sich einen Vorteil bei der Ressourcenansammlung zu verschaffen"
+        "step3Description": "Erfahrene Spieler nutzen Automatisierungstools, um sich einen Vorteil beim Sammeln von Ressourcen zu verschaffen."
       },
-      "featured": "Vorgestellte Tools",
+      "featured": "Hervorgehobene Tools",
       "all": "Alle Tools"
     }
   }

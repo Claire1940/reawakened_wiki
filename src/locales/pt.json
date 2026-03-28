@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "description": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricação, biomas, conquistas, sobrevivência, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "ogDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricação, Biomas e Conquistas",
-      "twitterDescription": "A Wiki de Lucid Blocks abrange fabricação, biomas, criaturas, itens, conquistas e dicas de sobrevivência para o sandbox de voxel surreal no Steam."
+      "title": "Wiki de Reawakened - Códigos, Classes e Guia de Dungeon",
+      "description": "A Wiki de Reawakened aborda códigos ativos, melhores classes, características, caminhos de progressão, masmorras, dicas de nivelamento e guias de início de jogo para este novo RPG de Roblox.",
+      "keywords": "Reawakened, Roblox, códigos, classes, características, masmorras, caminhos, nivelamento, guia",
+      "ogTitle": "Wiki de Reawakened - Códigos, Classes e Guia de Dungeon",
+      "ogDescription": "A Wiki de Reawakened aborda códigos ativos, melhores classes, características, caminhos de progressão, masmorras, dicas de nivelamento e guias de início de jogo para este novo RPG de Roblox.",
+      "twitterTitle": "Wiki de Reawakened - Códigos, Classes e Guia de Dungeon",
+      "twitterDescription": "A Wiki de Reawakened aborda códigos ativos, melhores classes, características, caminhos de progressão e masmorras para este novo RPG de Roblox."
     }
   },
   "nav": {
@@ -22,7 +22,7 @@
   "common": {
     "home": "Início",
     "more": "Mais",
-    "playNow": "Jogue no Steam",
+    "playNow": "Jogue no Roblox",
     "switchLanguage": "Alterar Idioma",
     "switchTheme": "Alterar Tema",
     "lightMode": "Modo Claro",
@@ -34,721 +34,1634 @@
     "readMore": "Leia Mais"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de Sobrevivência Voxel",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore biomas oníricos, combine itens com Apotheosis, construa livremente e sobreviva a criaturas estranhas neste sandbox surreal de mundo aberto no Steam.",
-    "getFreeCodesCTA": "Explore o Guia de Criação",
-    "playOnSteamCTA": "Jogue no Steam",
+    "badge": "RPG Roblox inspirado em Solo Leveling",
+    "title": "Wiki de Reawakened",
+    "description": "Lute através de portais, escolha uma classe, aprimore sua build e suba nos ranks de caçadores em um RPG Roblox de anime sombrio focado em progressão rápida e combate.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnSteamCTA": "Jogue no Roblox",
     "stats": {
       "stat1": {
-        "value": "1.325",
-        "label": "Jogadores Online"
+        "value": "86,6K+",
+        "label": "Total de Visitas"
       },
       "stat2": {
-        "value": "1.986",
-        "label": "Pico de CCU"
+        "value": "4,8K+",
+        "label": "Jogadores Ativos"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Avaliações Positivas"
+        "value": "2.234",
+        "label": "Favoritos"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Data de Lançamento"
+        "value": "12,7K+",
+        "label": "Membros do Estúdio"
       }
     }
   },
   "gameFeature": {
-    "title": "Jogabilidade de Lucid Blocks",
-    "description": "Explore biomas surreais, funda itens com Apotheosis e sobreviva a criaturas estranhas neste sandbox de voxel onírico no Steam."
+    "title": "Gameplay de Reawakened",
+    "description": "Lute através de portões, domine as habilidades da sua classe e suba nos rankings de caçador neste RPG de Roblox de anime em ritmo acelerado inspirado em Solo Leveling."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Tudo o que você precisa para explorar, criar e sobreviver em Lucid Blocks",
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Tudo o que você precisa para códigos, classes, portões e progressão em Reawakened",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Guia para Iniciantes",
-        "description": "Primeiros passos, exploração e progressão inicial"
+        "icon": "Gift",
+        "title": "Códigos de Reawakened",
+        "description": "Códigos de resgate ativos e lista de recompensas"
       },
       {
-        "icon": "Sparkles",
-        "title": "Criação de Apotheosis",
-        "description": "Sistema de fusão livre e receitas iniciais"
+        "icon": "Users",
+        "title": "Classes de Reawakened",
+        "description": "Todas as classes, funções e classificações de força"
       },
       {
-        "icon": "Hammer",
-        "title": "Ferramentas e Armas",
-        "description": "Frost Pick, Azrael, __PROTECTED_6a765cb2__ e mais"
+        "icon": "Zap",
+        "title": "Traits de Reawakened",
+        "description": "Efeitos de Trait, raridade e guia de reroll"
       },
       {
-        "icon": "Package",
-        "title": "Armazenamento e Inventário",
-        "description": "Cache Cubes, Armários e armazenamento de Qualia"
+        "icon": "Map",
+        "title": "Paths de Reawakened",
+        "description": "Caminhos de progressão e rotas de build"
       },
       {
-        "icon": "Home",
-        "title": "Qualia e Construção de Base",
-        "description": "Qualia Pessoal e configuração da base principal"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiões do Mundo",
-        "description": "Fog Meadow, Essence Morass e mais"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas e Inimigos",
-        "description": "Manikins, aranhas e como sobreviver"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipamento de Mobilidade",
-        "description": "__PROTECTED_6a765cb2__, Glider Glove, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo e Crescimento",
-        "description": "Progressão de sementes e coleta de materiais"
-      },
-      {
-        "icon": "Star",
-        "title": "Melhores Desbloqueios Iniciais",
-        "description": "Melhorias prioritárias para a primeira hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Rastreador de Conquistas",
-        "description": "Todas as 19 conquistas e condições de Steam"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "FAQ Singleplayer",
-        "description": "Dúvidas sobre plataforma, preço, cooperativo e idioma"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck e Controle",
-        "description": "Configuração do Proton 9.0.4 e dicas de controle"
-      },
-      {
-        "icon": "Settings",
-        "title": "Configurações e Acessibilidade",
-        "description": "Ocultar mãos, __PROTECTED_38625270__ e opções de exibição"
-      },
-      {
-        "icon": "Clock",
-        "title": "Atualizações e Notas de Patch",
-        "description": "Correções recentes e notas do roadmap"
+        "icon": "DoorOpen",
+        "title": "Gates de Reawakened",
+        "description": "Tipos de Gate, dificuldade e guia de saques"
       },
       {
         "icon": "Shield",
-        "title": "Correção de Travamentos",
-        "description": "Verificação de __PROTECTED_38625270__, caminho dos logs e relato de bugs"
+        "title": "Gear de Reawakened",
+        "description": "Armas, armaduras e níveis de equipamentos"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Leveling em Reawakened",
+        "description": "Rotas de nivelamento mais rápidas e dicas de XP"
+      },
+      {
+        "icon": "Skull",
+        "title": "Chefes de Reawakened",
+        "description": "Mecânicas de chefes, localizações e drops"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes de Reawakened",
+        "description": "Primeiros passos para novos caçadores"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Melhores Builds de Reawakened",
+        "description": "Principais builds por classe e estilo de jogo"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Ranks de Hunter em Reawakened",
+        "description": "Marcos de rank e desafios de subida de nível"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "FAQ de Reawakened",
+        "description": "Respostas para perguntas comuns"
+      },
+      {
+        "icon": "Bell",
+        "title": "Log de Atualizações de Reawakened",
+        "description": "Últimos patches e atualizações de conteúdo"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Dicas de Build de Reawakened",
+        "description": "Conselhos avançados de otimização de build"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Comunidade de Reawakened",
+        "description": "Discord, YouTube e links oficiais"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Dicas Iniciais de Reawakened",
+        "description": "Dicas fundamentais para progredir rápido"
+      },
+      {
+        "icon": "Fish",
+        "title": "Guia de Pesca de Reawakened",
+        "description": "Tamanhos de peixes, transformações de pets e ouro inicial"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Missões Secundárias de Reawakened",
+        "description": "Roteiro de missões, recompensas e estratégia de andares"
+      },
+      {
+        "icon": "Sword",
+        "title": "Guia de Armas de Reawakened",
+        "description": "Classes de armas, itens únicos e variantes Elite/Lendárias"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Guia de Feitiços de Reawakened",
+        "description": "Feitiços de ataque, defesa, charme e invocações"
+      },
+      {
+        "icon": "Gem",
+        "title": "Guia de Gemas de Reawakened",
+        "description": "Melhores gemas, pedras raras e prioridades de encaixe"
+      },
+      {
+        "icon": "Award",
+        "title": "Guia de Fama de Reawakened",
+        "description": "Fama, Renome e progressão de desbloqueio de equipamentos"
+      },
+      {
+        "icon": "Flame",
+        "title": "Guia de Endgame de Reawakened",
+        "description": "Picos de poder no final do jogo e farm de lendários"
+      },
+      {
+        "icon": "Download",
+        "title": "Importação de Personagem em Reawakened",
+        "description": "Como funciona a transferência entre os quatro jogos"
+      },
+      {
+        "icon": "Star",
+        "title": "Guia de Relíquias de Reawakened",
+        "description": "Aposente-se, passe relíquias adiante e fortaleça descendentes"
+      },
+      {
+        "icon": "Target",
+        "title": "Guia de Conquistas de Reawakened",
+        "description": "Lista completa de conquistas por categoria"
+      },
+      {
+        "icon": "Settings",
+        "title": "Guia de Cheats de Reawakened",
+        "description": "Comandos clássicos de console e referência de trapaças"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Guia de Steam Deck de Reawakened",
+        "description": "Configuração do Steam Deck, peculiaridades do controle e soluções alternativas"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Guia para Iniciantes de Lucid Blocks",
+    "reawakendBeginnerGuide": {
+      "title": "Guia de Iniciante Reawakened",
       "displayType": "steps",
-      "intro": "Comece aprendendo como a exploração, a fusão e a progressão se conectam. Lucid Blocks recompensa a experimentação, portanto, o progresso inicial vem da coleta de materiais incomuns, do teste de combinações e do desbloqueio de sua Qualia pessoal.",
+      "intro": "Comece sua jornada no Reawakened dominando o ciclo de caçador: entre em portões, colete saques, melhore sua classe e suba nos rankings. Cada sistema se baseia no anterior, então entender o básico cedo torna tudo mais fluido.",
       "steps": [
         {
-          "title": "Explore Antes de se Comprometer",
-          "description": "Caminhe para fora, mine blocos comuns e guarde quaisquer itens estranhos que encontrar. O progresso inicial foca menos em missões fixas e mais em descobrir no que os materiais podem se tornar."
+          "title": "Escolha Sua Classe",
+          "description": "Sua classe define seu papel no combate. O Mago causa dano mágico rápido, o Guerreiro absorve golpes na linha de frente, o Assassino explode alvos a curta distância, o Arqueiro ataca com segurança de longe e o Curandeiro dá suporte aos aliados. Iniciantes devem começar com Guerreiro ou Mago."
         },
         {
-          "title": "Desbloqueie sua Qualia Pessoal Cedo",
-          "description": "Sua Qualia pessoal é um dos marcos iniciais mais importantes. Ela oferece um lugar confiável para se reagrupar e construir ao redor."
+          "title": "Entre no Seu Primeiro Portão",
+          "description": "Portões são masmorras cronometradas com combate baseado em ondas e um chefe final. Comece em portões de ranking F para aprender as mecânicas. Limpe todas as ondas antes que o tempo acabe e derrote o chefe do portão para ganhar equipamentos e XP."
         },
         {
-          "title": "Use Ósmio para um Progresso Inicial Rápido",
-          "description": "O Ósmio é um dos materiais iniciais mais úteis. Uma rota inicial popular é combinar Ósmio com gravetos para criar uma Picareta de Gelo para mineração rápida."
+          "title": "Rerole Seus Traços",
+          "description": "Traços são modificadores passivos que se acumulam com sua classe. Após sua primeira incursão em um portão, use seu ouro para rolar novamente (reroll) os traços que não combinam com sua classe. Traços de ofensiva beneficiam Magos e Assassinos, traços de defesa beneficiam Guerreiros e traços de utilidade ajudam todas as classes."
         },
         {
-          "title": "Registre Boas Fusões",
-          "description": "Mantenha um registro das combinações bem-sucedidas em seu diário. Lucid Blocks possui muitos caminhos de fusão possíveis, então anotar resultados úteis economiza muito tempo."
+          "title": "Escolha um Caminho de Progressão",
+          "description": "Os caminhos moldam seu crescimento a longo prazo. Escolha o Caminho de Combate para limpezas de portões mais rápidas, o Caminho de Defesa para maior sobrevivência ou o Caminho de Equilíbrio se ainda estiver explorando. Siga um único caminho durante seus primeiros 20 níveis."
+        },
+        {
+          "title": "Farmar Portões para Equipamentos",
+          "description": "Repita portões no seu nível de ranking atual até que seu equipamento pareça forte. Cada dificuldade de portão tem sua própria tabela de saques. Avance para o próximo nível de ranking apenas quando seu equipamento puder lidar com o aumento na força dos inimigos."
+        },
+        {
+          "title": "Complete seu Desafio de Promoção",
+          "description": "Quando você atingir o limite de nível para seu ranking de caçador atual, um desafio de promoção será desbloqueado. Este é um portão mais difícil com condições mais rigorosas. Concluí-lo promove você para o próximo nível de ranking e desbloqueia novas dificuldades de portões."
         }
       ],
       "quickTips": [
-        "Apotheosis não requer uma lista de receitas fixa.",
-        "A geração de mundo infinita significa que mover-se para lugares mais altos ou mais profundos pode revelar materiais completamente diferentes.",
-        "Ferramentas de movimento e equipamentos utilitários tornam-se um grande reforço na qualidade de vida assim que você começa a desbloqueá-los.",
-        "Perder-se no início é normal, mas ferramentas úteis, armazenamento e opções de movimento crescem rapidamente assim que suas primeiras boas fusões começam a funcionar."
+        "Junte-se ao Discord oficial em discord.gg/reawakened para alertas de códigos ao vivo e guias da comunidade.",
+        "Resgate todos os códigos ativos antes de sua primeira incursão em portões para obter uma vantagem inicial de XP e atributos.",
+        "Traços se acumulam ao longo de muitas incursões. Rerolar cedo economiza tempo a longo prazo.",
+        "Incursões em grupo limpam portões mais rápido e dividem a pressão do cronômetro. Use o sistema de grupo do jogo para ranking B ou superior."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Criação de Apotheosis em Lucid Blocks",
+    "reawakendCodesGuide": {
+      "title": "Códigos Reawakened",
       "displayType": "cards",
-      "intro": "Apotheosis é o sistema de fusão irrestrito do jogo. Em vez de memorizar um livro de receitas tradicional, você combina materiais, observa o resultado e constrói seu próprio conhecimento de criação ao longo do tempo.",
+      "intro": "Os códigos de Reawakened concedem impulsos de XP gratuitos, melhorias de atributos e itens cosméticos. Os códigos são lançados durante atualizações, marcos e eventos especiais. Resgate-os rapidamente, pois a maioria dos códigos tem um número limitado de usos.",
       "cards": [
         {
-          "name": "Fusão de Forma Livre",
-          "description": "Apotheosis permite fundir diferentes itens sem a necessidade de seguir uma lista de receitas fixa."
+          "name": "Recompensas de Códigos Ativos",
+          "description": "Os códigos atuais oferecem multiplicadores de XP, bônus de atributos e desbloqueios cosméticos. Verifique nossa página de Códigos para a lista completa e atualizada após cada lançamento."
         },
         {
-          "name": "Múltiplos Resultados Úteis",
-          "description": "Materiais diferentes costumam levar a certos resultados. Descobertas da comunidade mostram que insumos semelhantes ainda podem resultar em ferramentas práticas, armazenamento ou melhorias de combate."
+          "name": "Como Resgatar um Código",
+          "description": "Abra o menu do jogo, toque no botão Códigos, digite ou cole o código exatamente como mostrado e pressione Confirmar. Os códigos diferenciam maiúsculas de minúsculas."
         },
         {
-          "name": "Criação Focada no Diário",
-          "description": "A melhor maneira de aprender Apotheosis é rastrear suas combinações bem-sucedidas. Seu diário rapidamente se torna sua própria referência de criação."
+          "name": "Expiração e Limites de Códigos",
+          "description": "A maioria dos códigos de Reawakened expira após um número definido de resgates totais ou uma janela de tempo. Resgate imediatamente quando um novo código for lançado para garantir sua recompensa."
         },
         {
-          "name": "Fusões Iniciais Testadas pela Comunidade",
-          "description": "Exemplos iniciais populares incluem Ósmio mais Graveto para uma Picareta de Gelo, Graveto mais Apêndice de Tungstênio para Azrael, e Azrael mais Magnetita para a Rapieira de Gavinhas."
+          "name": "Onde os Códigos São Anunciados",
+          "description": "Novos códigos são postados primeiro no servidor oficial do Reawakened no Discord. Siga o canal de anúncios para receber alertas no momento em que novos códigos entrarem no ar."
         }
       ],
       "milestones": [
-        "Fundir um item",
-        "Fundir um verme",
-        "Fundir um artefato divino"
+        "Resgate seu primeiro código",
+        "Acumule bônus de XP de códigos antes de entrar em um portão",
+        "Junte-se ao Discord para alertas instantâneos de códigos"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Ferramentas e Armas de Lucid Blocks",
+    "reawakendClassesGuide": {
+      "title": "Guia de Classes Reawakened",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mistura equipamentos utilitários oficiais com armas iniciais descobertas pela comunidade. A melhor configuração geralmente é uma mistura de mineração rápida, travessia segura e uma opção de combate confiável.",
+      "intro": "Reawakened possui cinco classes jogáveis, cada uma com um papel de combate distinto, foco em atributos e estilo de jogo em portões. Sua escolha de classe é uma das decisões mais importantes no início de cada jornada.",
       "items": [
         {
-          "name": "Picareta de Gelo",
-          "type": "Ferramenta de Mineração",
-          "description": "Uma picareta inicial rápida e acessível feita de Ósmio e Graveto. Os jogadores a utilizam para acelerar a coleta inicial de materiais."
+          "name": "Mago",
+          "type": "DPS Mágico",
+          "description": "Alto dano de feitiço com velocidade de conjuração rápida. O Mago limpa portões rapidamente, mas possui menos vida. Ideal para jogadores que buscam velocidade máxima de limpeza e dano de explosão de uma distância segura."
         },
         {
-          "name": "Azrael",
-          "type": "Arma Inicial",
-          "description": "Uma rota prática de arma inicial criada a partir de Graveto e Apêndice de Tungstênio."
+          "name": "Guerreiro",
+          "type": "Tanque / Curto Alcance",
+          "description": "Alta vida base e forte dano físico. O Guerreiro é a classe mais fácil para iniciantes porque pode absorver golpes de vários inimigos sem perder as incursões nos portões facilmente."
         },
         {
-          "name": "Rapieira de Gavinhas",
-          "type": "Arma Melhorada",
-          "description": "Uma sequência mais forte feita ao combinar Azrael com Magnetita. É um dos caminhos de combate inicial-médio mais úteis compartilhados pelos jogadores."
+          "name": "Assassino",
+          "type": "DPS de Explosão",
+          "description": "Dano crítico explosivo a curta distância. O Assassino é uma classe de alto risco e alta recompensa que privilegia jogadores que conseguem esquivar bem e atacar rápido antes que os inimigos respondam."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de travessia oficial que melhora muito o movimento e a exploração vertical."
+          "name": "Arqueiro",
+          "type": "DPS à Distância",
+          "description": "Dano constante de longa distância com boa mobilidade. O Arqueiro se adequa a jogadores que desejam um equilíbrio entre segurança e dano estável sem se comprometer com o combate corpo a corpo."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de movimento oficial que ajuda a percorrer espaços de forma mais segura e eficiente."
+          "name": "Curandeiro",
+          "type": "Suporte",
+          "description": "Cura de equipe, escudos e aplicação de bônus. O Curandeiro é melhor em incursões de grupo, onde sustentar os aliados desbloqueia dificuldades maiores mais rápido do que qualquer classe de DPS conseguiria sozinho."
         },
         {
-          "name": "Varinha de Bola",
-          "type": "Arma Utilitária",
-          "description": "Um item utilitário oficial de longo alcance que expande suas opções de combate e quebra-cabeças."
+          "name": "Lâmina Dupla",
+          "type": "DPS de Velocidade",
+          "description": "Velocidade de ataque muito alta com dano individual moderado. O Lâmina Dupla recompensa jogadores agressivos que desejam acumular traços de velocidade de ataque e sobrecarregar os inimigos com volume de golpes."
         },
         {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Travessia",
-          "description": "Um item utilitário oficial para alcançar áreas que, de outra forma, retardariam a exploração."
+          "name": "Tanque",
+          "type": "Especialista em Defesa",
+          "description": "Vida máxima e redução de dano com habilidades de controle de grupo. O Tanque é a melhor escolha para builds do caminho de defesa e para liderar grupos nos portões de maior dificuldade."
         },
         {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Oficialmente destacados como parte do conjunto principal de ferramentas e úteis para romper ameaças ou obstáculos."
+          "name": "Monarca das Sombras",
+          "type": "Desbloqueável",
+          "description": "Uma classe especial de fim de jogo inspirada em Solo Leveling. Os requisitos de desbloqueio e as mecânicas exatas estão vinculados aos marcos de progressão de ranking de caçador na versão atual."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Armazenamento e Inventário de Lucid Blocks",
+    "reawakendTraitsGuide": {
+      "title": "Guia de Traços Reawakened",
       "displayType": "solutionCards",
-      "intro": "A pressão no inventário começa cedo em Lucid Blocks, então construir armazenamento deve ser um de seus primeiros objetivos. Várias soluções testadas por jogadores reais já se destacam.",
+      "intro": "Traços são modificadores passivos que se acumulam com suas habilidades de classe e equipamentos. Construir o conjunto de traços certo para sua classe aumenta drasticamente a velocidade de limpeza dos portões e a sobrevivência.",
       "solutions": [
         {
-          "name": "Cubo de Cache",
-          "role": "Armazenamento Estilo Baú",
-          "description": "Os Cubos de Cache são uma das primeiras respostas práticas de armazenamento e são tratados pelos jogadores como o principal recipiente estilo baú do jogo."
+          "name": "Traços Ofensivos",
+          "role": "Foco em Dano",
+          "description": "Aumentam o poder de ataque, dano mágico, taxa de acerto crítico e dano crítico. Recomendado para builds de Mago, Assassino e Arqueiro focadas em limpeza rápida de portões."
         },
         {
-          "name": "Armário",
-          "role": "Armazenamento Simples de Base",
-          "description": "Armários são outra opção de armazenamento confirmada. Uma receita inicial compartilhada usa 1 Madeira Cortada e 1 Corda."
+          "name": "Traços Defensivos",
+          "role": "Foco em Sobrevivência",
+          "description": "Adicionam bônus de vida, redução de dano e regeneração. Ideal para builds de Guerreiro e Tanque que precisam resistir a uma forte pressão inimiga em portões de ranking mais alto."
         },
         {
-          "name": "Qualia Pessoal",
-          "role": "Central de Armazenamento de Longo Prazo",
-          "description": "Uma vez desbloqueada, sua Qualia pessoal torna-se um lugar natural para organizar materiais, criar em paz e expandir sua base."
+          "name": "Traços de Utilidade",
+          "role": "Foco em Eficiência",
+          "description": "Reduzem o tempo de recarga das habilidades, aumentam a velocidade de movimento e o ganho de XP e ouro por incursão. Traços de utilidade são um forte investimento secundário para todas as classes."
         },
         {
-          "name": "Rastreamento pelo Diário",
-          "role": "Eficiência de Inventário",
-          "description": "Registrar combinações úteis em seu diário reduz o desperdício de materiais e facilita muito o gerenciamento do inventário."
+          "name": "Traços Raros e Lendários",
+          "role": "Modificadores de Alto Poder",
+          "description": "Traços poderosos com grandes multiplicadores de atributos ou efeitos únicos. Eles aparecem com baixa probabilidade durante rerolls de alto nível e são o objetivo de builds otimizadas de fim de jogo."
         }
       ],
       "managementTips": [
-        "Priorize uma opção de armazenamento confiável antes de acumular itens raros.",
-        "Construa ao redor de sua Qualia pessoal assim que ela estiver disponível.",
-        "Mantenha materiais de criação, ferramentas de combate e equipamentos de movimento separados para que as melhorias sejam mais fáceis de planejar.",
-        "Use seu diário como parte do gerenciamento de inventário, não apenas para descobertas de criação."
+        "Combine seus dois primeiros espaços de traços com o papel da sua classe antes de experimentar com utilidade.",
+        "Rerole cedo e com frequência. Gastar ouro em traços no início é melhor do que economizar para atualizações de equipamentos.",
+        "Assim que a direção da sua build estiver clara, priorize travar os traços que escalam com o caminho escolhido.",
+        "Verifique as builds da comunidade no Discord para combinações de traços comprovadas para cada classe."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia e Construção de Base em Lucid Blocks",
+    "reawakendPathsGuide": {
+      "title": "Caminhos de Progressão Reawakened",
       "displayType": "cards",
-      "intro": "Qualia é um dos marcos de progressão mais importantes em Lucid Blocks. Ela oferece um espaço pessoal para se reagrupar, armazenar materiais e gradualmente transformar o progresso da exploração em uma base real.",
+      "intro": "Os Caminhos no Reawakened moldam seu crescimento de atributos a longo prazo e a direção da sua build. Escolher o caminho certo para sua classe precocemente torna cada incursão em portão mais eficiente e cada desafio de promoção mais alcançável.",
       "cards": [
         {
-          "name": "Qualia Pessoal",
-          "description": "Desbloquear uma Qualia é um marco inicial que oferece um lugar mais confiável para retornar enquanto explora o mundo mais amplo."
+          "name": "Caminho de Combate",
+          "description": "Focado em poder de ataque bruto e velocidade de limpeza de portões. O Caminho de Combate beneficia mais Mago, Assassino, Arqueiro e Lâmina Dupla. É o caminho mais rápido para farmar portões sozinho em todos os rankings."
         },
         {
-          "name": "Construção Focada em Armazenamento",
-          "description": "Muitos jogadores começam a usar sua Qualia como um centro de armazenamento antes de transformá-la em uma base maior com espaço organizado para criação e construção."
+          "name": "Caminho de Defesa",
+          "description": "Foca no escalonamento de vida máxima e redução de dano. O Caminho de Defesa transforma o Guerreiro e o Tanque em corredores de portão quase imortais para conteúdos de maior dificuldade, onde a sobrevivência é a principal barreira."
         },
         {
-          "name": "Construção Criativa de Lares",
-          "description": "Lucid Blocks suporta construção criativa, e os jogadores já estão usando espaços de Qualia para criar casas e layouts personalizados."
+          "name": "Caminho de Suporte",
+          "description": "Amplifica a cura e a força dos bônus para a equipe. O Caminho de Suporte é a escolha correta para Curandeiros em incursões de grupo. Ele torna sua presença diretamente responsável por levar a equipe a níveis de portões mais difíceis."
         },
         {
-          "name": "Central de Progressão",
-          "description": "Uma base sólida ajuda a separar saques de exploração, materiais de criação, sementes, ferramentas e equipamentos de mobilidade para que seus próximos upgrades sejam mais fáceis de planejar."
+          "name": "Caminho de Equilíbrio",
+          "description": "Distribui o crescimento entre ofensiva, defesa e utilidade uniformemente. O Caminho de Equilíbrio é uma boa escolha inicial se você ainda estiver testando classes diferentes ou ainda não se comprometeu com uma direção específica de build."
         }
       ],
       "highlights": [
-        "Entrar em uma qualia",
-        "Armazenar materiais com segurança",
-        "Expandir da utilidade para a decoração",
-        "Usar o espaço da base para apoiar a criação e o cultivo"
+        "Velocidade de limpeza de portão mais rápida",
+        "Sobrevivência quase imortal",
+        "Aumento de dano para toda a equipe",
+        "Progressão inicial flexível"
       ]
     },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiões do Mundo de Lucid Blocks",
+    "reawakendGatesGuide": {
+      "title": "Guia de Portões Reawakened",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza geração de mundo infinita, então os jogadores continuam descobrindo novos ambientes e estruturas. Alguns lugares nomeados já estão aparecendo em conquistas e discussões da comunidade.",
+      "intro": "Os portões são o ciclo central de jogabilidade em Reawakened. Cada rank de portão introduz novos padrões de inimigos, chefes mais fortes e saques melhores. Entender o que esperar em cada nível de rank ajuda você a progredir sem desperdiçar tentativas de portão.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área Notada pela Comunidade",
-          "description": "Fog Meadow já é conhecida entre os jogadores como uma área tensa associada a ameaças ocultas e encontros perigosos."
+          "name": "Portão Rank F",
+          "type": "Iniciante",
+          "description": "Portão de nível de entrada com mecânicas de hordas simples e um chefe direto. Ideal para caçadores do rank 0 ao 10 que estão aprendendo o ciclo principal. O conjunto de saques inclui equipamentos básicos e bônus de XP iniciais."
         },
         {
-          "name": "Linha de Ley Tiamana",
-          "type": "Marco de Descoberta",
-          "description": "A linha de ley tiamana é importante o suficiente para ter seu próprio marco de conquista, tornando-a uma das descobertas de mundo nomeadas mais claras até agora."
+          "name": "Portão Rank E",
+          "type": "Fácil",
+          "description": "Surgimento de inimigos ligeiramente mais rápido e a primeira aparição de inimigos elite entre as hordas. Recomendado para os ranks 10 a 20. Oferece equipamentos melhores e mais XP do que os portões de rank F."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espaço de Construção",
-          "description": "Os jogadores já estão usando Clonaqualia como um lugar para construir casas, armazenar materiais e experimentar layouts mais permanentes."
+          "name": "Portão Rank D",
+          "type": "Moderado",
+          "description": "Introduz mecânicas como elites com tempo limitado e chefes de múltiplas fases. Recomendado para os ranks 20 a 35. O conjunto de saques aqui inclui equipamentos de nível médio com bônus de compatibilidade de características."
         },
         {
-          "name": "Pântano de Essência",
-          "type": "Área de Cultivo",
-          "description": "O Pântano de Essência está sendo compartilhado pelos jogadores como um local de cultivo útil, especialmente para lutar contra slimes e ganhar experiência."
+          "name": "Portão Rank C",
+          "type": "Difícil",
+          "description": "Múltiplas hordas de elites com um chefe que possui duas ou mais fases. Recomendado para os ranks 35 a 50. O rank C é a fonte mais eficiente de XP e equipamentos antes de entrar no conteúdo de fim de jogo."
+        },
+        {
+          "name": "Portão Rank B",
+          "type": "Muito Difícil",
+          "description": "Padrões de inimigos complexos e inimigos com HP alto. Portões de rank B são melhor concluídos em grupos de dois ou mais. Oferece equipamentos raros com poderosos efeitos passivos não disponíveis em portões de ranks inferiores."
+        },
+        {
+          "name": "Portão Rank A",
+          "type": "Especialista",
+          "description": "Conteúdo de fim de jogo com os requisitos de atributos mais altos na versão atual. Os saques de rank A incluem os melhores equipamentos e os itens compatíveis com características mais raros do jogo no momento."
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas e Inimigos de Lucid Blocks",
+    "reawakendBossesGuide": {
+      "title": "Guia de Chefes Reawakened",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mistura criaturas surreais com perigo real. Descrições oficiais e postagens da comunidade apontam para um mundo cheio de vida estranha, ameaças hostis e alguns encontros marcantes que os jogadores lembram rapidamente.",
+      "intro": "Cada portão em Reawakened termina com um encontro com um chefe. Entender cada tipo de chefe ajuda você a preparar a build correta, evitar mecânicas de morte instantânea e farmar eficientemente os itens que você precisa.",
       "creatures": [
         {
-          "name": "Manequins",
+          "name": "Guardião do Portão",
+          "role": "Chefe",
+          "description": "O chefe final de cada portão. Cada nível de rank possui uma variante diferente do guardião com aumento de HP, dano e complexidade de fases. Derrotar o guardião é necessário para completar o portão e resgatar seu saque."
+        },
+        {
+          "name": "Cria do Monarca das Sombras",
+          "role": "Ameaça Elite",
+          "description": "Um poderoso inimigo elite de meio de portão que imita a estética do Monarca das Sombras do tema do jogo. Possui uma habilidade de morte instantânea com uma preparação visível. Esquive-se ou use uma habilidade defensiva."
+        },
+        {
+          "name": "Espírito Amaldiçoado",
           "role": "Inimigo Hostil",
-          "description": "Os Manequins são um dos inimigos oficialmente nomeados no mundo e fazem parte do elenco de ameaças surreais do jogo."
+          "description": "Um inimigo veloz que aplica um efeito negativo de dano contínuo ao atingir. Priorize os Espíritos Amaldiçoados rapidamente para evitar o acúmulo do efeito, especialmente em classes com pouca vida como Assassino e Mago."
         },
         {
-          "name": "Géis Macios",
+          "name": "Golem da Masmorra",
+          "role": "Ameaça Maior",
+          "description": "Um inimigo de portão pesadamente blindado com redução de dano e ataques lentos, porém pesados. Golems aparecem em portões de rank D ou superior. Use habilidades com efeitos de perfuração de armadura para conclusões mais rápidas."
+        },
+        {
+          "name": "Guerreiro Morto-Vivo",
           "role": "Inimigo Hostil",
-          "description": "Géis macios são outro tipo de inimigo oficialmente nomeado e ajudam a definir o estilo biológico estranho do jogo."
+          "description": "Um inimigo comum de portão com HP acima da média e ataques corpo a corpo previsíveis. Os Guerreiros Mortos-Vivos são simples, mas aparecem em grandes grupos em portões de ranks mais altos, criando pressão através do volume."
         },
         {
-          "name": "Seres de Dimensões Superiores",
-          "role": "Inimigo Hostil",
-          "description": "Esses seres são apresentados como parte da linha de inimigos mais abstrata e perturbadora do mundo."
+          "name": "Chefe de Desafio de Rank",
+          "role": "Ameaça Elite",
+          "description": "Um chefe especial encontrado apenas durante os desafios de subida de rank. Possui mecânicas mais complexas do que os chefes de portão padrão e requer uma build especificamente ajustada para o nível de desafio que você está tentando."
         },
         {
-          "name": "Aranhas Colossais",
-          "role": "Grande Ameaça",
-          "description": "As aranhas são um dos inimigos mais temidos imediatamente em discussões da comunidade e são claramente um perigo memorável."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura Nomeada",
-          "description": "__PROTECTED_26ee183b__ é notável o suficiente para ter sua própria conquista, o que o torna um dos encontros com criaturas nomeadas mais claros do jogo."
-        },
-        {
-          "name": "Vermes Fofos",
-          "role": "Criatura Interagível",
-          "description": "Os vermes não fazem apenas parte da progressão de fusão, eles também podem ser renomeados, ganhando um papel mais pessoal do que os inimigos padrão."
-        },
-        {
-          "name": "Criatura Blasfema",
-          "role": "Ameaça de Elite",
-          "description": "A criatura blasfema está ligada a uma conquista de combate dedicada, marcando-a como um encontro de inimigo significativo."
+          "name": "Fase 2 do Chefe do Portão",
+          "role": "Ameaça Maior",
+          "description": "Alguns chefes no rank C e acima entram em uma segunda fase após ficarem com menos de 50% de HP. A Fase 2 inclui novos padrões de ataque e, frequentemente, um aumento temporário de atributos. Mantenha-se móvel durante a transição."
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipamento de Mobilidade de Lucid Blocks",
+    "reawakendGearGuide": {
+      "title": "Guia de Equipamentos Reawakened",
       "displayType": "itemCards",
-      "intro": "Melhorias de movimento são um dos maiores saltos na qualidade de vida em Lucid Blocks. Depois de desbloquear suas primeiras ferramentas de travessia, a exploração torna-se mais rápida, segura e muito mais recompensadora.",
+      "intro": "Os equipamentos em Reawakened escalam com o rank do portão e o nível do caçador. Atualizar seu equipamento nos estágios certos de progressão mantém suas conclusões de portão eficientes e evita que você encontre barreiras de sobrevivência.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Travessia",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e possui sua própria conquista dedicada."
+          "name": "Equipamento Rank F",
+          "type": "Básico",
+          "description": "Equipamento de nível de entrada obtido em portões de rank F e códigos iniciais. Fornece bônus modestos de atributos. Substitua-os assim que os saques de rank E estiverem disponíveis."
         },
         {
-          "name": "Luva Planadora",
-          "type": "Mobilidade Aérea",
-          "description": "A luva planadora permite viagens muito mais suaves e é outro marco importante de progressão com sua própria conquista."
+          "name": "Equipamento Rank E",
+          "type": "Padrão",
+          "description": "Atributos básicos aprimorados obtidos em portões de rank E e D. Adequado para caçadores na faixa de rank 10 a 25. O salto do equipamento F para o E é o pico de poder inicial mais perceptível."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Travessia",
-          "description": "Os planadores de abelha são oficialmente destacados como parte do kit de ferramentas de movimento do jogo para percorrer espaços de forma mais eficiente."
+          "name": "Equipamento Rank D",
+          "type": "Avançado",
+          "description": "Equipamento de nível médio com espaços de características adicionais que permitem aplicar bônus de características diretamente ao seu equipamento. Farmado em portões de rank D e C na faixa de rank 20 a 40."
         },
         {
-          "name": "Varinha de Bola",
-          "type": "Equipamento Utilitário",
-          "description": "As varinhas de bola são uma das ferramentas especiais oficialmente destacadas e expandem a forma como você se move ou interage com o mundo."
+          "name": "Equipamento Rank C",
+          "type": "Raro",
+          "description": "Equipamento de altos atributos proveniente de saques de portões de rank C com melhor compatibilidade de características e bônus de conjunto. Este é o nível principal de equipamento para caçadores que avançam para a dificuldade de portão rank B."
         },
         {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Exploração",
-          "description": "O equipamento de mergulho está oficialmente listado como parte do conjunto utilitário principal para alcançar áreas que seriam mais difíceis de explorar."
+          "name": "Equipamento Rank B",
+          "type": "Épico",
+          "description": "Equipamento de fim de jogo para caçadores avançados. O equipamento de rank B possui efeitos passivos poderosos e atributos básicos altos que aumentam significativamente sua sobrevivência e saída de dano em conteúdos de especialista."
         },
         {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Os explosivos são oficialmente destacados e vinculados a um marco de conquista, tornando-os parte da progressão utilitária principal do jogo."
+          "name": "Equipamento Cosmético",
+          "type": "Cosmético",
+          "description": "Itens apenas visuais disponíveis através de códigos e eventos especiais. Cosméticos não têm efeito nos atributos ou no desempenho no portão, mas são um tipo de recompensa popular na economia do Roblox."
         }
-      ],
-      "unlockMilestones": [
-        "Comandar um gancho",
-        "Voar com a luva planadora",
-        "Empunhar uma varinha de projéteis",
-        "Empunhar um explosivo"
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo e Crescimento em Lucid Blocks",
+    "reawakendLevelingGuide": {
+      "title": "Guia de Nivelamento Reawakened",
       "displayType": "mixedCards",
-      "intro": "O crescimento faz parte da progressão real em Lucid Blocks. O cultivo não se trata apenas de plantar e colher, mas também de estabelecer rotas de materiais repetíveis que mantêm suas ferramentas, armas e opções de criação fluindo.",
+      "intro": "O nivelamento eficiente em Reawakened significa saber quais portões farmar em cada nível de rank e usar códigos de bônus de XP no momento certo. Tentar portões muito difíceis cedo demais desperdiça tempo e recursos.",
       "sections": [
         {
-          "name": "Progressão de Sementes",
-          "description": "Plantar e fertilizar sementes é um marco real no jogo, e colher uma noz totalmente crescida faz parte do mesmo caminho de crescimento."
+          "name": "Rank 0 a 15: Ciclo do Portão F",
+          "description": "Execute portões de rank F repetidamente até que seu equipamento esteja totalmente atualizado com saques de rank F. Use qualquer código de bônus de XP ativo antes desta fase. Este estágio deve ser fluido e rápido."
         },
         {
-          "name": "Cultivo de Materiais",
-          "description": "Um ciclo prático de cultivo inicial é criar Cápsulas de Mercúrio, que geram pequenos slimes que soltam Gavinhas e gosma para materiais de criação repetíveis."
+          "name": "Rank 15 a 30: Portões E e D",
+          "description": "Mude para portões de rank E quando seu equipamento estiver atualizado. Transite para portões de rank D quando os saques de rank E pararem de ser melhorias. O primeiro desafio de subida de rank ocorre em algum ponto desta faixa."
         },
         {
-          "name": "Sustentação de Ferramentas",
-          "description": "O cultivo de recursos torna-se muito mais forte quando você consegue coletar consistentemente Ósmio, fragmentos de vidro, plantas e materiais de slime para criações subsequentes."
+          "name": "Rank 30 a 45: Farm de Portão C",
+          "description": "Os portões de rank C são a fonte mais eficiente de XP e equipamentos para o meio de jogo. Execuções em grupo aqui reduzem significativamente o tempo de conclusão. Foque no rank C até que seu equipamento esteja totalmente atualizado para este nível."
         },
         {
-          "name": "Rotina da Base",
-          "description": "A melhor configuração de cultivo suporta mais do que apenas comida. Ela deve alimentar seu armazenamento, ferramentas de movimento, melhorias de armas e futuros experimentos de fusão."
+          "name": "Rank 45+: Avanço nos Portões B e A",
+          "description": "Rank B e acima é conteúdo de fim de jogo. Junte-se a um grupo para conclusões de rank B e invista em sua melhor build disponível antes de tentar o rank A. Estes portões têm os saques mais raros e os maiores pagamentos de XP."
         }
       ],
       "growthMilestones": [
-        "Fertilizar uma semente",
-        "Colher uma noz totalmente crescida",
-        "Criar ciclos de materiais repetíveis",
-        "Transformar o cultivo em progressão de longo prazo"
+        "Completar o primeiro portão solo",
+        "Alcançar o rank 15",
+        "Passar no primeiro desafio de subida de rank",
+        "Farmar portões de rank C eficientemente"
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Melhores Desbloqueios Iniciais de Lucid Blocks",
+    "reawakendBestBuilds": {
+      "title": "Melhores Builds Reawakened",
       "displayType": "priorityCards",
-      "intro": "Os desbloqueios iniciais mais fortes são aqueles que melhoram a segurança, o armazenamento e o movimento. Em Lucid Blocks, algumas melhorias práticas podem tornar todo o resto do jogo muito mais suave.",
+      "intro": "As builds mais fortes de Reawakened combinam a classe certa, conjunto de características, caminho e equipamento para um propósito específico. Cada build abaixo é otimizada para sua função pretendida no portão e testada em vários níveis de rank.",
       "priorities": [
         {
-          "name": "Qualia Pessoal",
-          "priority": "Essencial",
-          "description": "Assim que você obtém acesso à sua Qualia pessoal, sua jornada torna-se muito mais estável. Ela atua como um centro confiável para armazenamento, construção e reagrupamento."
+          "name": "Build Mage DPS",
+          "priority": "Tier S",
+          "description": "Classe Mago com Caminho de Combate e características focadas em dano mágico. Melhor velocidade de conclusão de portão na versão atual para farm solo. Use equipamentos de rank C com bônus de compatibilidade para o máximo desempenho."
         },
         {
-          "name": "Picareta de Gelo",
-          "priority": "Muito Alta",
-          "description": "Uma ferramenta de mineração inicial rápida e barata feita de Ósmio e Graveto. É uma das melhorias mais úteis para acelerar a coleta inicial de recursos."
+          "name": "Build Warrior Tank",
+          "priority": "Tier S",
+          "description": "Classe Guerreiro com Caminho de Defesa e investimento total em características de defesa. Quase imortal em portões de rank B. Ideal para farm contínuo sem perder execuções de portão em conteúdos difíceis."
         },
         {
-          "name": "Cubo de Cache",
-          "priority": "Muito Alta",
-          "description": "A pressão de armazenamento começa cedo, então obter seu primeiro recipiente confiável estilo baú é uma grande melhoria na qualidade de vida."
+          "name": "Build Assassin Burst",
+          "priority": "Tier A",
+          "description": "Classe Assassino com Caminho de Combate e características de dano crítico. Dano explosivo por segundo extremamente alto, mas requer boa coordenação de esquiva para compensar o HP baixo. Teto de habilidade alto, risco alto."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e rapidamente torna a exploração mais rápida e segura."
+          "name": "Build Archer Sustain",
+          "priority": "Tier A",
+          "description": "Classe Arqueiro com Caminho de Equilíbrio e uma mistura de características de ataque e utilidade. Dano seguro e consistente à distância. Melhor para jogadores que desejam um desempenho estável sem altos requisitos de habilidade."
         },
         {
-          "name": "Luva Planadora",
-          "priority": "Alta",
-          "description": "A luva planadora adiciona outro grande impulso de mobilidade e torna o movimento de longa distância muito mais eficiente."
+          "name": "Build Healer Group",
+          "priority": "Tier A",
+          "description": "Classe Curandeiro com Caminho de Suporte e características de utilidade focadas em força de cura e duração de bônus. Desbloqueia dificuldades de portão mais difíceis em execuções de grupo, mantendo o grupo vivo durante as transições da fase dois dos chefes."
         },
         {
-          "name": "Varinha de Projéteis ou Bombas",
-          "priority": "Alta",
-          "description": "Uma ferramenta de longo alcance ou opção explosiva oferece uma resposta mais segura a inimigos perigosos e encontros de estilo desafio."
+          "name": "Build Tank Gate",
+          "priority": "Tier B",
+          "description": "Classe Tanque com Caminho de Defesa e características de escalonamento de vida total. Durabilidade máxima com controle de grupo. Melhor usado como o pilar do grupo para tentativas de rank A, onde o dano do chefe pode matar instantaneamente classes mais frágeis."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Rastreador de Conquistas de Lucid Blocks",
+    "reawakendHunterRanks": {
+      "title": "Ranks de Caçador de Reawakened",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks possui atualmente 19 conquistas no Steam, e elas se dividem naturalmente em exploração, criação, mobilidade, combate e progressão de cultivo.",
+      "intro": "Os ranks de caçador em Reawakened marcam sua progressão no jogo. Cada tier desbloqueia novas dificuldades de portais, melhores conjuntos de equipamentos e desafios de subida de rank com riscos maiores que testam sua build.",
       "groups": [
         {
-          "name": "Exploração",
+          "name": "Caçador Novato (Rank 0-15)",
           "achievements": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entre em uma qualia."
+              "title": "Primeira Conclusão de Portal",
+              "description": "Complete seu primeiro portal de rank F e resgate seu loot inicial."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubra uma linha de ley tiamana."
+              "title": "Primeiro Código Resgatado",
+              "description": "Resgate seu primeiro código ativo para um bônus gratuito de XP e atributos."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Vença um desafio tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Conquista oculta."
+              "title": "Desbloqueio de Traço",
+              "description": "Desbloqueie seu primeiro slot de traço e aplique um traço de ataque ou defesa."
             }
           ]
         },
         {
-          "name": "Criação e Invocação",
+          "name": "Caçador Aprendiz (Rank 15-30)",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Funda um item."
+              "title": "Conclusão de Portal Rank E",
+              "description": "Complete um portal de rank E sozinho e colete seu primeiro drop de equipamento de rank E."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Funda um verme."
+              "title": "Primeiro Desafio de Subida de Rank",
+              "description": "Tente e complete seu primeiro desafio de subida de rank para ser promovido ao próximo tier de caçador."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Funda um artefato divino."
-            },
-            {
-              "title": "Arcanjo β",
-              "description": "Invoque sua fé."
+              "title": "Segundo Slot de Traço",
+              "description": "Desbloqueie e preencha seu segundo slot de traço com um modificador correspondente à sua classe."
             }
           ]
         },
         {
-          "name": "Mobilidade e Utilidade",
+          "name": "Caçador Intermediário (Rank 30-50)",
           "achievements": [
             {
-              "title": "Virtude α",
-              "description": "Voe com a luva planadora."
+              "title": "Conclusão de Portal Rank D",
+              "description": "Limpe um portal de rank D e melhore seu equipamento para o tier de rank D."
             },
             {
-              "title": "Virtude β",
-              "description": "Comande um gancho."
+              "title": "Caminho Definido",
+              "description": "Escolha e invista totalmente em um caminho de progressão de Combate, Defesa ou Suporte."
             },
             {
-              "title": "Arcanjo α",
-              "description": "Empunhe uma varinha de projéteis."
-            },
-            {
-              "title": "Arcanjo γ",
-              "description": "Empunhe um explosivo."
+              "title": "Tentativa de Portal Rank C",
+              "description": "Entre e limpe um portal de rank C com sua build atual."
             }
           ]
         },
         {
-          "name": "Combate e Criaturas",
+          "name": "Caçador de Elite (Rank 50+)",
           "achievements": [
             {
-              "title": "Massacre de __PROTECTED_26ee183b__",
-              "description": "Derrote bubblebears inocentes."
+              "title": "Conclusão de Portal Rank B",
+              "description": "Complete um portal de rank B, sozinho ou em grupo, e resgate recompensas de endgame."
             },
             {
-              "title": "Arcanjo δ",
-              "description": "Elimine uma criatura blasfema."
+              "title": "Build Completa",
+              "description": "Finalize sua combinação de classe, caminho, equipamento e traços para o conteúdo de endgame."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morra."
-            },
-            {
-              "title": "Domínio γ",
-              "description": "Renomeie um verme fofo."
-            }
-          ]
-        },
-        {
-          "name": "Crescimento e Cultivo",
-          "achievements": [
-            {
-              "title": "Domínio α",
-              "description": "Fertilize uma semente."
-            },
-            {
-              "title": "Domínio β",
-              "description": "Colha uma noz totalmente crescida."
-            },
-            {
-              "title": "Domínio δ",
-              "description": "Conquista oculta."
+              "title": "Rank A Desbloqueado",
+              "description": "Alcance o rank de caçador necessário para tentar o conteúdo de portais de rank A."
             }
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "FAQ de Singleplayer e Plataformas de Lucid Blocks",
+    "reawakendGameFAQ": {
+      "title": "FAQ de Reawakened",
       "displayType": "accordion",
-      "intro": "Estas são as principais perguntas sobre plataformas e acesso que os jogadores costumam fazer antes de comprar Lucid Blocks.",
+      "intro": "Perguntas comuns sobre a jogabilidade, códigos, classes e progressão de Reawakened respondidas de forma concisa.",
       "faqs": [
         {
-          "question": "Lucid Blocks é singleplayer?",
-          "answer": "Sim. Lucid Blocks é um jogo singleplayer."
+          "question": "O que é Reawakened no Roblox?",
+          "answer": "Reawakened é um RPG no Roblox inspirado em Solo Leveling, desenvolvido pela Vayron Studios. Os jogadores escolhem uma classe, lutam em portais ranqueados, aprimoram traços e equipamentos, e sobem na hierarquia de caçadores em um jogo de combate em masmorras com estilo de anime sombrio."
         },
         {
-          "question": "Multijogador ou cooperativo estão planejados?",
-          "answer": "Não. O modo multijogador não está planejado para o lançamento nem para atualizações futuras."
+          "question": "Reawakened é gratuito para jogar?",
+          "answer": "Sim. Reawakened é gratuito para jogar no Roblox. Itens cosméticos podem estar disponíveis por Robux, mas a jogabilidade principal, incluindo todas as classes, portais e traços, não requer gastos."
         },
         {
-          "question": "Onde posso jogar Lucid Blocks?",
-          "answer": "Ele está disponível atualmente no Steam para Windows."
+          "question": "Como resgato códigos no Reawakened?",
+          "answer": "Abra o menu do jogo, toque no botão 'Codes', digite o código exatamente como listado e pressione 'Confirm'. Os códigos diferenciam maiúsculas de minúsculas e podem ter usos limitados. Verifique nossa página de Códigos para ver os códigos ativos."
         },
         {
-          "question": "Quanto custa Lucid Blocks?",
-          "answer": "$9,99 no Steam."
+          "question": "Qual é a melhor classe em Reawakened?",
+          "answer": "O Mago tem a maior velocidade de limpeza de portais e é a principal escolha para farm solo. O Guerreiro é a classe iniciante mais segura devido ao alto HP base. Ambas são escolhas fortes na versão atual."
         },
         {
-          "question": "Lucid Blocks suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso."
+          "question": "Como desbloqueio portais de rank superior em Reawakened?",
+          "answer": "Alcance o rank de caçador necessário acumulando XP no seu tier de portal atual e, em seguida, complete o desafio de subida de rank que é desbloqueado no limite de nível. Passar no desafio promove você ao próximo rank e abre portais mais difíceis."
         },
         {
-          "question": "Lucid Blocks funciona no Steam Deck?",
-          "answer": "Sim. O Proton 9.0 ou 9.0.4 é a configuração comumente recomendada para o Steam Deck."
+          "question": "Quando novos códigos de Reawakened são lançados?",
+          "answer": "Os códigos geralmente são lançados durante atualizações importantes, eventos de marcos de jogadores e anúncios dos desenvolvedores. Siga o Discord oficial em discord.gg/reawakened para alertas instantâneos de novos códigos."
         },
         {
-          "question": "Lucid Blocks funciona no Linux?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Steam Deck."
+          "question": "Reawakened é multiplayer?",
+          "answer": "Sim. Reawakened suporta incursões em portais em grupo. Os jogadores podem se unir para portais de rank B e rank A, onde a coordenação de grupo é recomendada. O jogo solo é totalmente suportado para todos os tiers de rank."
         },
         {
-          "question": "Haverá suporte para Mac ou Android?",
-          "answer": "Eles podem ser suportados no futuro, mas não são plataformas de lançamento atuais."
+          "question": "Onde posso encontrar as notas de atualização de Reawakened?",
+          "answer": "As notas de atualização são postadas no servidor oficial do Discord de Reawakened e através da página da comunidade da Vayron Studios no Roblox. As principais atualizações também são cobertas no canal oficial do YouTube."
         },
         {
-          "question": "Lucid Blocks possui traduções?",
-          "answer": "Não. Atualmente não há traduções planejadas."
+          "question": "O que são traços em Reawakened?",
+          "answer": "Traços são modificadores passivos que se acumulam com os atributos da sua classe. Eles existem nas categorias de ataque, defesa, utilidade e raros. Você pode rerolar traços usando ouro ganho em incursões de portais."
         },
         {
-          "question": "Lucid Blocks continuará recebendo atualizações?",
-          "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "question": "Qual é o status atual de Reawakened?",
+          "answer": "Reawakened está disponível como um playtest no Roblox. Novos conteúdos, atualizações de equilíbrio e adições de classes são constantes. Verifique o Discord e o canal do YouTube para as informações mais recentes."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Steam Deck e Controle em Lucid Blocks",
+    "reawakendBuildTips": {
+      "title": "Dicas de Build de Reawakened",
       "displayType": "accordion",
-      "intro": "Lucid Blocks pode rodar no Steam Deck, mas a configuração padrão pode precisar de ajustes. Teclado e mouse continuam sendo a opção mais fluida para menus e jogabilidade geral.",
+      "intro": "Conselhos avançados de build para otimizar sua combinação de classe, traços e caminho em cada estágio da progressão de Reawakened.",
       "faqs": [
         {
-          "question": "Lucid Blocks funciona no Steam Deck?",
-          "answer": "Sim. O Proton 9.0 funciona bem, e o Proton 9.0.4 é uma correção comumente compartilhada para problemas no Steam Deck."
+          "question": "Quais traços o Mago deve acumular em Reawakened?",
+          "answer": "Priorize primeiro os traços multiplicadores de dano mágico, depois a redução de tempo de recarga para um ciclo de habilidades mais rápido e, finalmente, traços de utilidade que aumentam o XP e o ouro por portal. Evite traços defensivos, a menos que esteja tendo dificuldades para sobreviver."
         },
         {
-          "question": "O que devo fazer se os controles do Steam Deck não estiverem funcionando?",
-          "answer": "Force a compatibilidade e mude o jogo para o Proton 9.0.4. A configuração padrão pode não aceitar a entrada do controle corretamente."
+          "question": "Devo usar o Caminho de Combate ou o Caminho de Defesa em Reawakened?",
+          "answer": "O Caminho de Combate é melhor para farm solo e velocidade de limpeza de portais em todos os tiers de rank. O Caminho de Defesa é superior quando você deseja enfrentar dificuldades de portal mais altas sem morrer, especialmente para builds de Guerreiro e Tanque."
         },
         {
-          "question": "Lucid Blocks suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus do jogo não foram projetados para isso."
+          "question": "Quantos traços de Reawakened devo rerolar no início?",
+          "answer": "Rerole até ter pelo menos dois traços que combinem diretamente com o foco da sua classe. Um traço de ataque e um de utilidade é uma boa combinação inicial para a maioria das classes de DPS. Não economize ouro para equipamentos sacrificando a qualidade dos traços."
         },
         {
-          "question": "O suporte para Linux é possível?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Steam Deck."
+          "question": "Quando devo melhorar o equipamento em Reawakened?",
+          "answer": "Melhore o equipamento quando o portal da dificuldade atual parar de dropar melhorias. Se cada item de uma incursão no portal já for pior do que o que você tem equipado, é hora de passar para o próximo tier de rank e farmar lá."
         },
         {
-          "question": "Qual é a melhor configuração de entrada?",
-          "answer": "Teclado e mouse são a opção mais fluida para navegação em menus e jogabilidade geral momento a momento."
+          "question": "Vale a pena jogar de Curandeiro solo no Reawakened?",
+          "answer": "O Curandeiro é significativamente mais lento para farmar portais solo do que as classes de DPS. É melhor jogado em grupos onde sua cura possibilita diretamente tentativas em portais mais difíceis. Para progressão solo, Mago ou Guerreiro são mais eficientes em termos de tempo."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Configurações e Acessibilidade de Lucid Blocks",
+    "reawakendCommunity": {
+      "title": "Comunidade Reawakened",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks já possui algumas configurações práticas e notas de compatibilidade que importam imediatamente quando os jogadores iniciam o jogo pela primeira vez.",
+      "intro": "Conecte-se com a comunidade Reawakened através dos canais oficiais. O Discord é a fonte mais rápida para novos códigos, atualizações do jogo e discussões de build.",
       "settings": [
         {
-          "name": "Configurações de Exibição",
-          "type": "Opção de Conforto",
-          "description": "As Configurações de Exibição incluem uma opção que permite aos jogadores ocultar as mãos na tela."
+          "name": "Discord Oficial",
+          "type": "Comunidade Principal",
+          "description": "Junte-se a discord.gg/reawakened para anúncios de códigos, notícias de atualização, discussões de tier de classes e contato direto com a equipe da Vayron Studios."
         },
         {
-          "name": "Compatibilidade Gráfica",
-          "type": "Requisito do Sistema",
-          "description": "O suporte a __PROTECTED_38625270__ é necessário para que os gráficos sejam renderizados corretamente. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas e erros gráficos graves."
+          "name": "Página do Jogo no Roblox",
+          "type": "Jogar Reawakened",
+          "description": "Jogue Reawakened diretamente através da página oficial do jogo no Roblox pela Vayron Studios. Todas as sessões de jogo, atualizações e patches são implantados através desta página."
         },
         {
-          "name": "Preferência de Entrada",
-          "type": "Configuração de Controle",
-          "description": "O suporte a controle existe, mas o teclado e o mouse proporcionam uma experiência mais fluida porque os menus não foram construídos para o uso de controle."
+          "name": "Canal no YouTube",
+          "type": "Mídia Oficial",
+          "description": "Assista a trailers oficiais, vitrines de classes e vídeos de atualização no canal do YouTube do Reawakened. Novos vídeos geralmente coincidem com lançamentos de códigos e grandes atualizações."
         },
         {
-          "name": "Suporte de Idioma",
-          "type": "Localização",
-          "description": "A configuração atual é apenas em inglês, e nenhuma tradução está planejada no momento."
+          "name": "Comunidade Vayron Studios",
+          "type": "Hub do Desenvolvedor",
+          "description": "Siga o grupo de desenvolvedores no Roblox para anúncios do estúdio, prévias de próximos jogos e postagens dos desenvolvedores sobre Reawakened e projetos futuros."
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Atualizações e Notas de Patch de Lucid Blocks",
+    "reawakendUpdateLog": {
+      "title": "Log de Atualizações de Reawakened",
       "displayType": "timeline",
-      "intro": "Lucid Blocks já está recebendo correções rápidas pós-lançamento e pequenas atualizações de usabilidade.",
+      "intro": "Um registro contínuo das atualizações, mudanças de equilíbrio e adições de novo conteúdo de Reawakened desde o lançamento inicial do playtest.",
       "entries": [
         {
-          "title": "Atualização 2.8.2",
-          "type": "Atualização de UI",
-          "description": "Renomeado \"awaken\" para \"exit\" no menu principal."
+          "title": "Lançamento do Playtest",
+          "type": "Lançamento",
+          "description": "REAWAKENED foi lançado oficialmente como um playtest no Roblox. O primeiro conjunto de classes, portais, traços e o sistema central de progressão de caçadores entrou no ar."
         },
         {
-          "title": "Pequeno Patch para Falhas na Inicialização",
-          "type": "Hotfix",
-          "description": "Um patch dedicado foi lançado para jogadores cujo jogo estava travando ao iniciar."
+          "title": "Sistema de Códigos Adicionado",
+          "type": "Recurso",
+          "description": "O sistema de resgate de códigos no jogo foi adicionado, permitindo que os jogadores resgatem bônus de XP, buffs de atributos e recompensas cosméticas diretamente do menu principal."
         },
         {
-          "title": "Suporte de Conteúdo Pós-Lançamento",
-          "type": "Nota do Roteiro",
-          "description": "Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "title": "Ajuste de Equilíbrio de Classes",
+          "type": "Equilíbrio",
+          "description": "O dano do Mago e do Guerreiro foi ajustado. A taxa de acerto crítico do Assassino e a velocidade de ataque do Arqueiro foram sintonizadas para um melhor equilíbrio de classes entre os tiers de dificuldade de portal."
+        },
+        {
+          "title": "Novo Rank de Portal Adicionado",
+          "type": "Conteúdo",
+          "description": "Um novo tier de rank de portal foi introduzido com um novo design de chefe, padrões de ondas de inimigos atualizados e uma lista de loot expandida para o segmento de caçadores de endgame."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Correção de Falhas e Solução de Problemas de Lucid Blocks",
+    "reawakendEarlyTips": {
+      "title": "Dicas Iniciais para Reawakened",
       "displayType": "steps",
-      "intro": "A maioria dos problemas imediatos de inicialização e falhas deve ser verificada em uma ordem simples: nível do patch, suporte gráfico, compatibilidade de plataforma e logs.",
+      "intro": "Estas são as ações de maior valor para novos jogadores de Reawakened na primeira sessão. Seguir esta ordem evita os erros iniciais mais comuns e garante uma vantagem significativa.",
       "steps": [
         {
-          "title": "Instale o Hotfix de Falhas Mais Recente",
-          "description": "Se o jogo estiver travando ao iniciar, atualize primeiro e teste novamente com o patch de falha de inicialização mais recente."
+          "title": "Escolha Guerreiro ou Mago Primeiro",
+          "description": "Se você não tiver preferência, comece com o Guerreiro para uma experiência de sobrevivência mais fácil ou com o Mago para a maior velocidade de limpeza de portais. Ambas as classes escalam bem no meio do jogo e possuem prioridades de atributos diretas."
         },
         {
-          "title": "Verifique o Suporte a __PROTECTED_38625270__",
-          "description": "Lucid Blocks requer suporte a __PROTECTED_38625270__. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas ou grandes problemas de renderização."
+          "title": "Resgate Todos os Códigos Ativos Antes do Primeiro Portal",
+          "description": "Verifique a página de Códigos e resgate todos os códigos ativos antes de entrar no seu primeiro portal. Códigos de bônus de XP ativos durante sua primeira jornada oferecem uma vantagem acumulativa através das primeiras patentes."
         },
         {
-          "title": "Use o Proton 9.0.4 no Steam Deck",
-          "description": "Se o comportamento de entrada ou inicialização do Steam Deck estiver quebrado, force a compatibilidade e mude para o Proton 9.0.4."
+          "title": "Limpe os Portais Totalmente Antes de Avançar",
+          "description": "Jogue na dificuldade atual do portal até que seu equipamento esteja completamente aprimorado para esse nível. Pular para portais mais difíceis com equipamentos de nível baixo desperdiça tentativas e retarda sua progressão geral."
         },
         {
-          "title": "Colete Logs de Falhas",
-          "description": "Abra o Executar do Windows, cole %APPDATA%, vá para lucid blocks/logs e reúna os arquivos .txt para solução de problemas."
+          "title": "Invista em Traços Cedo",
+          "description": "Use ouro para trocar seus traços (reroll) a cada poucas idas aos portais, em vez de economizar apenas para equipamentos. Dois traços bem combinados tornam cada portal significativamente mais fácil, e o benefício se acumula em todas as suas futuras partidas."
+        }
+      ]
+    },
+    "reawakendFishingGuide": {
+      "title": "Guia de Pesca de Reawakened",
+      "eyebrow": "Guia de Atividade",
+      "intro": "A pesca é mais do que uma atividade secundária em Reawakened. Ela fortalece pets, cria oportunidades iniciais de ouro e pode produzir equipamentos que superam os drops comuns de masmorras.",
+      "steps": [
+        {
+          "title": "Pegue uma vara e encontre um local de pesca",
+          "description": "Compre uma vara de pesca de um vendedor na cidade e mantenha-a em seu inventário. Em Grove, o ponto de pesca visível mais fácil é o buraco dourado brilhante logo após o cais no lago, na parte norte da cidade.",
+          "highlights": [
+            "Uma vara de pesca só precisa estar no seu inventário para permitir a pesca",
+            "Locais de pesca aparecem na cidade e em todos os níveis das masmorras",
+            "O lago da cidade é o lugar mais simples para aprender a interação"
+          ]
         },
         {
-          "title": "Relate o Problema Corretamente",
-          "description": "Compartilhe os logs e detalhes do dispositivo através do fórum oficial de bug-reports no Discord ou na página da comunidade do Steam."
+          "title": "Lance, observe e fisgue rápido",
+          "description": "Clique com o botão esquerdo no local de pesca para lançar. Quando o ponto de exclamação aparecer sobre o seu personagem, clique em Fisgar rapidamente para ter uma chance melhor de pegar o peixe.",
+          "highlights": [
+            "Você não precisa de uma árvore de habilidades de pesca separada para começar",
+            "O tempo de reação importa mais do que os atributos de combate",
+            "O tempo de fisgada rápido melhora a consistência"
+          ]
+        },
+        {
+          "title": "Saiba por que a pesca é importante",
+          "description": "Peixes podem mudar drasticamente os atributos e resistências do seu pet, o que facilita as primeiras explorações de masmorras. A pesca também pode produzir saques fortes e gemas.",
+          "highlights": [
+            "Transformações de pet são o maior pico de poder inicial",
+            "A pesca é uma rota prática para ganhar ouro",
+            "Vender itens amarelos obtidos na pesca é um ciclo econômico inicial confiável"
+          ]
+        },
+        {
+          "title": "Aprenda os quatro níveis de tamanho de peixe",
+          "description": "Os peixes são divididos em quatro níveis de tamanho, e o tamanho controla quanto tempo dura a transformação do seu pet.",
+          "highlights": [
+            "Alevino: 120 segundos",
+            "Pequeno: 300 segundos",
+            "Grande: 600 segundos",
+            "Impecável: dura até que a próxima transformação o substitua"
+          ]
+        },
+        {
+          "title": "Lembre-se dos exemplos de transformação mais úteis",
+          "description": "Diferentes peixes transformam os pets em diferentes formas com variados pacotes de atributos e resistências.",
+          "highlights": [
+            "Peixe-arqueiro transforma o pet em um Lobo Atroz",
+            "Robalo transforma o pet em um Unicórnio",
+            "Dory transforma o pet em uma Salamandra com 100% de Resistência ao Fogo",
+            "Peixe-cachorro devolve o pet à sua forma original"
+          ]
+        },
+        {
+          "title": "Use a pesca também para objetivos de progressão",
+          "description": "A pesca está ligada a objetivos de conclusão, não apenas utilidade. Reawakened inclui a conquista Mestre Pescador por pescar todos os tipos de peixes.",
+          "highlights": [
+            "Útil para jogadores focados em coleção",
+            "Auxilia na experimentação de pets",
+            "Adiciona valor de conclusão a longo prazo além do ouro bruto"
+          ]
+        }
+      ]
+    },
+    "reawakendSideQuestsGuide": {
+      "title": "Guia de Missões Secundárias de Reawakened",
+      "eyebrow": "Guia de Progressão",
+      "intro": "As missões secundárias são simples na superfície, mas a gestão da rota é importante. Aceitar as missões certas no andar certo economiza tempo e evita exploração desperdiçada.",
+      "items": [
+        {
+          "title": "Espaços de missões e comportamento de NPCs",
+          "content": "Você pode ter até 3 missões secundárias ativas por vez. NPCs com missões disponíveis não dirão o que querem a menos que você tenha um espaço de missão livre.",
+          "bullets": [
+            "Máximo de 3 missões secundárias ativas",
+            "Espaços livres são importantes porque revelam mais opções de missões na cidade",
+            "Verifique os NPCs da cidade antes de se comprometer com um longo trecho de masmorra"
+          ]
+        },
+        {
+          "title": "Os três padrões de missões secundárias",
+          "content": "As missões secundárias usam repetidamente três modelos: recuperar um item perdido em um nível, matar um monstro e seus lacaios, ou matar o monstro que roubou um item e recuperá-lo.",
+          "bullets": [
+            "Missão de item perdido",
+            "Matar monstro alvo e lacaios",
+            "Recuperar item roubado de um grupo de monstros alvo"
+          ]
+        },
+        {
+          "title": "Aceite missões para o andar em que você está",
+          "content": "Aceite missões secundárias apenas para o andar que você está jogando no momento. Isso mantém os objetivos alinhados com seu caminho imediato na masmorra, em vez de espalhá-los por diferentes níveis.",
+          "bullets": [
+            "Jogar andar por andar é mais organizado do que acumular missões incompatíveis",
+            "Ajuda a reduzir o retrocesso (backtracking)",
+            "Mantém o fluxo constante de recompensas durante a subida de nível"
+          ]
+        },
+        {
+          "title": "Não limpe totalmente um andar cedo demais",
+          "content": "Não explore totalmente um andar antes de terminar as missões secundárias daquele andar. Os objetivos da missão podem aparecer em seções inexploradas.",
+          "bullets": [
+            "Termine os objetivos da missão secundária antes da exploração total",
+            "Priorize marcadores de missão e ramificações inexploradas primeiro",
+            "Este é o principal erro de rota que novos jogadores cometem"
+          ]
+        },
+        {
+          "title": "O que as missões secundárias recompensam",
+          "content": "Missões secundárias concedem fama, experiência e ouro. Elas também ajudam a ditar o ritmo da progressão inicial melhor do que apenas vagar aleatoriamente.",
+          "bullets": [
+            "A fama sustenta a progressão a longo prazo",
+            "A experiência ajuda a suavizar o ganho de níveis",
+            "O ouro serve para lojas, apostas e compras utilitárias"
+          ]
+        },
+        {
+          "title": "Atualização e truques específicos",
+          "content": "As missões disponíveis podem ser atualizadas voltando ao nível 1 e subindo novamente, ou salvando, saindo e retornando ao jogo.",
+          "bullets": [
+            "Atualização da lista de missões: volte ao nível 1 e retorne, ou salve e saia",
+            "Itens de missões canceláveis às vezes podem ser mantidos",
+            "Sempre compare a recompensa de uma missão com o próprio item"
+          ]
+        }
+      ]
+    },
+    "reawakendWeaponsGuide": {
+      "title": "Guia de Armas de Reawakened",
+      "eyebrow": "Guia de Equipamento",
+      "intro": "A escolha da arma está ligada à velocidade, requisitos de atributos e à lista específica de itens únicos. Versões Elite e Lendárias escalam com base no nível de fama, tornando o acesso a armas de fim de jogo um verdadeiro objetivo de progressão.",
+      "items": [
+        {
+          "weapon_class": "Espada",
+          "example_unique": "Agulha Picante",
+          "speed": "Mais Rápida",
+          "why": "Espada inicial rápida com Ataque +40 e Bônus de Dano +4. Conselhos de builds da comunidade recomendam armas da classe espada e empunhadura dupla para eficiência de dano inicial."
+        },
+        {
+          "weapon_class": "Machado",
+          "example_unique": "O Corte",
+          "speed": "Rápido",
+          "why": "Concede Acerto Crítico +5, Batalha com Escudo +5, Taxa de Drop Mágico +5 e Taxa de Drop de Ouro +20% — ideal para builds focadas em saque."
+        },
+        {
+          "weapon_class": "Arco",
+          "example_unique": "Sentinela da Clareira",
+          "speed": "Normal",
+          "why": "Habilidade de Arco/Bestas +5, Dano +7%, Velocidade de Caminhada +10% e Destreza +10% tornam este um item único à distância forte para builds móveis."
+        },
+        {
+          "weapon_class": "Besta",
+          "example_unique": "O Alfineteiro",
+          "speed": "Normal",
+          "why": "Vem com Força +6, Resistência ao Fogo +40 e Repulsão +2 — uma escolha forte para jogadores que desejam sobrevivência junto com dano à distância."
+        },
+        {
+          "weapon_class": "Martelo",
+          "example_unique": "Finalidade de Leadro",
+          "speed": "Lento",
+          "why": "Opção inicial pesada com Bônus de Dano a Mortos-vivos +10, Dano fixo +7 e Resistência Mágica +3% para builds de masmorra do tipo tanque."
+        },
+        {
+          "weapon_class": "Lança",
+          "example_unique": "Pontas Trêmulas",
+          "speed": "Normal",
+          "why": "Um exemplo claro de escalonamento de lança com Destreza em vez de Força bruta — melhor para builds que priorizam agilidade sobre força bruta."
+        },
+        {
+          "weapon_class": "Cajado",
+          "example_unique": "Barra de Esmagamento",
+          "speed": "Lento",
+          "why": "Cajado híbrido com Magia de Ataque +4, Magia de Encantamento +4, Mana Roubada +15% e Ataque +20 — cobre tanto a ofensa mágica quanto a sustentação de mana."
+        },
+        {
+          "weapon_class": "Elite e Lendário",
+          "example_unique": "Sistema de Variantes",
+          "speed": "Varia",
+          "why": "Elite dobra os atributos base, Lendário os quadruplica. Variantes lendárias exigem maior nível de Renome — a fama limita diretamente o acesso a armas de fim de jogo."
+        }
+      ]
+    },
+    "reawakendSpellsGuide": {
+      "title": "Guia de Feitiços de Reawakened",
+      "eyebrow": "Guia de Magia",
+      "intro": "Os feitiços são divididos nas linhas de Ataque, Defesa e Encantamento. Feitiços de utilidade como Portal da Cidade, Identificar e Mapa Mental são tão importantes quanto o dano bruto para um jogo eficiente.",
+      "categories": [
+        {
+          "title": "Feitiços de Ataque",
+          "kicker": "Dano direto e controle",
+          "description": "A Magia de Ataque começa com feitiços iniciais eficientes e escala para ferramentas de explosão de dano mais fortes. Lentidão e Bola de Fogo são compras iniciais essenciais.",
+          "examples": [
+            "Lentidão — reduz a velocidade do alvo para 60% por 10 segundos",
+            "Bola de Fogo — projétil que causa 2-7 de dano mais escalonamento de habilidade",
+            "Gelo — dois projéteis de gelo e 40% de lentidão por 5 segundos",
+            "Relâmpago — dano elétrico instantâneo",
+            "Meteoro — detonação em área em um raio de 20 pés"
+          ]
+        },
+        {
+          "title": "Feitiços de Defesa",
+          "kicker": "Bônus, cura, resistência e sobrevivência",
+          "description": "A Magia de Defesa contém as ferramentas de sustentação e velocidade que a maioria dos jogadores usa durante todo o jogo. Acelerar e Dervixe são excelentes opções de utilidade.",
+          "examples": [
+            "Cura Menor — cura o conjurador em 20 PV mais escalonamento",
+            "Armadura Espectral — aumenta a defesa e reduz o dano recebido",
+            "Acelerar — aumenta a velocidade por 15 segundos",
+            "Névoa de Batalha — dobra a Classificação de Ataque enquanto diminui a Classificação de Defesa",
+            "Dervixe — aumenta a Velocidade de Ataque em 80% por 10 segundos",
+            "Reflexão — reflete 20% do dano de volta aos atacantes"
+          ]
+        },
+        {
+          "title": "Feitiços de Encantamento",
+          "kicker": "Utilidade, controle de grupo e ferramentas de mapa",
+          "description": "A Magia de Encantamento cobre identificação, ferramentas de mapa e controle de grupo. Portal da Cidade e Mapa Mental são essenciais para rotas eficientes na masmorra.",
+          "examples": [
+            "Identificar — identifica itens, escala com o nível da habilidade",
+            "Encantar Monstro — encanta monstros de nível 6 ou inferior por 20 segundos",
+            "Mapa Mental — revela um nível da masmorra a partir do nível 2 ou mais profundo",
+            "Portal da Cidade — abre um portal a partir do nível 2 ou mais profundo",
+            "Dissipar Monstro Invocado — remove criaturas invocadas"
+          ]
+        },
+        {
+          "title": "Feitiços de Invocação",
+          "kicker": "Feitiços de companheiros com duração escalonável",
+          "description": "As invocações escalam com a habilidade de Encantamento e duram 1 minuto mais 10 segundos por nível de habilidade. O limite de invocações ativas é de 6 criaturas ao mesmo tempo.",
+          "examples": [
+            "Invocar Aranha — invoca 3 aranhas de nível 1",
+            "Invocar Esqueleto — invoca 1 esqueleto de nível 4",
+            "Lâmina Mística — invoca 1 espada amaldiçoada de nível 7",
+            "Invocar Lobo — invoca 2 lobos de nível 7",
+            "Invocar Wyvern — invoca 1 wyvern venenoso de nível 28"
+          ]
+        },
+        {
+          "title": "Atalhos e Manuseio de Feitiços",
+          "kicker": "Gerenciamento de feitiços e vinculação de teclas",
+          "description": "Assim que um feitiço for aprendido, expanda a lista de feitiços no HUD e vincule os feitiços diretamente às teclas de função para acesso rápido durante o combate.",
+          "examples": [
+            "Passe o mouse sobre um feitiço aprendido e pressione F1-F12 para vinculá-lo",
+            "Alterne entre bônus, curas e utilidades sem abrir menus",
+            "Especialmente útil para Portal da Cidade, Identificar e bônus principais de combate"
+          ]
+        }
+      ]
+    },
+    "reawakendGemsGuide": {
+      "title": "Guia de Gemas Reawakened",
+      "eyebrow": "Otimização de Saques",
+      "intro": "As gemas representam uma grande parte do poder dos itens em Reawakened. Este guia aborda as melhores fontes de gemas, regras de engaste importantes e as pedras que valem a pena buscar para builds de corpo a corpo, conjuradores e utilidade.",
+      "items": [
+        {
+          "entry": "Locais de Pesca",
+          "category": "Fonte",
+          "effect": "Pescar em águas mais profundas produz saques melhores",
+          "best_for": "Farm constante de gemas durante a progressão"
+        },
+        {
+          "entry": "Estátua do Destino",
+          "category": "Fonte",
+          "effect": "Concede duas pedras preciosas aleatórias ou evoca um chefe",
+          "best_for": "Aquisição rápida de gemas quando você consegue lidar com o risco"
+        },
+        {
+          "entry": "Samwen (Re-engaste)",
+          "category": "Utilidade",
+          "effect": "Remove gemas de um item, mas as gemas são destruídas",
+          "best_for": "Substituir gemas temporárias por engastes mais fortes de fim de jogo"
+        },
+        {
+          "entry": "Peridoto, Divino",
+          "category": "Gema Principal",
+          "effect": "+12% de Vida Roubada",
+          "best_for": "Sustentação corpo a corpo e longas sequências de masmorras sem poções"
+        },
+        {
+          "entry": "Jade, Divina",
+          "category": "Gema Principal",
+          "effect": "+25% de Velocidade de Ataque",
+          "best_for": "Builds de empunhadura dupla e DPS físico"
+        },
+        {
+          "entry": "Diamante, Divino",
+          "category": "Gema Principal",
+          "effect": "+5 para Todas as Habilidades",
+          "best_for": "Builds híbridas ou focadas em conjuração"
+        },
+        {
+          "entry": "Rubi, Divino",
+          "category": "Gema Principal",
+          "effect": "+72 de Resistência ao Fogo, +18 de Dano de Fogo",
+          "best_for": "Ofensiva focada em fogo e cobertura elemental"
+        },
+        {
+          "entry": "Malaquita, Divina",
+          "category": "Gema Principal",
+          "effect": "+18 de Recarga de Estamina",
+          "best_for": "Exploração com muita movimentação e menor tempo de inatividade"
+        },
+        {
+          "entry": "Bugiganga do Trapaceiro",
+          "category": "Gema Rara",
+          "effect": "+9% de Velocidade de Ataque, +9% de Dano Refletido",
+          "best_for": "Builds agressivas de corpo a corpo com retaliação passiva"
+        },
+        {
+          "entry": "Pedra Filosofal",
+          "category": "Gema Rara",
+          "effect": "+5 de Magia, +5% de Mana, +5% de Penalidade de Estamina",
+          "best_for": "Personagens de conjuração e magia híbrida"
+        },
+        {
+          "entry": "Delícia do Anão",
+          "category": "Gema Rara",
+          "effect": "+25% de Ouro de Inimigos, +6 na Habilidade de Martelo",
+          "best_for": "Rotas de farm de ouro e personagens focados em martelos"
+        },
+        {
+          "entry": "Coração Cobiçoso",
+          "category": "Gema Rara",
+          "effect": "+12% de Chance de Achar Itens Mágicos, +5% de Redução de Requisitos de Itens",
+          "best_for": "Farm de itens mágicos e requisitos de equipamentos mais fáceis"
+        }
+      ]
+    },
+    "reawakendFameGuide": {
+      "title": "Guia de Fama Reawakened",
+      "eyebrow": "Sistema de Progressão",
+      "intro": "A Fama alimenta sua progressão de Renome, e o Renome muda diretamente o que você pode equipar e quão rápido sua build cresce. Personagens que ignoram a Fama geralmente parecem subequipados quando os requisitos dos itens começam a subir.",
+      "items": [
+        {
+          "title": "Como Ganhar Fama",
+          "stat": "Missões + inimigos únicos ou chefes",
+          "text": "Conclusões de missões concedem Ouro, XP e Fama escalonáveis. A Fama também vem de derrotar inimigos únicos e do tipo chefe, então limpezas normais e sequências de missões a constroem naturalmente ao longo do tempo."
+        },
+        {
+          "title": "O Que o Renome Proporciona",
+          "stat": "+4 pontos de habilidade por nível de Renome",
+          "text": "Cada aumento de Renome concede quatro pontos de habilidade extras. Isso torna a progressão de Fama uma fonte direta de poder, não apenas uma verificação de requisitos de equipamento."
+        },
+        {
+          "title": "Onde Comprá-la",
+          "stat": "Rollo, o Menestrel",
+          "text": "Rollo pode aumentar sua Fama em troca de ouro. Isso permite que você compre seu caminho para o próximo limite de Renome quando as armas de fim de jogo começarem a exigir mais do que sua progressão atual oferece."
+        },
+        {
+          "title": "Por Que os Itens Ficam Bloqueados",
+          "stat": "Equipamentos Elite e Lendários",
+          "text": "Itens de classe superior exigem limites de Fama ou Renome. Se você vir um equipamento mais forte com uma barreira de requisito, a resposta geralmente é mais Fama, mais ouro para Rollo, ou ambos."
+        },
+        {
+          "title": "Por Que as Lojas Melhoram",
+          "stat": "Fama + nível aumentam a qualidade dos itens",
+          "text": "Quanto melhor sua Fama e seu nível, melhores serão os itens encontrados nas lojas e em monstros. Esta é uma das razões pelas quais o equipar-se no fim do jogo parece muito mais fluido quando o Renome acompanha o nível."
+        },
+        {
+          "title": "Como a Dificuldade Altera a Equação",
+          "stat": "Aventureiro → Superior, Herói → Excepcional, Lenda → Impecável",
+          "text": "Dificuldades mais altas aumentam o teto de qualidade dos itens e tornam a mecânica de Fama mais importante. Em configurações mais difíceis, o Renome deixa de ser opcional muito rapidamente."
+        }
+      ]
+    },
+    "reawakendEndgameGuide": {
+      "title": "Guia de Fim de Jogo Reawakened",
+      "eyebrow": "Rota de Final de Jogo",
+      "intro": "O caminho mais forte para o fim do jogo é construído em torno de engastes, encantamentos, conversão de ouro e limites de Renome. Assim que você atinge o primeiro grande salto, o restante da jornada torna-se um ciclo controlado de melhorias.",
+      "items": [
+        {
+          "step": 1,
+          "headline": "Comece com uma build que escale bem",
+          "target": "Corpo a corpo de empunhadura dupla nível S ou mago de ataque nível A",
+          "details": "O combate corpo a corpo de empunhadura dupla é a base mais fácil e forte para o fim de jogo, enquanto o mago de ataque é a principal alternativa de alto dano. Ambos escalam bem assim que bônus, encantamentos e armas melhores entram em cena."
+        },
+        {
+          "step": 2,
+          "headline": "Mantenha os três bônus principais ativos",
+          "target": "Aceleração + Névoa de Batalha + Dervixe",
+          "details": "Esses bônus são a espinha dorsal da rota física mais forte. Aceleração aumenta o ataque e a velocidade de movimento, Névoa de Batalha aumenta a classificação de ataque e Dervixe adiciona um enorme pico de velocidade de ataque."
+        },
+        {
+          "step": 3,
+          "headline": "Considere o nível 25+ como o primeiro grande marco de poder",
+          "target": "Desbloqueio de encantamento de meio de jogo",
+          "details": "Os encantamentos tornam-se muito mais valiosos quando você está por volta do nível 25 e os vendedores começam a vender bases de equipamentos de custo mais alto. É aqui que a preparação para o fim de jogo realmente começa."
+        },
+        {
+          "step": 4,
+          "headline": "Corrija a sustentação antes de buscar puro dano",
+          "target": "Cerca de 20% de sustentação total de engastes",
+          "details": "Peridotos superiores são a prioridade inicial de engaste para sustentação, e jades superiores vêm em seguida para velocidade de ataque. Assim que a sustentação for resolvida, sua velocidade de limpeza aumentará drasticamente."
+        },
+        {
+          "step": 5,
+          "headline": "Use o encantamento como seu motor de ouro",
+          "target": "Compre bases caras não encantadas, encante uma vez e revenda",
+          "details": "Bases de ferreiro valendo mais de 50k começam a aparecer por volta do nível 20+ na dificuldade Lenda. Encante cada peça até ganhar um encantamento bem-sucedido e, em seguida, venda-a de volta ao vendedor para obter lucro rápido."
+        },
+        {
+          "step": 6,
+          "headline": "Converta ouro em Renome e acesso a armas",
+          "target": "Compre fama até o nível Semideus",
+          "details": "O ouro do fim de jogo não serve apenas para equipamentos. É também a rota mais rápida para atingir os limites de Fama que permitem equipar armas Lendárias mais fortes e acompanhar os requisitos dos itens."
+        },
+        {
+          "step": 7,
+          "headline": "Aproveite o segundo salto no nível 50",
+          "target": "Re-encante o equipamento principal",
+          "details": "Os encantamentos param de escalar no nível 50. Isso torna o nível 50 o momento ideal para revisar seu equipamento principal e impulsionar um segundo grande salto em dano e sobrevivência."
+        },
+        {
+          "step": 8,
+          "headline": "Busque as melhores bases de armas por jogo",
+          "target": "Caça por armas Lendárias Impecáveis",
+          "details": "O jogo base e Undiscovered Realms favorecem a Espada Larga Lendária Impecável. The Traitor Soul e The Cursed King mudam a busca para espadas Elphame ou Cyber Lendárias Impecáveis."
+        },
+        {
+          "step": 9,
+          "headline": "Não desperdice espaços com atributos ruins",
+          "target": "Evite repulsão (knockback)",
+          "details": "A repulsão diminui o DPS real ao empurrar os inimigos para fora do seu fluxo de ataque. O equipamento de fim de jogo exige engastes, dano, sustentação, velocidade e atributos limpos."
+        }
+      ]
+    },
+    "reawakendCharacterImportGuide": {
+      "title": "Guia de Importação de Personagem Reawakened",
+      "eyebrow": "Planejamento de Salvamento",
+      "intro": "Reawakened suporta um caminho limpo de importação dentro da série incluída no pacote. A regra importante é simples: siga a ordem de lançamento e planeje seu inventário antes de cada transferência.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Conheça o pacote que você está planejando",
+          "content": "O pacote contém os quatro jogos: FATE, Undiscovered Realms, The Traitor Soul e The Cursed King. Sua rota de importação deve seguir essa ordem de lançamento do pacote."
+        },
+        {
+          "step": 2,
+          "label": "Comece em FATE 1 se quiser um herói contínuo",
+          "content": "A rota recomendada é começar com FATE e levar o mesmo personagem adiante pelo restante do pacote. Isso oferece o caminho de atualização mais limpo e evita ficar preso em uma regra de transferência de via única mais tarde."
+        },
+        {
+          "step": 3,
+          "label": "A importação só segue adiante",
+          "content": "Você pode mover um herói de FATE 1 para FATE 2 e continuar avançando pela série, mas não pode mover esse herói de volta para um jogo anterior. Uma vez que você avança, trate isso como uma escada de mão única."
+        },
+        {
+          "step": 4,
+          "label": "A maior parte do seu equipamento viaja com você",
+          "content": "Quando você muda para o próximo jogo da série, seu personagem e itens são transferidos. A exceção é a mudança de The Traitor Soul para The Cursed King, onde apenas seu herói, pet e o que estiver dentro da bolsa de inventário são mantidos."
+        },
+        {
+          "step": 5,
+          "label": "Organize seu inventário antes de grandes transferências",
+          "content": "Como a mudança de Traitor Soul para Cursed King mantém apenas itens carregados na bolsa, este é o ponto onde a disciplina de inventário é mais importante. Coloque o equipamento que você realmente deseja no herói, no pet ou no inventário antes de fazer a transição."
+        },
+        {
+          "step": 6,
+          "label": "Não planeje em torno de arquivos salvos originais antigos",
+          "content": "Personagens dos jogos originais pré-remasterizados não podem ser transferidos para o remaster no lançamento. O sistema de importação para planejar é o caminho de transporte contínuo dentro do próprio pacote remasterizado."
+        }
+      ]
+    },
+    "reawakendHeirloomGuide": {
+      "title": "Guia de Relíquias Reawakened",
+      "eyebrow": "Sistema de Legado",
+      "intro": "Após vencer uma campanha em Reawakened, você pode aposentar seu herói e criar um descendente. Durante a aposentadoria, você escolhe um item para passar adiante como uma relíquia de família, e seus bônus são aumentados. Planejar engastes, gemas e futuras gerações antes de se aposentar torna o sistema muito mais poderoso.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Aposente-se após terminar a campanha",
+          "content": "A aposentadoria fica disponível após vencer o jogo. Quando você se aposenta, seu herói se torna um ancestral e você começa a próxima jornada como um descendente em vez de continuar com o mesmo personagem ativo."
+        },
+        {
+          "step": 2,
+          "label": "Passe adiante apenas um item",
+          "content": "Você escolhe um único item de relíquia ao se aposentar, então cada escolha de espaço importa. Escolha uma peça com bônus que você deseja sentir desde o início de uma nova jornada."
+        },
+        {
+          "step": 3,
+          "label": "Use os engastes antes de selar o item",
+          "content": "As relíquias ganham bônus escritos mais fortes, e os bônus dos engastes importam como parte desse plano. A estratégia de engastes é especialmente valiosa porque os efeitos potencializados por gemas interagem bem com o crescimento da relíquia ao longo de várias gerações."
+        },
+        {
+          "step": 4,
+          "label": "Conheça a regra dos atributos principais",
+          "content": "Os bônus das relíquias aumentam em 25% cada vez que o item é passado adiante. Mesmo um bônus de engaste pequeno como +1 para Todas as Habilidades pode ser arredondado para +2 após a herança, e é por isso que itens compactos e ricos em bônus escalam tão bem."
+        },
+        {
+          "step": 5,
+          "label": "Planeje para múltiplas gerações",
+          "content": "Uma relíquia forte é construída para uso repetido, não apenas para um descendente. Heranças sucessivas potencializam o valor atual do item, portanto, peças de longo prazo com atributos flexíveis, engastes úteis e amplo valor de build superam itens temporários de vida curta."
+        },
+        {
+          "step": 6,
+          "label": "Entenda o que acontece com o herói antigo",
+          "content": "Uma vez aposentado, aquele herói não é mais seu personagem ativo. Em The Cursed King, o ancestral pode ser contratado novamente mais tarde, mas a expectativa normal é que a aposentadoria seja uma passagem de bastão para a próxima geração."
+        }
+      ]
+    },
+    "reawakendAchievementsGuide": {
+      "title": "Guia de Conquistas de Reawakened",
+      "eyebrow": "Conclusão",
+      "intro": "Reawakened distribui sua lista de conquistas entre pets, pesca, missões, combate, economia e progressão de longo prazo. Rastreá-las em grupos enquanto você joga é muito mais eficiente do que persegui-las no final.",
+      "categories": [
+        {
+          "section": "Cidade, Saque e Economia",
+          "entries": [
+            {
+              "name": "Pesquisador",
+              "requirement": "Identifique 10 itens"
+            },
+            {
+              "name": "Caçador de Tesouros",
+              "requirement": "Abra 20 baús"
+            },
+            {
+              "name": "Deixe a ganância assumir o controle",
+              "requirement": "Saqueie 100.000 de ouro"
+            },
+            {
+              "name": "Eu devo ter um problema",
+              "requirement": "Aposte 30 vezes"
+            },
+            {
+              "name": "O Encantador",
+              "requirement": "Encante um item"
+            },
+            {
+              "name": "O Mercador",
+              "requirement": "Venda 50 itens"
+            },
+            {
+              "name": "Armamento Melhorado",
+              "requirement": "Encontre e use uma Bigorna Mágica"
+            }
+          ]
+        },
+        {
+          "section": "Missões, Feitiços e Sobrevivência",
+          "entries": [
+            {
+              "name": "Herói Esforçado",
+              "requirement": "Complete 10 missões secundárias"
+            },
+            {
+              "name": "Um feitiço para todas as ocasiões",
+              "requirement": "Aprenda 5 feitiços"
+            },
+            {
+              "name": "Retirada Estratégica",
+              "requirement": "Use um portal da cidade com menos de 10% de vida restante"
+            },
+            {
+              "name": "Enganando a Morte",
+              "requirement": "Escolha seu DESTINO (FATE)"
+            },
+            {
+              "name": "Especialista em Masmorras",
+              "requirement": "Alcance o nível 35 em cada masmorra"
+            },
+            {
+              "name": "O Imortal",
+              "requirement": "Alcance o nível 20 com um personagem hardcore"
+            }
+          ]
+        },
+        {
+          "section": "Pets, Pesca e Invocações",
+          "entries": [
+            {
+              "name": "Pet Feliz, Dono Feliz",
+              "requirement": "Alimente seu pet com 5 peixes diferentes"
+            },
+            {
+              "name": "Não existe 'eu' na equipe",
+              "requirement": "Deixe seu pet matar inimigos 25 vezes"
+            },
+            {
+              "name": "Mestre Pescador",
+              "requirement": "Pesque todos os tipos de peixe"
+            },
+            {
+              "name": "Protetor da Grade",
+              "requirement": "Pesque o Cheesehead de Peronto da Baía Esmeralda"
+            },
+            {
+              "name": "Eu escolho você!",
+              "requirement": "Invoque 6 monstros diferentes"
+            }
+          ]
+        },
+        {
+          "section": "Combate, Gemas e Legado",
+          "entries": [
+            {
+              "name": "Reúnam-se",
+              "requirement": "Mate 5 inimigos ao mesmo tempo"
+            },
+            {
+              "name": "Vitória Rápida",
+              "requirement": "Mate 10 inimigos em 45 segundos"
+            },
+            {
+              "name": "Caçador de Monstros",
+              "requirement": "Derrote 100 inimigos"
+            },
+            {
+              "name": "Exterminador Versátil",
+              "requirement": "Derrote 10 chefes com 4 classes de armas diferentes"
+            },
+            {
+              "name": "Todos os Brilhantes",
+              "requirement": "Saqueie todos os tipos de gemas"
+            },
+            {
+              "name": "A estrada continua",
+              "requirement": "Crie um descendente"
+            }
+          ]
+        }
+      ]
+    },
+    "reawakendCheatsGuide": {
+      "title": "Trapaças e Comandos de Console de Reawakened",
+      "eyebrow": "Comandos de Legado",
+      "intro": "Reawakened herda entradas de trapaça clássicas dos jogos FATE originais. Esses comandos cobrem atalhos padrão de progressão, ferramentas de spawn e utilitários de mapa mais úteis para testar builds ou revisitar conteúdo sem a necessidade de grind total.",
+      "cards": [
+        {
+          "cardTitle": "Abrir o Prompt de Entrada",
+          "openInput": "Original FATE & The Cursed King: Ctrl + Shift + ~ | Undiscovered Realms: Ctrl + Shift + - depois clique no ? do lado esquerdo",
+          "commands": [
+            {
+              "code": "Ctrl + Shift + ~",
+              "effect": "Abre o prompt de trapaça no Original FATE e The Cursed King"
+            },
+            {
+              "code": "Ctrl + Shift + -",
+              "effect": "Abre o fluxo de prompt usado pelo Undiscovered Realms"
+            }
+          ],
+          "note": "Em The Cursed King, o jogo continua rodando enquanto você digita, então insira os comandos em uma área segura."
+        },
+        {
+          "cardTitle": "Controle de Andar",
+          "openInput": "Use o prompt correspondente ao jogo em que você está",
+          "commands": [
+            {
+              "code": "Ascend #",
+              "effect": "Sobe um número escolhido de andares da masmorra"
+            },
+            {
+              "code": "Descend #",
+              "effect": "Desce um número escolhido de andares da masmorra"
+            }
+          ],
+          "note": "Substitua # por um número."
+        },
+        {
+          "cardTitle": "Níveis, Fama e Progressão Rápida",
+          "openInput": "Use o prompt correspondente ao jogo em que você está",
+          "commands": [
+            {
+              "code": "Fame",
+              "effect": "Adiciona fama"
+            },
+            {
+              "code": "Experience",
+              "effect": "Adiciona experiência em jogos suportados"
+            },
+            {
+              "code": "Levelup",
+              "effect": "Ganha um nível"
+            },
+            {
+              "code": "God",
+              "effect": "Ganha um grande salto de nível e pontos de atributo extras em jogos suportados"
+            }
+          ],
+          "note": "Os nomes dos comandos e as recompensas exatas diferem ligeiramente entre os jogos."
+        },
+        {
+          "cardTitle": "Ouro e Recuperação",
+          "openInput": "Use o prompt correspondente ao jogo em que você está",
+          "commands": [
+            {
+              "code": "Gold",
+              "effect": "Adiciona uma grande quantidade de ouro"
+            },
+            {
+              "code": "Heal",
+              "effect": "Restaura a vida"
+            }
+          ],
+          "note": "Comandos utilitários mais rápidos para compras, recuperação e testes de baixa fricção."
+        },
+        {
+          "cardTitle": "Spawnar Itens e Monstros",
+          "openInput": "Use o prompt correspondente ao jogo em que você está",
+          "commands": [
+            {
+              "code": "[Nome do Item]",
+              "effect": "Spawna um item perto de você no Original FATE"
+            },
+            {
+              "code": "[Nome da Criatura]",
+              "effect": "Spawna uma criatura perto de você no Original FATE"
+            },
+            {
+              "code": "spawn (itemname)",
+              "effect": "Spawna um item em The Cursed King"
+            },
+            {
+              "code": "weapons",
+              "effect": "Invoca esqueletos com armas em The Cursed King"
+            }
+          ],
+          "note": "No Original FATE, invocar Cat (Gato) ou Terrier cria um pet em vez de um inimigo hostil."
+        },
+        {
+          "cardTitle": "Utilitários de Mapa e Mundo",
+          "openInput": "Original FATE: Ctrl + Shift + ~",
+          "commands": [
+            {
+              "code": "discoverall",
+              "effect": "Revela o mapa da masmorra atual"
+            },
+            {
+              "code": "Dumpmap",
+              "effect": "Escreve uma descrição de texto do mapa atual em maze.txt"
+            },
+            {
+              "code": "Magic Anvil",
+              "effect": "Cria uma bigorna mágica"
+            },
+            {
+              "code": "Fate Statue / Shrine Of Learning",
+              "effect": "Cria objetos de mundo interagíveis especiais"
+            }
+          ],
+          "note": "Alguns objetos spawnados são ferramentas práticas, enquanto outros são úteis principalmente para experimentação."
+        },
+        {
+          "cardTitle": "Atalhos de Admin de Undiscovered Realms",
+          "openInput": "Undiscovered Realms: Ctrl + Shift + - depois clique no ?",
+          "commands": [
+            {
+              "code": "HEROITEMS",
+              "effect": "Mostra em quais níveis os Itens de Herói estão"
+            },
+            {
+              "code": "REQUEST 'nome'",
+              "effect": "Dá ao dador de missão uma nova missão"
+            },
+            {
+              "code": "AMNESIA",
+              "effect": "Retorna para a cidade"
+            }
+          ],
+          "note": "Estes são os comandos utilitários mais pesados e exclusivos do Undiscovered Realms."
+        },
+        {
+          "cardTitle": "Comandos Cosméticos e Curiosos",
+          "openInput": "Original FATE: Ctrl + Shift + ~",
+          "commands": [
+            {
+              "code": "Blood",
+              "effect": "Usa sangue em vez de estrelas"
+            },
+            {
+              "code": "Noblood",
+              "effect": "Muda o sangue de volta para estrelas"
+            },
+            {
+              "code": "Weapon Rack / Small Chest / Large Chest",
+              "effect": "Spawna objetos de cenário com funcionalidade mista"
+            }
+          ],
+          "note": "Alguns acessórios não podem ser ativados ou abertos normalmente, especialmente na cidade."
+        }
+      ]
+    },
+    "reawakendSteamDeckGuide": {
+      "title": "Guia de Steam Deck e Controle de Reawakened",
+      "eyebrow": "Jogo Portátil",
+      "intro": "Reawakened suporta oficialmente o Steam Deck e jogo total com controle no PC. Este guia combina o status de suporte oficial com descobertas práticas da comunidade sobre peculiaridades da interface, comportamento de mira e soluções alternativas para a sessão portátil mais suave possível.",
+      "sections": [
+        {
+          "section": "Suporte Oficial",
+          "entries": [
+            {
+              "label": "Suporte para Steam Deck",
+              "detail": "O FAQ oficial confirma que Reawakened é jogável no Steam Deck."
+            },
+            {
+              "label": "Suporte para controle no PC",
+              "detail": "O FAQ oficial confirma suporte total para controle no PC."
+            },
+            {
+              "label": "Suporte para Widescreen",
+              "detail": "O FAQ oficial confirma que formatos widescreen são suportados."
+            },
+            {
+              "label": "UI otimizada para telas pequenas",
+              "detail": "Muitas mudanças na interface foram feitas porque o jogo foi otimizado para controles de console, Switch e Steam Deck."
+            }
+          ]
+        },
+        {
+          "section": "Controles e Layout",
+          "entries": [
+            {
+              "label": "Layout no Steam Deck",
+              "detail": "O Steam Deck usa o mesmo layout de controle mostrado para jogo com gamepad no PC."
+            },
+            {
+              "label": "Prompts de botões",
+              "detail": "Os prompts do controle são mostrados como botões no estilo Xbox."
+            },
+            {
+              "label": "Reatribuição no jogo",
+              "detail": "Os controles não podem ser remapeados dentro dos menus do jogo."
+            },
+            {
+              "label": "Onde verificar as entradas",
+              "detail": "Use primeiro o menu de controles do jogo e, em seguida, ajuste qualquer coisa extra através da entrada do Steam, se necessário."
+            }
+          ]
+        },
+        {
+          "section": "Peculiaridades Conhecidas no Deck e Controle",
+          "entries": [
+            {
+              "label": "Problema de texto pequeno",
+              "detail": "Em 1280 x 800, o texto pode ser mais difícil de ler porque não há opção de tamanho de interface no jogo."
+            },
+            {
+              "label": "Deriva do cursor no menu",
+              "detail": "Jogadores de Steam Deck relatam que o cursor pode passar do alvo no menu ao usar os trackpads."
+            },
+            {
+              "label": "Feedback de mira",
+              "detail": "Círculos de alvo não aparecem nos inimigos ao usar um controle."
+            },
+            {
+              "label": "Mira de longo alcance e feitiços",
+              "detail": "O travamento de mira pode demorar a ativar, especialmente para jogo com feitiços ou longo alcance."
+            },
+            {
+              "label": "Interação com NPCs",
+              "detail": "NPCs muito próximos uns dos outros podem ser difíceis de mirar — afaste-se e aproxime-se novamente de frente para o NPC desejado."
+            }
+          ]
+        },
+        {
+          "section": "Correções e Hábitos Úteis",
+          "entries": [
+            {
+              "label": "Solução alternativa de entrada do Steam",
+              "detail": "Use a opção de inicialização: SteamDeck=0 %command% --force-grab-cursor"
+            },
+            {
+              "label": "Rota de remapeamento do controle",
+              "detail": "Use o menu de configuração de controle do Steam Deck em vez de procurar um menu de remapeamento no jogo."
+            },
+            {
+              "label": "Dica de escolha de build",
+              "detail": "Combate corpo a corpo e progressão geral parecem mais fluidos no controle do que configurações de longo alcance ou feitiços de ataque que exigem precisão."
+            },
+            {
+              "label": "Posicionamento do portal",
+              "detail": "Ao usar um portal da cidade, vire-se de costas para escadas ou mercadores para evitar problemas de colisão estranhos perto de NPCs interagíveis."
+            }
+          ]
         }
       ]
     }
@@ -756,150 +1669,150 @@
   "faq": {
     "title": "Perguntas",
     "titleHighlight": "Frequentes",
-    "subtitle": "Tudo o que você precisa saber sobre Lucid Blocks",
+    "subtitle": "Tudo o que você precisa saber sobre Reawakened",
     "questions": [
       {
-        "question": "O Lucid Blocks é um jogo singleplayer?",
-        "answer": "Sim. Lucid Blocks é um jogo exclusivamente singleplayer, sem planos para multiplayer ou co-op."
+        "question": "O que é Reawakened no Roblox?",
+        "answer": "Reawakened é um RPG de Roblox inspirado em Solo Leveling, criado por Vayron Studios. Lute em portões ranqueados, escolha uma classe, desenvolva seus traços e suba nos rankings de caçadores em um jogo de combate de masmorras com estilo de anime sombrio."
       },
       {
-        "question": "O que é o sistema Apotheosis em Lucid Blocks?",
-        "answer": "Apotheosis é o sistema de criação por fusão de forma livre do Lucid Blocks. Em vez de seguir receitas fixas, você combina materiais e descobre seus próprios caminhos de criação."
+        "question": "Como resgato códigos no Reawakened?",
+        "answer": "Abra o menu do jogo, toque no botão Códigos, insira o código exatamente como mostrado e pressione Confirmar. Os códigos diferenciam maiúsculas de minúsculas e têm usos limitados."
       },
       {
-        "question": "Onde posso jogar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponível atualmente no Steam para Windows. O suporte para Linux e Steam Deck está disponível através do Proton 9.0."
+        "question": "Qual é a melhor classe no Reawakened?",
+        "answer": "O Mago tem a velocidade de limpeza de portões mais rápida para farming solo. O Guerreiro é a classe mais fácil para iniciantes devido ao seu alto HP base e estilo de jogo direto."
       },
       {
-        "question": "Quanto custa o Lucid Blocks?",
-        "answer": "O Lucid Blocks custa US$ 9,99 no Steam."
+        "question": "O Reawakened é gratuito para jogar?",
+        "answer": "Sim. O Reawakened é gratuito para jogar no Roblox. Alguns itens cosméticos podem estar disponíveis por Robux, mas toda a jogabilidade principal, incluindo classes, portões e traços, é gratuita."
       },
       {
-        "question": "O Lucid Blocks tem suporte para controles?",
-        "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso. Teclado e mouse são a opção mais fluida."
+        "question": "O que são traços no Reawakened?",
+        "answer": "Traits são modificadores de atributos passivos que acumulam com as habilidades da sua classe. Eles estão disponíveis nas categorias de ataque, defesa, utilidade e raros. Você pode fazer reroll dos traços usando ouro ganho em incursões aos portões."
       },
       {
-        "question": "O Lucid Blocks receberá atualizações?",
-        "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não há a intenção de mantê-las em um cronograma regular indefinido."
+        "question": "Como desbloqueio portões de rank mais alto no Reawakened?",
+        "answer": "Alcance o rank de caçador necessário farmando XP no seu nível de portão atual e, em seguida, complete o desafio de subida de rank para ser promovido ao próximo nível e desbloquear portões mais difíceis."
       }
     ]
   },
   "cta": {
-    "title": "Pronto para explorar Lucid Blocks?",
-    "description": "Junte-se à comunidade de Lucid Blocks no Discord para guias, atualizações e discussões!",
-    "joinCommunity": "Entrar no Discord",
-    "joinGame": "Jogue no Steam"
+    "title": "Pronto para jogar Reawakened?",
+    "description": "Junte-se à comunidade de Reawakened no Discord para guias, atualizações e discussões!",
+    "joinCommunity": "Junte-se ao Discord",
+    "joinGame": "Jogue no Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Seu centro de recursos completo para crafting, biomas, criaturas, conquistas e guias de sobrevivência de Lucid Blocks.",
+    "title": "Wiki de Reawakened",
+    "description": "Seu centro de recursos completo para códigos, classes, características, caminhos, portões, equipamentos, evolução e guias de chefes de Reawakened.",
     "resources": "Recursos",
     "community": "Comunidade",
-    "legal": "Legal",
+    "legal": "Avisos Legais",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidade Steam",
-    "steamStore": "Loja Steam",
+    "twitter": "YouTube",
+    "steamCommunity": "Vayron Studios",
+    "steamStore": "Jogue no Roblox",
     "about": "Sobre",
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Wiki de Lucid Blocks. Não afiliada aos desenvolvedores de Lucid Blocks.",
-    "disclaimer": "Site de recursos não oficial feito por fãs."
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Wiki de Reawakened. Não afiliado a Vayron Studios ou Roblox.",
+    "disclaimer": "Site de recursos não oficial criado por fãs."
   },
   "pages": {
     "codes": {
-      "title": "Códigos Reawakened",
-      "description": "Todos os códigos Reawakened ativos com recompensas, informações de expiração e instruções de resgate passo a passo.",
-      "metaTitle": "Códigos Reawakened - Códigos de Resgate Ativos e Recompensas",
-      "metaDescription": "Lista completa de códigos Reawakened ativos com recompensas listadas. Saiba como resgatar códigos e onde encontrar novos lançamentos para este RPG do Roblox.",
+      "title": "Códigos do Reawakened",
+      "description": "Todos os códigos ativos do Reawakened com recompensas, informações de expiração e instruções passo a passo para resgatar.",
+      "metaTitle": "Códigos do Reawakened - Códigos Ativos e Recompensas",
+      "metaDescription": "Lista completa de códigos ativos do Reawakened com recompensas listadas. Saiba como resgatar códigos e onde encontrar novos lançamentos para este RPG do Roblox.",
       "categoryLabel": "CÓDIGOS GRÁTIS",
-      "whatIs": "O que são Códigos Reawakened?",
-      "whatIsDescription": "Códigos Reawakened são sequências de recompensas de uso limitado lançadas pela Vayron Studios durante atualizações e eventos. Resgate-os no menu do jogo para obter boosts de XP gratuitos, chips de atributos e reservas de classe para acelerar sua progressão.",
-      "why": "Por que resgatar códigos Reawakened?",
+      "whatIs": "O que são os Códigos do Reawakened?",
+      "whatIsDescription": "Os códigos do Reawakened são sequências de recompensas de uso limitado lançadas por Vayron Studios durante atualizações e eventos. Resgate-os no menu do jogo para obter bônus de XP gratuitos, chips de atributos e reservas de classe para acelerar sua progressão.",
+      "why": "Por que resgatar códigos do Reawakened?",
       "whySteps": {
-        "step1Title": "Boosts de XP Gratuitos",
-        "step1Description": "Os códigos geralmente incluem multiplicadores de XP que aceleram a progressão inicial de rank",
+        "step1Title": "Bônus de XP Gratuitos",
+        "step1Description": "Os códigos geralmente incluem multiplicadores de XP que aceleram a progressão nos níveis iniciais",
         "step2Title": "Bônus de Atributos",
         "step2Description": "Resgate bônus gratuitos de ataque, defesa ou utilidade para fortalecer sua build",
         "step3Title": "Reservas de Classe",
-        "step3Description": "Desbloqueie tokens de mudança de classe para que você possa trocar seu estilo de jogo sem perder progresso"
+        "step3Description": "Desbloqueie tokens de mudança de classe para alternar seu estilo de jogo sem perder o progresso"
       },
       "featured": "Destaques e Ativos",
       "all": "Todos os Códigos"
     },
     "guide": {
-      "title": "Guia Reawakened",
-      "description": "Guias completos de Reawakened cobrindo dicas para iniciantes, rotas de nivelamento mais rápidas, estratégias de classe e progressão no início do jogo para este RPG do Roblox.",
-      "metaTitle": "Guia Reawakened - Dicas para Iniciantes, Nivelamento e Progressão",
-      "metaDescription": "Domine o Reawakened com guias abrangentes sobre nivelamento, seleção de classe, estratégias de Gate e otimização de Trait para jogadores novos e experientes.",
+      "title": "Guia do Reawakened",
+      "description": "Guias completos do Reawakened cobrindo dicas para iniciantes, as rotas de nivelamento mais rápidas, estratégias de classe e progressão no início do jogo para este RPG do Roblox.",
+      "metaTitle": "Guia do Reawakened - Dicas para Iniciantes, Nivelamento e Progressão",
+      "metaDescription": "Domine o Reawakened com guias abrangentes sobre nivelamento, seleção de classe, estratégias de portais e otimização de características para jogadores novos e experientes.",
       "categoryLabel": "GUIAS DE JOGO",
-      "whatIs": "O que são Guias Reawakened?",
-      "whatIsDescription": "Os guias de Reawakened cobrem tudo, desde sua primeira incursão em Gate até a otimização avançada de build. Aprenda como classes, Traits, Paths e Dungeons funcionam juntos para construir o Hunter mais poderoso.",
-      "why": "Por que ler guias de Reawakened?",
+      "whatIs": "O que são os Guias do Reawakened?",
+      "whatIsDescription": "Os guias do Reawakened cobrem tudo, desde sua primeira incursão em portais até a otimização avançada de builds. Aprenda como classes, características, caminhos e masmorras funcionam juntos para criar o caçador mais poderoso.",
+      "why": "Por que ler os guias do Reawakened?",
       "whySteps": {
         "step1Title": "Aprenda as Mecânicas Principais",
-        "step1Description": "Entenda como Gates, Traits e ranks funcionam juntos para evitar erros comuns",
+        "step1Description": "Entenda como portais, características e ranks funcionam juntos para evitar erros comuns",
         "step2Title": "Progressão Rápida",
         "step2Description": "Siga caminhos de nivelamento comprovados para alcançar o conteúdo de endgame de forma eficiente",
         "step3Title": "Domine sua Build",
-        "step3Description": "Desenvolva táticas avançadas para otimizar sua combinação de classe e Trait"
+        "step3Description": "Desenvolva táticas avançadas para otimizar sua combinação de classe e características"
       },
       "featured": "Guias em Destaque",
       "all": "Todos os Guias"
     },
     "build": {
-      "title": "Build Reawakened",
-      "description": "As melhores builds de Reawakened para cada classe, incluindo Assassino, rankings das melhores classes e demonstrações de personagens para este RPG do Roblox.",
-      "metaTitle": "Build Reawakened - Melhores Classes, Assassino e Tier List de Classes",
-      "metaDescription": "Descubra as melhores builds de Reawakened para cada classe. Explore builds de Assassino, tier lists de classes e demonstrações detalhadas para dominar os Gates de Dungeon.",
+      "title": "Build do Reawakened",
+      "description": "As melhores builds do Reawakened para cada classe, incluindo Assassino, rankings das melhores classes e exibições de personagens para este RPG do Roblox.",
+      "metaTitle": "Build do Reawakened - Melhores Classes, Assassino e Tier List de Classes",
+      "metaDescription": "Descubra as melhores builds do Reawakened para cada classe. Explore builds de Assassino, listas de níveis de classe e demonstrações detalhadas para dominar os portais das masmorras.",
       "categoryLabel": "BUILDS DE CLASSE",
-      "whatIs": "O que são Builds de Reawakened?",
-      "whatIsDescription": "Builds de Reawakened definem como você joga ao combinar sua escolha de classe, Traits, alocação de atributos e equipamentos. Uma build bem otimizada permite que você limpe Gates mais rápido e avance por conteúdos de maior dificuldade com confiança.",
-      "why": "Por que otimizar sua build de Reawakened?",
+      "whatIs": "O que são as Builds do Reawakened?",
+      "whatIsDescription": "As builds do Reawakened definem como você joga ao combinar sua escolha de classe, características, alocação de atributos e equipamentos. Uma build bem otimizada permite limpar portais mais rápido e enfrentar conteúdos de maior dificuldade com confiança.",
+      "why": "Por que otimizar sua build do Reawakened?",
       "whySteps": {
         "step1Title": "Maximize o Dano Causado",
-        "step1Description": "Crie sinergia entre habilidades de classe e Traits para causar o dano máximo em encontros de Gate",
+        "step1Description": "Crie sinergia entre as habilidades de classe e as características para causar o dano máximo em encontros nos portais",
         "step2Title": "Escolha a Classe Certa",
-        "step2Description": "Compare os rankings de tier de classe para escolher a opção mais forte para o seu estilo de jogo",
+        "step2Description": "Compare os rankings de classes para escolher a opção mais forte para o seu estilo de jogo",
         "step3Title": "Domine Cada Gate",
-        "step3Description": "Builds otimizadas permitem que você limpe Dungeons mais difíceis para obter saques melhores e XP mais rápido"
+        "step3Description": "Builds otimizadas permitem que você limpe masmorras mais difíceis para obter saques melhores e XP mais rápido"
       },
-      "featured": "Principais Builds",
+      "featured": "Melhores Builds",
       "all": "Todos os Guias de Build"
     },
     "equipment": {
-      "title": "Equipamento Reawakened",
-      "description": "Guia completo de equipamentos de Reawakened, incluindo armas como Adagas Duplas, atributos de Gear, locais de drop e caminhos de upgrade.",
-      "metaTitle": "Equipamento Reawakened - Armas, Atributos de Gear e Locais de Drop",
-      "metaDescription": "Guia completo de equipamentos de Reawakened cobrindo armas, tiers de Gear, comparações de atributos e onde farmar os melhores drops para sua build de classe.",
-      "categoryLabel": "GEAR & ARMAS",
-      "whatIs": "O que é Equipamento Reawakened?",
-      "whatIsDescription": "O equipamento de Reawakened inclui armas, armaduras e acessórios que definem seu poder de combate. Cada peça possui bônus de atributos únicos e cria sinergias diferentes com habilidades de classe e builds de Trait.",
-      "why": "Por que melhorar o equipamento de Reawakened?",
+      "title": "Equipamento do Reawakened",
+      "description": "Guia completo de equipamentos do Reawakened, incluindo armas como Adagas Duplas, atributos de equipamentos, locais de queda e caminhos de melhoria.",
+      "metaTitle": "Equipamento do Reawakened - Armas, Atributos de Gear e Locais de Drop",
+      "metaDescription": "Guia completo de equipamentos do Reawakened cobrindo armas, níveis de equipamentos, comparações de atributos e onde farmar os melhores itens para sua build de classe.",
+      "categoryLabel": "EQUIPAMENTOS E ARMAS",
+      "whatIs": "O que é o Equipamento do Reawakened?",
+      "whatIsDescription": "O equipamento do Reawakened inclui armas, armaduras e acessórios que definem seu poder de combate. Cada peça possui bônus de atributos únicos e cria sinergias diferentes com as habilidades de classe e builds de características.",
+      "why": "Por que melhorar o equipamento do Reawakened?",
       "whySteps": {
         "step1Title": "Aumente o Poder de Combate",
-        "step1Description": "Equipamentos melhores aumentam diretamente seu dano, defesa e velocidade de limpeza de Gate",
+        "step1Description": "Equipamentos melhores aumentam diretamente seu dano, defesa e velocidade de limpeza de portais",
         "step2Title": "Combine com sua Classe",
         "step2Description": "Use armas específicas de classe para maximizar a eficácia de suas habilidades",
         "step3Title": "Desbloqueie Conteúdo de Endgame",
-        "step3Description": "Gear de alto nível é necessário para entrar em Gates avançados e desafiar chefes de elite"
+        "step3Description": "Equipamentos de alto nível são necessários para entrar em portais avançados e desafiar chefes de elite"
       },
       "featured": "Equipamentos em Destaque",
       "all": "Todos os Equipamentos"
     },
     "launch": {
-      "title": "Lançamento Reawakened",
-      "description": "Data de lançamento de Reawakened, detalhes do playtest, trailers oficiais e notícias de lançamento para este novo RPG do Roblox da Vayron Studios.",
-      "metaTitle": "Lançamento Reawakened - Data de Lançamento, Playtest & Trailer Oficial",
-      "metaDescription": "Tudo sobre o lançamento de Reawakened: data de lançamento, cronograma de playtest, trailer oficial e detalhes de acesso antecipado para este RPG de Dungeon do Roblox.",
+      "title": "Lançamento do Reawakened",
+      "description": "Data de lançamento do Reawakened, detalhes do playtest, trailers oficiais e notícias de lançamento para este novo RPG do Roblox da Vayron Studios.",
+      "metaTitle": "Lançamento do Reawakened - Data de Lançamento, Playtest e Trailer Oficial",
+      "metaDescription": "Tudo sobre o lançamento do Reawakened: data de lançamento, cronograma de playtest, trailer oficial e detalhes de acesso antecipado para este RPG de masmorras do Roblox.",
       "categoryLabel": "NOTÍCIAS DE LANÇAMENTO",
-      "whatIs": "O que é o Lançamento de Reawakened?",
-      "whatIsDescription": "Reawakened foi lançado como um playtest no Roblox pela Vayron Studios. O jogo apresenta uma experiência de RPG de Dungeon inspirada em Solo Leveling com classes, Traits e Gates. As notícias de lançamento cobrem marcos de lançamento, janelas de playtest e anúncios oficiais.",
-      "why": "Por que acompanhar as notícias de lançamento de Reawakened?",
+      "whatIs": "O que é o Lançamento do Reawakened?",
+      "whatIsDescription": "O Reawakened foi lançado como um playtest no Roblox pela Vayron Studios. O jogo apresenta uma experiência de RPG de masmorra inspirada em Solo Leveling com classes, características e portais. As notícias de lançamento cobrem marcos de lançamento, janelas de playtest e anúncios oficiais.",
+      "why": "Por que acompanhar as notícias de lançamento do Reawakened?",
       "whySteps": {
         "step1Title": "Obtenha Acesso Antecipado",
-        "step1Description": "Fique atualizado sobre as janelas de playtest para estar entre os primeiros Hunters em Reawakened",
+        "step1Description": "Fique atualizado sobre as janelas de playtest para estar entre os primeiros caçadores no Reawakened",
         "step2Title": "Resgate Recompensas de Lançamento",
         "step2Description": "Os desenvolvedores costumam lançar códigos exclusivos durante o lançamento e eventos de marcos",
         "step3Title": "Fique à Frente das Atualizações",
@@ -909,39 +1822,39 @@
       "all": "Todas as Notícias de Lançamento"
     },
     "official-links": {
-      "title": "Links Oficiais Reawakened",
-      "description": "Links oficiais de Reawakened, incluindo a página do jogo no Roblox, servidor do Discord e roadmap no Trello da Vayron Studios.",
-      "metaTitle": "Links Oficiais Reawakened - Roblox, Discord & Trello",
-      "metaDescription": "Encontre todos os recursos oficiais de Reawakened: jogue no Roblox, junte-se à comunidade no Discord e confira o quadro do Trello para o roadmap e atualizações.",
+      "title": "Links Oficiais do Reawakened",
+      "description": "Links oficiais do Reawakened, incluindo a página do jogo no Roblox, servidor do Discord e o roadmap no Trello da Vayron Studios.",
+      "metaTitle": "Links Oficiais do Reawakened - Roblox, Discord e Trello",
+      "metaDescription": "Encontre todos os recursos oficiais do Reawakened: jogue no Roblox, junte-se à comunidade no Discord e confira o quadro do Trello para o roadmap e atualizações.",
       "categoryLabel": "RECURSOS OFICIAIS",
-      "whatIs": "O que são os Links Oficiais de Reawakened?",
-      "whatIsDescription": "Os links oficiais de Reawakened conectam você diretamente aos recursos dos desenvolvedores. A página do Roblox permite que você jogue o jogo, o Discord é onde a comunidade e os desenvolvedores se comunicam, e o Trello mostra o roadmap oficial de desenvolvimento.",
-      "why": "Por que usar os links oficiais de Reawakened?",
+      "whatIs": "O que são os Links Oficiais do Reawakened?",
+      "whatIsDescription": "Os links oficiais do Reawakened conectam você diretamente aos recursos dos desenvolvedores. A página do Roblox permite que você jogue o jogo, o Discord é onde a comunidade e os desenvolvedores se comunicam, e o Trello mostra o roadmap oficial de desenvolvimento.",
+      "why": "Por que usar os links oficiais do Reawakened?",
       "whySteps": {
         "step1Title": "Jogue Diretamente",
-        "step1Description": "Acesse a página oficial do jogo no Roblox para começar sua jornada em Reawakened",
+        "step1Description": "Acesse a página oficial do jogo no Roblox para começar sua jornada no Reawakened",
         "step2Title": "Junte-se à Comunidade",
-        "step2Description": "Conecte-se com outros Hunters no Discord para dicas, lançamentos de códigos e notas de atualização",
+        "step2Description": "Conecte-se com outros caçadores no Discord para dicas, lançamentos de códigos e notas de atualização",
         "step3Title": "Acompanhe o Desenvolvimento",
-        "step3Description": "Verifique o quadro do Trello para ver as próximas funcionalidades e atualizações de conteúdo planejadas"
+        "step3Description": "Confira o quadro do Trello para ver as próximas funcionalidades e atualizações de conteúdo planejadas"
       },
       "featured": "Recursos Principais",
       "all": "Todos os Links Oficiais"
     },
     "tools": {
-      "title": "Ferramentas Reawakened",
-      "description": "Ferramentas e scripts de Reawakened para automação de farm, grinding AFK e otimização de eficiência neste RPG do Roblox.",
-      "metaTitle": "Ferramentas Reawakened - Scripts, Farm & Automação AFK",
-      "metaDescription": "Explore ferramentas e scripts de Reawakened para otimizar sua jogabilidade, automatizar o farm e maximizar a eficiência em incursões de Gate e nivelamento.",
-      "categoryLabel": "FERRAMENTAS & SCRIPTS",
-      "whatIs": "O que são Ferramentas Reawakened?",
-      "whatIsDescription": "As ferramentas de Reawakened cobrem scripts e configurações de automação usados por jogadores experientes para otimizar a eficiência do farm, nivelamento AFK e coleta de recursos no jogo.",
-      "why": "Por que usar ferramentas de Reawakened?",
+      "title": "Ferramentas do Reawakened",
+      "description": "Ferramentas e scripts do Reawakened para automação de farm, grinding AFK e otimização de eficiência neste RPG do Roblox.",
+      "metaTitle": "Ferramentas do Reawakened - Scripts, Farm e Automação AFK",
+      "metaDescription": "Explore ferramentas e scripts do Reawakened para otimizar sua jogabilidade, automatizar o farm e maximizar a eficiência em incursões de portais e nivelamento.",
+      "categoryLabel": "FERRAMENTAS E SCRIPTS",
+      "whatIs": "O que são as Ferramentas do Reawakened?",
+      "whatIsDescription": "As ferramentas do Reawakened abrangem scripts e configurações de automação usados por jogadores experientes para otimizar a eficiência do farm, nivelamento AFK e coleta de recursos no jogo.",
+      "why": "Por que usar as ferramentas do Reawakened?",
       "whySteps": {
         "step1Title": "Automatize o Farm Repetitivo",
         "step1Description": "Configure rotinas AFK para grindar XP e recursos enquanto você estiver ausente",
         "step2Title": "Maximize a Eficiência",
-        "step2Description": "Use ferramentas para identificar locais e rotas de farm ideais para o seu nível",
+        "step2Description": "Use ferramentas para identificar os melhores locais e rotas de farm para o seu nível",
         "step3Title": "Mantenha-se Competitivo",
         "step3Description": "Jogadores experientes usam ferramentas de automação para manter uma vantagem na acumulação de recursos"
       },

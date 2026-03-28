@@ -14,46 +14,70 @@ interface ArticleWithType extends ContentItem {
 
 // Module sub-field mapping: moduleKey -> { field, nameKey }
 const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
-  lucidBlocksBeginnerGuide: { field: 'steps', nameKey: 'title' },
-  lucidBlocksApotheosisCrafting: { field: 'cards', nameKey: 'name' },
-  lucidBlocksToolsAndWeapons: { field: 'items', nameKey: 'name' },
-  lucidBlocksStorageAndInventory: { field: 'solutions', nameKey: 'name' },
-  lucidBlocksQualiaAndBaseBuilding: { field: 'cards', nameKey: 'name' },
-  lucidBlocksWorldRegions: { field: 'regions', nameKey: 'name' },
-  lucidBlocksCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
-  lucidBlocksMobilityGear: { field: 'items', nameKey: 'name' },
-  lucidBlocksFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
-  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  reawakendBeginnerGuide: { field: 'steps', nameKey: 'title' },
+  reawakendCodesGuide: { field: 'cards', nameKey: 'name' },
+  reawakendClassesGuide: { field: 'items', nameKey: 'name' },
+  reawakendTraitsGuide: { field: 'solutions', nameKey: 'name' },
+  reawakendPathsGuide: { field: 'cards', nameKey: 'name' },
+  reawakendGatesGuide: { field: 'regions', nameKey: 'name' },
+  reawakendBossesGuide: { field: 'creatures', nameKey: 'name' },
+  reawakendGearGuide: { field: 'items', nameKey: 'name' },
+  reawakendLevelingGuide: { field: 'sections', nameKey: 'name' },
+  reawakendBestBuilds: { field: 'priorities', nameKey: 'name' },
+  reawakendHunterRanks: { field: 'groups', nameKey: 'name' },
+  reawakendGameFAQ: { field: 'faqs', nameKey: 'question' },
+  reawakendBuildTips: { field: 'faqs', nameKey: 'question' },
+  reawakendCommunity: { field: 'settings', nameKey: 'name' },
+  reawakendUpdateLog: { field: 'entries', nameKey: 'title' },
+  reawakendEarlyTips: { field: 'steps', nameKey: 'title' },
+  reawakendFishingGuide: { field: 'steps', nameKey: 'title' },
+  reawakendSideQuestsGuide: { field: 'items', nameKey: 'title' },
+  reawakendWeaponsGuide: { field: 'items', nameKey: 'weapon_class' },
+  reawakendSpellsGuide: { field: 'categories', nameKey: 'title' },
+  reawakendGemsGuide: { field: 'items', nameKey: 'entry' },
+  reawakendFameGuide: { field: 'items', nameKey: 'title' },
+  reawakendEndgameGuide: { field: 'items', nameKey: 'headline' },
+  reawakendCharacterImportGuide: { field: 'items', nameKey: 'label' },
+  reawakendHeirloomGuide: { field: 'items', nameKey: 'label' },
+  reawakendAchievementsGuide: { field: 'categories', nameKey: 'section' },
+  reawakendCheatsGuide: { field: 'cards', nameKey: 'cardTitle' },
+  reawakendSteamDeckGuide: { field: 'sections', nameKey: 'section' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  reawakendBeginnerGuide: ['guide', 'beginner', 'hunter', 'gate', 'progression'],
+  reawakendCodesGuide: ['codes', 'redeem', 'xp boost', 'cosmetic'],
+  reawakendClassesGuide: ['class', 'warrior', 'mage', 'rogue', 'combat'],
+  reawakendTraitsGuide: ['traits', 'passive', 'build', 'stack'],
+  reawakendPathsGuide: ['paths', 'progression', 'stat', 'growth'],
+  reawakendGatesGuide: ['gates', 'dungeon', 'rank', 'enemy'],
+  reawakendBossesGuide: ['boss', 'encounter', 'combat', 'gate'],
+  reawakendGearGuide: ['gear', 'equipment', 'upgrade', 'item'],
+  reawakendLevelingGuide: ['leveling', 'xp', 'farm', 'rank'],
+  reawakendBestBuilds: ['builds', 'class', 'traits', 'path', 'gear'],
+  reawakendHunterRanks: ['ranks', 'hunter', 'tier', 'unlock'],
+  reawakendGameFAQ: ['faq', 'gameplay', 'multiplayer', 'platform'],
+  reawakendBuildTips: ['build', 'optimize', 'class', 'traits', 'path'],
+  reawakendCommunity: ['discord', 'community', 'official', 'channels'],
+  reawakendUpdateLog: ['update', 'patch', 'balance', 'notes'],
+  reawakendEarlyTips: ['early', 'tips', 'starter', 'first session'],
+  reawakendFishingGuide: ['fishing', 'pets', 'gold', 'bait', 'pools'],
+  reawakendSideQuestsGuide: ['side quests', 'quests', 'route', 'reward'],
+  reawakendWeaponsGuide: ['weapons', 'sword', 'legendary', 'elite', 'speed'],
+  reawakendSpellsGuide: ['spells', 'magic', 'attack', 'defense', 'charm'],
+  reawakendGemsGuide: ['gems', 'socket', 'enchant', 'sockets', 'item power'],
+  reawakendFameGuide: ['fame', 'renown', 'progression', 'stat'],
+  reawakendEndgameGuide: ['endgame', 'late game', 'socket', 'enchant', 'renown'],
+  reawakendCharacterImportGuide: ['character import', 'save', 'transfer', 'series'],
+  reawakendHeirloomGuide: ['heirloom', 'descendant', 'retire', 'hero'],
+  reawakendAchievementsGuide: ['achievements', 'pets', 'fishing', 'combat', 'economy'],
+  reawakendCheatsGuide: ['cheats', 'console', 'commands', 'fate', 'cheat'],
+  reawakendSteamDeckGuide: ['steam deck', 'controller', 'proton', 'pc', 'gamepad'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['reawakend', 'reawakened', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +101,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of "Reawakened")
+  const strippedQuery = normalizedQuery.replace(/reawakened?\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/reawakened?\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }

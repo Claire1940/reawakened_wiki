@@ -158,6 +158,26 @@
         "icon": "Wand2",
         "title": "Reawakened Spells Guide",
         "description": "Attack, Defense, Charm spells and summons"
+      },
+      {
+        "icon": "Gem",
+        "title": "Reawakened Gems Guide",
+        "description": "Best gems, rare stones, and socket priorities"
+      },
+      {
+        "icon": "Award",
+        "title": "Reawakened Fame Guide",
+        "description": "Fame, Renown, and gear unlock progression"
+      },
+      {
+        "icon": "Flame",
+        "title": "Reawakened Endgame Guide",
+        "description": "Late-game power spikes and legendary farming"
+      },
+      {
+        "icon": "Download",
+        "title": "Reawakened Character Import",
+        "description": "How carry-over works across all four games"
       }
     ]
   },
@@ -986,6 +1006,220 @@
             "Rotate buffs, heals, and utility without opening menus",
             "Especially useful for Town Portal, Identify, and core combat buffs"
           ]
+        }
+      ]
+    },
+    "reawakendGemsGuide": {
+      "title": "Reawakened Gems Guide",
+      "eyebrow": "Loot Optimization",
+      "intro": "Gems drive a huge share of item power in Reawakened. This guide covers the best gem sources, socket rules that matter, and the stones worth chasing for melee, caster, and utility builds.",
+      "items": [
+        {
+          "entry": "Fishing Pools",
+          "category": "Source",
+          "effect": "Deeper fishing produces better loot",
+          "best_for": "Steady gem farming during progression"
+        },
+        {
+          "entry": "Fate Statue",
+          "category": "Source",
+          "effect": "Awards two random gemstones or summons a boss",
+          "best_for": "Burst gem acquisition when you can handle the risk"
+        },
+        {
+          "entry": "Samwen Re-Socketing",
+          "category": "Utility",
+          "effect": "Removes gems from an item, but gems are destroyed",
+          "best_for": "Replacing filler gems with stronger late-game sockets"
+        },
+        {
+          "entry": "Peridot, Divine",
+          "category": "Core Gem",
+          "effect": "+12% Life Stolen",
+          "best_for": "Melee sustain and long dungeon chains without potions"
+        },
+        {
+          "entry": "Jade, Divine",
+          "category": "Core Gem",
+          "effect": "+25% Attack Speed",
+          "best_for": "Dual-wield and physical DPS builds"
+        },
+        {
+          "entry": "Diamond, Divine",
+          "category": "Core Gem",
+          "effect": "+5 to All Skills",
+          "best_for": "Hybrid and caster-leaning builds"
+        },
+        {
+          "entry": "Ruby, Divine",
+          "category": "Core Gem",
+          "effect": "+72 Fire Resistance, +18 Fire Damage",
+          "best_for": "Fire-focused offense and elemental coverage"
+        },
+        {
+          "entry": "Malachite, Divine",
+          "category": "Core Gem",
+          "effect": "+18 Stamina Recharge",
+          "best_for": "Movement-heavy exploration and lower downtime"
+        },
+        {
+          "entry": "Trickster's Bauble",
+          "category": "Rare Gem",
+          "effect": "+9% Attack Speed, +9% Damage Reflected",
+          "best_for": "Aggressive melee builds with passive retaliation"
+        },
+        {
+          "entry": "Philosopher's Stone",
+          "category": "Rare Gem",
+          "effect": "+5 Magic, +5% Mana, +5% Stamina Penalty",
+          "best_for": "Spellcasting and hybrid magic characters"
+        },
+        {
+          "entry": "Dwarf's Delight",
+          "category": "Rare Gem",
+          "effect": "+25% More Gold from Enemies, +6 Hammer Skill",
+          "best_for": "Gold farming routes and hammer-focused characters"
+        },
+        {
+          "entry": "Covetous Heart",
+          "category": "Rare Gem",
+          "effect": "+12% Finding Magic Items, +5% Reduced Item Requirements",
+          "best_for": "Magic-find farming and easier gearing thresholds"
+        }
+      ]
+    },
+    "reawakendFameGuide": {
+      "title": "Reawakened Fame Guide",
+      "eyebrow": "Progression System",
+      "intro": "Fame feeds your Renown progression, and Renown directly changes what you can equip and how quickly your build grows. Characters that ignore Fame usually feel undergeared once item requirements start rising.",
+      "items": [
+        {
+          "title": "How You Earn Fame",
+          "stat": "Quests + unique or boss enemies",
+          "text": "Quest completions award scaling Gold, XP, and Fame. Fame also comes from killing unique and boss-type enemies, so normal floor clears and quest chains naturally build it over time."
+        },
+        {
+          "title": "What Renown Gives You",
+          "stat": "+4 skill points per Renown level",
+          "text": "Every Renown increase grants four extra skill points. That makes Fame progression a direct power source, not just a gear requirement check."
+        },
+        {
+          "title": "Where to Buy It",
+          "stat": "Rollo the Minstrel",
+          "text": "Rollo can increase your Fame for gold. That lets you buy your way into the next Renown breakpoint when late-game weapons start asking for more than your current progression provides."
+        },
+        {
+          "title": "Why Gear Gets Locked",
+          "stat": "Elite and Legendary gear",
+          "text": "Higher-class items require Fame or Renown thresholds. If you see stronger gear with a requirement wall, the answer is usually more Fame, more gold for Rollo, or both."
+        },
+        {
+          "title": "Why Shops Improve",
+          "stat": "Fame + level raise item quality",
+          "text": "The better your Fame and level, the better items you find in stores and from monsters. This is one reason late-game gearing feels much smoother once Renown catches up."
+        },
+        {
+          "title": "How Difficulty Changes the Equation",
+          "stat": "Adventurer → Superior, Hero → Exceptional, Legend → Flawless",
+          "text": "Higher difficulties raise the item quality ceiling and make the Fame mechanic more important. On harder settings, Renown stops being optional very quickly."
+        }
+      ]
+    },
+    "reawakendEndgameGuide": {
+      "title": "Reawakened Endgame Guide",
+      "eyebrow": "Late-Game Route",
+      "intro": "The strongest late-game path is built around sockets, enchanting, gold conversion, and Renown breakpoints. Once you hit the first real spike, the rest of the run becomes a controlled upgrade loop.",
+      "items": [
+        {
+          "step": 1,
+          "headline": "Start from a build that scales cleanly",
+          "target": "S-tier dual-wield melee or A-tier attack magic mage",
+          "details": "Dual-wield melee is the easiest and strongest endgame shell, while attack magic mage is the main high-damage alternative. Both scale well once buffs, enchantments, and better weapons come online."
+        },
+        {
+          "step": 2,
+          "headline": "Keep the three core buffs running",
+          "target": "Haste + Battle Fog + Dervish",
+          "details": "These buffs are the backbone of the strongest physical route. Haste boosts attack and movement speed, Battle Fog raises attack rating, and Dervish adds a huge attack speed spike."
+        },
+        {
+          "step": 3,
+          "headline": "Treat level 25+ as the first real power breakpoint",
+          "target": "Mid-game enchanting unlock",
+          "details": "Enchantments become much more valuable once you are around level 25 and vendors begin selling higher-cost gear bases. This is where endgame prep truly starts."
+        },
+        {
+          "step": 4,
+          "headline": "Fix sustain before chasing pure damage",
+          "target": "Around 20% total sustain from sockets",
+          "details": "Superior peridots are the early socket priority for sustain and superior jades are the follow-up for attack speed. Once sustain is solved, your clear speed rises sharply."
+        },
+        {
+          "step": 5,
+          "headline": "Use enchanting as your gold engine",
+          "target": "Buy expensive unenchanted bases, enchant once, resell",
+          "details": "Blacksmith bases worth 50k+ begin appearing around level 20+ on Legend. Enchant each piece until it gains one successful enchant, then sell it back to a vendor for fast profit."
+        },
+        {
+          "step": 6,
+          "headline": "Convert gold into Renown and weapon access",
+          "target": "Buy up to Demigod fame",
+          "details": "Late-game gold is not just for gear. It is also the fastest route into the Fame thresholds that let you equip stronger Legendary weapons and keep pace with item requirements."
+        },
+        {
+          "step": 7,
+          "headline": "Take the second spike at level 50",
+          "target": "Re-enchant core gear",
+          "details": "Enchantments stop scaling at level 50. That makes level 50 the clean moment to revisit your main gear and push a second major jump in damage and survivability."
+        },
+        {
+          "step": 8,
+          "headline": "Chase the best weapon bases by game",
+          "target": "Flawless Legendary weapon hunt",
+          "details": "Base game and Undiscovered Realms favor the Flawless Legendary Greatsword. The Traitor Soul and The Cursed King shift the chase toward Flawless Legendary Elphame or Cyber swords."
+        },
+        {
+          "step": 9,
+          "headline": "Do not waste slots on bad stats",
+          "target": "Avoid knockback",
+          "details": "Knockback lowers real DPS by pushing enemies out of your attack flow. Endgame gear wants sockets, damage, sustain, speed, and clean stat lines instead."
+        }
+      ]
+    },
+    "reawakendCharacterImportGuide": {
+      "title": "Reawakened Character Import Guide",
+      "eyebrow": "Save Planning",
+      "intro": "Reawakened supports a clean forward-import path inside the bundled series. The important rule is simple: move upward in release order and plan your inventory before each transfer.",
+      "items": [
+        {
+          "step": 1,
+          "label": "Know the package you are planning around",
+          "content": "The bundle contains all four games: FATE, Undiscovered Realms, The Traitor Soul, and The Cursed King. Your import route should follow that bundled release order."
+        },
+        {
+          "step": 2,
+          "label": "Start in FATE 1 if you want one continuous hero",
+          "content": "The recommended route is to begin with FATE and carry the same character forward through the rest of the bundle. This gives the cleanest upgrade path and avoids getting stuck behind a one-way transfer rule later."
+        },
+        {
+          "step": 3,
+          "label": "Import only moves forward",
+          "content": "You can move a hero from FATE 1 to FATE 2 and keep going forward through the series, but you cannot move that hero backward into an earlier game. Once you advance, treat it as a one-way ladder."
+        },
+        {
+          "step": 4,
+          "label": "Most of your gear travels with you",
+          "content": "When you move to the next game in the series, your character and items carry over. The exception is the move from The Traitor Soul to The Cursed King, where only your hero, pet, and what is inside the inventory bag come with you."
+        },
+        {
+          "step": 5,
+          "label": "Pack your inventory before major transfers",
+          "content": "Because the Traitor Soul to Cursed King move only keeps bag-carried items, this is the point where inventory discipline matters most. Put the gear you truly want on your hero, pet, or inventory before making the jump."
+        },
+        {
+          "step": 6,
+          "label": "Do not plan around old original saves",
+          "content": "Characters from the original pre-remaster games cannot be transferred into the remaster at launch. The import system to plan around is the forward carry path inside the remastered bundle itself."
         }
       ]
     }

@@ -4,16 +4,20 @@ import { useEffect, useState, Suspense, lazy } from 'react'
 import {
   AlertTriangle,
   ArrowRight,
+  Award,
   BarChart3,
   Bell,
   BookOpen,
   Check,
   ChevronDown,
   Clock,
+  Download,
   DoorOpen,
   ExternalLink,
   Fish,
+  Flame,
   Gamepad2,
+  Gem,
   Gift,
   HelpCircle,
   Lightbulb,
@@ -292,6 +296,10 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               { id: 'side-quests-guide', label: 'Side Quests' },
               { id: 'weapons-guide', label: 'Weapons Guide' },
               { id: 'spells-guide', label: 'Spells Guide' },
+              { id: 'gems-guide', label: 'Reawakened Gems' },
+              { id: 'fame-guide', label: 'Reawakened Fame' },
+              { id: 'endgame-guide', label: 'Reawakened Endgame' },
+              { id: 'character-import-guide', label: 'Character Import' },
             ].map(({ id, label }) => (
               <button
                 key={id}
@@ -338,7 +346,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 'gates-guide', 'gear-guide', 'leveling-guide', 'bosses-guide',
                 'beginner-guide', 'best-builds', 'hunter-ranks', 'game-faq',
                 'update-log', 'build-tips', 'community-links', 'early-tips',
-                'fishing-guide', 'side-quests-guide', 'weapons-guide', 'spells-guide'
+                'fishing-guide', 'side-quests-guide', 'weapons-guide', 'spells-guide',
+                'gems-guide', 'fame-guide', 'endgame-guide', 'character-import-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -1045,6 +1054,118 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                     </li>
                   ))}
                 </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 21: Reawakened Gems Guide */}
+      <section id="gems-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Gem className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendGemsGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendGemsGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendGemsGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.reawakendGemsGuide.items.map((item: any, index: number) => (
+              <div key={index} className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-start justify-between gap-2 mb-2">
+                  <div className="flex items-center gap-2">
+                    <Gem className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0 mt-0.5" />
+                    <h3 className="font-bold text-[hsl(var(--nav-theme-light))] text-sm leading-tight">{item.entry}</h3>
+                  </div>
+                  <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] whitespace-nowrap flex-shrink-0">{item.category}</span>
+                </div>
+                <p className="text-sm font-semibold mb-1.5 pl-6">{item.effect}</p>
+                <p className="text-xs text-muted-foreground pl-6">{item.best_for}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 22: Reawakened Fame Guide */}
+      <section id="fame-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Award className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendFameGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendFameGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendFameGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.reawakendFameGuide.items.map((item: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center gap-2 mb-2">
+                  <Award className="w-5 h-5 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                  <h3 className="font-bold text-base">{item.title}</h3>
+                </div>
+                <p className="text-sm font-semibold text-[hsl(var(--nav-theme-light))] mb-3 pl-7 italic">{item.stat}</p>
+                <p className="text-sm text-muted-foreground">{item.text}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 23: Reawakened Endgame Guide */}
+      <section id="endgame-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Flame className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendEndgameGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendEndgameGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendEndgameGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal space-y-4">
+            {t.modules.reawakendEndgameGuide.items.map((item: any, index: number) => (
+              <div key={index} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center font-bold text-[hsl(var(--nav-theme-light))]">
+                  {item.step}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-start justify-between gap-2 mb-1">
+                    <h3 className="font-bold">{item.headline}</h3>
+                    <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] whitespace-nowrap flex-shrink-0">{item.target}</span>
+                  </div>
+                  <p className="text-sm text-muted-foreground">{item.details}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 24: Reawakened Character Import Guide */}
+      <section id="character-import-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <Download className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
+              <h2 className="text-4xl md:text-5xl font-bold">{t.modules.reawakendCharacterImportGuide.title}</h2>
+            </div>
+            <p className="text-xs font-semibold text-[hsl(var(--nav-theme-light))] uppercase tracking-widest mb-3">{t.modules.reawakendCharacterImportGuide.eyebrow}</p>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.reawakendCharacterImportGuide.intro}</p>
+          </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.reawakendCharacterImportGuide.items.map((item: any, index: number) => (
+              <div key={index} className="flex gap-4 p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex-shrink-0 w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center font-bold text-[hsl(var(--nav-theme-light))] text-sm">
+                  {item.step}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <h3 className="font-bold mb-1.5 leading-snug">{item.label}</h3>
+                  <p className="text-sm text-muted-foreground">{item.content}</p>
+                </div>
               </div>
             ))}
           </div>

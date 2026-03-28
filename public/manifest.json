@@ -1,11 +1,11 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Reawakened Wiki - Codes, Classes & Dungeon Guide",
+  "short_name": "Reawakened",
+  "description": "Reawakened Wiki covers active codes, best classes, traits, progression paths, dungeons, leveling tips, and early-game guides for this Roblox RPG.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#7c3aed",
   "background_color": "#0a0a0a",
   "icons": [
     {

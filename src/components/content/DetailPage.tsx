@@ -162,8 +162,8 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 					right: 'calc((100vw - 1280px) / 2 - 180px)',
 				}}
 			>
-				{/* 右侧广告：160×300 方形 */}
-				<SidebarAd type="sidebar-160x300" adKey={process.env.NEXT_PUBLIC_AD_SIDEBAR_160X300} />
+				{/* 右侧广告：复用左侧 160×600 同 key（提升填充率，原 160×300 经常 no-fill） */}
+				<SidebarAd type="sidebar-160x600" adKey={process.env.NEXT_PUBLIC_AD_SIDEBAR_160X600} />
 			</aside>
 		</div>
 	)

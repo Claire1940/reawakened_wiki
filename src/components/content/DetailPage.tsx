@@ -117,8 +117,8 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 				<SidebarAd type="sidebar-160x600" adKey={process.env.NEXT_PUBLIC_AD_SIDEBAR_160X600} />
 			</aside>
 
-			{/* 中间正文容器 - 保持原有宽度 */}
-			<div className="container mx-auto px-4 py-6 max-w-7xl">
+			{/* 中间正文容器 - 收窄正文行宽，提升可读性 */}
+			<div className="container mx-auto px-4 py-6 max-w-4xl">
 				{/* Article Content - MDX 渲染 */}
 				<article className="prose prose-lg max-w-none">{content}</article>
 

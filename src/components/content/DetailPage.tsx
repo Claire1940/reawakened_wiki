@@ -110,7 +110,7 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 			<aside
 				className="hidden xl:block fixed top-20 w-40 z-10"
 				style={{
-					left: 'calc((100vw - 1280px) / 2 - 180px)',
+					left: 'calc((100vw - 896px) / 2 - 180px)',
 				}}
 			>
 				{/* 左侧广告：160×600 竖幅 */}
@@ -159,7 +159,7 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 			<aside
 				className="hidden xl:block fixed top-20 w-40 z-10"
 				style={{
-					right: 'calc((100vw - 1280px) / 2 - 180px)',
+					right: 'calc((100vw - 896px) / 2 - 180px)',
 				}}
 			>
 				{/* 右侧广告：复用左侧 160×600 同 key（提升填充率，原 160×300 经常 no-fill） */}

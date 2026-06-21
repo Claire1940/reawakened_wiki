@@ -1,0 +1,1122 @@
+{
+  "de": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "en": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "es": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "fr": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "it": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "ja": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "ko": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  },
+  "pt": {
+    "build": [
+      {
+        "slug": "reawakened-assassin",
+        "file": "reawakened-assassin"
+      },
+      {
+        "slug": "reawakened-best-class",
+        "file": "reawakened-best-class"
+      },
+      {
+        "slug": "reawakened-class-showcase",
+        "file": "reawakened-class-showcase"
+      },
+      {
+        "slug": "reawakened-mage-build",
+        "file": "reawakened-mage-build"
+      },
+      {
+        "slug": "reawakened-shadow-monarch-build-guide",
+        "file": "reawakened-shadow-monarch-build-guide"
+      },
+      {
+        "slug": "reawakened-sung-jin-woo",
+        "file": "reawakened-sung-jin-woo"
+      },
+      {
+        "slug": "reawakened-sword-fighter-build",
+        "file": "reawakened-sword-fighter-build"
+      },
+      {
+        "slug": "reawakened-warrior-build",
+        "file": "reawakened-warrior-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "reawakened-all-codes-2026",
+        "file": "reawakened-all-codes-2026"
+      },
+      {
+        "slug": "reawakened-codes",
+        "file": "reawakened-codes"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "reawakened-armor-guide",
+        "file": "reawakened-armor-guide"
+      },
+      {
+        "slug": "reawakened-best-weapons",
+        "file": "reawakened-best-weapons"
+      },
+      {
+        "slug": "reawakened-dual-daggers",
+        "file": "reawakened-dual-daggers"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "reawakened-beginner-guide",
+        "file": "reawakened-beginner-guide"
+      },
+      {
+        "slug": "reawakened-boss-guide",
+        "file": "reawakened-boss-guide"
+      },
+      {
+        "slug": "reawakened-fastest-leveling",
+        "file": "reawakened-fastest-leveling"
+      },
+      {
+        "slug": "reawakened-how-to-level-up-fast",
+        "file": "reawakened-how-to-level-up-fast"
+      },
+      {
+        "slug": "reawakened-patch-notes",
+        "file": "reawakened-patch-notes"
+      },
+      {
+        "slug": "reawakened-pvp-tips",
+        "file": "reawakened-pvp-tips"
+      },
+      {
+        "slug": "reawakened-secret-key-guide",
+        "file": "reawakened-secret-key-guide"
+      },
+      {
+        "slug": "reawakened-tier-list",
+        "file": "reawakened-tier-list"
+      },
+      {
+        "slug": "reawakened-worth-it",
+        "file": "reawakened-worth-it"
+      }
+    ],
+    "launch": [
+      {
+        "slug": "reawakened-early-access-guide",
+        "file": "reawakened-early-access-guide"
+      },
+      {
+        "slug": "reawakened-playtest",
+        "file": "reawakened-playtest"
+      },
+      {
+        "slug": "reawakened-release-date",
+        "file": "reawakened-release-date"
+      },
+      {
+        "slug": "reawakened-release-trailer",
+        "file": "reawakened-release-trailer"
+      }
+    ],
+    "official-links": [
+      {
+        "slug": "reawakened-discord",
+        "file": "reawakened-discord"
+      },
+      {
+        "slug": "reawakened-roblox-wiki-page",
+        "file": "reawakened-roblox-wiki-page"
+      },
+      {
+        "slug": "reawakened-roblox",
+        "file": "reawakened-roblox"
+      },
+      {
+        "slug": "reawakened-trello",
+        "file": "reawakened-trello"
+      }
+    ],
+    "tools": [
+      {
+        "slug": "reawakened-script",
+        "file": "reawakened-script"
+      }
+    ]
+  }
+}

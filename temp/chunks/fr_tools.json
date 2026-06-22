@@ -1,0 +1,149 @@
+{
+  "tools": {
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Tout ce dont vous avez besoin pour les codes, les classes, les portails et la progression dans Reawakened",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Codes Reawakened",
+        "description": "Codes d'activation valides et liste des récompenses"
+      },
+      {
+        "icon": "Users",
+        "title": "Classes Reawakened",
+        "description": "Toutes les classes, les rôles et les évaluations de puissance"
+      },
+      {
+        "icon": "Zap",
+        "title": "Traits Reawakened",
+        "description": "Effets des Traits, rareté et guide de relance"
+      },
+      {
+        "icon": "Map",
+        "title": "Paths Reawakened",
+        "description": "Chemins de progression et itinéraires de build"
+      },
+      {
+        "icon": "DoorOpen",
+        "title": "Gates Reawakened",
+        "description": "Types de Gates, difficulté et guide de butin"
+      },
+      {
+        "icon": "Shield",
+        "title": "Gear Reawakened",
+        "description": "Niveaux d'armes, d'armures et d'équipement"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Progression Reawakened",
+        "description": "Itinéraires de progression les plus rapides et astuces d'XP"
+      },
+      {
+        "icon": "Skull",
+        "title": "Boss Reawakened",
+        "description": "Mécaniques de boss, emplacements et butins"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guide du débutant Reawakened",
+        "description": "Premiers pas pour les nouveaux chasseurs"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Meilleurs builds Reawakened",
+        "description": "Meilleurs builds par classe et style de jeu"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Rangs Hunter Reawakened",
+        "description": "Paliers de rang et défis de montée en rang"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "FAQ Reawakened",
+        "description": "Réponses aux questions fréquentes"
+      },
+      {
+        "icon": "Bell",
+        "title": "Journal des mises à jour Reawakened",
+        "description": "Derniers patchs et mises à jour de contenu"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Astuces de build Reawakened",
+        "description": "Conseils avancés d'optimisation de build"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Communauté Reawakened",
+        "description": "Discord, YouTube et liens officiels"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Astuces de départ Reawakened",
+        "description": "Conseils clés pour progresser rapidement"
+      },
+      {
+        "icon": "Fish",
+        "title": "Guide de pêche Reawakened",
+        "description": "Tailles de poissons, transformations de familiers et pièces d'or de départ"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Quêtes secondaires Reawakened",
+        "description": "Itinéraires de quêtes, récompenses et stratégie d'étage"
+      },
+      {
+        "icon": "Sword",
+        "title": "Guide des armes Reawakened",
+        "description": "Classes d'armes, objets uniques et variantes Élite/Légendaire"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Guide des sorts Reawakened",
+        "description": "Sorts d'attaque, de défense, de charme et invocations"
+      },
+      {
+        "icon": "Gem",
+        "title": "Guide des gemmes Reawakened",
+        "description": "Meilleures gemmes, pierres rares et priorités de châsses"
+      },
+      {
+        "icon": "Award",
+        "title": "Guide de renommée Reawakened",
+        "description": "Gloire, renommée et progression du déblocage d'équipement"
+      },
+      {
+        "icon": "Flame",
+        "title": "Guide de fin de jeu Reawakened",
+        "description": "Pics de puissance en fin de jeu et farm d'objets légendaires"
+      },
+      {
+        "icon": "Download",
+        "title": "Importation de personnage Reawakened",
+        "description": "Comment fonctionne le transfert entre les quatre jeux"
+      },
+      {
+        "icon": "Star",
+        "title": "Guide des héritages Reawakened",
+        "description": "Prenez votre retraite, transmettez des héritages et renforcez vos descendants"
+      },
+      {
+        "icon": "Target",
+        "title": "Guide des succès Reawakened",
+        "description": "Liste complète des succès par catégorie"
+      },
+      {
+        "icon": "Settings",
+        "title": "Guide des codes de triche Reawakened",
+        "description": "Saisie de commandes de console classiques et référence des triches"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Guide Steam Deck Reawakened",
+        "description": "Configuration Steam Deck, particularités des manettes et solutions de contournement"
+      }
+    ]
+  }
+}

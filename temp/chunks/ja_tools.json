@@ -1,0 +1,149 @@
+{
+  "tools": {
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Reawakened のコード、クラス、ゲート、進行状況に関するすべての情報",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Reawakened コード",
+        "description": "現在有効な特典コードと報酬一覧"
+      },
+      {
+        "icon": "Users",
+        "title": "Reawakened クラス",
+        "description": "全クラス、役割、強さの評価"
+      },
+      {
+        "icon": "Zap",
+        "title": "Reawakened __PROTECTED_9118ea0f__",
+        "description": "__PROTECTED_9118ea0f__ の効果、レア度、リセマラガイド"
+      },
+      {
+        "icon": "Map",
+        "title": "Reawakened __PROTECTED_ac70412e__",
+        "description": "進行パスとビルドルート"
+      },
+      {
+        "icon": "DoorOpen",
+        "title": "Reawakened Gate",
+        "description": "Gate の種類、難易度、ドロップアイテムガイド"
+      },
+      {
+        "icon": "Shield",
+        "title": "Reawakened Gear",
+        "description": "武器、防具、装備ティア"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Reawakened レベル上げ",
+        "description": "最速レベル上げルートと経験値のコツ"
+      },
+      {
+        "icon": "Skull",
+        "title": "Reawakened ボス",
+        "description": "ボスのギミック、出現場所、ドロップ"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Reawakened 初心者ガイド",
+        "description": "新規ハンターのための第一歩"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Reawakened 最強ビルド",
+        "description": "クラスとプレイスタイル別のトップビルド"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Reawakened __PROTECTED_5e409e09__ ランク",
+        "description": "ランクの節目とランクアップの試練"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Reawakened FAQ",
+        "description": "よくある質問と回答"
+      },
+      {
+        "icon": "Bell",
+        "title": "Reawakened アップデート履歴",
+        "description": "最新パッチとコンテンツの更新情報"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Reawakened ビルドのコツ",
+        "description": "高度なビルド最適化のアドバイス"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Reawakened コミュニティ",
+        "description": "Discord、YouTube、および公式リンク"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Reawakened 序盤のコツ",
+        "description": "素早く攻略するための重要なヒント"
+      },
+      {
+        "icon": "Fish",
+        "title": "Reawakened 釣りガイド",
+        "description": "魚のサイズ、ペットの変身、序盤の金策"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Reawakened サイドクエスト",
+        "description": "クエストの進め方、報酬、フロア攻略"
+      },
+      {
+        "icon": "Sword",
+        "title": "Reawakened 武器ガイド",
+        "description": "武器クラス、ユニーク、エリート/レジェンダリーのバリエーション"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Reawakened 呪文ガイド",
+        "description": "攻撃、防御、チャーム呪文と召喚"
+      },
+      {
+        "icon": "Gem",
+        "title": "Reawakened ジェムガイド",
+        "description": "最強ジェム、レアストーン、ソケットの優先順位"
+      },
+      {
+        "icon": "Award",
+        "title": "Reawakened 名声ガイド",
+        "description": "名声、評判、装備解放の進行状況"
+      },
+      {
+        "icon": "Flame",
+        "title": "Reawakened エンドゲームガイド",
+        "description": "終盤のパワースパイクとレジェンダリー周回"
+      },
+      {
+        "icon": "Download",
+        "title": "Reawakened キャラクターのインポート",
+        "description": "全4作品間での引き継ぎの仕組み"
+      },
+      {
+        "icon": "Star",
+        "title": "Reawakened 遺産ガイド",
+        "description": "引退、遺産の継承、子孫の強化"
+      },
+      {
+        "icon": "Target",
+        "title": "Reawakened 実績ガイド",
+        "description": "カテゴリー別の全実績チェックリスト"
+      },
+      {
+        "icon": "Settings",
+        "title": "Reawakened チートガイド",
+        "description": "クラシックなコンソールコマンド入力とチートリファレンス"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Reawakened Steam Deckガイド",
+        "description": "Steam Deckのセットアップ、コントローラーの癖、回避策"
+      }
+    ]
+  }
+}

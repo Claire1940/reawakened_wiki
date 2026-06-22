@@ -1,0 +1,33 @@
+{
+  "faq": {
+    "title": "Domande",
+    "titleHighlight": "Frequenti",
+    "subtitle": "Tutto quello che devi sapere su Reawakened",
+    "questions": [
+      {
+        "question": "Cos'è Reawakened su Roblox?",
+        "answer": "Reawakened è un RPG su Roblox ispirato a Solo Leveling, creato da Vayron Studios. Combatti attraverso i gate classificati, scegli una classe, sviluppa i tuoi tratti e scala i ranghi dei cacciatori in un gioco di combattimento dungeon in stile dark anime."
+      },
+      {
+        "question": "Come riscatto i codici in Reawakened?",
+        "answer": "Apri il menu di gioco, tocca il pulsante Codici, inserisci il codice esattamente come mostrato e premi Conferma. I codici distinguono tra maiuscole e minuscole e hanno utilizzi limitati."
+      },
+      {
+        "question": "Qual è la classe migliore in Reawakened?",
+        "answer": "Il Mago ha la velocità di completamento dei gate più rapida per il farming in solitaria. Il Guerriero è la classe più semplice per i principianti grazie ai suoi elevati HP base e a uno stile di gioco diretto."
+      },
+      {
+        "question": "Reawakened è gratuito?",
+        "answer": "Sì. Reawakened è gratuito su Roblox. Alcuni oggetti estetici potrebbero essere disponibili per Robux, ma tutto il gameplay principale, inclusi classi, gate e tratti, è gratuito."
+      },
+      {
+        "question": "Cosa sono i tratti in Reawakened?",
+        "answer": "I __PROTECTED_9118ea0f__s sono modificatori passivi delle statistiche che si sommano alle abilità della tua classe. Sono divisi nelle categorie attacco, difesa, utilità e rari. Puoi effettuare il reroll dei tratti usando l'oro guadagnato nelle incursioni nei gate."
+      },
+      {
+        "question": "Come sblocco i gate di rango superiore in Reawakened?",
+        "answer": "Raggiungi il rango di cacciatore richiesto accumulando XP nel tuo attuale livello di gate, quindi completa la sfida di aumento di rango per passare al livello successivo e sbloccare gate più difficili."
+      }
+    ]
+  }
+}

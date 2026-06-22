@@ -1,0 +1,19 @@
+{
+  "lang": "es",
+  "strategy": "top_level",
+  "completed_chunks": [
+    "seo",
+    "nav",
+    "common",
+    "hero",
+    "gameFeature",
+    "tools",
+    "faq",
+    "cta",
+    "footer"
+  ],
+  "total_chunks": 11,
+  "progress": "9/11",
+  "timestamp": "2026-03-28T15:35:23.263618",
+  "metadata": {}
+}

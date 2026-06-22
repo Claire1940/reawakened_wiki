@@ -1,0 +1,16 @@
+{
+  "common": {
+    "home": "Home",
+    "more": "Altro",
+    "playNow": "Gioca su Roblox",
+    "switchLanguage": "Cambia lingua",
+    "switchTheme": "Cambia tema",
+    "lightMode": "Modalità chiara",
+    "darkMode": "Modalità scura",
+    "notFound": "Pagina non trovata",
+    "notFoundDescription": "La pagina che stai cercando non esiste.",
+    "backToHome": "Torna alla Home",
+    "relatedArticles": "Articoli correlati",
+    "readMore": "Leggi di più"
+  }
+}

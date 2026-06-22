@@ -1,0 +1,149 @@
+{
+  "tools": {
+    "title": "Reawakened",
+    "titleHighlight": "Wiki",
+    "subtitle": "Alles, was du für Codes, Klassen, Tore und den Fortschritt in Reawakened brauchst",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Reawakened Codes",
+        "description": "Aktive Einlösecodes und Belohnungsliste"
+      },
+      {
+        "icon": "Users",
+        "title": "Reawakened Klassen",
+        "description": "Alle Klassen, Rollen und Stärkebewertungen"
+      },
+      {
+        "icon": "Zap",
+        "title": "Reawakened __PROTECTED_9118ea0f__s",
+        "description": "__PROTECTED_9118ea0f__-Effekte, Seltenheit und Reroll-Guide"
+      },
+      {
+        "icon": "Map",
+        "title": "Reawakened __PROTECTED_ac70412e__s",
+        "description": "Fortschrittspfade und Build-Routen"
+      },
+      {
+        "icon": "DoorOpen",
+        "title": "Reawakened Gates",
+        "description": "Gate-Typen, Schwierigkeitsgrad und Loot-Guide"
+      },
+      {
+        "icon": "Shield",
+        "title": "Reawakened Gear",
+        "description": "Waffen, Rüstungen und Ausrüstungsstufen"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Reawakened Leveln",
+        "description": "Schnellste Level-Routen und EP-Tipps"
+      },
+      {
+        "icon": "Skull",
+        "title": "Reawakened Bosse",
+        "description": "Boss-Mechaniken, Fundorte und Drops"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Reawakened Einsteiger-Guide",
+        "description": "Erste Schritte für neue Jäger"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Reawakened Beste Builds",
+        "description": "Top-Builds nach Klasse und Spielstil"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Reawakened __PROTECTED_5e409e09__ Ränge",
+        "description": "Rang-Meilensteine und Aufstiegs-Herausforderungen"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Reawakened FAQ",
+        "description": "Antworten auf häufige Fragen"
+      },
+      {
+        "icon": "Bell",
+        "title": "Reawakened Update-Log",
+        "description": "Neueste Patches und Inhalts-Updates"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Reawakened Build-Tipps",
+        "description": "Fortgeschrittene Tipps zur Build-Optimierung"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Reawakened Community",
+        "description": "Discord, YouTube und offizielle Links"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Reawakened Tipps für den Anfang",
+        "description": "Wichtige Tipps, um schnell voranzukommen"
+      },
+      {
+        "icon": "Fish",
+        "title": "Reawakened Angel-Guide",
+        "description": "Fischgrößen, Haustier-Transformationen und frühes Gold"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Reawakened Nebenquests",
+        "description": "Quest-Routen, Belohnungen und Etagen-Strategie"
+      },
+      {
+        "icon": "Sword",
+        "title": "Reawakened Waffen-Guide",
+        "description": "Waffenklassen, Unikate sowie Elite- und legendäre Varianten"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Reawakened Zauber-Guide",
+        "description": "Angriffs-, Verteidigungs- und Verzauberungszauber sowie Beschwörungen"
+      },
+      {
+        "icon": "Gem",
+        "title": "Reawakened Edelstein-Guide",
+        "description": "Beste Edelsteine, seltene Steine und Sockel-Prioritäten"
+      },
+      {
+        "icon": "Award",
+        "title": "Reawakened Ruhm-Guide",
+        "description": "Ruhm, Ansehen und Fortschritt bei der Ausrüstungsfreischaltung"
+      },
+      {
+        "icon": "Flame",
+        "title": "Reawakened Endgame-Guide",
+        "description": "Power-Spikes im Late-Game und Farmen von legendären Gegenständen"
+      },
+      {
+        "icon": "Download",
+        "title": "Reawakened Charakter-Import",
+        "description": "Wie die Übertragung zwischen allen vier Spielen funktioniert"
+      },
+      {
+        "icon": "Star",
+        "title": "Reawakened Erbstück-Guide",
+        "description": "In den Ruhestand gehen, Erbstücke weitergeben und Nachkommen stärken"
+      },
+      {
+        "icon": "Target",
+        "title": "Reawakened Erfolge-Guide",
+        "description": "Vollständige Checkliste für Erfolge nach Kategorien"
+      },
+      {
+        "icon": "Settings",
+        "title": "Reawakened Cheat-Guide",
+        "description": "Klassische Konsolenbefehle und Cheat-Referenz"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Reawakened Steam Deck-Guide",
+        "description": "Steam Deck-Einrichtung, Controller-Eigenheiten und Workarounds"
+      }
+    ]
+  }
+}

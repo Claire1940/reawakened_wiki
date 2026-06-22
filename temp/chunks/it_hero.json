@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "RPG Roblox ispirato a Solo Leveling",
+    "title": "Wiki di Reawakened",
+    "description": "Combatti attraverso i portali, scegli una classe, potenzia la tua build e scala i ranghi dei cacciatori in un cupo RPG anime Roblox incentrato sulla progressione rapida e sul combattimento.",
+    "getFreeCodesCTA": "Ottieni codici gratuiti",
+    "playOnSteamCTA": "Gioca su Roblox",
+    "stats": {
+      "stat1": {
+        "value": "86.6K+",
+        "label": "Visite totali"
+      },
+      "stat2": {
+        "value": "4.8K+",
+        "label": "Giocatori attivi"
+      },
+      "stat3": {
+        "value": "2,234",
+        "label": "Preferiti"
+      },
+      "stat4": {
+        "value": "12.7K+",
+        "label": "Membri dello studio"
+      }
+    }
+  }
+}

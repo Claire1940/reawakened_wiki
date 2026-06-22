@@ -1,0 +1,33 @@
+{
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Reawakened",
+    "questions": [
+      {
+        "question": "¿Qué es Reawakened en Roblox?",
+        "answer": "Reawakened es un RPG de Roblox inspirado en Solo Leveling, creado por Vayron Studios. Lucha en portales de clasificación, elige una clase, desarrolla tus rasgos y sube en los rangos de cazador en un juego de combate de mazmorras de anime oscuro."
+      },
+      {
+        "question": "¿Cómo canjeo códigos en Reawakened?",
+        "answer": "Abre el menú del juego, toca el botón de Códigos, ingresa el código exactamente como se muestra y presiona Confirmar. Los códigos distinguen entre mayúsculas y minúsculas y tienen usos limitados."
+      },
+      {
+        "question": "¿Cuál es la mejor clase en Reawakened?",
+        "answer": "El Mago tiene la velocidad más rápida para despejar portales al farmear en solitario. El Guerrero es la clase más fácil para principiantes debido a su alta vida base y estilo de juego sencillo."
+      },
+      {
+        "question": "¿Es Reawakened gratuito?",
+        "answer": "Sí. Reawakened es gratuito en Roblox. Algunos objetos cosméticos pueden estar disponibles por Robux, pero toda la jugabilidad principal, incluyendo clases, portales y rasgos, es gratuita."
+      },
+      {
+        "question": "¿Qué son los rasgos en Reawakened?",
+        "answer": "Los Trait son modificadores de estadísticas pasivos que se acumulan con tus habilidades de clase. Se dividen en categorías de ataque, defensa, utilidad y raras. Puedes cambiar tus rasgos usando el oro obtenido en los portales."
+      },
+      {
+        "question": "¿Cómo desbloqueo portales de mayor rango en Reawakened?",
+        "answer": "Alcanza el rango de cazador requerido farmeando experiencia en tu nivel de portal actual, luego completa el desafío de ascenso para subir al siguiente nivel y desbloquear portales más difíciles."
+      }
+    ]
+  }
+}

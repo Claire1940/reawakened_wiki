@@ -1,0 +1,16 @@
+{
+  "common": {
+    "home": "Startseite",
+    "more": "Mehr",
+    "playNow": "Jetzt auf Roblox spielen",
+    "switchLanguage": "Sprache wechseln",
+    "switchTheme": "Design wechseln",
+    "lightMode": "Heller Modus",
+    "darkMode": "Dunkler Modus",
+    "notFound": "Seite nicht gefunden",
+    "notFoundDescription": "Die von Ihnen gesuchte Seite existiert nicht.",
+    "backToHome": "Zurück zur Startseite",
+    "relatedArticles": "Ähnliche Artikel",
+    "readMore": "Weiterlesen"
+  }
+}

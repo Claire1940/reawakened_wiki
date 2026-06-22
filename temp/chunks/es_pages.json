@@ -1,0 +1,144 @@
+{
+  "pages": {
+    "codes": {
+      "title": "Códigos de Reawakened",
+      "description": "Todos los códigos activos de Reawakened con recompensas, información de vencimiento e instrucciones de canje paso a paso.",
+      "metaTitle": "Códigos de Reawakened - Códigos de canje activos y recompensas",
+      "metaDescription": "Lista completa de códigos activos de Reawakened con sus recompensas. Aprende cómo canjear códigos y dónde encontrar nuevos lanzamientos para este RPG de Roblox.",
+      "categoryLabel": "CÓDIGOS GRATIS",
+      "whatIs": "¿Qué son los códigos de Reawakened?",
+      "whatIsDescription": "Los códigos de Reawakened son cadenas de recompensas de uso limitado lanzadas por Vayron Studios durante actualizaciones y eventos. Canjéalos en el menú del juego para obtener potenciadores de XP gratuitos, chips de estadísticas y reservas de clase para acelerar tu progresión.",
+      "why": "¿Por qué canjear códigos de Reawakened?",
+      "whySteps": {
+        "step1Title": "Potenciadores de XP gratis",
+        "step1Description": "Los códigos suelen incluir multiplicadores de XP que aceleran la progresión de los rangos iniciales",
+        "step2Title": "Bonificaciones de estadísticas",
+        "step2Description": "Reclama mejoras gratuitas de ataque, defensa o utilidad para fortalecer tu build",
+        "step3Title": "Reservas de clase",
+        "step3Description": "Desbloquea tokens de cambio de clase para que puedas cambiar tu estilo de juego sin perder el progreso"
+      },
+      "featured": "Destacados y activos",
+      "all": "Todos los códigos"
+    },
+    "guide": {
+      "title": "Guía de Reawakened",
+      "description": "Guías completas de Reawakened que cubren consejos para principiantes, las rutas de nivelación más rápidas, estrategias de clase y progresión en el juego temprano para este RPG de Roblox.",
+      "metaTitle": "Guía de Reawakened - Consejos para principiantes, nivelación y progresión",
+      "metaDescription": "Domina Reawakened con guías completas sobre nivelación, selección de clase, estrategias de portales y optimización de rasgos para jugadores nuevos y experimentados.",
+      "categoryLabel": "GUÍAS DEL JUEGO",
+      "whatIs": "¿Qué son las guías de Reawakened?",
+      "whatIsDescription": "Las guías de Reawakened cubren todo, desde tu primera incursión en un portal hasta la optimización avanzada de builds. Aprende cómo las clases, los rasgos, las sendas y las mazmorras funcionan en conjunto para crear al cazador más poderoso.",
+      "why": "¿Por qué leer las guías de Reawakened?",
+      "whySteps": {
+        "step1Title": "Aprende las mecánicas principales",
+        "step1Description": "Entiende cómo funcionan los portales, los rasgos y los rangos para evitar errores comunes",
+        "step2Title": "Progresión rápida",
+        "step2Description": "Sigue rutas de nivelación probadas para llegar al contenido de endgame de manera eficiente",
+        "step3Title": "Domina tu build",
+        "step3Description": "Desarrolla tácticas avanzadas para optimizar tu combinación de clase y rasgos"
+      },
+      "featured": "Guías destacadas",
+      "all": "Todas las guías"
+    },
+    "build": {
+      "title": "Build de Reawakened",
+      "description": "Las mejores builds de Reawakened para cada clase, incluyendo Asesino, clasificaciones de las mejores clases y exhibiciones de personajes para este RPG de Roblox.",
+      "metaTitle": "Build de Reawakened - Mejores clases, Asesino y Tier List de clases",
+      "metaDescription": "Descubre las mejores builds de Reawakened para cada clase. Explora builds de Asesino, listas de niveles de clases y exhibiciones detalladas para dominar los portales de las mazmorras.",
+      "categoryLabel": "BUILDS DE CLASE",
+      "whatIs": "¿Qué son las builds de Reawakened?",
+      "whatIsDescription": "Las builds de Reawakened definen tu forma de jugar al combinar tu elección de clase, rasgos, asignación de estadísticas y equipamiento. Una build bien optimizada te permite completar portales más rápido y superar contenido de mayor dificultad con confianza.",
+      "why": "¿Por qué optimizar tu build de Reawakened?",
+      "whySteps": {
+        "step1Title": "Maximiza el daño infligido",
+        "step1Description": "Crea sinergia entre las habilidades de clase y los rasgos para infligir el máximo daño en los encuentros de los portales",
+        "step2Title": "Elige la clase correcta",
+        "step2Description": "Compara las clasificaciones de clases para elegir la opción más fuerte para tu estilo de juego",
+        "step3Title": "Domina cada Gate",
+        "step3Description": "Las builds optimizadas te permiten completar mazmorras más difíciles para obtener mejor botín y XP más rápido"
+      },
+      "featured": "Mejores builds",
+      "all": "Todas las guías de builds"
+    },
+    "equipment": {
+      "title": "Equipamiento de Reawakened",
+      "description": "Guía completa del equipamiento de Reawakened, incluyendo armas como las Dagas duales, estadísticas de equipo, ubicaciones de botín y rutas de mejora.",
+      "metaTitle": "Equipamiento de Reawakened - Armas, estadísticas de Gear y ubicaciones de botín",
+      "metaDescription": "Guía completa de equipamiento de Reawakened que cubre armas, niveles de equipo, comparaciones de estadísticas y dónde farmear los mejores drops para tu build de clase.",
+      "categoryLabel": "EQUIPO Y ARMAS",
+      "whatIs": "¿Qué es el equipamiento de Reawakened?",
+      "whatIsDescription": "El equipamiento de Reawakened incluye armas, armaduras y accesorios que definen tu poder de combate. Cada pieza tiene bonificaciones de estadísticas únicas y crea sinergias diferentes con las habilidades de clase y las builds de rasgos.",
+      "why": "¿Por qué mejorar el equipamiento de Reawakened?",
+      "whySteps": {
+        "step1Title": "Aumenta el poder de combate",
+        "step1Description": "Un mejor equipamiento potencia directamente tu daño, defensa y velocidad para completar portales",
+        "step2Title": "Combina con tu clase",
+        "step2Description": "Usa armas específicas de clase para maximizar la efectividad de tus habilidades",
+        "step3Title": "Desbloquea contenido de endgame",
+        "step3Description": "Se requiere equipo de alto nivel para entrar en portales avanzados y desafiar a jefes de élite"
+      },
+      "featured": "Equipamiento destacado",
+      "all": "Todo el equipamiento"
+    },
+    "launch": {
+      "title": "Lanzamiento de Reawakened",
+      "description": "Fecha de lanzamiento de Reawakened, detalles de la prueba de juego, tráileres oficiales y noticias de lanzamiento para este nuevo RPG de Roblox de Vayron Studios.",
+      "metaTitle": "Lanzamiento de Reawakened - Fecha de lanzamiento, prueba de juego y tráiler oficial",
+      "metaDescription": "Todo sobre el lanzamiento de Reawakened: fecha de lanzamiento, calendario de pruebas de juego, tráiler oficial y detalles de acceso anticipado para este RPG de mazmorras de Roblox.",
+      "categoryLabel": "NOTICIAS DE LANZAMIENTO",
+      "whatIs": "¿Qué es el lanzamiento de Reawakened?",
+      "whatIsDescription": "Reawakened se lanzó como una prueba de juego en Roblox por Vayron Studios. El juego ofrece una experiencia de RPG de mazmorras inspirada en Solo Leveling con clases, rasgos y portales. Las noticias de lanzamiento cubren hitos, periodos de prueba y anuncios oficiales.",
+      "why": "¿Por qué seguir las noticias de lanzamiento de Reawakened?",
+      "whySteps": {
+        "step1Title": "Obtén acceso anticipado",
+        "step1Description": "Mantente al tanto de los periodos de prueba para ser uno de los primeros cazadores en Reawakened",
+        "step2Title": "Reclama recompensas de lanzamiento",
+        "step2Description": "Los desarrolladores suelen lanzar códigos exclusivos durante el lanzamiento y eventos importantes",
+        "step3Title": "Mantente al día con las actualizaciones",
+        "step3Description": "Sigue las noticias de lanzamiento para prepararte para nuevo contenido, clases y cambios de equilibrio"
+      },
+      "featured": "Noticias destacadas",
+      "all": "Todas las noticias de lanzamiento"
+    },
+    "official-links": {
+      "title": "Enlaces oficiales de Reawakened",
+      "description": "Enlaces oficiales de Reawakened, incluyendo la página del juego en Roblox, el servidor de Discord y la hoja de ruta en Trello de Vayron Studios.",
+      "metaTitle": "Enlaces oficiales de Reawakened - Roblox, Discord y Trello",
+      "metaDescription": "Encuentra todos los recursos oficiales de Reawakened: juega en Roblox, únete a la comunidad de Discord y consulta el tablero de Trello para ver la hoja de ruta y las actualizaciones.",
+      "categoryLabel": "RECURSOS OFICIALES",
+      "whatIs": "¿Qué son los enlaces oficiales de Reawakened?",
+      "whatIsDescription": "Los enlaces oficiales de Reawakened te conectan directamente con los recursos de los desarrolladores. La página de Roblox te permite jugar, Discord es donde se comunican la comunidad y los desarrolladores, y Trello muestra la hoja de ruta oficial del desarrollo.",
+      "why": "¿Por qué usar los enlaces oficiales de Reawakened?",
+      "whySteps": {
+        "step1Title": "Juega directamente",
+        "step1Description": "Accede a la página oficial del juego en Roblox para comenzar tu viaje en Reawakened",
+        "step2Title": "Únete a la comunidad",
+        "step2Description": "Conéctate con otros cazadores en Discord para obtener consejos, lanzamientos de códigos y notas del parche",
+        "step3Title": "Sigue el desarrollo",
+        "step3Description": "Consulta el tablero de Trello para ver las próximas funciones y las actualizaciones de contenido planeadas"
+      },
+      "featured": "Recursos clave",
+      "all": "Todos los enlaces oficiales"
+    },
+    "tools": {
+      "title": "Herramientas de Reawakened",
+      "description": "Herramientas y scripts de Reawakened para la automatización del farmeo, grindeo AFK y optimización de eficiencia en este RPG de Roblox.",
+      "metaTitle": "Herramientas de Reawakened - Scripts, farmeo y automatización AFK",
+      "metaDescription": "Explora las herramientas y scripts de Reawakened para optimizar tu juego, automatizar el farmeo y maximizar la eficiencia en las incursiones de portales y nivelación.",
+      "categoryLabel": "HERRAMIENTAS Y SCRIPTS",
+      "whatIs": "¿Qué son las herramientas de Reawakened?",
+      "whatIsDescription": "Las herramientas de Reawakened abarcan scripts y configuraciones de automatización utilizados por jugadores experimentados para optimizar la eficiencia del farmeo, la nivelación AFK y la recolección de recursos en el juego.",
+      "why": "¿Por qué usar las herramientas de Reawakened?",
+      "whySteps": {
+        "step1Title": "Automatiza el farmeo repetitivo",
+        "step1Description": "Configura rutinas AFK para grindear XP y recursos mientras no estás",
+        "step2Title": "Maximiza la eficiencia",
+        "step2Description": "Usa herramientas para identificar los puntos y rutas de farmeo óptimos para tu nivel",
+        "step3Title": "Mantente competitivo",
+        "step3Description": "Los jugadores experimentados utilizan herramientas de automatización para mantener una ventaja en la acumulación de recursos"
+      },
+      "featured": "Herramientas destacadas",
+      "all": "Todas las herramientas"
+    }
+  }
+}

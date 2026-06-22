@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "「俺だけレベルアップな件」にインスパイアされた Roblox RPG",
+    "title": "Reawakened Wiki",
+    "description": "ゲートを戦い抜き、クラスを選択し、ビルドを強化して、スピーディーな成長と戦闘に焦点を当てたダークアニメ Roblox RPG でハンターランクを駆け上がろう。",
+    "getFreeCodesCTA": "無料コードを入手",
+    "playOnSteamCTA": "Roblox でプレイ",
+    "stats": {
+      "stat1": {
+        "value": "86.6K+",
+        "label": "総訪問数"
+      },
+      "stat2": {
+        "value": "4.8K+",
+        "label": "アクティブプレイヤー数"
+      },
+      "stat3": {
+        "value": "2,234",
+        "label": "お気に入り数"
+      },
+      "stat4": {
+        "value": "12.7K+",
+        "label": "スタジオメンバー数"
+      }
+    }
+  }
+}

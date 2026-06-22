@@ -1,0 +1,20 @@
+{
+  "lang": "ko",
+  "strategy": "top_level",
+  "completed_chunks": [
+    "seo",
+    "nav",
+    "common",
+    "hero",
+    "gameFeature",
+    "tools",
+    "faq",
+    "cta",
+    "footer",
+    "pages"
+  ],
+  "total_chunks": 11,
+  "progress": "10/11",
+  "timestamp": "2026-03-28T15:46:45.944053",
+  "metadata": {}
+}

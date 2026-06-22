@@ -1,0 +1,33 @@
+{
+  "faq": {
+    "title": "Häufig gestellte",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was du über Reawakened wissen musst",
+    "questions": [
+      {
+        "question": "Was ist Reawakened auf Roblox?",
+        "answer": "Reawakened ist ein von Solo Leveling inspiriertes Roblox-RPG von Vayron Studios. Kämpfe dich durch Rang-Gates, wähle eine Klasse, entwickle deine Traits und steige in den Hunter-Rängen auf – in einem düsteren Anime-Dungeon-Kampfspiel."
+      },
+      {
+        "question": "Wie löse ich Codes in Reawakened ein?",
+        "answer": "Öffne das Menü im Spiel, tippe auf die Schaltfläche „Codes“, gib den Code genau wie angegeben ein und drücke auf „Bestätigen“. Bei Codes muss die Groß- und Kleinschreibung beachtet werden und sie sind nur begrenzt verwendbar."
+      },
+      {
+        "question": "Was ist die beste Klasse in Reawakened?",
+        "answer": "Der Magier hat die höchste Geschwindigkeit beim Abschließen von Gates für Solo-Farming. Der Krieger ist aufgrund seiner hohen Basis-LP und seines unkomplizierten Spielstils die einfachste Klasse für Anfänger."
+      },
+      {
+        "question": "Ist Reawakened kostenlos spielbar?",
+        "answer": "Ja. Reawakened ist auf Roblox kostenlos spielbar. Einige kosmetische Gegenstände sind möglicherweise für Robux erhältlich, aber das gesamte Kern-Gameplay, einschließlich Klassen, Gates und Traits, ist kostenlos."
+      },
+      {
+        "question": "Was sind Traits in Reawakened?",
+        "answer": "Traits sind passive Attribut-Modifikatoren, die mit deinen Klassenfähigkeiten stapelbar sind. Es gibt sie in den Kategorien Offensive, Defensive, Utility und Selten. Du kannst Traits mit Gold neu auswürfeln, das du in Gates verdient hast."
+      },
+      {
+        "question": "Wie schalte ich höherrangige Gates in Reawakened frei?",
+        "answer": "Erreiche den erforderlichen Hunter-Rang, indem du EP in deiner aktuellen Gate-Stufe farmst, und schließe dann die Aufstiegs-Herausforderung ab, um in die nächste Stufe aufzusteigen und schwerere Gates freizuschalten."
+      }
+    ]
+  }
+}

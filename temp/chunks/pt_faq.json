@@ -1,0 +1,33 @@
+{
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Reawakened",
+    "questions": [
+      {
+        "question": "O que é Reawakened no Roblox?",
+        "answer": "Reawakened é um RPG de Roblox inspirado em Solo Leveling, criado por Vayron Studios. Lute em portões ranqueados, escolha uma classe, desenvolva seus traços e suba nos rankings de caçadores em um jogo de combate de masmorras com estilo de anime sombrio."
+      },
+      {
+        "question": "Como resgato códigos no Reawakened?",
+        "answer": "Abra o menu do jogo, toque no botão Códigos, insira o código exatamente como mostrado e pressione Confirmar. Os códigos diferenciam maiúsculas de minúsculas e têm usos limitados."
+      },
+      {
+        "question": "Qual é a melhor classe no Reawakened?",
+        "answer": "O Mago tem a velocidade de limpeza de portões mais rápida para farming solo. O Guerreiro é a classe mais fácil para iniciantes devido ao seu alto HP base e estilo de jogo direto."
+      },
+      {
+        "question": "O Reawakened é gratuito para jogar?",
+        "answer": "Sim. O Reawakened é gratuito para jogar no Roblox. Alguns itens cosméticos podem estar disponíveis por Robux, mas toda a jogabilidade principal, incluindo classes, portões e traços, é gratuita."
+      },
+      {
+        "question": "O que são traços no Reawakened?",
+        "answer": "Traits são modificadores de atributos passivos que acumulam com as habilidades da sua classe. Eles estão disponíveis nas categorias de ataque, defesa, utilidade e raros. Você pode fazer reroll dos traços usando ouro ganho em incursões aos portões."
+      },
+      {
+        "question": "Como desbloqueio portões de rank mais alto no Reawakened?",
+        "answer": "Alcance o rank de caçador necessário farmando XP no seu nível de portão atual e, em seguida, complete o desafio de subida de rank para ser promovido ao próximo nível e desbloquear portões mais difíceis."
+      }
+    ]
+  }
+}

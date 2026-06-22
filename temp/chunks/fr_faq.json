@@ -1,0 +1,33 @@
+{
+  "faq": {
+    "title": "Foire aux",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur Reawakened",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Reawakened sur Roblox ?",
+        "answer": "Reawakened est un RPG Roblox inspiré de Solo Leveling, créé par Vayron Studios. Combattez à travers des portails classés, choisissez une classe, développez vos traits et gravissez les échelons de chasseur dans un jeu de combat de donjons au style anime sombre."
+      },
+      {
+        "question": "Comment utiliser des codes dans Reawakened ?",
+        "answer": "Ouvrez le menu en jeu, appuyez sur le bouton Codes, saisissez le code exactement tel qu'il apparaît et appuyez sur Confirmer. Les codes sont sensibles à la casse et ont un nombre d'utilisations limité."
+      },
+      {
+        "question": "Quelle est la meilleure classe dans Reawakened ?",
+        "answer": "Le Mage possède la vitesse de complétion des portails la plus rapide pour le farming en solo. Le Guerrier est la classe la plus facile pour les débutants en raison de ses PV de base élevés et de son style de jeu simple."
+      },
+      {
+        "question": "Est-ce que Reawakened est gratuit ?",
+        "answer": "Oui. Reawakened est gratuit sur Roblox. Certains objets cosmétiques peuvent être disponibles contre des Robux, mais tout le gameplay de base, y compris les classes, les portails et les traits, est gratuit."
+      },
+      {
+        "question": "Que sont les traits dans Reawakened ?",
+        "answer": "Les Trait sont des modificateurs de statistiques passifs qui se cumulent avec vos capacités de classe. Ils sont classés en catégories : offensive, défense, utilitaire et rare. Vous pouvez relancer vos traits en utilisant l'or gagné lors de vos explorations de portails."
+      },
+      {
+        "question": "Comment débloquer des portails de rang supérieur dans Reawakened ?",
+        "answer": "Atteignez le rang de chasseur requis en farmant de l'XP dans votre palier de portail actuel, puis terminez le défi de montée en rang pour passer au palier suivant et débloquer des portails plus difficiles."
+      }
+    ]
+  }
+}

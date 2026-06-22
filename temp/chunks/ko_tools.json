@@ -1,0 +1,149 @@
+{
+  "tools": {
+    "title": "Reawakened",
+    "titleHighlight": "위키",
+    "subtitle": "Reawakened의 코드, 클래스, 게이트 및 성장에 필요한 모든 정보",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Reawakened 코드",
+        "description": "활성화된 리딤 코드 및 보상 목록"
+      },
+      {
+        "icon": "Users",
+        "title": "Reawakened 클래스",
+        "description": "모든 클래스, 역할 및 강도 등급"
+      },
+      {
+        "icon": "Zap",
+        "title": "Reawakened __PROTECTED_9118ea0f__s",
+        "description": "__PROTECTED_9118ea0f__ 효과, 희귀도 및 리롤 가이드"
+      },
+      {
+        "icon": "Map",
+        "title": "Reawakened __PROTECTED_ac70412e__s",
+        "description": "성장 경로 및 빌드 루트"
+      },
+      {
+        "icon": "DoorOpen",
+        "title": "Reawakened Gates",
+        "description": "Gate 유형, 난이도 및 전리품 가이드"
+      },
+      {
+        "icon": "Shield",
+        "title": "Reawakened Gear",
+        "description": "무기, 방어구 및 장비 티어"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Reawakened 레벨링",
+        "description": "가장 빠른 레벨링 루트 및 XP 팁"
+      },
+      {
+        "icon": "Skull",
+        "title": "Reawakened 보스",
+        "description": "보스 메커니즘, 위치 및 드랍 아이템"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Reawakened 초보자 가이드",
+        "description": "신규 헌터를 위한 첫 걸음"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Reawakened 최강 빌드",
+        "description": "클래스 및 플레이 스타일별 최상위 빌드"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Reawakened __PROTECTED_5e409e09__ 랭크",
+        "description": "랭크 달성 기준 및 승급 챌린지"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Reawakened FAQ",
+        "description": "자주 묻는 질문 답변"
+      },
+      {
+        "icon": "Bell",
+        "title": "Reawakened 업데이트 로그",
+        "description": "최신 패치 및 콘텐츠 업데이트"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Reawakened 빌드 팁",
+        "description": "고급 빌드 최적화 조언"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Reawakened 커뮤니티",
+        "description": "Discord, YouTube 및 공식 링크"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Reawakened 초반 팁",
+        "description": "빠른 성장을 위한 핵심 팁"
+      },
+      {
+        "icon": "Fish",
+        "title": "Reawakened 낚시 가이드",
+        "description": "물고기 크기, 펫 변신 및 초반 골드 수급"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Reawakened 사이드 퀘스트",
+        "description": "퀘스트 경로, 보상 및 층별 전략"
+      },
+      {
+        "icon": "Sword",
+        "title": "Reawakened 무기 가이드",
+        "description": "무기 클래스, 유니크 및 엘리트/레전더리 변형"
+      },
+      {
+        "icon": "Wand2",
+        "title": "Reawakened 주문 가이드",
+        "description": "공격, 방어, 매혹 주문 및 소환수"
+      },
+      {
+        "icon": "Gem",
+        "title": "Reawakened 보석 가이드",
+        "description": "최고의 보석, 희귀석 및 소켓 우선순위"
+      },
+      {
+        "icon": "Award",
+        "title": "Reawakened 명성 가이드",
+        "description": "명성, 인지도 및 장비 해금 진행도"
+      },
+      {
+        "icon": "Flame",
+        "title": "Reawakened 엔드게임 가이드",
+        "description": "후반부 파워 스파이크 및 레전더리 파밍"
+      },
+      {
+        "icon": "Download",
+        "title": "Reawakened 캐릭터 가져오기",
+        "description": "4개 게임 전체에서 데이터 인계가 작동하는 방식"
+      },
+      {
+        "icon": "Star",
+        "title": "Reawakened 가업 가이드",
+        "description": "은퇴, 가업 전승 및 후손 강화"
+      },
+      {
+        "icon": "Target",
+        "title": "Reawakened 업적 가이드",
+        "description": "카테고리별 전체 업적 체크리스트"
+      },
+      {
+        "icon": "Settings",
+        "title": "Reawakened 치트 가이드",
+        "description": "클래식 콘솔 명령 입력 및 치트 참조"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Reawakened Steam Deck 가이드",
+        "description": "Steam Deck 설정, 컨트롤러 특이사항 및 해결 방법"
+      }
+    ]
+  }
+}

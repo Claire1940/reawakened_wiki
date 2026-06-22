@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "나 혼자만 레벨업에서 영감을 받은 Roblox RPG",
+    "title": "Reawakened 위키",
+    "description": "게이트를 돌파하고, 클래스를 선택하고, 빌드를 업그레이드하며, 빠른 성장과 전투에 집중한 다크 애니메이션 Roblox RPG에서 헌터 랭크를 올리세요.",
+    "getFreeCodesCTA": "무료 코드 받기",
+    "playOnSteamCTA": "Roblox에서 플레이하기",
+    "stats": {
+      "stat1": {
+        "value": "86.6K+",
+        "label": "총 방문 수"
+      },
+      "stat2": {
+        "value": "4.8K+",
+        "label": "활동 중인 플레이어"
+      },
+      "stat3": {
+        "value": "2,234",
+        "label": "즐겨찾기"
+      },
+      "stat4": {
+        "value": "12.7K+",
+        "label": "스튜디오 멤버"
+      }
+    }
+  }
+}

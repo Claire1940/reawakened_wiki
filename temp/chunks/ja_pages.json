@@ -1,0 +1,144 @@
+{
+  "pages": {
+    "codes": {
+      "title": "Reawakened コード",
+      "description": "報酬、有効期限情報、ステップバイステップの引き換え手順を含む、すべての有効なReawakenedコードです。",
+      "metaTitle": "Reawakened コード - 有効な引き換えコードと報酬",
+      "metaDescription": "報酬が記載された有効なReawakenedコードの全リストです。このRoblox RPGのコードの引き換え方法や、新しいコードの入手場所を確認しましょう。",
+      "categoryLabel": "無料コード",
+      "whatIs": "Reawakenedのコードとは何ですか？",
+      "whatIsDescription": "Reawakenedのコードは、アップデートやイベント中にVayron Studiosによってリリースされる、使用回数限定の報酬文字列です。ゲーム内メニューで引き換えることで、無料のXPブースト、ステータスチップ、クラスリザーブを獲得し、進行を加速させることができます。",
+      "why": "なぜReawakenedのコードを引き換えるのですか？",
+      "whySteps": {
+        "step1Title": "無料XPブースト",
+        "step1Description": "コードには、序盤のランクアップを早めるXP倍率が含まれていることが多いです",
+        "step2Title": "ステータスボーナス",
+        "step2Description": "無料の攻撃、防御、またはユーティリティのステータスバフを受け取り、ビルドを強化しましょう",
+        "step3Title": "クラスリザーブ",
+        "step3Description": "クラス変更トークンをアンロックして、進行状況を失うことなくプレイスタイルを切り替えることができます"
+      },
+      "featured": "注目＆有効",
+      "all": "すべてのコード"
+    },
+    "guide": {
+      "title": "Reawakened ガイド",
+      "description": "このRoblox RPGの初心者向けヒント、最速レベリングルート、クラス戦略、序盤の進行を網羅した完全なReawakenedガイドです。",
+      "metaTitle": "Reawakened ガイド - 初心者向けヒント、レベリング、進行",
+      "metaDescription": "レベリング、クラス選択、ゲート戦略、特性の最適化に関する包括的なガイドで、初心者から経験豊富なプレイヤーまでReawakenedをマスターしましょう。",
+      "categoryLabel": "ゲームガイド",
+      "whatIs": "Reawakenedのガイドとは何ですか？",
+      "whatIsDescription": "Reawakenedのガイドは、最初のゲート攻略から高度なビルドの最適化まで、あらゆる内容を網羅しています。クラス、特性、パス、ダンジョンがどのように連携して最強のハンターを作り上げるかを学びましょう。",
+      "why": "なぜReawakenedのガイドを読むのですか？",
+      "whySteps": {
+        "step1Title": "基本メカニクスの習得",
+        "step1Description": "ゲート、特性、ランクがどのように機能するかを理解し、よくある間違いを避けましょう",
+        "step2Title": "迅速な進行",
+        "step2Description": "実績のあるレベリングパスに従って、エンドゲームコンテンツに効率的に到達しましょう",
+        "step3Title": "ビルドのマスター",
+        "step3Description": "クラスと特性の組み合わせを最適化するための高度な戦術を身につけましょう"
+      },
+      "featured": "注目のガイド",
+      "all": "すべてのガイド"
+    },
+    "build": {
+      "title": "Reawakened ビルド",
+      "description": "アサシンを含む全クラスの最強Reawakenedビルド、最強クラスランキング、このRoblox RPGのキャラクター紹介です。",
+      "metaTitle": "Reawakened ビルド - 最強クラス、アサシン、クラスティアリスト",
+      "metaDescription": "全クラスの最強Reawakenedビルドを見つけましょう。アサシンのビルド、クラスティアリスト、詳細な紹介をチェックして、ダンジョンゲートを支配しましょう。",
+      "categoryLabel": "クラスビルド",
+      "whatIs": "Reawakenedのビルドとは何ですか？",
+      "whatIsDescription": "Reawakenedのビルドは、クラスの選択、特性、ステータス配分、装備を組み合わせることで、あなたのプレイスタイルを決定します。最適化されたビルドにより、ゲートをより速くクリアし、高難易度のコンテンツを自信を持って進めることができます。",
+      "why": "なぜReawakenedのビルドを最適化するのですか？",
+      "whySteps": {
+        "step1Title": "ダメージ出力を最大化",
+        "step1Description": "クラスアビリティと特性を相乗させ、ゲートでの遭遇戦で最大のダメージを与えましょう",
+        "step2Title": "適切なクラスの選択",
+        "step2Description": "クラスティアランキングを比較して、自分のプレイスタイルに最適な選択肢を選びましょう",
+        "step3Title": "あらゆるGateを支配",
+        "step3Description": "最適化されたビルドにより、より難易度の高いダンジョンをクリアして、より良い戦利品と迅速なXPを獲得できます"
+      },
+      "featured": "トップビルド",
+      "all": "すべてのビルドガイド"
+    },
+    "equipment": {
+      "title": "Reawakened 装備",
+      "description": "双短剣などの武器、装備ステータス、ドロップ場所、強化ルートを含む、Reawakened装備の完全ガイドです。",
+      "metaTitle": "Reawakened 装備 - 武器、Gear ステータス、ドロップ場所",
+      "metaDescription": "武器、装備ティア、ステータス比較、クラスビルドに最適なドロップアイテムの周回場所を網羅した、Reawakened装備の完全ガイドです。",
+      "categoryLabel": "装備＆武器",
+      "whatIs": "Reawakenedの装備とは何ですか？",
+      "whatIsDescription": "Reawakenedの装備には、戦闘力を決定する武器、防具、アクセサリーが含まれます。各アイテムには独自のステータスボーナスがあり、クラスアビリティや特性ビルドとの相乗効果が異なります。",
+      "why": "なぜReawakenedの装備を強化するのですか？",
+      "whySteps": {
+        "step1Title": "戦闘力の向上",
+        "step1Description": "より良い装備は、ダメージ、防御力、ゲートのクリア速度を直接向上させます",
+        "step2Title": "クラスに合わせる",
+        "step2Description": "クラス専用武器を使用して、アビリティの効果を最大限に引き出しましょう",
+        "step3Title": "エンドゲームコンテンツの解放",
+        "step3Description": "高度なゲートに進入し、エリートボスに挑戦するには、上位ティアの装備が必要です"
+      },
+      "featured": "注目の装備",
+      "all": "すべての装備"
+    },
+    "launch": {
+      "title": "Reawakened ローンチ",
+      "description": "Vayron Studiosによるこの新しいRoblox RPGの、Reawakenedのリリース日、プレイテストの詳細、公式トレーラー、ローンチニュースです。",
+      "metaTitle": "Reawakened ローンチ - リリース日、プレイテスト、公式トレーラー",
+      "metaDescription": "Reawakenedのローンチに関するすべて：このRobloxダンジョンRPGのリリース日、プレイテストスケジュール、公式トレーラー、早期アクセスの詳細です。",
+      "categoryLabel": "ローンチニュース",
+      "whatIs": "Reawakenedのローンチとは何ですか？",
+      "whatIsDescription": "Reawakenedは、Vayron StudiosによってRobloxでプレイテストとしてローンチされました。このゲームは、「俺だけレベルアップな件（Solo Leveling）」にインスパイアされた、クラス、特性、ゲートを備えたダンジョンRPG体験を提供します。ローンチニュースでは、リリースの節目、プレイテスト期間、公式発表を扱います。",
+      "why": "なぜReawakenedのローンチニュースを追うのですか？",
+      "whySteps": {
+        "step1Title": "早期アクセス権の獲得",
+        "step1Description": "プレイテスト期間の最新情報をチェックして、Reawakenedの最初のハンターの一人になりましょう",
+        "step2Title": "ローンチ報酬の受け取り",
+        "step2Description": "開発者はローンチやマイルストーンイベント中に限定コードをリリースすることがよくあります",
+        "step3Title": "アップデートの先取り",
+        "step3Description": "ローンチニュースをフォローして、新しいコンテンツ、クラス、バランス調整に備えましょう"
+      },
+      "featured": "注目のニュース",
+      "all": "すべてのローンチニュース"
+    },
+    "official-links": {
+      "title": "Reawakened 公式リンク",
+      "description": "Robloxのゲームページ、Discordサーバー、Vayron StudiosによるTrelloロードマップを含む、Reawakenedの公式リンクです。",
+      "metaTitle": "Reawakened 公式リンク - Roblox、Discord、Trello",
+      "metaDescription": "Reawakenedのすべての公式リソース：Robloxでプレイ、Discordコミュニティに参加、Trelloボードでロードマップとアップデートを確認しましょう。",
+      "categoryLabel": "公式リソース",
+      "whatIs": "Reawakenedの公式リンクとは何ですか？",
+      "whatIsDescription": "Reawakenedの公式リンクは、開発者のリソースに直接つながります。Robloxのページではゲームをプレイでき、Discordではコミュニティと開発者が交流し、Trelloでは公式の開発ロードマップを確認できます。",
+      "why": "なぜReawakenedの公式リンクを使用するのですか？",
+      "whySteps": {
+        "step1Title": "直接プレイ",
+        "step1Description": "公式のRobloxゲームページにアクセスして、Reawakenedの旅を始めましょう",
+        "step2Title": "コミュニティに参加",
+        "step2Description": "Discordで他のハンターとつながり、ヒント、コード配布、パッチノートを入手しましょう",
+        "step3Title": "開発を追う",
+        "step3Description": "Trelloボードをチェックして、今後の機能や計画されているコンテンツアップデートを確認しましょう"
+      },
+      "featured": "主要リソース",
+      "all": "すべての公式リンク"
+    },
+    "tools": {
+      "title": "Reawakened ツール",
+      "description": "このRoblox RPGにおける周回自動化、AFKグラインド、効率最適化のためのReawakenedツールとスクリプトです。",
+      "metaTitle": "Reawakened ツール - スクリプト、周回＆AFK自動化",
+      "metaDescription": "ゲームプレイの最適化、周回の自動化、ゲート攻略やレベリングの効率最大化のためのReawakenedツールとスクリプトを探索しましょう。",
+      "categoryLabel": "ツール＆スクリプト",
+      "whatIs": "Reawakenedのツールとは何ですか？",
+      "whatIsDescription": "Reawakenedのツールは、経験豊富なプレイヤーが周回効率、AFKレベリング、ゲーム内でのリソース収集を最適化するために使用するスクリプトや自動化設定を指します。",
+      "why": "なぜReawakenedのツールを使用するのですか？",
+      "whySteps": {
+        "step1Title": "繰り返しの周回を自動化",
+        "step1Description": "離席中にXPやリソースを稼ぐためのAFKルーチンを設定しましょう",
+        "step2Title": "効率を最大化",
+        "step2Description": "ツールを使用して、自分のレベルに最適な周回スポットやルートを特定しましょう",
+        "step3Title": "競争力を維持",
+        "step3Description": "経験豊富なプレイヤーは、リソース蓄積において優位性を保つために自動化ツールを使用しています"
+      },
+      "featured": "注目のツール",
+      "all": "すべてのツール"
+    }
+  }
+}
